@@ -46,8 +46,9 @@ laufen	verb	бежать	sich schnell zu Fuß bewegen	Ich laufe jeden Morgen im 
 ```bash
 uv venv
 source .venv/bin/activate
-python scripts/validate_tsv.py data/raw/b2/goethe/dictionary.tsv
-python scripts/convert_dictionary.py data/raw/b2/goethe/dictionary.tsv data/converted/b2/goethe/output.tsv
+uv run python scripts/validate_tsv.py data/raw/b2/goethe/K1_RM_RU.txt
+uv run python scripts/validate_all.py data/raw/b2/goethe
+uv run python scripts/convert_dictionary.py data/raw/b2/goethe/dictionary.tsv data/converted/b2/goethe/output.tsv
 ```
 
 Recommended workflow:
