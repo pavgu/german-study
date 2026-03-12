@@ -1,0 +1,162 @@
+Mein {{c1::wichtigster}} Gegenstand ist {{c2::…}}.	Мой самый важный предмет — это …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+… ist {{c1::(nicht) besonders schön}} / war {{c2::(nicht) teuer}}.	… (не) особенно красив / был (не) дорогим.	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+Für mich ist {{c1::…}} besonders {{c2::wichtig}}, denn {{c3::…}}.	Для меня … особенно важно, потому что …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+… ist {{c1::einzigartig}}, weil {{c2::…}}.	… уникален, потому что …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+… war ein {{c1::Geschenk}} von {{c2::…}}.	… был подарком от …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+Für mich hat {{c1::…}} eine besondere / spezielle {{c2::Bedeutung}}, denn {{c3::…}}.	Для меня … имеет особое / специальное значение, потому что …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+Ich {{c1::verbinde}} damit schöne {{c2::Erinnerungen}} an {{c3::…}}.	Я связываю с этим приятные воспоминания о …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+Das {{c1::Tolle}} / {{c2::Schöne}} daran ist, {{c3::…}}.	Самое прекрасное / хорошее в этом — это …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
+
+Mir ist {{c1::aufgefallen}}, dass {{c2::…}}.	Я заметил(а), что …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Ich habe mir {{c1::überlegt}}, ob {{c2::…}}.	Я задумался(лась), стоит ли / …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Zuerst habe ich {{c1::…}}. / Ich habe damit {{c2::begonnen}}, {{c3::…}}.	Сначала я … / Я начал(а) с того, что …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Dann / Danach habe ich {{c1::…}}.	Затем / После этого я …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Zum Schluss habe ich {{c1::…}}.	В конце я …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Wichtig ist, {{c1::dass}} {{c2::…}}.	Важно, что …	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Für {{c1::…}} habe ich mir mehr {{c2::Zeit}} genommen.	Для … я уделил(а) больше времени.	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+Die {{c1::Erinnerungsstücke}} / {{c2::…}} habe ich mir für den {{c3::Schluss}} aufgehoben.	Памятные вещи / … я оставил(а) напоследок.	form::satzmuster func::erzählen topic::erfahrungen source::goethe::b2::k1
+
+… war {{c1::(gar) nicht so einfach}}.	… было (совсем) не так просто.	form::satzmuster func::bewerten topic::erfahrungen source::goethe::b2::k1
+
+Für mich war {{c1::…}} besonders {{c2::einfach}} / {{c3::schwierig}}.	Для меня … было особенно легко / трудно.	form::satzmuster func::bewerten topic::erfahrungen source::goethe::b2::k1
+
+Von {{c1::…}} habe ich mich dagegen sehr {{c2::leicht}} / sehr {{c3::schwer}} getrennt.	С … мне, наоборот, было очень легко / очень трудно расстаться.	form::satzmuster func::bewerten topic::erfahrungen source::goethe::b2::k1
+
+Nach {{c1::zwei}} / {{c2::…}} Tagen / Wochen hatte ich es {{c3::geschafft}}.	Через два / … дня / недели мне удалось это сделать.	form::satzmuster func::zusammenfassen topic::erfahrungen source::goethe::b2::k1
+
+Jetzt ist meine {{c1::Wohnung}} / mein {{c2::Schrank}} {{c3::…}}.	Теперь моя квартира / мой шкаф …	form::satzmuster func::zusammenfassen topic::erfahrungen source::goethe::b2::k1
+
+Am Ende / Endlich war wieder mehr {{c1::Ordnung}} / mehr {{c2::Platz}} in meinem {{c3::Schrank}} / in meiner {{c4::Wohnung}}.	В конце / Наконец снова стало больше порядка / больше места в моём шкафу / в моей квартире.	form::satzmuster func::zusammenfassen topic::erfahrungen source::goethe::b2::k1
+
+Ich habe {{c1::gelernt}}, dass {{c2::…}}.	Я понял(а) / усвоил(а), что …	form::satzmuster func::reflexion topic::erfahrungen source::goethe::b2::k1
+
+Ich habe mir {{c1::vorgenommen}}, dass ich (in Zukunft) {{c2::…}}.	Я решил(а) для себя, что (в будущем) …	form::satzmuster func::reflexion topic::erfahrungen source::goethe::b2::k1
+
+Mein {{c1::wichtigster}} Gegenstand ist {{c2::…}}.	Мой самый важный предмет — это …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… ist {{c1::(nicht) besonders schön}} / war {{c2::(nicht) teuer}}.	… (не) особенно красив / был (не) дорогим.	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… habe ich immer {{c1::dabei}}.	… я всегда ношу с собой.	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… ist mein {{c1::Glücksbringer}}.	… — мой талисман.	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… war ein {{c1::Geschenk}} von {{c2::…}}.	… был подарком от …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+Ich habe {{c1::…}} zum Geburtstag / Hochzeitstag / … von {{c2::…}} bekommen.	Я получил(а) … на день рождения / годовщину свадьбы / … от …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+Für mich hat {{c1::…}} eine besondere / spezielle {{c2::Bedeutung}}, denn {{c3::…}}.	Для меня … имеет особое / специальное значение, потому что …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+Für mich ist {{c1::…}} besonders {{c2::wichtig}}, weil {{c3::…}}.	Для меня … особенно важно, потому что …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… ist {{c1::einzigartig}} / {{c2::besonders}}, denn {{c3::…}}.	… уникален / особенный, потому что …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+Ich {{c1::verbinde}} damit schöne {{c2::Erinnerungen}} an {{c3::…}}.	Я связываю с этим приятные воспоминания о …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+Das {{c1::Tolle}} / {{c2::Schöne}} daran ist, {{c3::…}}.	Самое прекрасное / хорошее в этом — это …	form::satzmuster func::erzählen topic::wichtige_dinge source::goethe::b2::k1
+
+… macht mich {{c1::glücklich}} / {{c2::zufrieden}} / {{c3::…}}.	… делает меня счастливым / довольным / …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Mir {{c1::tut}} es gut, wenn {{c2::…}}.	Мне хорошо, когда …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich {{c1::fühle}} mich {{c2::glücklich}}, wenn {{c3::…}}.	Я чувствую себя счастливым, когда …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Für mich ist es {{c1::schön}} / {{c2::gut}} / {{c3::leicht}}, wenn / dass {{c4::…}}.	Для меня приятно / хорошо / легко, когда / что …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Es ist ein {{c1::gutes}} Gefühl, {{c2::…}}.	Это хорошее чувство — …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+… macht mich {{c1::sauer}} / {{c2::wütend}} / {{c3::…}}.	… злит меня / вызывает раздражение / …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich finde es {{c1::traurig}}, wenn {{c2::…}}.	Мне кажется грустным, когда …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Für mich ist es {{c1::schwierig}}, wenn / dass {{c2::…}}.	Для меня сложно, когда / что …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ständig {{c1::muss}} ich {{c2::…}}.	Мне постоянно приходится …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich {{c1::verstehe}} nicht, wieso {{c2::…}}.	Я не понимаю, почему …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich bin {{c1::enttäuscht}}, dass {{c2::…}}.	Я разочарован(а), что …	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Verlange ich {{c1::zu viel}}, wenn {{c2::…}}?	Я слишком многого требую, если …?	form::satzmuster func::gefühle_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich {{c1::würde}} mich {{c2::freuen}}, wenn {{c3::…}}.	Я был(а) бы рад(а), если …	form::satzmuster func::wünsche_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich {{c1::würde}} mir {{c2::wünschen}}, dass {{c3::…}}.	Я бы хотел(а), чтобы …	form::satzmuster func::wünsche_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Für mich ist es {{c1::wichtig}}, dass {{c2::…}}.	Для меня важно, чтобы / что …	form::satzmuster func::wünsche_ausdrücken topic::gefühle source::goethe::b2::k1
+
+Ich {{c1::fände}} es {{c2::gut}}, wenn {{c3::…}}.	Я бы счёл(сочла) это хорошим, если …	form::satzmuster func::wünsche_ausdrücken topic::gefühle source::goethe::b2::k1
+
+In {{c1::diesem}} Text geht es um {{c2::…}}.	В этом тексте речь идёт о …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Der {{c1::Artikel}} / Text handelt von {{c2::…}}.	Статья / текст посвящён(а) …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Das {{c1::Thema}} des Textes ist {{c2::…}}.	Тема текста — …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+In diesem Text {{c1::erfährt}} man {{c2::…}}.	В этом тексте можно узнать, что …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Im {{c1::ersten}} / {{c2::zweiten}} / {{c3::nächsten}} Abschnitt geht es um {{c4::…}}.	В первом / втором / следующем разделе речь идёт о …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Der {{c1::Abschnitt}} handelt von {{c2::…}}.	Раздел посвящён …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+{{c1::Anschließend}} / Im Anschluss daran wird {{c2::beschrieben}}, {{c3::…}}.	Затем / После этого описывается, что …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Anschließend an die {{c1::Vorteile}} werden die {{c2::Nachteile}} genannt: {{c3::…}}.	После преимуществ упоминаются недостатки: …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Der Text nennt folgende {{c1::Beispiele}}: {{c2::…}}.	В тексте приводятся следующие примеры: …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Ein {{c1::anderes}} Beispiel ist {{c2::…}}.	Другим примером является …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+{{c1::Zusammenfassend}} kann man sagen, dass {{c2::…}}.	Подводя итог, можно сказать, что …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+{{c1::Abschließend}} kann man sagen, dass {{c2::…}}.	В заключение можно сказать, что …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+{{c1::Insgesamt}} kann man sagen, {{c2::…}}.	В целом можно сказать, что …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+Ich möchte kurz {{c1::zusammenfassen}}: {{c2::…}}.	Я хотел(а) бы кратко подытожить: …	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
+
+
+Hallo {{c1::…}}, bin auf der Suche nach {{c2::…}}, die/der auch gerne {{c3::…}}.	Привет …, ищу …, который/которая тоже любит …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+{{c1::…}} gesucht!	Требуется / Ищу …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+An alle {{c1::…}} da draußen: {{c2::…}}.	Ко всем … там: …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Hey! {{c1::Überlegt}} / {{c2::Macht}} ihr auch gerade {{c3::…}}?	Эй! Вы тоже сейчас думаете / делаете …?	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Wir sind {{c1::…}}.	Мы …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Mein Ziel ist es, Leute zu finden, die mit mir {{c1::…}}.	Моя цель — найти людей, которые вместе со мной …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Geplant ist {{c1::…}}.	Запланировано …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Das Treffen findet {{c1::…}} statt.	Встреча состоится …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Ich schlage als erstes Treffen {{c1::…}} vor.	В качестве первой встречи я предлагаю …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Das Datum ist nur ein {{c1::Vorschlag}}.	Дата — это всего лишь предложение.	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Details stehen noch nicht {{c1::fest}}.	Детали ещё не определены.	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Wir sind offen für verschiedene gemeinsame {{c1::Aktivitäten}}.	Мы открыты для различных совместных занятий.	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Eventuelle Vorschläge zu {{c1::…}} einfach posten oder per {{c2::PN}} (private Nachricht).	Возможные предложения по поводу … просто публикуйте или присылайте в личные сообщения.	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Fühlst du dich {{c1::angesprochen}}? Dann schreibe mir / hinterlasse mir eine persönliche {{c2::Nachricht}}.	Ты чувствуешь, что это про тебя? Тогда напиши мне / оставь личное сообщение.	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Ich {{c1::freue}} mich von dir/euch zu {{c2::hören}}!	Буду рад(а) получить от тебя / вас ответ!	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1
+
+Ich würde mich über {{c1::…}} freuen.	Я был(а) бы рад(а) …	form::satzmuster func::anzeige_schreiben topic::freizeit source::goethe::b2::k1

@@ -1,0 +1,80 @@
+Das Gebäude ist ein(e) {{c1::ehemalige(r)}} {{c2::…}}.	Здание является бывшим(ей) …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Das Gebäude wurde von {{c1::…}} {{c2::erbaut}}.	Здание было построено …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Das Gebäude wurde im Jahr {{c1::…}} {{c2::gegründet}}.	Здание было основано в … году.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Das Gebäude wurde im Jahr {{c1::…}} in {{c2::Betrieb}} genommen.	Здание было введено в эксплуатацию в … году.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es diente als {{c1::…}} / wurde als {{c2::…}} genutzt.	Оно служило как … / использовалось как …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es {{c1::entwickelte}} sich zu {{c2::…}}.	Оно превратилось в …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es wurde im Jahr {{c1::…}} {{c2::stillgelegt}} / {{c3::eingestellt}}.	Оно было закрыто / прекращено в … году.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es stand {{c1::leer}}.	Оно пустовало.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es wurde {{c1::modernisiert}} / {{c2::saniert}} / {{c3::restauriert}} / {{c4::umgenutzt}} / {{c5::integriert}}.	Оно было модернизировано / отреставрировано / переоборудовано / интегрировано.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+
+Das Gebäude ist {{c1::hoch}} / {{c2::groß}} / {{c3::lang}} / {{c4::…}}.	Здание высокое / большое / длинное / …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es hat {{c1::…}} Quadratmeter.	Оно имеет … квадратных метров.	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Es ist aus {{c1::…}} gebaut / besteht aus {{c2::…}}.	Оно построено из … / состоит из …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Heute / Zukünftig {{c1::wohnen}} / {{c2::arbeiten}} {{c3::…}} dort.	Сегодня / в будущем там живут / работают …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Das Ziel war / ist {{c1::…}}.	Цель была / является …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Die {{c1::Umnutzung}} ist ein gutes Beispiel für {{c2::…}}.	Переиспользование является хорошим примером …	form::satzmuster func::gebäude_vorstellen topic::architektur_und_stadtentwicklung source::goethe::b2::k12
+
+Viele verbinden {{c1::…}} mit {{c2::…}}.	Многие связывают … с …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+{{c1::…}} gelten als typisch für {{c2::…}}.	… считаются типичными для …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+{{c1::…}} hat / haben {{c2::…}} geprägt.	… оказал(и) влияние на …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+{{c1::…}} war der Grund für {{c2::…}}.	… было причиной …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+{{c1::…}} hatte zur Folge, dass {{c2::…}}.	… привело к тому, что …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+Es wurde viel in {{c1::…}} investiert.	В … было вложено много средств.	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+Wo früher {{c1::…}} war, ist heute {{c2::…}}.	Там, где раньше было …, сегодня …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+Es wurde viel für {{c1::…}} getan.	Было сделано много для …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+Einerseits {{c1::…}}, andererseits {{c2::…}}.	С одной стороны …, с другой стороны …	form::satzmuster func::historische_entwicklungen_beschreiben topic::geschichte_und_entwicklung source::goethe::b2::k12
+
+
+Ich kann / könnte mir gut {{c1::vorstellen}}, dass {{c2::…}}.	Я могу / мог бы представить себе, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Es kann / könnte (gut) {{c1::sein}}, dass {{c2::…}}.	Возможно, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Ich {{c1::vermute}} / {{c2::glaube}} / nehme an, dass {{c3::…}}.	Я предполагаю / думаю, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Es ist {{c1::denkbar}} / {{c2::möglich}} / {{c3::vorstellbar}}, dass {{c4::…}}.	Возможно / допустимо, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+{{c1::Vielleicht}} / {{c2::Wahrscheinlich}} / {{c3::Sicher}} / {{c4::Vermutlich}} / {{c5::Bestimmt}} {{c6::…}}.	Возможно / вероятно / наверняка / предположительно / определённо …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+{{c1::…}} wohl {{c2::…}}.	… вероятно …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+
+{{c1::…}} hat zur {{c2::Folge}}, dass {{c3::…}}.	… приводит к тому, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+{{c1::…}} führt dazu, dass {{c2::…}}.	… приводит к тому, что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+{{c1::Deshalb}} {{c2::…}}.	Поэтому …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+{{c1::…}}, sodass {{c2::…}}.	… так что …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+
+Aufgrund {{c1::…}} {{c2::…}}.	Из-за / на основании …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Wegen {{c1::…}} {{c2::…}}.	Из-за …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Daher / {{c1::Darum}} {{c2::…}}.	Поэтому …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+
+Der / Ein {{c1::Grund}} dafür ist / sind {{c2::…}}.	Причина этого — …	form::satzmuster func::vermutungen_und_gründe_folgen_nennen topic::analyse_und_argumentation source::goethe::b2::k12
+

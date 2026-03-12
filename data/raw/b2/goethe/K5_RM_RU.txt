@@ -1,0 +1,95 @@
+Meines {{c1::Erachtens}} {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k5
+
+Meiner {{c1::Meinung}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k5
+
+Ich bin geteilter {{c1::Meinung}}. Einerseits {{c2::…}}, andererseits {{c3::…}}.	У меня двойственное мнение. С одной стороны …, с другой стороны …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k5
+
+Es kann doch nicht {{c1::sein}}, dass {{c2::…}}.	Не может же быть, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k5
+
+Ich bin der {{c1::Auffassung}}, dass {{c2::…}}.	Я придерживаюсь мнения, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k5
+
+Ich bin der {{c1::Meinung}} / {{c2::Auffassung}} / {{c3::Ansicht}}, dass {{c4::…}}.	Я придерживаюсь мнения / точки зрения, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich {{c1::denke}} / {{c2::finde}} / {{c3::meine}} / {{c4::glaube}}, dass {{c5::…}}.	Я думаю / считаю, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich {{c1::vertrete}} den {{c2::Standpunkt}}, dass {{c3::…}}.	Я придерживаюсь позиции, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Meines {{c1::Erachtens}} {{c2::…}}.	По моему мнению …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich bin nicht {{c1::sicher}}. Einerseits {{c2::…}}, andererseits {{c3::…}}.	Я не уверен(а). С одной стороны …, с другой стороны …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich habe {{c1::erlebt}}, dass {{c2::…}}.	Я испытал(а), что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich habe davon {{c1::gehört}} / darüber {{c2::gelesen}}, dass {{c3::…}}.	Я слышал(а) об этом / читал(а), что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich habe zum {{c1::Beispiel}} {{c2::…}}.	Например, я …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Aus meiner {{c1::Erfahrung}} kann ich nur sagen, dass {{c2::…}}.	Исходя из моего опыта, могу сказать, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich {{c1::stelle}} immer wieder {{c2::fest}}, dass {{c3::…}}. / Ich habe immer wieder festgestellt, dass {{c4::…}}.	Я снова и снова замечаю / замечал(а), что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich sehe das {{c1::ähnlich}} / {{c2::genauso}} wie du / Sie.	Я вижу это так же, как ты / Вы.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Der {{c1::Ansicht}} / {{c2::Meinung}} bin ich auch.	Я того же мнения.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Da bin ich ganz deiner / Ihrer {{c1::Meinung}}.	Здесь я полностью с тобой / с Вами согласен(на).	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Das {{c1::stimmt}}. / Das ist {{c2::richtig}}. / Ja, {{c3::genau}}.	Это верно / правильно / да, именно.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Da kann ich mich nur {{c1::anschließen}}.	С этим я могу только согласиться.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich sehe das ganz / ein bisschen {{c1::anders}} als du / Sie.	Я вижу это полностью / немного иначе, чем ты / Вы.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Das stimmt nur {{c1::teilweise}}.	Это верно лишь частично.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Da bin ich anderer {{c1::Ansicht}} / {{c2::Meinung}}.	Здесь я другого мнения.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Ich denke, dass das {{c1::Gegenteil}} der Fall ist.	Я думаю, что всё наоборот.	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Im {{c1::Großen}} und {{c2::Ganzen}} {{c3::…}}.	В целом …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+{{c1::Abschließend}} / {{c2::Zusammenfassend}} / {{c3::Insgesamt}} kann man / ich sagen, dass {{c4::…}}.	В заключение / В целом можно / я могу сказать, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Am Ende dieser {{c1::Diskussion}} lässt sich {{c2::festhalten}}, dass {{c3::…}}.	В конце этой дискуссии можно подытожить, что …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+Es sprechen mehr {{c1::Argumente}} für / gegen {{c2::…}}.	Существует больше аргументов за / против …	form::satzmuster func::diskutieren topic::argumentation source::goethe::b2::k5
+
+… ist von {{c1::…}}.	… создано / разработано …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+… ist (welt){{c1::bekannt}} / (nicht) sehr bekannt / wird vor allem / überall auf der Welt {{c2::gespielt}}.	… (всемирно) известна / не очень известна / в неё играют по всему миру.	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+… ist ein Spiel für {{c1::…}} Mitspielende. Es können {{c2::…}} mitspielen.	… — игра для … игроков. Играть могут …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+… wird ab einem Alter von {{c1::…}} empfohlen. / … ist für {{c2::…}} geeignet.	… рекомендуется с … лет / подходит для …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Zu {{c1::Beginn}} des Spiels / der Partie {{c2::…}}.	В начале игры …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Am {{c1::Anfang}} {{c2::…}}.	В начале …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+… {{c1::erzählt}} die Geschichte von {{c2::…}}.	… рассказывает историю о …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+… {{c1::spielt}} in {{c2::…}}.	… происходит в …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+In {{c1::…}} befindet man sich in {{c2::…}}.	В … игрок оказывается в …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Man {{c1::übernimmt}} die Rolle eines / einer / von {{c2::…}}.	Игрок берёт на себя роль …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Man {{c1::muss}} {{c2::…}}.	Нужно …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Man {{c1::würfelt}} / zieht eine {{c2::Karte}} / zieht seine {{c3::Figur(en)}} {{c4::…}}.	Игрок бросает кубик / тянет карту / передвигает фишку …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Man {{c1::erhält}} {{c2::Punkte}} / {{c3::Geld}} / {{c4::…}}.	Игрок получает очки / деньги / …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Bei {{c1::…}} geht es um {{c2::…}}. / … geht es darum, {{c3::…}}.	В … речь идёт о … / Цель — …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Das {{c1::Ziel}} des Spiels ist (es), {{c2::…}}.	Цель игры — …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Es {{c1::kommt}} darauf {{c2::an}}, {{c3::…}}.	Всё зависит от того, чтобы …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Gewinner / Sieger ist, wer {{c1::…}}. / Gewonnen hat, wer {{c2::…}}.	Побеждает тот, кто …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+Das Spiel {{c1::endet}}, wenn {{c2::…}}.	Игра заканчивается, когда …	form::satzmuster func::beschreiben topic::spiel source::goethe::b2::k5
+
+
+
+

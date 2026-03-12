@@ -1,0 +1,69 @@
+Ich hätte nicht {{c1::gedacht}}, dass {{c2::…}}.	Я бы не подумал(а), что …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich bin {{c1::überrascht}}, dass {{c2::…}}.	Я удивлён(а), что …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Das hat mich {{c1::überrascht}}.	Это меня удивило.	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Für mich persönlich ist es {{c1::(nicht) problematisch}} / {{c2::interessant}}, dass {{c3::…}}.	Для меня лично это (не) проблематично / интересно, что …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich habe {{c1::festgestellt}}, dass {{c2::…}}.	Я установил(а) / заметил(а), что …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich habe {{c1::beschlossen}}, {{c2::…}}.	Я решил(а) …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Meine persönliche {{c1::Erfahrung}} ist, dass {{c2::…}}.	Мой личный опыт показывает, что …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich habe die {{c1::Erfahrung gemacht}}, als {{c2::…}}.	Я получил(а) такой опыт, когда …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich habe {{c1::gute}} / {{c2::schlechte}} Erfahrungen mit {{c3::…}} gemacht.	У меня был положительный / отрицательный опыт с …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Wenn ich mein {{c1::Umfeld}} ansehe, dann {{c2::…}}.	Если я смотрю на своё окружение, то …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+In meinem {{c1::Leben}} spielt {{c2::…}} eine / keine große Rolle.	В моей жизни … играет / не играет большую роль.	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Aufgrund meiner {{c1::Erfahrung}} mit {{c2::…}} {{c3::…}}.	Исходя из моего опыта с … …	form::satzmuster func::persönliche_erfahrungen_berichten topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+
+Leider musste ich {{c1::feststellen}}, dass {{c2::…}}.	К сожалению, мне пришлось установить, что …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Meines {{c1::Erachtens}} ist es nicht in {{c2::Ordnung}}, dass {{c3::…}}.	По моему мнению, недопустимо, что …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich war sehr {{c1::enttäuscht}} / {{c2::unzufrieden}} mit {{c3::…}}.	Я был(а) очень разочарован(а) / недоволен(на) …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich möchte mich über {{c1::…}} {{c2::beschweren}}.	Я хотел(а) бы пожаловаться на …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Zu meinem {{c1::Bedauern}} hat {{c2::…}} nicht meinen {{c3::Erwartungen}} entsprochen.	К моему сожалению, … не соответствовало моим ожиданиям.	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Das {{c1::Problem}} war, dass {{c2::…}}.	Проблема заключалась в том, что …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+
+Ich {{c1::erwarte}}, dass {{c2::…}}.	Я ожидаю, что …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich muss Sie daher {{c1::bitten}}, {{c2::…}}.	Поэтому я вынужден(а) попросить Вас …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Meine {{c1::Forderung}} ist daher, {{c2::…}}.	Поэтому моё требование состоит в том, чтобы …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Deshalb möchte ich Sie {{c1::auffordern}}, {{c2::…}}.	Поэтому я хотел(а) бы призвать Вас …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich halte {{c1::…}} für {{c2::angebracht}}.	Я считаю … уместным.	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+
+Wir könnten uns vielleicht auf {{c1::Folgendes}} einigen: {{c2::…}}.	Возможно, мы могли бы договориться о следующем: …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Wären Sie {{c1::einverstanden}}, wenn {{c2::…}}?	Вы были бы согласны, если …?	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich würde Ihnen gern {{c1::anbieten}}, dass {{c2::…}}.	Я хотел(а) бы предложить Вам, что …	form::satzmuster func::beschwerde_äußern topic::kommunikation_und_konflikt source::goethe::b2::k11
+
+Ich habe die {{c1::Erfahrung gemacht}}, dass {{c2::…}}.	Я сделал(а) такой опыт, что …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Aus persönlicher {{c1::Erfahrung}} kann ich sagen, dass {{c2::…}}.	Исходя из личного опыта, могу сказать, что …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Nach meiner {{c1::Erfahrung}} {{c2::…}}.	По моему опыту …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich habe (manchmal) das {{c1::Gefühl}}, dass {{c2::…}}.	Иногда у меня возникает ощущение, что …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+
+Ich bin der {{c1::Ansicht}} / {{c2::Meinung}}, dass {{c3::…}}.	Я придерживаюсь мнения, что …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Ich {{c1::stehe}} auf dem {{c2::Standpunkt}}, dass {{c3::…}}.	Я придерживаюсь точки зрения, что …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11
+
+Meiner {{c1::Meinung}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::persönliche_erfahrungen_und_meinung_äußern topic::gesellschaft_und_persönliche_erfahrungen source::goethe::b2::k11

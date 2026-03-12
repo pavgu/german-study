@@ -1,0 +1,89 @@
+Unsere Augen haben die Aufgabe, Daten an unser Gehirn zu {{c1::senden}}.	Наши глаза выполняют задачу передачи данных в наш мозг.	Goethe::B2::K10 Gefühle_und_Sinne
+Die Bedeutung des Wortes {{c1::Sinnesdaten}} kannst du im neurologischen Wörterbuch nachschlagen.	Значение слова «сенсорные данные» можно найти в неврологическом словаре.	Goethe::B2::K10 Gefühle_und_Sinne
+Das Gehirn {{c1::gleicht}} neue Informationen mit bekannten Informationen ab.	Мозг сопоставляет новую информацию с уже известной.	Goethe::B2::K10 Gefühle_und_Sinne
+Neugeborene können noch nicht {{c1::dreidimensional}} sehen.	Новорождённые ещё не могут видеть в трёх измерениях.	Goethe::B2::K10 Gefühle_und_Sinne
+Mein neunjähriger Neffe kennt die Namen aller {{c1::Dinosaurier}}.	Мой девятилетний племянник знает названия всех динозавров.	Goethe::B2::K10 Gefühle_und_Sinne
+Ein {{c1::Zylinder}} ist eine geometrische Form.	Цилиндр — это геометрическая фигура.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Neurowissenschaftler*innen}} untersuchen den Gleichgewichtssinn.	Нейробиологи изучают чувство равновесия.	Goethe::B2::K10 Gefühle_und_Sinne
+Der {{c1::Gleichgewichtssinn}} wird durch das Innenohr gesteuert.	Чувство равновесия контролируется внутренним ухом.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Blinde}} Menschen nehmen ihre Umwelt besonders über Gehör und Tastsinn wahr.	Слепые люди воспринимают окружающий мир прежде всего через слух и осязание.	Goethe::B2::K10 Gefühle_und_Sinne
+Thermorezeptoren dienen zur Wahrnehmung von {{c1::Temperaturen}}.	Терморецепторы служат для восприятия температуры.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Rezeptoren}} erkennen Reize und leiten Informationen an das Gehirn weiter.	Рецепторы распознают раздражители и передают информацию в мозг.	Goethe::B2::K10 Gefühle_und_Sinne
+Kinder brauchen für ihre Entwicklung sinnlich {{c1::wahrnehmbare}} Erfahrungen.	Для своего развития детям необходим опыт, воспринимаемый через органы чувств.	Goethe::B2::K10 Gefühle_und_Sinne
+Der {{c1::Gehörsinn}} nimmt bei vielen Menschen im Alter ab.	У многих людей слух с возрастом ухудшается.	Goethe::B2::K10 Gefühle_und_Sinne
+Erinnerungen werden über unseren {{c1::Geruchssinn}} gespeichert.	Воспоминания сохраняются благодаря нашему обонянию.	Goethe::B2::K10 Gefühle_und_Sinne
+Haben Feinschmecker einen ausgeprägteren {{c1::Geschmackssinn}}?	Есть ли у гурманов более развитое чувство вкуса?	Goethe::B2::K10 Gefühle_und_Sinne
+Was ist für dich wichtiger: dein {{c1::Sehsinn}} oder dein Gehörsinn?	Что для тебя важнее: зрение или слух?	Goethe::B2::K10 Gefühle_und_Sinne
+Den {{c1::Tastsinn}} können wir nicht bewusst abschalten.	Мы не можем сознательно отключить осязание.	Goethe::B2::K10 Gefühle_und_Sinne
+Der {{c1::sechste Sinn}} kann mit einfachen Übungen trainiert werden.	Шестое чувство можно тренировать с помощью простых упражнений.	Goethe::B2::K10 Gefühle_und_Sinne
+Im {{c1::Innenohr}} befinden sich wichtige Strukturen für unser Gleichgewicht.	Во внутреннем ухе находятся важные структуры, отвечающие за равновесие.	Goethe::B2::K10 Gefühle_und_Sinne
+Wir verfügen über einen {{c1::Körpersinn}}, der uns Orientierung gibt.	У нас есть чувство тела, которое помогает нам ориентироваться.	Goethe::B2::K10 Gefühle_und_Sinne
+Rezeptoren zur {{c1::Selbstwahrnehmung}} senden Signale über die Lage unserer Körperteile.	Рецепторы самовосприятия посылают сигналы о положении частей нашего тела.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Sinneszellen}} befinden sich in unserem Körper in allen Muskeln.	Сенсорные клетки находятся в нашем теле во всех мышцах.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Gendefekte}} können dazu führen, dass Sinne nicht richtig funktionieren.	Генетические дефекты могут приводить к тому, что органы чувств работают неправильно.	Goethe::B2::K10 Gefühle_und_Sinne
+Für unser Schmerzempfinden sind die sogenannten {{c1::Nozirezeptoren}} zuständig.	За восприятие боли отвечают так называемые ноцицепторы.	Goethe::B2::K10 Gefühle_und_Sinne
+Das {{c1::Schmerzempfinden}} ist bei allen Menschen unterschiedlich ausgeprägt.	Восприятие боли у разных людей выражено по-разному.	Goethe::B2::K10 Gefühle_und_Sinne
+Der {{c1::viszerale Sinn}} steuert unser Hunger- und Durstempfinden.	Висцеральное чувство регулирует ощущение голода и жажды.	Goethe::B2::K10 Gefühle_und_Sinne
+Es ist {{c1::lebensnotwendig}}, ausreichend zu trinken.	Жизненно необходимо пить достаточно жидкости.	Goethe::B2::K10 Gefühle_und_Sinne
+Der Verlust des Geruchssinns kann dazu führen, dass Betroffene {{c1::depressiv}} werden.	Потеря обоняния может привести к тому, что люди впадают в депрессию.	Goethe::B2::K10 Gefühle_und_Sinne
+Das {{c1::limbische}} System ist das Zentrum aller Emotionen.	Лимбическая система — центр всех эмоций.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Testpersonen}} melden sich freiwillig, um an medizinischen Studien teilzunehmen.	Испытуемые добровольно записываются для участия в медицинских исследованиях.	Goethe::B2::K10 Gefühle_und_Sinne
+Die Studie wurde mit unterschiedlichen {{c1::Versuchsgruppen}} durchgeführt.	Исследование проводилось с различными экспериментальными группами.	Goethe::B2::K10 Gefühle_und_Sinne
+Ein gutes Parfüm zeichnet sich durch die {{c1::Hochwertigkeit}} der Inhaltsstoffe aus.	Хорошие духи отличаются высоким качеством ингредиентов.	Goethe::B2::K10 Gefühle_und_Sinne
+Ich habe die Bedeutung des Geschmackssinns für mein Wohlbefinden {{c1::unterschätzt}}.	Я недооценил(а) важность вкуса для моего самочувствия.	Goethe::B2::K10 Gefühle_und_Sinne
+Die {{c1::Vergleichsgruppe}} des Experiments kam zu einem ganz anderen Ergebnis.	Контрольная группа эксперимента пришла к совершенно другому результату.	Goethe::B2::K10 Gefühle_und_Sinne
+Es gibt nichts Beruhigenderes als den {{c1::Waldduft}} nach einem Sommerregen.	Нет ничего более успокаивающего, чем запах леса после летнего дождя.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Probandinnen}} für die Studie werden online gesucht.	Женщин-участниц для исследования ищут онлайн.	Goethe::B2::K10 Gefühle_und_Sinne
+Wenn ich mich mit ausgestreckten Armen schnell drehe, fühlt es sich an, als {{c1::schwebte}} ich.	Когда я быстро кружусь с вытянутыми руками, кажется, будто я парю.	Goethe::B2::K10 Gefühle_und_Sinne
+Manchmal habe ich das Gefühl, dass es im Wald {{c1::Geister}} gibt.	Иногда мне кажется, что в лесу есть призраки.	Goethe::B2::K10 Gefühle_und_Sinne
+Jedes Mal, wenn er einen {{c1::Parfümladen}} betritt, hat er das Gefühl, keine Luft mehr zu bekommen.	Каждый раз, когда он заходит в магазин парфюмерии, ему кажется, что он не может дышать.	Goethe::B2::K10 Gefühle_und_Sinne
+Ein {{c1::Reiz}} löst eine Reaktion aus.	Раздражитель вызывает реакцию.	Goethe::B2::K10 Gefühle_und_Sinne
+Menschen mit besonderer {{c1::Wahrnehmungsfähigkeit}} haben oft besondere Fähigkeiten.	Люди с особыми способностями восприятия часто обладают и особыми навыками.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Synästhetiker}} nehmen Eindrücke wahr, für die es keinen echten Sinnesreiz gibt.	Синестеты воспринимают впечатления, для которых нет реального сенсорного раздражителя.	Goethe::B2::K10 Gefühle_und_Sinne
+Morgens werden wir von lautem {{c1::Vogelgezwitscher}} geweckt.	По утрам нас будит громкое пение птиц.	Goethe::B2::K10 Gefühle_und_Sinne
+Die {{c1::Farbtöne}} in diesem Raum changieren von Braun zu Gelb.	Цветовые оттенки в этой комнате меняются от коричневого к жёлтому.	Goethe::B2::K10 Gefühle_und_Sinne
+Sie spielt im Orchester die erste {{c1::Geige}}.	В оркестре она играет первую скрипку.	Goethe::B2::K10 Gefühle_und_Sinne
+Für das Erlernen eines {{c1::Musikstücks}} stelle ich mir die Melodie vor.	Чтобы выучить музыкальное произведение, я представляю себе мелодию.	Goethe::B2::K10 Gefühle_und_Sinne
+Dass ich Farben so intensiv wahrnehmen kann, ist eine große {{c1::Bereicherung}} in meinem Leben.	То, что я так интенсивно воспринимаю цвета, — большое обогащение моей жизни.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Assoziationen}} entstehen durch unsere Geschmacks- und Geruchserfahrungen.	Ассоциации возникают из нашего опыта вкуса и запахов.	Goethe::B2::K10 Gefühle_und_Sinne
+Ich reagiere empfindlich auf laute {{c1::Geräusche}}.	Я остро реагирую на громкие звуки.	Goethe::B2::K10 Gefühle_und_Sinne
+{{c1::Zahlenkombinationen}} konnte ich mir noch nie gut merken.	Мне никогда не удавалось хорошо запоминать комбинации чисел.	Goethe::B2::K10 Gefühle_und_Sinne
+In der Sendung diskutieren wir Lernen aus {{c1::neurobiologischer}} Perspektive.	В передаче мы обсуждаем обучение с нейробиологической точки зрения.	Goethe::B2::K10 Gefühle_und_Sinne
+In der Stadt sind unsere Sinne ständig {{c1::Sinnesreizen}} ausgesetzt.	В городе наши органы чувств постоянно подвергаются сенсорным раздражителям.	Goethe::B2::K10 Gefühle_und_Sinne
+Für Aufnahmen in einem {{c1::MRT}} muss man still in einer Röhre liegen.	Для обследования на МРТ нужно неподвижно лежать в трубе.	Goethe::B2::K10 Gefühle_und_Sinne
+Durch die Aufnahmen konnte die Forschungsgruppe Aktivitäten im Gehirn {{c1::nachweisen}}.	С помощью снимков исследовательская группа смогла доказать активность в мозге.	Goethe::B2::K10 Gefühle_und_Sinne
+Unser Gehirn besteht aus verschiedenen {{c1::Hirnbereichen}} mit unterschiedlichen Funktionen.	Наш мозг состоит из разных областей, выполняющих разные функции.	Goethe::B2::K10 Gefühle_und_Sinne
+Synästhetiker haben in ihrer {{c1::Hirnmasse}} mehr graue Zellen.	У синестетов в мозге больше серого вещества.	Goethe::B2::K10 Gefühle_und_Sinne
+In der Ausstellung kann man das {{c1::Farbenhören}} nachempfinden.	На выставке можно ощутить феномен «слышания цветов».	Goethe::B2::K10 Gefühle_und_Sinne
+Jede {{c1::Jahreszeit}} begeistert mit anderen Farben.	Каждое время года радует своими красками.	Goethe::B2::K10 Gefühle_und_Sinne
+Ich finde es spannend, mehr über {{c1::Synästhesie}} zu erfahren.	Мне кажется увлекательным узнать больше о синестезии.	Goethe::B2::K10 Gefühle_und_Sinne
+Der {{c1::Neurologe}} forscht zu dem Phänomen der Synästhesie.	Невролог исследует феномен синестезии.	Goethe::B2::K10 Gefühle_und_Sinne
+Eltern können Synästhesie an ihre Kinder {{c1::vererben}}.	Родители могут передать синестезию своим детям по наследству.	Goethe::B2::K10 Gefühle_und_Sinne
+Laut {{c1::Schätzungen}} besitzt nur ein kleiner Teil der Bevölkerung besondere Wahrnehmungen.	По оценкам, лишь небольшая часть населения обладает особыми видами восприятия.	Goethe::B2::K10 Gefühle_und_Sinne
+Ein Forscherteam führt einen {{c1::Gedächtnistest}} mit Probanden durch.	Команда исследователей проводит тест на память с испытуемыми.	Goethe::B2::K10 Gefühle_und_Sinne
+
+
+
+
+
+
+
+
+Kein Sport ist ganz ohne {{c1::Risiko}}.	Ни один вид спорта не обходится без риска.	Goethe::B2::K10::Synästhesie::Neurobiologie
+Serotonin ist ein wichtiges {{c1::Hormon}}, das als Glückshormon gilt.	Серотонин — важный гормон, который считают «гормоном счастья».	Goethe::B2::K10::Synästhesie::Neurobiologie
+Beim Tanzen werden viele Glückshormone {{c1::ausgeschüttet}}.	Во время танца выделяется много гормонов счастья.	Goethe::B2::K10::Synästhesie::Neurobiologie
+Die {{c1::Reittherapie}} ist für Kinder eine gute Möglichkeit, mit sich selbst in Kontakt zu kommen.	Иппотерапия — хороший способ для детей наладить контакт с самими собой.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Kinder werden durch die Reittherapie {{c1::selbstsicherer}} und selbstbewusster.	Благодаря иппотерапии дети становятся более уверенными в себе.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Der Umgang mit Pferden tut der {{c1::Seele}} gut.	Общение с лошадьми благотворно влияет на душу.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Menschen, die sich {{c1::kraftlos}} fühlen, finden durch Bewegung neue Energie.	Люди, которые чувствуют себя обессиленными, находят новую энергию через движение.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Im {{c1::Umkreis}} meiner Schule gibt es wenige Sportangebote.	В окрестностях моей школы мало спортивных возможностей.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Jugendliche betreiben {{c1::Base_Jumping}} von hohen Gebäuden.	Подростки занимаются бейс-джампингом с высоких зданий.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Dieser Sport löst ein {{c1::unbeschreibliches}} Hochgefühl aus.	Этот вид спорта вызывает неописуемое чувство эйфории.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+
+Beim Reiten habe ich das Gefühl, dass mich mein Pferd {{c1::beschützt}}.	Во время езды я чувствую, что моя лошадь меня защищает.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+In der Therapie gibt es für jede Person eine klare {{c1::Zielsetzung}}.	В терапии для каждого человека есть чёткая цель.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Der Kontakt zu Tieren wirkt sich positiv auf die menschliche {{c1::Psyche}} aus.	Контакт с животными положительно влияет на психику человека.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Die {{c1::Beweglichkeit}} hat sich durch die Therapie deutlich verbessert.	Подвижность заметно улучшилась благодаря терапии.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Beim heilpädagogischen Reiten spielt der {{c1::heilpädagogische}} Ansatz eine zentrale Rolle.	В лечебно-педагогической верховой езде ключевую роль играет лечебно‑педагогический подход.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+Für mich braucht es keinen weiteren {{c1::Beweis}}, dass die Therapie hilft.	Мне не нужны дополнительные доказательства того, что терапия помогает.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport
+In vielen Städten {{c1::fehlen}} Therapieplätze.	Во многих городах не хватает мест для терапии.	Goethe::B2::K10::Bewegung::Gefühle_beim_Sport

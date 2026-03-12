@@ -1,0 +1,73 @@
+… ist ein {{c1::inklusives}} Projekt, das {{c2::…}}.	… — это инклюзивный проект, который …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Das {{c1::Konzept}} zeigt, dass {{c2::…}}. / Hier wird {{c3::gezeigt}}, dass {{c4::…}}.	Концепция показывает, что … / Здесь показывается, что …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Das {{c1::Ziel}} des Projektes ist {{c2::…}}.	Цель проекта — …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Das Projekt bietet {{c1::…}} die Möglichkeit, {{c2::…}}.	Проект предоставляет … возможность …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+… {{c1::hilft}} (jungen) Menschen mit {{c2::…}} bei {{c3::…}}.	… помогает (молодым) людям с … в …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+… hatte(n) die {{c1::Idee}}, {{c2::…}} zu gründen / eröffnen.	… имел(и) идею основать / открыть …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+… wurde {{c1::gegründet}} / {{c2::eröffnet}}.	… был основан / открыт.	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Für das Projekt werden / wurden {{c1::Spenden}} gesammelt.	Для проекта собираются / собирались пожертвования.	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+{{c1::Wesentlich}} / {{c2::Wichtig}} für das Projekt / das Konzept ist, {{c3::…}}.	Существенно / важно для проекта то, что …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+… ist / sind {{c1::zentral}} / {{c2::besonders wichtig}}, um {{c3::…}}.	… является / являются ключевым / особенно важным, чтобы …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Die {{c1::Mitarbeitenden}} werden darauf vorbereitet, {{c2::…}}.	Сотрудников готовят к тому, чтобы …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Jugendlichen / Menschen mit Behinderung / … wird die {{c1::Möglichkeit}} geboten, {{c2::…}}.	Молодым людям / людям с ограниченными возможностями предоставляется возможность …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Zusätzlich betreuen / unterstützen {{c1::…}} dabei {{c2::…}}.	Дополнительно … сопровождают / поддерживают при …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Das Projekt ist ein gutes {{c1::Beispiel}} für {{c2::…}}.	Проект — хороший пример …	form::satzmuster func::projekt_vorstellen topic::projekte source::goethe::b2::k3
+
+Meiner {{c1::Meinung}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_äußern topic::projekte source::goethe::b2::k3
+
+Ich bin der {{c1::Meinung}}, dass {{c2::…}}.	Я придерживаюсь мнения, что …	form::satzmuster func::meinung_äußern topic::projekte source::goethe::b2::k3
+
+In der {{c1::Petition}} geht es um das {{c2::Thema}} {{c3::…}}. / Das Thema der Petition ist {{c4::…}}.	В петиции речь идёт о теме … / Тема петиции — …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Der / Die {{c1::Initiator}} / {{c2::Initiatorin}} ist {{c3::…}}. / Die Initiatoren / Initiatorinnen sind {{c4::…}}.	Инициатор(ы) — это …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Die Petition hat den {{c1::Titel}} {{c2::…}}.	Петиция носит название …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Die Petition wurde {{c1::gestartet}} / ist seit {{c2::…}} öffentlich / online.	Петиция была запущена / доступна онлайн с …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+{{c1::…}} hat die Petition gestartet.	… инициировал(а) петицию.	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Die Petition richtet sich an {{c1::…}}.	Петиция адресована …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+… {{c1::fordert}} / {{c2::fordern}} {{c3::…}}. / Das {{c4::Anliegen}} / Das {{c5::Ziel}} der Petition ist {{c6::…}}.	… требует / требуют … / Цель петиции — …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Die Petition ist noch {{c1::online}} / läuft noch {{c2::…}}.	Петиция всё ещё онлайн / продолжается …	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Die Petition wird / wurde {{c1::eingereicht}}.	Петиция подаётся / была подана.	form::satzmuster func::zusammenfassen topic::petition source::goethe::b2::k3
+
+Das kann ich mir nicht so gut / gar nicht {{c1::vorstellen}}.	Я не могу себе это (совсем) представить.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das kommt für mich nicht in {{c1::Frage}}.	Для меня это не вариант.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Wie soll das {{c1::funktionieren}}?	Как это должно работать?	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das halte ich für keine gute {{c1::Idee}} / {{c2::falsch}}.	Я считаю это плохой идеей / неправильным.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Ich könnte das nicht {{c1::realisieren}} / {{c2::umsetzen}}.	Я не смог(ла) бы это реализовать / воплотить.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das {{c1::klingt}} gut / hört sich gut {{c2::an}}.	Это звучит хорошо.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Die {{c1::Idee}} / der {{c2::Tipp}} / der {{c3::Vorschlag}} gefällt mir.	Идея / совет / предложение мне нравится.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das halte ich für eine gute {{c1::Idee}} / {{c2::richtig}}.	Я считаю это хорошей идеей / правильным.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Warum eigentlich {{c1::nicht}}?	А почему бы и нет?	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Ich denke, das könnte man (gut) {{c1::realisieren}} / {{c2::umsetzen}}.	Я думаю, это можно (хорошо) реализовать / воплотить.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das ist leichter {{c1::gesagt}} als {{c2::getan}}.	Это легче сказать, чем сделать.	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3
+
+Das stimmt zwar, {{c1::aber}} {{c2::…}}. / Das ist zwar richtig, {{c3::aber}} {{c4::…}}.	Это, конечно, верно, но …	form::satzmuster func::auf_vorschläge_reagieren topic::diskussion source::goethe::b2::k3

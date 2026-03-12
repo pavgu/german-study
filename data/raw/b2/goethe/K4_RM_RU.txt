@@ -1,0 +1,105 @@
+Ich {{c1::finde}} / {{c2::denke}} / {{c3::meine}}, dass {{c4::…}}.	Я считаю / думаю, что …	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Auf der einen {{c1::Seite}} {{c2::…}}, auf der anderen {{c3::Seite}} {{c4::…}}.	С одной стороны …, с другой стороны …	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Ich bin der {{c1::Ansicht}} / {{c2::Meinung}}, dass {{c3::…}}.	Я придерживаюсь мнения, что …	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Das {{c1::stimmt}}.	Это верно.	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Das ist eine gute {{c1::Idee}}.	Это хорошая идея.	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Du hast {{c1::recht}} damit, dass {{c2::…}}. / Da hast du {{c3::recht}}.	Ты прав(а), что … / Ты прав(а).	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Der {{c1::Ansicht}} bin ich auch.	Я того же мнения.	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Das stimmt meiner {{c1::Meinung}} nach nicht.	По моему мнению, это неверно.	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Ich {{c1::sehe}} das etwas anders, denn {{c2::…}}.	Я вижу это немного иначе, потому что …	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Das kann ich mir {{c1::überhaupt}} nicht vorstellen, weil {{c2::…}}.	Я вообще не могу себе это представить, потому что …	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Das ist doch {{c1::übertrieben}}. / Das halte ich für {{c2::übertrieben}}.	Это же преувеличено / Я считаю это преувеличенным.	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+Meinst du {{c1::wirklich}}?	Ты правда так думаешь?	form::satzmuster func::diskutieren topic::diskussion source::goethe::b2::k4
+
+… {{c1::spricht}} uns besonders {{c2::an}}.	… нас особенно привлекает / трогает.	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+… haben wir / habe ich die {{c1::Möglichkeit}}, {{c2::…}}.	… у нас / у меня есть возможность …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Für {{c1::…}} wünschen wir uns {{c2::…}}.	Для … мы хотели бы …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Ich / Wir {{c1::können}} uns vorstellen, {{c2::…}}.	Я / Мы можем представить себе, что …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Wir {{c1::hätten}} gerne {{c2::…}}.	Мы хотели бы …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+{{c1::Außerdem}} {{c2::…}}.	Кроме того …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Ich / Wir {{c1::finden}} {{c2::…}} gut, weil / da {{c3::…}}.	Я / Мы считаем … хорошим, потому что …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Besonders {{c1::wichtig}} ist mir / uns {{c2::…}}.	Особенно важно для меня / нас …	form::satzmuster func::bedürfnisse_ausdrücken topic::persönliches source::goethe::b2::k4
+
+Ich möchte mich darüber {{c1::beschweren}}, dass {{c2::…}}.	Я хотел(а) бы пожаловаться на то, что …	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Ich habe ein {{c1::Problem}}: {{c2::…}}.	У меня есть проблема: …	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Es kann doch nicht {{c1::sein}}, dass {{c2::…}}.	Не может же быть, что …	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Darauf hätten Sie {{c1::hinweisen}} müssen.	Вам следовало указать на это.	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Sie haben ja {{c1::recht}}, aber {{c2::…}}.	Вы, конечно, правы, но …	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Ich kann ja {{c1::verstehen}}, dass {{c2::…}}, (aber {{c3::…}}).	Я могу понять, что … (но …).	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Wären Sie damit {{c1::einverstanden}}, wenn {{c2::…}}?	Вы были бы согласны, если …?	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Wie wäre es mit einem {{c1::Kompromiss}}: {{c2::…}}?	Как насчёт компромисса: …?	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Wir können uns vielleicht auf {{c1::Folgendes}} einigen: {{c2::…}}.	Мы можем, возможно, договориться о следующем: …	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Können wir uns darauf {{c1::einigen}}, dass {{c2::…}}?	Можем ли мы договориться о том, что …?	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Gut, dann machen wir es {{c1::so}}.	Хорошо, тогда сделаем так.	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Ja gut, von mir {{c1::aus}}.	Хорошо, я согласен(согласна).	form::satzmuster func::verhandeln topic::konflikt source::goethe::b2::k4
+
+Hiermit möchte ich Sie darauf {{c1::hinweisen}}, dass in meiner / unserer {{c2::Wohnung}} {{c3::…}}.	Настоящим я хотел(а) бы обратить Ваше внимание на то, что в моей / нашей квартире …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Die {{c1::Mängel}} befinden sich {{c2::…}} / sind an folgenden Stellen / Orten {{c3::aufgetreten}}: {{c4::…}}.	Недостатки находятся … / возникли в следующих местах: …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Der {{c1::Mangel}} liegt / Die {{c2::Mängel}} liegen seit {{c3::…}} vor.	Недостаток существует / Недостатки существуют с …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Ich muss Sie daher {{c1::bitten}}, den Mangel innerhalb von zwei Wochen, spätestens bis zum {{c2::…}}, zu {{c3::beseitigen}}.	Поэтому я вынужден(а) попросить Вас устранить недостаток в течение двух недель, не позднее …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Ich {{c1::fordere}} Sie auf, {{c2::…}}. / Wir fordern Sie auf, {{c3::…}}.	Я / Мы требуем, чтобы Вы …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Ich {{c1::erwarte}}, dass {{c2::…}}. / Wir erwarten, dass {{c3::…}}.	Я / Мы ожидаем, что …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Hierzu {{c1::setze}} ich Ihnen / setzen wir Ihnen eine {{c2::Frist}} bis zum {{c3::…}}.	В связи с этим я / мы устанавливаем Вам срок до …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Für den {{c1::Fall}}, dass Sie die Frist nicht einhalten, werde ich / werden wir {{c2::…}}.	В случае если Вы не соблюдёте срок, я / мы …	form::satzmuster func::formeller_brief topic::mängelanzeige source::goethe::b2::k4
+
+Ich bin (nicht so) {{c1::überzeugt}}, dass {{c2::…}}.	Я (не совсем) убеждён(а), что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Ich bin der {{c1::Meinung}} / {{c2::Ansicht}} / {{c3::Auffassung}}, dass {{c4::…}}.	Я придерживаюсь мнения / точки зрения, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Meiner {{c1::Ansicht}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Aus meiner {{c1::Sicht}} {{c2::…}}.	С моей точки зрения …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Ich kann das gut / gar nicht {{c1::nachvollziehen}} / {{c2::verstehen}}, wenn {{c3::…}}.	Я могу хорошо / совсем не могу понять, когда …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Es hat sicherlich {{c1::Folgen}}, wenn {{c2::…}}.	Это наверняка имеет последствия, если …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Ich denke, es ist {{c1::problematisch}}, wenn {{c2::…}}.	Я думаю, это проблематично, если …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+{{c1::Bedenklich}} / {{c2::Problematisch}} ist wahrscheinlich {{c3::…}}.	Вероятно, вызывает опасения / проблематично то, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k4
+
+Es gibt folgende gute {{c1::Gründe}} für / gegen {{c2::…}}: {{c3::…}}.	Существуют следующие веские причины за / против …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k4
+
+Ich {{c1::verstehe}} zwar {{c2::…}}, aber {{c3::…}}.	Я, конечно, понимаю …, но …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k4
+
+Das {{c1::liegt}} daran, dass {{c2::…}}.	Это связано с тем, что …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k4
+
+Ich halte das für {{c1::…}}, weil {{c2::…}}.	Я считаю это …, потому что …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k4
+
+{{c1::Deshalb}} / Aus diesem {{c2::Grund}} {{c3::…}}.	Поэтому / По этой причине …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k4

@@ -1,0 +1,113 @@
+… ist aus {{c1::Holz}} / {{c2::Pappe}} / {{c3::Karton}} / {{c4::Papier}}.	… сделано из дерева / картона / бумаги.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist aus {{c1::Glas}} / {{c2::Plastik}} / {{c3::Kunststoff}} / {{c4::Metall}}.	… сделано из стекла / пластика / металла.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist aus {{c1::Keramik}} / {{c2::Stoff}} / {{c3::Leder}}.	… сделано из керамики / ткани / кожи.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist {{c1::rechteckig}} / {{c2::quadratisch}}.	… прямоугольный / квадратный.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist {{c1::dreieckig}} / {{c2::sechseckig}}.	… треугольный / шестиугольный.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist {{c1::rund}} / {{c2::oval}}.	… круглый / овальный.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+… ist {{c1::geschwungen}}.	… изогнутый / плавной формы.	form::wortschatz func::beschreiben topic::material_und_form source::goethe::b2::k7
+
+Der / Das / Die {{c1::…}} wurde von {{c2::…}} entworfen / designt.	… был(а) разработан(а) …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Der / Das / Die {{c1::…}} der Firma {{c2::…}} ist {{c3::…}}.	… фирмы … — это …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Der / Das / Die {{c1::…}} kam {{c2::…}} auf den Markt.	… появился(ась) на рынке …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Er / Es / Sie ist {{c1::rund}} / {{c2::eckig}} / {{c3::quadratisch}} / {{c4::flach}} / {{c5::oval}} / {{c6::geschwungen}}.	Он / она / оно круглый / угловатый / квадратный / плоский / овальный / изогнутый.	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Er / Es / Sie ist {{c1::schwer}} / {{c2::leicht}}.	Он / она / оно тяжёлый / лёгкий.	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Er / Es / Sie besteht aus {{c1::Holz}} / {{c2::Metall}} / {{c3::Plastik}} / {{c4::Kunststoff}} / {{c5::Leder}} / {{c6::Glas}}.	Он / она / оно состоит из дерева / металла / пластика / кожи / стекла.	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Das {{c1::Design}} ist {{c2::…}}.	Дизайн — …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Die {{c1::Form}} erinnert mich an {{c2::…}}.	Форма напоминает мне …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Charakteristisch für {{c1::…}} ist {{c2::…}}.	Характерной чертой … является …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Oben / Unten / Vorne / Hinten {{c1::befindet}} sich {{c2::…}}. / Man {{c3::sieht}} {{c4::…}}.	Сверху / снизу / спереди / сзади находится … / Можно увидеть …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Er / Es / Sie {{c1::eignet}} sich sehr gut zum {{c2::…}}.	Он / она / оно хорошо подходит для …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Er / Es / Sie eignet sich für alle, die {{c1::…}}.	Он / она / оно подходит всем, кто …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Zum {{c1::…}} ist er / es / sie nützlich / praktisch / funktional, weil {{c2::…}}.	Для … он / она / оно полезен / практичен / функционален, потому что …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Man {{c1::braucht}} / {{c2::benutzt}} / {{c3::verwendet}} ihn / es / sie, um {{c4::…}}.	Его / её используют, чтобы …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Mich {{c1::überzeugt}} {{c2::…}} (nicht).	Меня (не) убеждает …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+… hat mich (nicht) {{c1::überzeugt}}.	… меня (не) убедил(о).	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Das {{c1::Besondere}} ist {{c2::…}}.	Особенность заключается в том, что …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Ein {{c1::Highlight}} ist {{c2::…}}.	Изюминка — это …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Ein {{c1::Vorteil}} / {{c2::Nachteil}} ist, dass {{c3::…}}.	Преимущество / недостаток в том, что …	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+… hat mich {{c1::enttäuscht}}.	… меня разочаровал(о).	form::satzmuster func::objekte_beschreiben topic::design source::goethe::b2::k7
+
+Ich bin der {{c1::Meinung}} / {{c2::Ansicht}}, dass {{c3::…}}.	Я придерживаюсь мнения / точки зрения, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Ein großer / wichtiger {{c1::Vorteil}} / {{c2::Nachteil}} von {{c3::…}} ist, dass {{c4::…}}.	Большим / важным преимуществом / недостатком … является то, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Ein weiterer {{c1::Aspekt}} ist {{c2::…}}.	Ещё один аспект — это …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Ich {{c1::sehe}} ein {{c2::Problem}} bei {{c3::…}}.	Я вижу проблему в …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Mir ist es {{c1::wichtig}}, {{c2::…}}.	Для меня важно …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Für mich ist es am {{c1::wichtigsten}}, dass {{c2::…}}.	Для меня самое важное, чтобы …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Ein {{c1::wichtiger}} Punkt ist {{c2::…}}.	Важный пункт — это …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Bei {{c1::…}} ist für mich / mir wichtig, {{c2::…}}.	В … для меня важно …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Entscheidend für {{c1::…}} ist {{c2::…}}.	Решающим для … является …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+… {{c1::bedeutet}} viel / wenig für mich.	… много / мало значит для меня.	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Viel wichtiger (als {{c1::…}}) finde ich, {{c2::…}}.	Гораздо важнее (чем …) я считаю …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+An erster {{c1::Stelle}} steht für mich {{c2::…}}.	На первом месте для меня стоит …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k7
+
+Ich kann / könnte mir gut {{c1::vorstellen}}, dass {{c2::…}}.	Я могу / мог(ла) бы представить, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+Es kann / könnte gut {{c1::sein}}, dass {{c2::…}}.	Вполне возможно, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+Es ist {{c1::denkbar}} / {{c2::möglich}} / {{c3::vorstellbar}}, dass {{c4::…}}.	Возможно / мыслимо, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+{{c1::Wahrscheinlich}} / {{c2::Vermutlich}} / {{c3::Vielleicht}} ist / macht {{c4::…}}.	Вероятно / возможно / может быть …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+Es ist {{c1::wahrscheinlich}}, dass {{c2::…}}.	Вероятно, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+Ich {{c1::vermute}} / {{c2::glaube}}, dass {{c3::…}}.	Я предполагаю / думаю, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k7
+
+In dem / diesem {{c1::Text}} geht es um {{c2::…}}.	В этом тексте речь идёт о …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Der {{c1::Artikel}} / Text handelt von {{c2::…}}.	Статья / текст посвящён(а) …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Das {{c1::Thema}} des Textes ist {{c2::…}}.	Тема текста — …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Im ersten / zweiten / nächsten {{c1::Abschnitt}} geht es um {{c2::…}}.	В первом / втором / следующем разделе речь идёт о …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Die {{c1::Autorin}} / Der {{c2::Autor}} hält es für positiv / negativ, dass {{c3::…}}.	Автор считает положительным / отрицательным, что …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+{{c1::Anschließend}} / Im Anschluss daran wird {{c2::beschrieben}}, {{c3::…}}.	Затем описывается, что …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Als {{c1::Argument}} für / gegen {{c2::…}} wird genannt, dass {{c3::…}}.	В качестве аргумента за / против … называется то, что …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Ich halte diese {{c1::Vorstellung}} / {{c2::Idee}} / {{c3::Einstellung}} für {{c4::…}}.	Я считаю эту идею / позицию …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Ich kann dem (nicht) {{c1::zustimmen}}.	Я (не) могу с этим согласиться.	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Ich {{c1::stimme}} der Autorin / dem Autor (nicht) zu, dass {{c2::…}}.	Я (не) согласен(на) с автором, что …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Zu dem {{c1::Thema}} bin ich der Meinung / Ansicht, dass {{c2::…}}.	По этой теме я придерживаюсь мнения, что …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7
+
+Meiner {{c1::Meinung}} / {{c2::Ansicht}} nach {{c3::…}}.	По моему мнению …	form::satzmuster func::zusammenfassen_und_stellung_nehmen topic::textarbeit source::goethe::b2::k7

@@ -1,0 +1,85 @@
+Einer meiner {{c1::Lieblingsorte}} ist {{c2::…}}.	Одно из моих любимых мест — …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Eines meiner {{c1::Lieblingsprojekte}} ist {{c2::…}}.	Один из моих любимых проектов — …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Bei dem {{c1::Projekt}} handelt es sich um {{c2::…}}.	Речь в проекте идёт о …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Gegründet wurde der {{c1::Verein}} {{c2::…}}.	Ассоциация была основана …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Das {{c1::Projekt}} gibt es seit {{c2::…}}.	Проект существует с …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Der {{c1::Verein}}, der hinter dem Projekt steht, {{c2::…}}.	Организация, стоящая за проектом, …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Hier {{c1::treffen}} sich {{c2::…}}, um {{c3::…}}.	Здесь встречаются …, чтобы …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Das {{c1::Gebäude}} wurde {{c2::…}} umgestaltet / umfunktioniert.	Здание было … переоборудовано / перепрофилировано.	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Das {{c1::Gebäude}} wurde früher für {{c2::…}} genutzt.	Ранее здание использовалось для …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Die {{c1::Künstler}} organisieren {{c2::…}}.	Художники организуют …	form::satzmuster func::projekt_und_ort_vorstellen source::goethe::b2::k9
+
+Besonders {{c1::toll}} / {{c2::beeindruckend}} / {{c3::überzeugend}} finde ich, dass {{c4::…}}.	Особенно впечатляющим я считаю то, что …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Mir {{c1::gefällt}} besonders / unglaublich gut daran, {{c2::…}}.	Мне особенно нравится в этом то, что …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Ich komme sehr {{c1::gerne}} / am liebsten hierher wegen {{c2::…}}.	Я с удовольствием прихожу сюда из-за …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Ich finde dieses {{c1::Projekt}} so {{c2::faszinierend}} / {{c3::inspirierend}}, weil {{c4::…}}.	Я считаю этот проект таким увлекательным / вдохновляющим, потому что …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Das {{c1::Faszinierende}} daran ist {{c2::…}}.	Самое захватывающее в этом — …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Diesen {{c1::Ort}} würde ich sehr gerne mal {{c2::besuchen}}, weil {{c3::…}}.	Я бы очень хотел(а) однажды посетить это место, потому что …	form::satzmuster func::gefallen_und_interesse_ausdrücken source::goethe::b2::k9
+
+Ich {{c1::stehe}} auf dem {{c2::Standpunkt}}, dass {{c3::…}}.	Я придерживаюсь точки зрения, что …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich bin der {{c1::Meinung}} / {{c2::Ansicht}} / {{c3::Auffassung}}, dass {{c4::…}}.	Я считаю / придерживаюсь мнения, что …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Meiner {{c1::Ansicht}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Meines {{c1::Erachtens}} {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich finde es {{c1::überraschend}} / {{c2::merkwürdig}}, dass {{c3::…}}.	Я считаю удивительным / странным, что …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich muss {{c1::gestehen}}, dass {{c2::…}}.	Должен(на) признать, что …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich kann nicht ganz {{c1::nachvollziehen}}, {{c2::…}}.	Я не совсем могу понять / проследить, …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich bin {{c1::geteilter Meinung}}: {{c2::…}}.	Я придерживаюсь двойственного мнения: …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+{{c1::Ganz ehrlich gesagt}}, {{c2::…}}.	Если честно, …	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Das ist zumindest meine {{c1::Interpretation}}.	По крайней мере, это моя интерпретация.	form::satzmuster func::meinung_und_erwartung_äußern source::goethe::b2::k9
+
+Ich denke da zum {{c1::Beispiel}} an {{c2::…}}.	Я думаю, например, о …	form::satzmuster func::beispiele_und_bezüge_nennen source::goethe::b2::k9
+
+{{c1::Beispielsweise}} {{c2::…}}.	Например …	form::satzmuster func::beispiele_und_bezüge_nennen source::goethe::b2::k9
+
+Wenn ich mich recht {{c1::erinnere}}, dann {{c2::…}}.	Если я правильно помню, то …	form::satzmuster func::beispiele_und_bezüge_nennen source::goethe::b2::k9
+
+Ich {{c1::verspreche}} mir von {{c2::…}}, dass {{c3::…}}.	Я ожидаю от …, что …	form::satzmuster func::erwartungen_äußern source::goethe::b2::k9
+
+Das {{c1::erwarte}} ich von {{c2::…}}.	Этого я ожидаю от …	form::satzmuster func::erwartungen_äußern source::goethe::b2::k9
+
+Die Stätte {{c1::befindet}} sich / liegt in / auf {{c2::…}}.	Объект находится / расположен в / на …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Im Jahr {{c1::…}} wurde/n {{c2::…}} erbaut / gegründet.	В … году … было построено / основано.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie war / ist die {{c1::größte}} / {{c2::bedeutendste}} / {{c3::älteste}} {{c4::…}} in {{c5::…}}.	Это был(а) / является самым крупным / значительным / древним … в …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie {{c1::zählt}} zu den {{c2::größten}} / {{c3::bedeutendsten}} / {{c4::ältesten}} {{c5::…}} in {{c6::…}} / weltweit.	Она относится к самым крупным / значительным / древним … в … / в мире.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie {{c1::dokumentiert}} / {{c2::dokumentieren}} die Architektur / den Reichtum / die Leistung {{c3::…}}.	Она документирует архитектуру / богатство / достижения …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie {{c1::zeigt}} / {{c2::präsentiert}} die bedeutende / hervorragende / wichtige Rolle {{c3::…}}.	Она демонстрирует значительную / выдающуюся / важную роль …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie ist / sind ein {{c1::wichtiges}} / {{c2::bedeutendes}} / {{c3::hervorragendes}} Beispiel für {{c4::…}}.	Это важный / значительный / выдающийся пример …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Noch heute ist / sind {{c1::…}} gut {{c2::erhalten}}.	До сих пор … хорошо сохранилось / сохранились.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Die Stätte wurde im Jahr {{c1::…}} in das {{c2::UNESCO-Welterbe}} aufgenommen.	Объект был включён в список Всемирного наследия ЮНЕСКО в … году.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Sie gehört seit dem Jahr {{c1::…}} zum {{c2::UNESCO-Welterbe}}.	Она относится к объектам Всемирного наследия ЮНЕСКО с … года.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Wegen {{c1::…}} hat die UNESCO {{c2::…}} in die {{c3::Welterbeliste}} aufgenommen.	Из-за … ЮНЕСКО включила … в список всемирного наследия.	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9
+
+Zu diesem {{c1::Welterbe}} zählen {{c2::…}}.	К этому объекту всемирного наследия относятся …	form::satzmuster func::unesco_welterbestätte_beschreiben source::goethe::b2::k9

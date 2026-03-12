@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
 .env
+.venv/
+.uv-cache/
 .vscode
 .DS_Store
+data/converted/*.tsv

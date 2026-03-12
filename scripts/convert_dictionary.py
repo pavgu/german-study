@@ -2,10 +2,6 @@ import argparse
 import csv
 
 
-DEFAULT_DEFINITION = "Definition fehlt"
-DEFAULT_EXAMPLE = "Beispielsatz fehlt."
-
-
 def convert_dictionary(input_path: str, output_path: str) -> None:
     with open(input_path, "r", encoding="utf-8", newline="") as input_file:
         reader = csv.DictReader(input_file, delimiter="\t")
@@ -19,8 +15,8 @@ def convert_dictionary(input_path: str, output_path: str) -> None:
 
         rows = []
         for row in reader:
-            row["german_definition"] = row.get("german_definition") or DEFAULT_DEFINITION
-            row["example_sentence"] = row.get("example_sentence") or DEFAULT_EXAMPLE
+            row["german_definition"] = row.get("german_definition", "")
+            row["example_sentence"] = row.get("example_sentence", "")
             rows.append(row)
 
     with open(output_path, "w", encoding="utf-8", newline="") as output_file:
@@ -36,10 +32,10 @@ def convert_dictionary(input_path: str, output_path: str) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Convert a German-Russian TSV into a learner dictionary scaffold."
+        description="Prepare a TSV for ChatGPT-based learner dictionary conversion."
     )
     parser.add_argument("input_tsv", help="Path to the source TSV file.")
-    parser.add_argument("output_tsv", help="Path to the converted TSV file.")
+    parser.add_argument("output_tsv", help="Path to the prepared TSV file.")
     return parser.parse_args()
 
 

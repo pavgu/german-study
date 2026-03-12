@@ -1,0 +1,88 @@
+Es tut mir sehr {{c1::leid}}, {{c2::…}}.	Мне очень жаль, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Bitte {{c1::entschuldigen}} Sie, dass {{c2::…}}.	Пожалуйста, извините, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Entschuldigen Sie {{c1::vielmals}} {{c2::…}}.	Примите мои искренние извинения за …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich bitte für {{c1::…}} um {{c2::Entschuldigung}}.	Прошу прощения за …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich {{c1::bedauere}} sehr, {{c2::…}}.	Я очень сожалею, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+{{c1::Bedauerlicherweise}} {{c2::…}}.	К сожалению …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Im Moment / Inzwischen ist die {{c1::Situation}} so (…), dass {{c2::…}}.	В данный момент ситуация такова, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Die Situation / Das {{c1::Problem}} lässt sich wie folgt {{c2::beschreiben}}: {{c3::…}}.	Ситуацию / проблему можно описать следующим образом: …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Es {{c1::passiert}} immer wieder, dass {{c2::…}}.	Постоянно происходит, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+… {{c1::führt}} / {{c2::führen}} dazu, dass {{c3::…}}.	… приводит к тому, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Könnten Sie {{c1::…}} bitte {{c2::…}}?	Не могли бы Вы, пожалуйста, …?	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich würde Sie {{c1::bitten}}, {{c2::…}}.	Я бы попросил(а) Вас …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich bitte Sie um {{c1::Verständnis}}, dass {{c2::…}}.	Прошу Вас с пониманием отнестись к тому, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich hoffe, Sie haben {{c1::Verständnis}} für {{c2::…}}.	Надеюсь на Ваше понимание …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich möchte Sie um {{c1::Verständnis}} für {{c2::…}} bitten.	Я хотел(а) бы попросить Вас о понимании …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich kann gut {{c1::verstehen}}, dass {{c2::…}}.	Я хорошо понимаю, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich habe {{c1::Verständnis}} für {{c2::…}}.	Я понимаю / проявляю понимание к …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Es ist {{c1::verständlich}}, dass {{c2::…}}.	Понятно, что …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich würde {{c1::vorschlagen}}, dass {{c2::…}}.	Я бы предложил(а), чтобы …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Aus diesem {{c1::Grund}} / Deshalb würde ich {{c2::vorschlagen}}, dass {{c3::…}}.	По этой причине я бы предложил(а), чтобы …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Könnten Sie sich (eventuell) {{c1::vorstellen}}, dass {{c2::…}}?	Могли бы Вы (возможно) представить, что …?	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich würde es gut {{c1::finden}}, wenn {{c2::…}}.	Я счёл(сочла) бы это хорошим, если …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Für {{c1::…}} hätte ich folgenden {{c2::Vorschlag}}: {{c3::…}}.	По поводу … у меня есть следующее предложение: …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Herzlichen / Vielen {{c1::Dank}} (im Voraus) für {{c2::…}}.	Большое спасибо (заранее) за …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich möchte mich (recht) herzlich für {{c1::…}} {{c2::bedanken}}.	Я хотел(а) бы сердечно поблагодарить за …	form::satzmuster func::offizielle_nachrichten_schreiben topic::formeller_brief source::goethe::b2::k8
+
+Ich {{c1::vermute}} / {{c2::denke}} / {{c3::glaube}}, dass {{c4::…}}.	Я предполагаю / думаю / считаю, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k8
+
+Die {{c1::Karikaturistin}} / der {{c2::Karikaturist}} will vermutlich / wahrscheinlich {{c3::sagen}}, dass {{c4::…}}.	Карикатурист, вероятно, хочет сказать, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k8
+
+In dieser / der {{c1::Karikatur}} geht es vermutlich um {{c2::…}}.	В этой карикатуре, вероятно, речь идёт о …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k8
+
+Ich könnte mir {{c1::vorstellen}}, dass {{c2::…}}.	Я мог(ла) бы представить, что …	form::satzmuster func::vermutungen_äußern topic::argumentation source::goethe::b2::k8
+
+Hier bei {{c1::uns}} / in {{c2::…}} {{c3::…}}.	У нас / в … …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Die {{c1::Regeln}} hier in {{c2::…}} {{c3::…}}.	Правила здесь, в … …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+In meinem {{c1::Land}} ist es so, dass {{c2::…}}.	В моей стране дело обстоит так, что …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+{{c1::Normalerweise}} {{c2::…}}.	Обычно …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+In {{c1::…}} hat man {{c2::Anspruch}} auf {{c3::…}}.	В … имеют право на …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Als {{c1::Frau}} / Als {{c2::Mann}} kann man in meinem Land {{c3::…}}.	Будучи женщиной / мужчиной, в моей стране можно …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Als Frau ist man im {{c1::Berufsleben}} (nicht) {{c2::benachteiligt}}.	В профессиональной жизни женщины (не) подвергаются дискриминации.	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Frauen haben hier den {{c1::Vorteil}} / {{c2::Nachteil}}, dass {{c3::…}}.	Здесь у женщин есть преимущество / недостаток в том, что …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Bei {{c1::uns}} / mir ist {{c2::…}}.	У нас / у меня …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+In unserem / meinem {{c1::Freundeskreis}} / {{c2::Bekanntenkreis}} / {{c3::Umfeld}} {{c4::…}}.	В нашем / моём кругу друзей / знакомых / окружении …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Ich habe {{c1::gehört}}, dass {{c2::…}}.	Я слышал(а), что …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Soweit ich {{c1::weiß}}, {{c2::…}}.	Насколько я знаю …	form::satzmuster func::regeln_und_arbeitsbedingungen_erklären topic::gesellschaft source::goethe::b2::k8
+
+Ich {{c1::bewundere}} es, wenn / dass {{c2::…}}.	Я восхищаюсь тем, когда / что …	form::satzmuster func::meinung_äußern topic::gesellschaft source::goethe::b2::k8
+
+Ich {{c1::beneide}} Menschen, die {{c2::…}}.	Я завидую людям, которые …	form::satzmuster func::meinung_äußern topic::gesellschaft source::goethe::b2::k8
+
+Aus meiner {{c1::Sicht}} {{c2::…}}.	С моей точки зрения …	form::satzmuster func::meinung_äußern topic::gesellschaft source::goethe::b2::k8
+

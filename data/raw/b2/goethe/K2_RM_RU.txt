@@ -1,0 +1,86 @@
+Ich {{c1::kenne}} das. / Mir geht es {{c2::genauso}} (wie dir).	Я это знаю. / У меня так же (как у тебя).	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Das {{c1::passiert}} mir auch öfter. / Das ist mir auch schon öfter {{c2::passiert}}.	Со мной это тоже часто случается.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich bin / war auch oft {{c1::müde}} / {{c2::erschöpft}} / {{c3::schlapp}}.	Я тоже часто бываю / был(а) уставшим / измождённым / вялым.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Bei mir ist es das {{c1::Gleiche}} / {{c2::genauso}}.	У меня то же самое / так же.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich {{c1::neige}} dazu, {{c2::…}} zu (+ Infinitiv).	Я склонен(на) к тому, чтобы …	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich {{c1::merke}} / {{c2::spüre}}, dass {{c3::…}}.	Я замечаю / чувствую, что …	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Das habe ich {{c1::mittlerweile}} akzeptiert.	Я со временем это принял(а).	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich {{c1::achte}} vermehrt darauf, dass {{c2::…}}.	Я всё больше обращаю внимание на то, чтобы …	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich brauche dann {{c1::…}} um mich herum.	Тогда мне нужно … вокруг себя.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Da {{c1::reicht}} es oft schon aus, wenn ich {{c2::…}}. / Mir reicht (es) oft schon {{c3::…}}.	Тогда часто уже достаточно, если я … / Мне часто достаточно …	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Das hat sich (nicht) so gut {{c1::angefühlt}}.	Это (не) так хорошо ощущалось.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Diesen {{c1::Moment}} genieße ich dann richtig.	Этот момент я тогда по-настоящему наслаждаюсь.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+… gehört für mich zu einem guten {{c1::Tag}} dazu.	… для меня является частью хорошего дня.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Das tut mir / meiner {{c1::Seele}} / meinem {{c2::Körper}} gut.	Это полезно для меня / моей души / моего тела.	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Das {{c1::beruhigt}} mich / {{c2::…}}.	Это меня успокаивает / …	form::satzmuster func::erfahrungen_ausdrücken topic::erfahrungen source::goethe::b2::k2
+
+Ich habe {{c1::beispielsweise}} {{c2::…}}.	Например, я …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+Ich kenne zum {{c1::Beispiel}} {{c2::…}}.	Я знаю, например, …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+Ich habe mit {{c1::…}} die {{c2::Erfahrung}} gemacht, dass {{c3::…}}.	У меня был опыт с …, что …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+{{c1::Einerseits}} {{c2::…}}, {{c3::andererseits}} {{c4::…}}.	С одной стороны …, с другой стороны …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+Zum {{c1::einen}} {{c2::…}}, zum {{c3::anderen}} {{c4::…}}.	С одной стороны …, с другой стороны …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+Ein {{c1::Vorteil}} / {{c2::Nachteil}} ist, dass {{c3::…}}.	Одним преимуществом / недостатком является то, что …	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+{{c1::…}} stört mich ein bisschen.	… меня немного раздражает.	form::satzmuster func::argumentieren topic::argumentation source::goethe::b2::k2
+
+Ich {{c1::glaube}} / {{c2::finde}} / {{c3::denke}}, dass {{c4::…}}.	Я думаю / считаю, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Ich bin der {{c1::Meinung}} / {{c2::Auffassung}}, dass {{c3::…}}.	Я придерживаюсь мнения, что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Meiner {{c1::Meinung}} nach {{c2::…}}.	По моему мнению …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Ich bin {{c1::überzeugt}} davon, dass {{c2::…}}.	Я убеждён(а), что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Für mich ist das besonders {{c1::wichtig}}, weil {{c2::…}}.	Для меня это особенно важно, потому что …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Das kann ich (überhaupt) nicht {{c1::nachvollziehen}}.	Я (совсем) не могу это понять.	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Ich {{c1::verstehe}} nicht, warum {{c2::…}}.	Я не понимаю, почему …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Es ist {{c1::praktisch}} / {{c2::angenehm}} / {{c3::hilfreich}}, {{c4::…}}.	Это практично / приятно / полезно, …	form::satzmuster func::meinung_äußern topic::argumentation source::goethe::b2::k2
+
+Ich bin zu dem {{c1::Fazit}} gekommen, dass {{c2::…}}.	Я пришёл(шла) к выводу, что …	form::satzmuster func::schlussfolgern topic::argumentation source::goethe::b2::k2
+
+Mein {{c1::Standpunkt}} ist, dass {{c2::…}}.	Моя позиция заключается в том, что …	form::satzmuster func::schlussfolgern topic::argumentation source::goethe::b2::k2
+
+Daraus {{c1::schließe}} ich, dass {{c2::…}}.	Из этого я делаю вывод, что …	form::satzmuster func::schlussfolgern topic::argumentation source::goethe::b2::k2
+
+Meine {{c1::Überlegung}} ist deshalb, dass {{c2::…}}.	Поэтому я считаю, что …	form::satzmuster func::schlussfolgern topic::argumentation source::goethe::b2::k2
+
+Ich halte es insgesamt für {{c1::problematisch}} / {{c2::bedenklich}} / {{c3::gefährlich}} / {{c4::hilfreich}}, dass {{c5::…}}.	В целом я считаю это проблематичным / сомнительным / опасным / полезным, что …	form::satzmuster func::schlussfolgern topic::argumentation source::goethe::b2::k2
+
+
+Ich {{c1::würde}} Ihnen {{c2::raten}} / Ich {{c3::rate}} Ihnen / Am besten {{c4::wäre}} es, {{c5::…}} zu {{c6::…}}.	Я бы посоветовал(а) Вам / Я советую Вам / Лучше всего было бы …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+Ich {{c1::würde}} empfehlen / Ich {{c2::empfehle}}, {{c3::…}} zu {{c4::…}}.	Я бы рекомендовал(а) / Я рекомендую …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+An Ihrer {{c1::Stelle}} würde ich {{c2::…}}.	На Вашем месте я бы …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+Sprechen {{c1::Sie}} (doch) {{c2::…}}. / Versuchen {{c3::Sie}} doch mal, {{c4::…}} zu {{c5::…}}.	Поговорите (же) … / Попробуйте …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+Da sollte man am besten {{c1::…}}. / Sie {{c2::sollten}} {{c3::…}}.	В этом случае лучше всего … / Вам следует …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+Meiner {{c1::Meinung}} nach sollten Sie {{c2::…}}.	По моему мнению, Вам следует …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+Wenn Sie mich {{c1::fragen}}, würde ich {{c2::…}}.	Если Вы спросите меня, я бы …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
+
+{{c1::Sinnvoll}} / {{c2::Hilfreich}} / {{c3::Nützlich}} wäre, wenn {{c4::…}}.	Было бы разумно / полезно / целесообразно, если …	form::satzmuster func::ratschläge_geben topic::argumentation source::goethe::b2::k2
