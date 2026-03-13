@@ -8,13 +8,13 @@ Recommended fields:
 
 - `Prompt`
 - `Answer`
-- `Rule`
+- `Hint`
 
-Import mapping for `data/converted/grammar/custom/hin-und-her_production_DE_RU.txt`:
+Import mapping for `anki/decks/grammar/hin-und-her_production_DE_RU.txt`:
 
 - column 1 -> `Prompt`
 - column 2 -> `Answer`
-- column 3 -> `Rule`
+- column 3 -> `Hint`
 - column 4 -> Anki tags
 
 ## Front Template
@@ -23,11 +23,11 @@ Import mapping for `data/converted/grammar/custom/hin-und-her_production_DE_RU.t
 <div class="label">Prompt</div>
 <div class="sentence">{{Prompt}}</div>
 
-{{#Rule}}
+{{#Hint}}
 <hr>
-<div class="label">Rule</div>
-<div class="help">{{hint:Rule}}</div>
-{{/Rule}}
+<div class="label">Hint</div>
+<div class="help">{{hint:Hint}}</div>
+{{/Hint}}
 ```
 
 ## Back Template
@@ -40,11 +40,11 @@ Import mapping for `data/converted/grammar/custom/hin-und-her_production_DE_RU.t
 <div class="label">Answer</div>
 <div class="sentence">{{Answer}}</div>
 
-{{#Rule}}
+{{#Hint}}
 <hr>
-<div class="label">Rule</div>
-<div class="value">{{Rule}}</div>
-{{/Rule}}
+<div class="label">Hint</div>
+<div class="value">{{Hint}}</div>
+{{/Hint}}
 ```
 
 ## Styling
@@ -92,4 +92,4 @@ hr {
 ## Notes
 
 - This note type is meant for full-sentence production, not cloze recognition.
-- If the `Rule` field feels too helpful, leave it unmapped during import or hide it on the front.
+- If the `Hint` field feels too helpful, leave it unmapped during import or hide it on the front.

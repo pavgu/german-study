@@ -105,4 +105,4 @@ hr {
 
 - `Cue` and `Translation` use Anki conditional blocks, so they only show when the field is not empty.
 - `Translation` is shown on both the front and the back by design.
-- This note type is intended for the merged file at `data/converted/b2/goethe/K1-K12_RM_DE_RU.txt`.
+- This note type is intended for merged imports such as `anki/imports/converted/b2/goethe/K1-K12_RM_DE_RU.txt`.

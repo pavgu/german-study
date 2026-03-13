@@ -1,70 +1,50 @@
-# German Learner Dictionary
+# German Study
 
 ## Overview
 
-This project converts German→Russian source TSV files into German-focused Anki production cards suitable for B2 learners. The intended workflow is prompt-first: validate raw Anki-style rows locally, then use ChatGPT to convert each raw file directly into a 4-column DE-RU TSV.
-
-## Features
-
-- TSV dictionary processing
-- Prompt-first conversion workflow
-- German explanation generation for cloze targets
-- Production-card rewriting for better active recall
-- Validation pipeline
-- Prompt-only DE-RU conversion from raw files
-- Per-file DE-RU conversion output
-- Merge step for single-file Anki import
+This repository is a broader workspace for German study, with Anki decks, note types, raw import materials, prompts, and small helper scripts in one place.
 
 ## Repository Structure
 
-- `data/raw/<level>/<source>` → original TSV files grouped by CEFR level and source
-- `data/converted/<level>/<source>` → processed German→German dictionary files after ChatGPT-based conversion
-- `data/samples` → small testing datasets
-- `docs` → workflow notes and Anki setup documentation
-- `scripts` → small Python utilities for validation and TSV preparation
-- `prompts` → prompts used for production-card conversion and German explanation generation
-- `tests` → small test datasets
+- `anki/decks/` -> finished Anki-ready decks grouped by study area
+- `anki/imports/raw/` -> raw TSV input files before conversion
+- `anki/imports/converted/` -> converted TSV imports for larger deck builds
+- `anki/note-types/` -> Anki note type templates and import mapping docs
+- `grammar/` -> grammar notes and future topic-specific material
+- `vocabulary/` -> vocabulary notes and future topic-specific material
+- `writing/`, `speaking/`, `reading/`, `listening/` -> space for skill-specific study assets
+- `prompts/` -> prompts used for AI-assisted conversion or study support
+- `scripts/` -> small Python utilities for validation and TSV preparation
+- `tests/` -> small test datasets
+- `data/` -> auxiliary samples and legacy scratch data
 
-Current source layout:
+## Current Study Assets
 
-- `data/raw/b2/goethe` → Goethe B2 raw dictionary files
-- `data/converted/b2/goethe` → converted outputs for the same source
-
-## TSV Format
-
-Example output schema:
-
-```tsv
-german_sentence	german_definition_or_synonym	russian_translation	anki_tags
-```
-
-Example row:
-
-```tsv
-Mein {{c1::wichtigster}} Gegenstand ist {{c2::…}}.	entscheidendster / am wichtigsten	Мой самый важный предмет — это …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
-```
+- `anki/imports/raw/b2/goethe` -> Goethe B2 raw TSV imports
+- `anki/imports/converted/b2/goethe` -> converted Goethe B2 TSV imports
+- `anki/decks/grammar/hin-und-her_cloze_DE_RU.txt` -> cloze deck for `hin` / `her`
+- `anki/decks/grammar/hin-und-her_production_DE_RU.txt` -> production deck for `hin` / `her`
+- `anki/note-types/cloze.md` -> note type for cloze-based cards
+- `anki/note-types/production.md` -> note type for prompt-to-answer production cards
 
 ## Usage
 
 ```bash
 uv venv
 source .venv/bin/activate
-uv run python scripts/validate_tsv.py data/raw/b2/goethe/K1_RM_RU.txt
-uv run python scripts/validate_all.py data/raw/b2/goethe
-uv run python scripts/merge_converted.py data/converted/b2/goethe data/converted/b2/goethe/K1-K12_RM_DE_RU.txt
+uv run python scripts/validate_tsv.py anki/imports/raw/b2/goethe/K1_RM_RU.txt
+uv run python scripts/validate_all.py anki/imports/raw/b2/goethe
+uv run python scripts/merge_converted.py anki/imports/converted/b2/goethe anki/imports/converted/b2/goethe/K1-K12_RM_DE_RU.txt
 ```
 
-Recommended workflow:
+## Recommended Workflow
 
-1. Validate the source TSV.
-2. Use ChatGPT with the rules in `prompts/definition_rules.md` and `prompts/fill_german_field.md` to convert one raw source file directly into a 4-column DE-RU production-card TSV, rewriting placeholder or weak clozes when necessary.
-3. Save the completed file in the matching `data/converted/<level>/<source>/` folder.
-4. Repeat the same prompt workflow for the next raw file in the directory.
-5. Merge the converted chapter files into one TSV for faster Anki import.
-6. Create an Anki note type using the templates in `docs/anki_note_type.md`.
+1. Validate a raw TSV when you are working with the legacy import flow.
+2. Use the prompts in `prompts/` to convert or generate study material.
+3. Save finished importable decks under `anki/decks/`.
+4. Keep larger intermediate conversion batches under `anki/imports/converted/`.
+5. Use the note type templates in `anki/note-types/` when importing into Anki.
 
-## Development Notes
+## Notes
 
-ChatGPT or another AI model can be used to generate German definitions and example sentences. The prompt guidance in `prompts/definition_rules.md` defines the expected style for learner-friendly output. The scripts in this repository are intentionally minimal and are only meant to support a manual AI-assisted workflow, not replace it.
-
-This repository is set up to use `uv` with a local `.venv`. If you want development tools from `pyproject.toml`, run `uv sync --dev`.
+The repository started as a German learner dictionary project and now serves as a more general German study workspace. Some helper scripts still support the older raw-to-converted import flow, which is why `anki/imports/` remains part of the structure.
