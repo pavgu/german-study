@@ -1,0 +1,26 @@
+Иди сюда!	Komm her!	к говорящему = her	form::grammar func::produktion topic::hin_her
+Сходи туда и спроси.	Geh bitte hin und frag nach.	от говорящего = hin	form::grammar func::produktion topic::hin_her
+Можешь принести сюда сумку?	Kannst du die Tasche bitte herbringen?	движение к говорящему	form::grammar func::produktion topic::hin_her
+Можешь отнести туда посылку?	Kannst du das Paket bitte hinbringen?	движение от говорящего	form::grammar func::produktion topic::hin_her
+Когда ты наконец придешь сюда?	Wann kommst du endlich her?	к говорящему = her	form::grammar func::produktion topic::hin_her
+Я пока пойду туда.	Ich gehe schon mal hin.	от говорящего = hin	form::grammar func::produktion topic::hin_her
+Заходи сюда, дверь открыта.	Komm bitte herein; die Tür ist offen.	внутрь к говорящему	form::grammar func::produktion topic::hin_her
+Зайди туда внутрь, я подожду снаружи.	Geh bitte hinein; ich warte draußen.	внутрь не к говорящему	form::grammar func::produktion topic::hin_her
+Собака сразу вышла сюда.	Der Hund kam sofort heraus.	наружу к говорящему	form::grammar func::produktion topic::hin_her
+После встречи она быстро вышла наружу.	Nach dem Meeting ging sie schnell hinaus.	наружу от говорящего	form::grammar func::produktion topic::hin_her
+Поднимайся сюда, еда готова.	Komm bitte herauf; das Essen ist fertig.	наверх к говорящему	form::grammar func::produktion topic::hin_her
+Я ненадолго поднимусь туда наверх, чтобы закрыть окно.	Ich gehe kurz hinauf, um das Fenster zu schließen.	наверх от говорящего	form::grammar func::produktion topic::hin_her
+Спускайся сюда, мы уже ждем.	Komm bitte herunter; wir warten schon.	вниз к говорящему	form::grammar func::produktion topic::hin_her
+Он быстро сбежал вниз к метро.	Er lief schnell hinunter zur U-Bahn.	вниз от говорящего	form::grammar func::produktion topic::hin_her
+Поставь коробку вот сюда.	Stell die Kiste bitte hierher.	в это место, к говорящему	form::grammar func::produktion topic::hin_her
+Положи куртку туда.	Leg deine Jacke bitte dahin.	в то место, от говорящего	form::grammar func::produktion topic::hin_her
+Откуда ты так поздно идешь?	Wo kommst du denn so spät her?	источник с позиции говорящего	form::grammar func::produktion topic::hin_her
+Куда ты сейчас еще собрался?	Wo willst du jetzt noch hin?	цель от говорящего	form::grammar func::produktion topic::hin_her
+Дети со смехом перебежали сюда.	Die Kinder liefen lachend herüber.	через что-то к говорящему	form::grammar func::produktion topic::hin_her
+После перерыва все снова пошли туда, в офис.	Nach der Pause gingen alle wieder hinüber ins Büro.	через что-то от говорящего	form::grammar func::produktion topic::hin_her
+Пришли мне файл сюда сразу.	Schick mir die Datei bitte sofort her.	разг.: отправить ко мне	form::grammar func::produktion topic::hin_her
+Я сейчас отнесу стаканы туда, к соседу.	Ich bringe die Gläser gleich hinüber zum Nachbarn.	движение в другое место	form::grammar func::produktion topic::hin_her
+Официант несколько раз подходил к нам.	Der Kellner kam mehrmals heran.	приближение к говорящему	form::grammar func::produktion topic::hin_her
+Пожалуйста, не подходи так близко.	Bitte tritt nicht so nah heran.	слишком близко к говорящему	form::grammar func::produktion topic::hin_her
+После объяснения она подошла к доске.	Nach der Erklärung trat sie an die Tafel hinan.	приближение к цели, не к говорящему	form::grammar func::produktion topic::hin_her
+Когда закончишь, возвращайся сюда.	Wenn du fertig bist, komm bitte wieder her.	возврат к говорящему	form::grammar func::produktion topic::hin_her
