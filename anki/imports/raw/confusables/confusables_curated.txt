@@ -1,0 +1,40 @@
+ermitteln	vermitteln
+meiden	vermeiden
+erinnern	sich erinnern
+kennen	wissen
+stellen	legen
+setzen	sitzen
+liegen	legen
+stehen	stellen
+bringen	holen
+suchen	finden
+wählen	zählen
+zahlen	bezahlen
+kennenlernen	erfahren
+erzählen	sagen
+denken	glauben
+meinen	bedeuten
+bedeuten	bezeichnen
+zeigen	ziehen
+tragen	anziehen
+verlassen	hinterlassen
+zuhören	anhören
+ändern	verändern
+verbessern	sich verbessern
+entwickeln	sich entwickeln
+entscheiden	sich entscheiden
+treffen	sich treffen
+sich fühlen	fühlen
+steigen	erhöhen
+senken	sinken
+einfallen	auffallen
+vorstellen	darstellen
+vorbereiten	sich vorbereiten
+beschreiben	umschreiben
+sich bewerben	bewerben
+mieten	vermieten
+untersuchen	ermitteln
+erkennen	anerkennen
+ankündigen	kündigen
+kündigen	absagen
+warten	erwarten

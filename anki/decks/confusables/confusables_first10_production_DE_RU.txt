@@ -1,0 +1,30 @@
+Полиция смогла быстро установить личность преступника.	Die Polizei konnte den Täter schnell ermitteln.	Polizei / Täter -> ermitteln; Kontakt / Nachricht -> vermitteln	confusable::pair card::target pair::ermitteln_vermitteln
+Агентство помогло ему найти стажировку в Берлине.	Die Agentur hat ihm ein Praktikum in Berlin vermittelt.	Kontakt / Angebot -> vermitteln	confusable::pair card::confuser pair::ermitteln_vermitteln
+По радио сразу передали эту новость.	Im Radio wurde diese Nachricht sofort vermittelt.	Polizei -> ermitteln; Nachricht -> vermitteln	confusable::pair card::contrast pair::ermitteln_vermitteln
+Он избегает этого соседа после ссоры.	Er meidet diesen Nachbarn seit dem Streit.	Person / Ort -> meiden; Fehler / Risiko -> vermeiden	confusable::pair card::target pair::meiden_vermeiden
+Мы стараемся избегать таких ошибок в отчете.	Wir vermeiden solche Fehler im Bericht.	Fehler / Risiko -> vermeiden	confusable::pair card::confuser pair::meiden_vermeiden
+Она с прошлого года избегает этого кафе.	Sie meidet dieses Cafe seit dem letzten Jahr.	Person / Ort -> meiden; Fehler -> vermeiden	confusable::pair card::contrast pair::meiden_vermeiden
+Эта фотография напоминает мне о школе.	Dieses Foto erinnert mich an die Schule.	etwas erinnert jemanden; sich erinnern an	confusable::pair card::target pair::erinnern_sich_erinnern
+Я хорошо помню наш разговор.	Ich erinnere mich gut an unser Gespräch.	sich erinnern an Vergangenes	confusable::pair card::confuser pair::erinnern_sich_erinnern
+Этот запах сразу напоминает мне о детстве.	Dieser Geruch erinnert mich sofort an meine Kindheit.	etwas erinnert; Person erinnert sich	confusable::pair card::contrast pair::erinnern_sich_erinnern
+Я хорошо знаю этого преподавателя.	Ich kenne diesen Dozenten gut.	Person / Ort -> kennen; Tatsache -> wissen	confusable::pair card::target pair::kennen_wissen
+Я знаю, что экзамен перенесли.	Ich weiß, dass die Prüfung verschoben wurde.	Tatsache / Information -> wissen	confusable::pair card::confuser pair::kennen_wissen
+Я очень хорошо знаю этот город.	Ich kenne diese Stadt sehr gut.	Person / Ort kennen; Information wissen	confusable::pair card::contrast pair::kennen_wissen
+Сейчас я учу немецкий каждый день.	Ich lerne jetzt jeden Tag Deutsch.	als Schüler / Lernender -> lernen; als Dozent -> lehren	confusable::pair card::target pair::lernen_lehren
+В университете она преподает современную историю.	An der Universität lehrt sie moderne Geschichte.	an der Uni / als Dozent -> lehren	confusable::pair card::confuser pair::lernen_lehren
+Студенты быстро учатся на практике.	Die Studierenden lernen in der Praxis schnell.	Studenten lernen; Professoren lehren	confusable::pair card::contrast pair::lernen_lehren
+Поставь, пожалуйста, вазу к окну.	Stell bitte die Vase ans Fenster.	aufrecht hinstellen -> stellen; hinlegen -> legen	confusable::pair card::target pair::stellen_legen
+Положи, пожалуйста, книгу на стол.	Leg bitte das Buch auf den Tisch.	flach hinlegen -> legen	confusable::pair card::confuser pair::stellen_legen
+Поставь бутылку на стол, а книгу положи рядом.	Stell die Flasche auf den Tisch, und leg das Buch daneben.	Flasche -> stellen; Buch -> legen	confusable::pair card::contrast pair::stellen_legen
+Пожалуйста, садитесь здесь.	Setzen Sie sich bitte hier.	sich hinsetzen -> setzen; schon sitzen -> sitzen	confusable::pair card::target pair::setzen_sitzen
+Дети спокойно сидят в классе.	Die Kinder sitzen ruhig im Klassenzimmer.	schon sitzen -> sitzen	confusable::pair card::confuser pair::setzen_sitzen
+После обеда мы сели на террасе.	Nach dem Essen setzten wir uns auf die Terrasse.	sich setzen; dann sitzen	confusable::pair card::contrast pair::setzen_sitzen
+Письмо лежит на столе.	Der Brief liegt auf dem Tisch.	Lage / Zustand -> liegen; Handlung -> legen	confusable::pair card::target pair::liegen_legen
+Положи письмо на стол.	Leg den Brief auf den Tisch.	etwas irgendwohin legen	confusable::pair card::confuser pair::liegen_legen
+Книга уже лежит в сумке.	Das Buch liegt schon in der Tasche.	liegen = Zustand; legen = Aktion	confusable::pair card::contrast pair::liegen_legen
+Стаканы стоят в шкафу.	Die Gläser stehen im Schrank.	Position -> stehen; Aktion -> stellen	confusable::pair card::target pair::stehen_stellen
+Поставь стаканы в шкаф.	Stell die Gläser in den Schrank.	etwas aufrecht irgendwohin stellen	confusable::pair card::confuser pair::stehen_stellen
+Машина стоит перед домом.	Das Auto steht vor dem Haus.	stehen = Position; stellen = Aktion	confusable::pair card::contrast pair::stehen_stellen
+Принеси, пожалуйста, мне воды.	Bring mir bitte etwas Wasser.	zum Empfänger bringen; erst holen = fetch	confusable::pair card::target pair::bringen_holen
+Сходи, пожалуйста, за водой.	Hol bitte etwas Wasser.	etwas holen und zurückkommen	confusable::pair card::confuser pair::bringen_holen
+Я сейчас принесу тебе документы из офиса.	Ich bringe dir die Unterlagen jetzt aus dem Büro.	holen = beschaffen; bringen = geben / liefern	confusable::pair card::contrast pair::bringen_holen

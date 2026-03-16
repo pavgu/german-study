@@ -1,0 +1,120 @@
+Полиция смогла быстро установить личность преступника.	Die Polizei konnte den Täter schnell ermitteln.	Polizei / Täter -> ermitteln; Kontakt / Nachricht -> vermitteln	confusable::pair card::target
+Агентство помогло ему найти стажировку в Берлине.	Die Agentur hat ihm ein Praktikum in Berlin vermittelt.	Kontakt / Angebot -> vermitteln	confusable::pair card::confuser
+Эту новость сразу передали по радио.	Im Radio wurde die Nachricht sofort vermittelt.	Polizei -> ermitteln; Nachricht -> vermitteln	confusable::pair card::contrast
+Он избегает этого соседа после ссоры.	Er meidet diesen Nachbarn seit dem Streit.	Person / Ort -> meiden; Fehler / Risiko -> vermeiden	confusable::pair card::target
+Мы стараемся избегать таких ошибок в отчете.	Wir vermeiden solche Fehler im Bericht.	Fehler / Risiko -> vermeiden	confusable::pair card::confuser
+Она с прошлого года избегает этого кафе.	Sie meidet dieses Cafe seit letztem Jahr.	Person / Ort -> meiden; Fehler -> vermeiden	confusable::pair card::contrast
+Эта фотография напоминает мне о школе.	Dieses Foto erinnert mich an die Schule.	etwas erinnert jemanden; sich erinnern an	confusable::pair card::target
+Я хорошо помню наш разговор.	Ich erinnere mich gut an unser Gespräch.	sich erinnern an Vergangenes	confusable::pair card::confuser
+Этот запах сразу напоминает мне о детстве.	Dieser Geruch erinnert mich sofort an meine Kindheit.	etwas erinnert; Person erinnert sich	confusable::pair card::contrast
+Я хорошо знаю этого преподавателя.	Ich kenne diesen Dozenten gut.	Person / Ort -> kennen; Tatsache -> wissen	confusable::pair card::target
+Я знаю, что экзамен перенесли.	Ich weiß, dass die Prüfung verschoben wurde.	Tatsache / Information -> wissen	confusable::pair card::confuser
+Я очень хорошо знаю этот город.	Ich kenne diese Stadt sehr gut.	Person / Ort kennen; Information wissen	confusable::pair card::contrast
+Поставь, пожалуйста, вазу к окну.	Stell bitte die Vase ans Fenster.	aufrecht hinstellen -> stellen; flach hinlegen -> legen	confusable::pair card::target
+Положи, пожалуйста, книгу на стол.	Leg bitte das Buch auf den Tisch.	flach hinlegen -> legen	confusable::pair card::confuser
+Поставь бутылку на стол, а книгу положи рядом.	Stell die Flasche auf den Tisch und leg das Buch daneben.	Flasche -> stellen; Buch -> legen	confusable::pair card::contrast
+Пожалуйста, садитесь здесь.	Setzen Sie sich bitte hier.	sich hinsetzen -> setzen; schon sitzen -> sitzen	confusable::pair card::target
+Дети спокойно сидят в классе.	Die Kinder sitzen ruhig im Klassenzimmer.	schon sitzen -> sitzen	confusable::pair card::confuser
+После обеда мы сели на террасе.	Nach dem Essen setzten wir uns auf die Terrasse.	sich setzen; dann sitzen	confusable::pair card::contrast
+Письмо лежит на столе.	Der Brief liegt auf dem Tisch.	Lage / Zustand -> liegen; Handlung -> legen	confusable::pair card::target
+Положи письмо на стол.	Leg den Brief auf den Tisch.	etwas irgendwohin legen	confusable::pair card::confuser
+Книга уже лежит в сумке.	Das Buch liegt schon in der Tasche.	liegen = Zustand; legen = Aktion	confusable::pair card::contrast
+Стаканы стоят в шкафу.	Die Gläser stehen im Schrank.	Position -> stehen; Aktion -> stellen	confusable::pair card::target
+Поставь стаканы в шкаф.	Stell die Gläser in den Schrank.	etwas aufrecht irgendwohin stellen	confusable::pair card::confuser
+Машина стоит перед домом.	Das Auto steht vor dem Haus.	stehen = Position; stellen = Aktion	confusable::pair card::contrast
+Принеси, пожалуйста, мне воды.	Bring mir bitte etwas Wasser.	zum Empfänger bringen; erst holen = fetch	confusable::pair card::target
+Сходи, пожалуйста, за водой.	Hol bitte etwas Wasser.	etwas holen und zurückkommen	confusable::pair card::confuser
+Я сейчас принесу тебе документы.	Ich bringe dir die Unterlagen jetzt.	holen = beschaffen; bringen = geben	confusable::pair card::contrast
+Я ищу новую квартиру в центре.	Ich suche eine neue Wohnung im Zentrum.	noch nicht gefunden -> suchen; schon gefunden -> finden	confusable::pair card::target
+Наконец-то я нашел ключи.	Endlich habe ich die Schlüssel gefunden.	etwas entdecken -> finden	confusable::pair card::confuser
+Полиция все еще ищет свидетеля.	Die Polizei sucht noch immer den Zeugen.	suchen = noch nicht da; finden = Erfolg	confusable::pair card::contrast
+На выборах многие голосуют по почте.	Bei der Wahl wählen viele per Brief.	Stimme abgeben -> wählen; Zahlen nennen -> zählen	confusable::pair card::target
+Она медленно считает до двадцати.	Sie zählt langsam bis zwanzig.	Nummern zählen -> zählen	confusable::pair card::confuser
+Сначала посчитай гостей, а потом выбери место.	Zähl zuerst die Gäste und wähle dann den Ort.	wählen = aussuchen / abstimmen; zählen = Nummern	confusable::pair card::contrast
+Я плачу наличными.	Ich zahle bar.	Geld geben -> zahlen; Rechnung begleichen -> bezahlen	confusable::pair card::target
+Он уже оплатил счет.	Er hat die Rechnung schon bezahlt.	eine konkrete Rechnung bezahlen	confusable::pair card::confuser
+В Германии часто можно платить картой.	In Deutschland kann man oft mit Karte zahlen.	zahlen allgemein; Rechnung bezahlen	confusable::pair card::contrast
+Вчера я познакомился с его сестрой.	Gestern habe ich seine Schwester kennengelernt.	zum ersten Mal treffen -> kennenlernen; Information bekommen -> erfahren	confusable::pair card::target
+Только сегодня я узнал об этой новости.	Erst heute habe ich von dieser Nachricht erfahren.	neu erfahren / mitbekommen	confusable::pair card::confuser
+На конференции я познакомился с интересными людьми.	Auf der Konferenz habe ich interessante Leute kennengelernt.	Menschen kennenlernen; Fakten erfahren	confusable::pair card::contrast
+Бабушка любит рассказывать истории из детства.	Meine Oma erzählt gern Geschichten aus ihrer Kindheit.	Geschichte berichten -> erzählen; kurze Aussage machen -> sagen	confusable::pair card::target
+Скажи мне, пожалуйста, правду.	Sag mir bitte die Wahrheit.	kurz etwas sagen	confusable::pair card::confuser
+Он подробно рассказал о поездке.	Er erzählte ausführlich von der Reise.	erzählen = ausführlich; sagen = kurz	confusable::pair card::contrast
+Я думаю, что это хорошая идея.	Ich denke, dass das eine gute Idee ist.	denken = nachdenken; glauben = annehmen	confusable::pair card::target
+Мне кажется, что он уже дома.	Ich glaube, dass er schon zu Hause ist.	Vermutung -> glauben	confusable::pair card::confuser
+Сначала подумай, а потом отвечай.	Denk erst nach und antworte dann.	denken = mental arbeiten; glauben = vermuten	confusable::pair card::contrast
+Я имею в виду совсем другое.	Ich meine etwas ganz anderes.	ich meine = ich will sagen; bedeuten = heißen	confusable::pair card::target
+Что означает это слово?	Was bedeutet dieses Wort?	Bedeutung haben -> bedeuten	confusable::pair card::confuser
+Когда я говорю «спокойно», я имею в виду не «медленно».	Wenn ich „ruhig“ sage, meine ich nicht „langsam“.	meinen = meinen; bedeuten = heißen	confusable::pair card::contrast
+Это слово означает «надежный».	Dieses Wort bedeutet „zuverlässig“.	Sinn haben -> bedeuten; benennen -> bezeichnen	confusable::pair card::target
+Этим термином называют новые формы жилья.	Mit diesem Begriff bezeichnet man neue Wohnformen.	etwas benennen -> bezeichnen	confusable::pair card::confuser
+Что означает это сокращение?	Was bedeutet diese Abkürzung?	bedeuten = Sinn; bezeichnen = benennen	confusable::pair card::contrast
+Покажи мне, пожалуйста, дорогу на карте.	Zeig mir bitte den Weg auf der Karte.	zeigen = sichtbar machen; ziehen = bewegen	confusable::pair card::target
+Он тянет чемодан по лестнице.	Er zieht den Koffer die Treppe hoch.	ziehen = bewegen	confusable::pair card::confuser
+Покажи мне фото, а потом подвинь стул ближе.	Zeig mir das Foto und zieh dann den Stuhl näher.	zeigen = vorführen; ziehen = bewegen	confusable::pair card::contrast
+Зимой он всегда носит шарф.	Im Winter trägt er immer einen Schal.	Kleidung tragen -> tragen; anziehen = anlegen	confusable::pair card::target
+Она быстро надела пальто и вышла.	Sie zog schnell den Mantel an und ging hinaus.	etwas an den Körper anlegen -> anziehen	confusable::pair card::confuser
+Сегодня она в красном платье.	Heute trägt sie ein rotes Kleid.	tragen = schon anhaben; anziehen = anlegen	confusable::pair card::contrast
+Он оставил город много лет назад.	Er hat die Stadt vor vielen Jahren verlassen.	weggehen von -> verlassen; etwas zurücklassen -> hinterlassen	confusable::pair card::target
+Пожар оставил большие разрушения.	Das Feuer hat große Schäden hinterlassen.	Spuren hinterlassen	confusable::pair card::confuser
+Она молча вышла из комнаты.	Sie verließ still das Zimmer.	verlassen = weggehen; hinterlassen = Spur	confusable::pair card::contrast
+Пожалуйста, слушай внимательно.	Hör bitte gut zu.	aktiv zuhören -> zuhören; Probe hören -> anhören	confusable::pair card::target
+Я хочу сначала прослушать этот подкаст.	Ich möchte mir diesen Podcast zuerst anhören.	etwas anhören = hören / prüfen	confusable::pair card::confuser
+На собрании нужно внимательно слушать.	In der Besprechung muss man gut zuhören.	Person zuhören; Lied anhören	confusable::pair card::contrast
+Я хочу изменить свое отношение к учебе.	Ich möchte meine Einstellung zum Lernen ändern.	etwas anders machen -> ändern; größer umgestalten -> verändern	confusable::pair card::target
+Цифровизация сильно меняет рынок труда.	Die Digitalisierung verändert den Arbeitsmarkt stark.	stark verwandeln -> verändern	confusable::pair card::confuser
+Мы немного изменили расписание.	Wir haben den Plan leicht geändert.	ändern = anpassen; verändern = stark wandeln	confusable::pair card::contrast
+Я хочу улучшить свое произношение.	Ich will meine Aussprache verbessern.	etwas besser machen -> verbessern; selbst besser werden -> sich verbessern	confusable::pair card::target
+Мой немецкий заметно улучшился.	Mein Deutsch hat sich deutlich verbessert.	sich verbessern = besser werden	confusable::pair card::confuser
+Учитель помог мне улучшить текст.	Der Lehrer half mir, den Text zu verbessern.	etwas verbessern; sich verbessern = selbst besser	confusable::pair card::contrast
+Инженеры разрабатывают новое приложение.	Die Ingenieure entwickeln eine neue App.	etwas entwickeln; sich entwickeln = reifen	confusable::pair card::target
+Ребенок развивается очень быстро.	Das Kind entwickelt sich sehr schnell.	sich entwickeln = wachsen / reifen	confusable::pair card::confuser
+Эта идея постепенно развивается.	Diese Idee entwickelt sich langsam weiter.	entwickeln = machen; sich entwickeln = reifen	confusable::pair card::contrast
+Завтра я решу этот вопрос окончательно.	Morgen entscheide ich diese Frage endgültig.	etwas entscheiden; sich entscheiden = wählen	confusable::pair card::target
+Я еще не решил, куда поехать летом.	Ich habe mich noch nicht entschieden, wohin ich im Sommer fahre.	sich entscheiden für	confusable::pair card::confuser
+Суд решает такие случаи очень быстро.	Das Gericht entscheidet solche Fälle sehr schnell.	entscheiden = festlegen; sich entscheiden = wählen	confusable::pair card::contrast
+Завтра мы встретимся у входа.	Morgen treffen wir uns am Eingang.	sich treffen = sich verabreden; treffen = etwas / jemanden treffen	confusable::pair card::target
+Мяч попал прямо в окно.	Der Ball traf direkt das Fenster.	etwas treffen = treffen	confusable::pair card::confuser
+Мы договорились встретиться после работы.	Wir treffen uns nach der Arbeit.	sich treffen = verabreden; treffen = treffen	confusable::pair card::contrast
+После экзамена я чувствую себя спокойно.	Nach der Prüfung fühle ich mich ruhig.	sich fühlen = innerer Zustand; fühlen = berühren	confusable::pair card::target
+Я чувствую холодный ветер на лице.	Ich fühle den kalten Wind im Gesicht.	mit Körper fühlen	confusable::pair card::confuser
+Сегодня я чувствую себя намного лучше.	Ich fühle mich heute viel besser.	sich fühlen = Zustand; fühlen = tasten	confusable::pair card::contrast
+Цены снова выросли.	Die Preise sind wieder gestiegen.	steigen = selbst hoch; erhöhen = aktiv	confusable::pair card::target
+Компания повысила зарплаты на пять процентов.	Die Firma hat die Gehälter um fünf Prozent erhöht.	aktiv höher machen -> erhöhen	confusable::pair card::confuser
+Температура резко повысилась.	Die Temperatur ist stark gestiegen.	steigen = selbst hoch; erhöhen = aktiv	confusable::pair card::contrast
+Центробанк снизил процентную ставку.	Die Zentralbank hat den Zinssatz gesenkt.	aktiv nach unten bringen -> senken; selbst sinken -> sinken	confusable::pair card::target
+Корабль затонул во время шторма.	Das Schiff ist im Sturm gesunken.	selbst nach unten gehen -> sinken	confusable::pair card::confuser
+Они снизили цены до конца месяца.	Sie haben die Preise bis Monatsende gesenkt.	senken = aktiv; sinken = selbst	confusable::pair card::contrast
+Мне вдруг пришла в голову хорошая идея.	Mir ist plötzlich eine gute Idee eingefallen.	einfallen = in den Kopf kommen; auffallen = bemerken	confusable::pair card::target
+Мне сразу бросилась в глаза его ошибка.	Sein Fehler ist mir sofort aufgefallen.	etwas bemerken -> auffallen	confusable::pair card::confuser
+По дороге мне пришло в голову новое решение.	Unterwegs ist mir eine neue Lösung eingefallen.	einfallen = Idee; auffallen = bemerken	confusable::pair card::contrast
+Разрешите представить вам нашего нового коллегу.	Ich möchte Ihnen unseren neuen Kollegen vorstellen.	jemanden vorstellen; darstellen = abbilden	confusable::pair card::target
+На графике показано развитие цен.	Die Grafik stellt die Preisentwicklung dar.	etwas darstellen = zeigen / abbilden	confusable::pair card::confuser
+В начале встречи директор представил новый проект.	Zu Beginn des Treffens stellte der Direktor das neue Projekt vor.	vorstellen = präsentieren; darstellen = abbilden	confusable::pair card::contrast
+Я хочу заранее подготовить документы.	Ich will die Unterlagen früh vorbereiten.	etwas vorbereiten; selbst bereit machen = sich vorbereiten	confusable::pair card::target
+Я готовлюсь к экзамену каждый вечер.	Ich bereite mich jeden Abend auf die Prüfung vor.	sich vorbereiten auf	confusable::pair card::confuser
+Она заранее подготовила презентацию.	Sie hat die Präsentation rechtzeitig vorbereitet.	etwas vorbereiten; sich vorbereiten = selbst	confusable::pair card::contrast
+Опишите проблему как можно точнее.	Beschreiben Sie das Problem bitte möglichst genau.	etwas schildern; umschreiben = anders formulieren	confusable::pair card::target
+Можешь перефразировать это предложение?	Kannst du diesen Satz umschreiben?	anders formulieren -> umschreiben	confusable::pair card::confuser
+Он точно описал происшествие.	Er hat den Vorfall genau beschrieben.	beschreiben = schildern; umschreiben = neu formulieren	confusable::pair card::contrast
+Я хочу устроиться на эту работу.	Ich möchte mich auf diese Stelle bewerben.	sich bewerben = Job; etwas bewerben = Werbung	confusable::pair card::target
+Фирма рекламирует новый продукт в интернете.	Die Firma bewirbt das neue Produkt im Internet.	etwas bewerben = Werbung machen	confusable::pair card::confuser
+Она подала заявку в две компании.	Sie hat sich bei zwei Firmen beworben.	sich bewerben = Bewerbung; etwas bewerben = Werbung	confusable::pair card::contrast
+Мы снимаем маленькую квартиру в центре.	Wir mieten eine kleine Wohnung im Zentrum.	als Mieter nehmen -> mieten; als Besitzer geben -> vermieten	confusable::pair card::target
+Они сдают дом туристам.	Sie vermieten das Haus an Touristen.	an andere geben -> vermieten	confusable::pair card::confuser
+Студенты снимают комнату у пожилой пары.	Die Studierenden mieten ein Zimmer bei einem älteren Paar.	mieten = nehmen; vermieten = geben	confusable::pair card::contrast
+Врач осмотрел пациента очень тщательно.	Der Arzt untersuchte den Patienten sehr gründlich.	medizinisch / sachlich untersuchen; Fall ermitteln	confusable::pair card::target
+Полиция расследует причину пожара.	Die Polizei ermittelt die Ursache des Brandes.	polizeilich ermitteln	confusable::pair card::confuser
+Лаборатория исследует воду очень тщательно.	Das Labor untersucht das Wasser sehr gründlich.	untersuchen = prüfen; ermitteln = feststellen	confusable::pair card::contrast
+Я сразу узнал его по голосу.	Ich erkannte ihn sofort an der Stimme.	wiedererkennen -> erkennen; offiziell anerkennen -> anerkennen	confusable::pair card::target
+Этот диплом здесь признают.	Dieses Diplom wird hier anerkannt.	offiziell gültig machen -> anerkennen	confusable::pair card::confuser
+Я едва узнал старого друга.	Ich habe den alten Freund kaum erkannt.	erkennen = wiedererkennen; anerkennen = akzeptieren	confusable::pair card::contrast
+Компания заранее объявила о повышении цен.	Die Firma kündigte die Preiserhöhung früh an.	etwas ankündigen; Vertrag beenden = kündigen	confusable::pair card::target
+Он уволился в конце месяца.	Er hat Ende des Monats gekündigt.	einen Vertrag / Job kündigen	confusable::pair card::confuser
+В начале встречи она объявила важную новость.	Zu Beginn des Treffens kündigte sie eine wichtige Nachricht an.	ankündigen = bekannt machen; kündigen = beenden	confusable::pair card::contrast
+Я хочу расторгнуть договор как можно скорее.	Ich möchte den Vertrag so schnell wie möglich kündigen.	Vertrag beenden; Termin absagen	confusable::pair card::target
+Из-за болезни пришлось отменить встречу.	Wegen der Krankheit mussten wir das Treffen absagen.	einen Termin absagen	confusable::pair card::confuser
+Он отменил прием за час до начала.	Er hat den Termin eine Stunde vorher abgesagt.	kündigen = Vertrag; absagen = Termin	confusable::pair card::contrast
+Подожди меня у входа.	Warte am Eingang auf mich.	warten = warten; erwarten = rechnen mit	confusable::pair card::target
+Мы ожидаем важные новости из Берлина.	Wir erwarten wichtige Nachrichten aus Berlin.	mit etwas rechnen -> erwarten	confusable::pair card::confuser
+Я жду автобус уже десять минут.	Ich warte schon seit zehn Minuten auf den Bus.	warten = stehen und warten; erwarten = rechnen	confusable::pair card::contrast
