@@ -1,0 +1,204 @@
+das Eishockey
+die Eishalle
+die Eisfläche
+die Eisaufbereitung
+die Bande
+die blaue Linie
+die rote Linie
+die Torlinie
+das Drittel
+die Verlängerung
+das Penaltyschießen
+das Bully
+der Puck
+der Schläger
+das Schlägerblatt
+der Schaft
+die Schutzausrüstung
+der Helm
+das Visier
+die Schulterpolster
+die Ellenbogenschoner
+die Schienbeinschoner
+der Handschuh
+der Fanghandschuh
+der Blocker
+die Torwartmaske
+der Torwart
+der Verteidiger
+der Stürmer
+der Mittelstürmer
+der Flügelspieler
+die Reihe
+das Sturmduo
+die vierte Reihe
+der Wechsel
+die Bank
+die Strafbank
+die Aufstellung
+die Startformation
+die Paarung in der Verteidigung
+der Antritt
+die Beschleunigung
+die Endgeschwindigkeit
+die Wendigkeit
+die Laufarbeit
+der Kantenwechsel
+der Richtungswechsel
+die Scheibenkontrolle
+die Puckführung
+die Stocktechnik
+der Handgelenkschuss
+der Schlagschuss
+der Snapshot
+der Rückhandschuss
+die Direktabnahme
+der Rebound
+der Abpraller
+die Fangquote
+die Parade
+die Fanghand
+das Stellungsspiel
+die Raumdeckung
+die Manndeckung
+das Forechecking
+das Backchecking
+das Umschaltspiel
+der Spielaufbau
+der Spielzug
+die Passlinie
+der Querpass
+der Steilpass
+der Fehlpass
+der Puckverlust
+der Puckgewinn
+die Scheibenrückeroberung
+das Gegenpressing
+die Überzahl
+das Unterzahlspiel
+das Powerplay
+das Penalty Killing
+die numerische Überlegenheit
+die Unterzahlsituation
+das Icing
+das Abseits
+die Abseitsregel
+das hohe Zuspiel
+der unerlaubte Körperangriff
+der Bandencheck
+der Stockschlag
+das Beinstellen
+das Haken
+das Halten
+die Zwei-Minuten-Strafe
+die Fünf-Minuten-Strafe
+die Spieldauerdisziplinarstrafe
+der Check
+der Körperkontakt
+das Duell an der Bande
+der Slot
+der Bullykreis
+der Torraum
+der Rückraum
+die Schussbahn
+die Sichtbehinderung
+das Empty-Net-Goal
+der Anschlusstreffer
+der Führungstreffer
+der Ausgleichstreffer
+das Siegtor
+die Puckkontrolle sichern
+den Gegner früh unter Druck setzen
+die Scheibe tief ins Drittel spielen
+den Wechsel sauber timen
+die neutrale Zone dicht machen
+die Passwege konsequent zustellen
+den Puck an der Bande behaupten
+einen Schlagschuss blocken
+den Rebound verwerten
+den Torwart die Sicht nehmen
+das Spiel schnell verlagern
+einen Angriff sauber zu Ende spielen
+in Unterzahl kompakt stehen
+das Powerplay geduldig aufziehen
+den Spielaufbau des Gegners stören
+die Scheibe aus der Gefahrenzone klären
+mit hohem Tempo in die Zone einlaufen
+einen Querpass durch den Slot spielen
+den Puckverlust sofort absichern
+die Schussbahn geschickt schließen
+im Forechecking aggressiv nachsetzen
+die Zuordnung in der Defensive halten
+einen Konter konsequent ausspielen
+den Gegner an die Bande drängen
+einen Fehlpass direkt bestrafen
+den Puck unter Druck kontrollieren
+die Überzahl effizient ausspielen
+in der neutralen Zone abfangen
+den Torraum konsequent verteidigen
+einen Abpraller gefährlich nachsetzen
+Die Mannschaft verteidigt heute sehr kompakt.
+Der Torwart hält den Winkel konsequent klein.
+Im Powerplay fehlt noch die letzte Präzision.
+Die Verteidiger schließen die Passwege früh.
+Der Stürmer setzt den Gegner sofort unter Druck.
+In Unterzahl räumt das Team den Slot gut ab.
+Der Querpass kommt genau durch die Mitte.
+Nach dem Puckverlust schaltet die Reihe sofort um.
+Der Check an der Bande war hart, aber sauber.
+Die Scheibe springt gefährlich vor das Tor.
+Der Spielaufbau wirkt ruhig und kontrolliert.
+Das Forechecking zwingt den Gegner zu Fehlern.
+Der Torwart pariert auch den Nachschuss sicher.
+Die vierte Reihe bringt heute viel Energie.
+Im letzten Drittel steigt der Druck deutlich.
+Der Ausgleich fällt kurz vor der Sirene.
+Die Mannschaft spielt die Überzahl zu statisch.
+Der Verteidiger blockt den Schlagschuss mit vollem Einsatz.
+Im Umschaltspiel fehlt oft die erste klare Option.
+Der Puck wird tief hinter das Tor gespielt.
+Die Zuordnung stimmt in dieser Phase nicht.
+Das Backchecking kommt heute einen Schritt zu spät.
+Der Mittelstürmer gewinnt das entscheidende Bully.
+Die Schussbahn ist im Slot komplett offen.
+Nach dem Abpraller reagiert er am schnellsten.
+Die Reihe hält den Puck lange in der Zone.
+Der Gegner kommt mit Tempo über die blaue Linie.
+Der Führungstreffer verändert sofort die Dynamik.
+Das Penalty Killing arbeitet diszipliniert und eng.
+Der Torwart lässt nur wenige Rebounds zu.
+Die Passlinie zum freien Mann ist offen.
+Der Körperkontakt nimmt im Schlussdrittel zu.
+Die Mannschaft verteidigt die Führung sehr reif.
+Der Puck läuft im Powerplay deutlich besser.
+Die Scheibenrückeroberung gelingt heute konsequent.
+Ein Fehlpass im Aufbau führt direkt zum Gegentor.
+Der Flügelspieler zieht entschlossen zum Tor.
+Die Eisaufbereitung verändert das Tempo des Spiels.
+Der Anschlusstreffer bringt die Halle zurück ins Spiel.
+Im Torraum wird um jeden Zentimeter gekämpft.
+Der Stürmer fälscht den Schuss entscheidend ab.
+Das Abseits unterbricht einen gefährlichen Angriff.
+Die Strafbank ist heute zu oft besetzt.
+Der Snapshot kommt schnell und überraschend.
+Im letzten Wechsel fehlt die Ordnung.
+die Scheibe flach halten
+den Gegner vom Puck trennen
+mit dem Schläger nachsetzen
+die neutrale Zone überbrücken
+den Slot sauber absichern
+den Rückraum aufmerksam besetzen
+den Schläger gut positionieren
+mit engem Gap verteidigen
+die Scheibe blind klären
+den Gegner ins Abseits treiben
+unter hohem Druck befreien
+den Puck hinter dem Tor sichern
+die Bande als Hilfe nutzen
+den Wechsel kurz und effektiv halten
+mit breiter Staffelung angreifen
+den Rebound gefährlich aufnehmen
+den Schlagschuss antäuschen
+die Fangquote stabil halten
+die Scheibe in den Lauf spielen
+die Unterzahl diszipliniert überstehen

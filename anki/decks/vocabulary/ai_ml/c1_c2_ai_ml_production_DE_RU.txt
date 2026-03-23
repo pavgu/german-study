@@ -1,0 +1,400 @@
+искусственный интеллект	die künstliche Intelligenz	Systeme mit intelligentem Verhalten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+генеративный ИИ	die generative KI	erzeugt neue Inhalte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+машинное обучение	das maschinelle Lernen	Modelle lernen aus Daten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обучение с учителем	das überwachte Lernen	lernt mit Zielvorgaben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обучение без учителя	das unüberwachte Lernen	lernt ohne Zielwerte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обучение с подкреплением	das bestärkende Lernen	lernt über Belohnung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+глубокое обучение	das Deep Learning	viele Schichten lernen Muster	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+нейронная сеть	das neuronale Netz	mehrschichtiges Lernsystem	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+искусственная нейронная сеть	das künstliche neuronale Netz	rechnerisches Netz nach Vorbild	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+языковая модель	das Sprachmodell	lernt Wahrscheinlichkeiten in Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+базовая модель	das Basismodell	groß vortrainiertes Ausgangsmodell	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+система ИИ	das KI-System	technische Lösung mit KI	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+экспертная система	das Expertensystem	regelbasiert mit Fachwissen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+модель	das Modell	lernt Abbildungen aus Daten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+архитектура модели	die Modellarchitektur	Aufbau des Lernsystems	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+размер модели	die Modellgröße	wie groß das System ist	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+семейство моделей	die Modellfamilie	verwandte Reihe von Modellen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+число параметров	die Parameterzahl	Menge lernbarer Gewichte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+обучение	das Training	Lernphase des Modells	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+предобучение	das Vortraining	frühe breite Lernphase	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+тонкая настройка	die Feinabstimmung	gezielte Anpassung ans Ziel	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+цикл обучения	die Trainingsschleife	wiederholter Lernablauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+итерация обучения	die Trainingsiteration	ein Schritt im Lernprozess	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обучающие данные	die Trainingsdaten	Beispiele für das Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+валидационные данные	die Validierungsdaten	Daten zur Zwischenprüfung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+тестовые данные	die Testdaten	Daten für Schlussbewertung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+набор данных	der Datensatz	Sammlung von Beispielen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+кураторство данных	die Datenkurierung	sorgfältige Auswahl von Beispielen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+аннотация данных	die Datenannotation	versehen mit Labels	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+очистка данных	die Datenbereinigung	entfernt Fehler im Bestand	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+качество данных	die Datenqualität	Eignung der Beispiele	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+сбор данных	die Datenerhebung	systematisches Erfassen von Beispielen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+распределение данных	die Datenverteilung	Verteilung von Werten und Klassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+представление данных	die Datenrepräsentation	Form der maschinenlesbaren Darstellung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+признак	das Merkmal	ein messbarer Eingabeaspekt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+извлечение признаков	die Merkmalsextraktion	gewinnt nützliche Eigenschaften	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+отбор признаков	die Merkmalsauswahl	wählt wichtige Eigenschaften	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+вектор	der Vektor	geordnete Zahlenfolge	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+вектор признаков	der Merkmalsvektor	Zahlenform eines Beispiels	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+эмбеддинг	die Einbettung	kompakte semantische Darstellung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+пространство эмбеддингов	der Einbettungsraum	Raum ähnlicher Repräsentationen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+токен	der Token	kleinste verarbeitete Einheit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+токенизация	die Tokenisierung	zerlegt Text in Einheiten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+последовательность	die Sequenz	geordnete Folge von Elementen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+контекст	der Kontext	umgebende Information zur Deutung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+контекстное окно	das Kontextfenster	maximaler nutzbarer Verlauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+вход	die Eingabe	was ins Modell geht	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+выход	die Ausgabe	was das Modell liefert	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+инференс	die Inferenz	Laufzeitnutzung des Modells	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+предсказание	die Vorhersage	erzeugtes Ergebnis für Eingabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+генерация	die Generierung	Erzeugen neuer Inhalte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+выборка	die Stichprobe	gezogene Menge oder Auswahl	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+декодирование	die Dekodierung	erzeugt Ausgabe aus Zuständen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+распределение вероятностей	die Wahrscheinlichkeitsverteilung	ordnet Chancen über Möglichkeiten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+логит	der Logit	Rohwert vor Wahrscheinlichkeiten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+механизм внимания	der Attention-Mechanismus	gewichtet relevante Teile	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+самовнимание	die Selbstaufmerksamkeit	bezieht sich auf eigene Sequenz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+энкодер	der Encoder	verdichtet Eingaben intern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+декодер	der Decoder	erzeugt Ausgabe aus Repräsentation	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+трансформер	der Transformer	modernes Sequenzmodell mit Attention	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+слой	die Schicht	eine Ebene im Netz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+функция активации	die Aktivierungsfunktion	nichtlineare Umwandlung im Netz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+функция потерь	die Verlustfunktion	misst Abweichung zum Ziel	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+градиент	der Gradient	Richtung der Verbesserung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+градиентный спуск	der Gradientenabstieg	verbessert Gewichte schrittweise	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+оптимизатор	der Optimierer	Regel zur Gewichtsaktualisierung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+скорость обучения	die Lernrate	Größe eines Lernschritts	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+вес	die Gewichtung	stärke eines Einflusses	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+инициализация	die Initialisierung	erste Setzung vor dem Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+регуляризация	die Regularisierung	begrenzt Überanpassung im Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+нормализация	die Normalisierung	bringt Werte in sauberen Bereich	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+размер батча	die Stapelgröße	Anzahl Beispiele pro Schritt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+эпоха	die Epoche	ein Durchgang durch Daten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+сходимость	die Konvergenz	Lernen nähert sich stabilem Wert	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обобщение	die Generalisierung	bleibt auch bei Neuem gut	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+переобучение	die Überanpassung	lernt Training zu speziell	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+недообучение	die Unteranpassung	lernt Muster zu wenig	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+смещение	der Bias	systematische Schieflage im Modell	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+искажение	die Verzerrung	systematische Unausgewogenheit im Bestand	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+дисперсия	die Varianz	empfindlich gegenüber kleinen Änderungen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+робастность	die Robustheit	bleibt bei Störungen stabil	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+воспроизводимость	die Reproduzierbarkeit	ergibt erneut ähnliches Resultat	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+прослеживаемость	die Nachvollziehbarkeit	Entscheidungen sind zurückverfolgbar	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+объяснимость	die Erklärbarkeit	lässt Ergebnisse verständlich machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+интерпретируемость	die Interpretierbarkeit	Verhalten ist leichter deutbar	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+оценка модели	die Modellbewertung	beurteilt Leistung systematisch	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+оценивание	die Evaluierung	formale Prüfung der Qualität	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+бенчмарк	die Benchmark	Vergleich mit Referenzaufgabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+метрика	die Metrik	messbarer Bewertungswert	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+точность	die Genauigkeit	Anteil richtiger Ergebnisse	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+точность (precision)	die Präzision	wie sauber positive Treffer sind	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+полнота	die Trefferquote	wie viel Relevantes gefunden wird	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+полнота (recall)	der Recall	Anteil gefundener relevanter Fälle	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+F1-показатель	der F1-Wert	balanciert Präzision und Recall	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+ошибочная классификация	die Fehlklassifikation	falsche Klassenentscheidung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+матрица ошибок	die Konfusionsmatrix	zeigt Treffer und Verwechslungen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+калибровка	die Kalibrierung	passt Wahrscheinlichkeiten besser an	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+оценка неопределённости	die Unsicherheitsschätzung	misst Zweifel der Vorhersage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+классификация	die Klassifikation	ordnet in Klassen ein	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+регрессия	die Regression	schätzt kontinuierliche Werte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+кластерный анализ	die Clusteranalyse	findet Gruppen ohne Labels	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+снижение размерности	die Dimensionsreduktion	verdichtet viele Merkmale	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обнаружение аномалий	die Anomalieerkennung	findet ungewöhnliche Muster	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+рекомендация	die Empfehlung	passender Vorschlag für Nutzer	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+рекомендательная система	das Empfehlungssystem	schlägt passende Inhalte vor	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+анализ временных рядов	die Zeitreihenanalyse	arbeitet mit zeitlichem Verlauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+предобработка	die Vorverarbeitung	bereitet Daten vor dem Modell auf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+постобработка	die Nachbearbeitung	verändert Ergebnisse nach dem Modell	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+стратегия промптинга	die Prompting-Strategie	planvolle Gestaltung von Eingaben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+промпт-инжиниринг	das Prompt Engineering	optimiert Eingaben für Modelle	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+системная инструкция	die Systemanweisung	oberste Vorgabe fürs Modell	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+пользовательский ввод	die Benutzereingabe	Text oder Daten vom Nutzer	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+выход модели	die Modellausgabe	Resultat des Systems	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+использование инструментов	die Tool-Nutzung	Modell greift auf Werkzeuge zu	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+логика вызова функций	die Funktionsaufruflogik	regelt wann Tools gestartet werden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+агент	der Agent	handelt mit Zielen und Tools	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+агентная система	das agentische System	mehrschrittige Lösung mit Aktionen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+цепочка инструментов	die Werkzeugkette	mehrere Tools im Ablauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+retrieval-пайплайн	die Retrieval-Pipeline	holt Kontext aus Quellen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+база знаний	die Wissensbasis	gesammelte Quelle für Fakten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+семантический поиск	die semantische Suche	findet nach Bedeutung statt Wörtern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+векторная база данных	die Vektordatenbank	speichert Embeddings für Suche	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+поиск по сходству	die Ähnlichkeitssuche	findet nahe Repräsentationen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+ранжирование	die Rangfolge	Ordnung nach Wichtigkeit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+релевантность	die Relevanz	Passung zur gestellten Frage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+обогащение контекста	die Kontextanreicherung	ergänzt Eingabe um Wissen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+указание источника	die Quellenangabe	nennt Herkunft der Aussage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стратегия привязки к источникам	die Grounding-Strategie	bindet Antwort an Belege	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+галлюцинация	die Halluzination	erfundene Ausgabe ohne Grundlage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+фактическая точность	die Faktentreue	bleibt eng an verlässlichen Fakten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+качество ответа	die Antwortqualität	Güte einer Modellausgabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+модерация контента	die Inhaltsmoderation	filtert problematische Inhalte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+ограничение безопасности	die Sicherheitseinschränkung	verhindert riskantes Verhalten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+мера защиты	die Schutzmaßnahme	senkt Missbrauchsrisiken	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+случай злоупотребления	der Missbrauchsfall	unerlaubte oder schädliche Nutzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+атака джейлбрейком	die Jailbreak-Attacke	umgeht Schutzregeln gezielt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+инъекция в промпт	die Prompt-Injektion	manipuliert Anweisungen über Eingabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+безопасность данных	die Datensicherheit	Schutz sensibler Informationen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+защита персональных данных	der Datenschutz	Regeln für Personendaten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+управление моделью	die Modellgovernance	Rahmen für Verantwortung und Kontrolle	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+комплаенс	die Compliance	Einhaltung externer Vorgaben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+выравнивание	die Ausrichtung	Anpassung an gewünschte Ziele	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+функция вознаграждения	die Belohnungsfunktion	regelt was gutes Verhalten ist	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+данные предпочтений	die Präferenzdaten	Rückmeldungen über bessere Antworten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+человеческая обратная связь	die menschliche Rückmeldung	Bewertung durch Menschen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+соответствие правилам	die Richtlinienkonformität	hält interne Vorgaben ein	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+оценка риска	die Risikobewertung	bewertet mögliche Schäden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+безопасное поведение системы	das Sicherheitsverhalten	wie sicher das System reagiert	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+справедливость	die Fairness	vermeidet ungerechte Unterschiede	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+предотвращение вреда	die Schadensvermeidung	minimiert negative Folgen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+анализ искажений	die Verzerrungsanalyse	sucht Schieflagen im System	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+адаптация к домену	die Domänenanpassung	passt Modell an Fachgebiet an	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+контекст применения	der Einsatzkontext	konkrete Umgebung der Nutzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+сценарий использования	der Anwendungsfall	konkrete Aufgabe im Einsatz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+готовность к продакшену	die Produktionsreife	geeignet für echten Einsatz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+развёртывание	die Bereitstellung	bringt Modell in Betrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+версия модели	die Modellversion	bestimmter veröffentlichter Stand	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+версионирование	die Versionierung	ordnet verschiedene Stände	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+мониторинг	die Überwachung	verfolgt Verhalten im Betrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+мониторинг дрейфа	das Drift-Monitoring	beobachtet Veränderungen über Zeit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+сдвиг данных	die Datenverschiebung	Eingaben sehen anders aus	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+концептуальный дрейф	die Konzeptdrift	Zusammenhang ändert sich im Einsatz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+контроль качества	die Qualitätskontrolle	prüft Güte im Betrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+контроль расходов	die Kostenkontrolle	hält Nutzung wirtschaftlich	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+масштабирование	die Skalierung	passt Kapazität an Bedarf an	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стоимость запроса	die Anfragekosten	Kosten pro Nutzungsvorgang	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+потребление ресурсов	der Ressourcenverbrauch	nutzt Rechenzeit und Speicher	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+задержка	die Latenz	Zeit bis zur Ausgabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+пропускная способность	der Durchsatz	wie viel pro Zeit geht	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+пакетный инференс	die Batch-Inferenz	verarbeitet viele Eingaben gesammelt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+инференс в реальном времени	die Echtzeit-Inferenz	reagiert sofort im Betrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+мультимодальность	die Multimodalität	arbeitet mit mehreren Medientypen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+понимание языка	das Sprachverständnis	verarbeitet Bedeutung in Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+классификация текста	die Textklassifikation	ordnet Texte Klassen zu	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+анализ тональности	die Sentimentanalyse	erkennt Stimmung in Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+суммаризация	die Zusammenfassung	verdichtet längeren Inhalt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+перевод	die Übersetzung	überträgt Inhalt in andere Sprache	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+извлечение информации	die Informationsextraktion	zieht Fakten aus Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+вопросно-ответная система	die Fragebeantwortung	gibt Antworten auf Fragen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+генерация кода	die Codegenerierung	erzeugt Programmtext automatisch	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+классификация изображений	die Bildklassifikation	ordnet Bildern Klassen zu	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+обнаружение объектов	die Objekterkennung	findet Gegenstände im Bild	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+сегментация	die Segmentierung	teilt Bild in Bereiche	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+распознавание речи	die Spracherkennung	macht Text aus Ton	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+синтез речи	die Sprachsynthese	macht Ton aus Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+анализ документов	die Dokumentenanalyse	liest strukturierte Dokumente aus	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+извлечение таблиц	die Tabellenextraktion	holt Tabellen aus Dokumenten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+распознавание диаграмм	die Diagrammerkennung	liest grafische Darstellungen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+извлечение знаний	die Wissensextraktion	gewinnt strukturierte Fakten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+онтология	die Ontologie	formale Begriffsstruktur einer Domäne	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+база правил	die Regelbasis	Sammlung expliziter Regeln	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+символический ИИ	die symbolische KI	arbeitet mit Regeln und Symbolen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+гибридный ИИ	die hybride KI	kombiniert mehrere Ansätze	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+вероятностное моделирование	die probabilistische Modellierung	arbeitet mit Unsicherheit formal	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+байесовская модель	das Bayes-Modell	nutzt bedingte Wahrscheinlichkeiten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+дерево решений	der Entscheidungsbaum	trifft Entscheidungen über Knoten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+случайный лес	der Zufallswald	Ensemble vieler Bäume	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+градиентный бустинг	das Gradientenboosting	verbessert schwache Modelle schrittweise	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+линейная регрессия	die lineare Regression	schätzt mit gerader Beziehung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+логистическая регрессия	die logistische Regression	klassifiziert über Wahrscheinlichkeit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+метод опорных векторов	die Support-Vector-Machine	trennt Klassen mit Rand	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+алгоритм K-means	das K-Means-Verfahren	bildet Gruppen um Zentren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+анализ главных компонент	die Hauptkomponentenanalyse	verdichtet Dimensionen linear	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+автоэнкодер	der Autoencoder	lernt komprimierte Rekonstruktion	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+диффузионная модель	das Diffusionsmodell	erzeugt Inhalte über Rauschschritte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+модель последовательностей	das Sequenzmodell	arbeitet mit geordneter Folge	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+ранжирующая модель	das Ranking-Modell	ordnet Ergebnisse nach Nutzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+переранжирование	das Re-Ranking	sortiert Kandidaten erneut	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+скоринг	das Scoring	vergibt numerische Bewertung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+конвейер данных	die Datenpipeline	mehrstufige Verarbeitungskette	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+инфраструктура обучения	die Trainingsinfrastruktur	Rechenumgebung fürs Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+карточка модели	die Modellkarte	erklärt Eigenschaften und Grenzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+рубрика оценивания	die Evaluierungsrubrik	klare Kriterien für Bewertung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+золотой стандарт	der Goldstandard	beste verfügbare Referenz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+эталонный ответ	die Referenzantwort	erwartete Musterlösung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+единица аннотации	die Annotationseinheit	kleinste zu markierende Einheit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+качество меток	die Label-Qualität	Güte der vergebenen Labels	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+частота ошибок	die Fehlerrate	Anteil falscher Ergebnisse	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+выброс	der Ausreißer	ungewöhnlicher Einzelwert	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::daten
+граничное условие	die Randbedingung	äußere Einschränkung des Problems	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+условие остановки	die Abbruchbedingung	regelt wann beendet wird	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+стратегия оптимизации	die Optimierungsstrategie	Plan für bessere Parameter	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::modellierung
+гиперпараметры	die Hyperparameter	Einstellungen vor dem Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+поиск гиперпараметров	die Hyperparametersuche	sucht gute Vorabwerte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+поиск по сетке	die Rastersuche	testet festes Kombinationengitter	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+случайный поиск	die Zufallssuche	probiert zufällige Kombinationen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+байесовская оптимизация	die Bayes-Optimierung	wählt nächste Versuche intelligent	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+вычислительная мощность	die Rechenkapazität	verfügbare Rechenleistung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+ресурс GPU	die GPU-Ressource	Grafikrechenleistung fürs Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+запуск обучения	der Trainingslauf	ein kompletter Lernversuch	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+запуск оценивания	der Evaluierungslauf	ein kompletter Bewertungsdurchgang	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+сравнимость	die Vergleichbarkeit	Ergebnisse lassen sich fair vergleichen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+контрольная группа	die Kontrollgruppe	dient als Vergleichsbasis	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+абляционное исследование	die Ablationsstudie	zeigt Beitrag einzelner Teile	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+таксономия ошибок	die Fehlertaxonomie	ordnet Fehler systematisch	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+серия экспериментов	die Versuchsreihe	mehrere Tests nach Plan	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+мониторинг в продакшене	die Produktionsüberwachung	verfolgt Verhalten im Livebetrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+петля обратной связи	die Rückkopplungsschleife	Nutzung beeinflusst spätere Verbesserung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+оценка пользователей	die Nutzerbewertung	Feedback von echten Nutzern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+полезность ответа	die Antwortnützlichkeit	wie hilfreich die Ausgabe ist	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+краткость ответа	die Antwortkürze	wie knapp die Ausgabe ist	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+точность ответа	die Antwortpräzision	wie exakt die Antwort ist	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+успешность по задаче	die Aufgabenleistung	wie gut Aufgabe gelöst wird	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+знание предметной области	die Domänenkenntnis	Fachwissen in bestimmtem Gebiet	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+граница знаний	die Wissensgrenze	Punkt ohne verlässliches Wissen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+верность контексту	die Kontexttreue	bleibt beim gegebenen Material	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+шаблон промпта	die Prompt-Vorlage	wiederverwendbare Eingabestruktur	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+цепочка подсказок	die Kettenaufforderung	mehrschrittige Eingabeführung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стратегия шаг за шагом	die Schritt-für-Schritt-Strategie	lässt Lösung in Etappen entstehen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+самокоррекция	die Selbstkorrektur	System prüft sich erneut	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+маркировка неопределённости	die Unsicherheitsmarkierung	zeigt Zweifel offen an	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+проверка источников	die Quellenprüfung	prüft Belege und Herkunft	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+доказательная база	die Evidenz	Belege für eine Aussage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+верификация	die Verifikation	prüft, ob etwas stimmt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+валидация	die Validierung	prüft Eignung für den Zweck	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+встречная проверка	die Gegenprobe	zusätzliche Kontrolle zum Vergleich	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+отклонение рискованных запросов	die Ablehnung riskanter Anfragen	weist gefährliche Wünsche ab	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+проверка правил	die Richtlinienprüfung	gleicht Antwort mit Vorgaben ab	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+выбор инструмента	die Tool-Auswahl	entscheidet welches Werkzeug passt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+оркестрация инструментов	die Werkzeugorchestrierung	koordiniert mehrere Hilfsmittel	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+интеграция API	die API-Integration	bindet externe Schnittstelle ein	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+управление сессией	die Sitzungsverwaltung	merkt Verlauf einer Sitzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стратегия памяти	die Speicherstrategie	regelt was behalten wird	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+кратковременная память	die Kurzzeiterinnerung	merkt nahen Verlauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+долговременная память	die Langzeiterinnerung	speichert Relevantes länger	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+история разговора	die Konversationshistorie	bisheriger Dialogverlauf	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+намерение пользователя	die Nutzerabsicht	welches Ziel der Nutzer hat	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+неоднозначность	die Ambiguität	mehr als eine Deutung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+снятие неоднозначности	die Disambiguierung	macht die Bedeutung eindeutig	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+сохранение контекста	die Kontexterhaltung	hält relevanten Verlauf präsent	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+языковая вариативность	die Sprachvariation	unterschiedliche Ausdrucksweisen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+многоязычность	die Mehrsprachigkeit	arbeitet mit mehreren Sprachen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+верность терминологии	die Terminologietreue	verwendet Fachwörter konsistent	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+доменная специфика	die Domänenspezifik	besondere Eigenheiten eines Fachs	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стратегия действий при сбое	die Ausfallstrategie	Plan für Fehlerfälle	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+резервный ответ	die Fallback-Antwort	sichere Ausweichreaktion	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+граница качества	die Qualitätsgrenze	Punkt ab dem es nicht reicht	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+требование к продукту	die Produktanforderung	welches Ergebnis Produkt braucht	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+критерий допуска	das Freigabekriterium	Bedingung für grünes Licht	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+матрица оценки	die Bewertungsmatrix	ordnet Kriterien und Gewichtung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ml
+класс риска	die Risikoklasse	ordnet Gefahr einer Stufe zu	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+обнаружение атак	die Angriffserkennung	findet schädliche Zugriffe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+допуск по безопасности	die Sicherheitsfreigabe	Erlaubnis nach Risikoprüfung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+проверка модели	die Modellprüfung	formale Kontrolle vor Einsatz	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+аудируемость	die Auditierbarkeit	lässt sich kontrolliert prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+прозрачность	die Transparenz	offen über Verhalten und Grenzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+лицензия	die Lizenz	regelt erlaubte Nutzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+стратегия открытых весов	die Open-Weights-Strategie	Gewichte werden offen geteilt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+проприетарное семейство моделей	die proprietäre Modellfamilie	geschlossenes Modellangebot	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+поставщик	der Anbieter	liefert Modell oder Dienst	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+структура затрат	die Kostenstruktur	Aufbau der Kosten im Betrieb	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+лимит использования	das Nutzungslimit	obere Grenze der Nutzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+обучить модель	ein Modell trainieren	Modell aus Beispielen lernen lassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+дообучить модель	ein Modell feinabstimmen	gezielt an Aufgabe anpassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+оценить модель	ein Modell evaluieren	Leistung systematisch messen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+развернуть модель	ein Modell bereitstellen	im echten System nutzbar machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+версионировать модель	ein Modell versionieren	Stände sauber verwalten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+выполнить инференс	eine Inferenz ausführen	Modellantwort zur Laufzeit erzeugen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+токенизировать ввод	eine Eingabe tokenisieren	Text in Einheiten zerlegen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+вычислить эмбеддинги	Einbettungen berechnen	Text oder Objekte vektorisieren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+выполнить семантический поиск	eine semantische Suche durchführen	nach Bedeutung statt Wörtern suchen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+извлечь контекст из базы знаний	Kontext aus einer Wissensbasis abrufen	relevante Quellen zum Prompt holen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+подкрепить ответ источниками	eine Antwort mit Quellen absichern	Aussage mit Belegen stützen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+уточнить промпт	die Eingabeaufforderung präzisieren	Eingabe eindeutiger machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+разумно заполнить контекстное окно	das Kontextfenster sinnvoll füllen	nur Passendes in Verlauf geben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+эффективно использовать токены	Token effizient nutzen	Platz sparsam und gezielt verwenden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+уменьшить галлюцинации в поведении модели	Halluzinationen im Modellverhalten reduzieren	erfundene Inhalte seltener machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+обнаружить искажение в наборе данных	die Verzerrung im Datensatz erkennen	Schieflage im Bestand finden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::daten
+курировать обучающие данные	Trainingsdaten kuratieren	Beispiele bewusst auswählen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::daten
+собирать данные предпочтений	Präferenzdaten sammeln	Rückmeldungen über bessere Antworten erfassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::daten
+настроить скорость обучения	die Lernrate anpassen	Schrittweite des Lernens ändern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+подобрать гиперпараметры	die Hyperparameter abstimmen	gute Voreinstellungen suchen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+честно интерпретировать бенчмарк	eine Benchmark fair interpretieren	Vergleich ohne Übertreibung lesen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+измерять производительность модели под нагрузкой	die Modellleistung unter Last messen	Qualität bei viel Verkehr prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+рассчитать стоимость запроса	Kosten pro Anfrage kalkulieren	Ausgaben pro Nutzung abschätzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+интегрировать языковую модель в приложение	ein Sprachmodell in eine Anwendung integrieren	LLM praktisch einbinden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+безопасно оркестрировать использование инструментов	eine Tool-Nutzung sicher orchestrieren	Werkzeuge kontrolliert koordinieren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+модерировать пользовательский ввод	Nutzereingaben moderieren	problematische Texte filtern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+рано распознавать злоупотребление	Missbrauch früh erkennen	schädliche Nutzung rechtzeitig sehen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+обезопасить систему ИИ	ein KI-System absichern	Schutz für Modellbetrieb schaffen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+документировать результаты прозрачно	die Ergebnisse nachvollziehbar dokumentieren	Befunde klar schriftlich festhalten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+создать карточку модели	eine Modellkarte erstellen	Eigenschaften und Grenzen beschreiben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+определить рубрику оценки	eine Rubrik für die Bewertung definieren	Kriterien für Urteil festlegen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+построить таксономию ошибок	eine Fehlertaxonomie aufbauen	Fehlerarten geordnet sammeln	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+провести абляционное исследование	eine Ablationsstudie durchführen	Beitrag einzelner Komponenten messen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+настроить мониторинг дрейфа	ein Drift-Monitoring einrichten	Veränderung im Betrieb beobachten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+наблюдать сдвиг данных	die Datenverschiebung beobachten	Veränderung der Eingaben verfolgen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::daten
+реагировать на концептуальный дрейф	auf Konzeptdrift reagieren	Modell an neue Muster anpassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+предоставить резервный ответ	eine Fallback-Antwort bereitstellen	sichere Alternative liefern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+отклонить рискованный запрос	eine riskante Anfrage ablehnen	gefährlichen Wunsch zurückweisen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+проверить соответствие правилам	die Richtlinienkonformität prüfen	mit Vorgaben abgleichen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+оценить качество ответа	die Antwortqualität bewerten	Nützlichkeit systematisch prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+улучшить фактическую точность	die Faktentreue verbessern	näher an verlässlichen Fakten bleiben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+повысить релевантность	die Relevanz erhöhen	besser zur Frage passen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+сформулировать ответ короче	die Antwort prägnanter formulieren	weniger Worte klarer Sinn	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+открыто обозначить неопределённость	die Unsicherheit offen kennzeichnen	Zweifel sichtbar machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+провести встречную проверку	eine Gegenprobe durchführen	Ergebnis mit zweitem Blick prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+потребовать проверку источников	eine Quellenprüfung verlangen	Belege ausdrücklich anfordern	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+тестировать поведение безопасности	das Sicherheitsverhalten testen	Schutzverhalten praktisch prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+оценить справедливость системы	die Fairness des Systems bewerten	ungerechte Unterschiede prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::sicherheit
+уточнить требования к продукту	die Produktanforderung schärfen	Ziel des Produkts klarer machen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+сузить контекст применения	den Einsatzkontext eingrenzen	Anwendungsrahmen klar begrenzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+оценить готовность к продакшену	die Produktionsreife beurteilen	Einsatzreife nüchtern einschätzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+снизить задержку в реальном времени	die Latenz in Echtzeit senken	Antwort schneller werden lassen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+использовать пакетный инференс для больших объёмов	Batch-Inferenz für große Mengen nutzen	viele Fälle gesammelt abarbeiten	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ml
+стандартизировать шаблон промпта	eine Prompt-Vorlage standardisieren	wiederverwendbare Struktur festlegen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+использовать цепочку подсказок экономно	eine Kettenaufforderung sparsam einsetzen	mehrere Schritte nur gezielt nutzen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+использовать самокоррекцию только целенаправленно	Selbstkorrektur nur gezielt verwenden	nicht unnötig erneut prüfen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+лучше распознавать намерение пользователя	die Nutzerabsicht besser erkennen	Ziel hinter Eingabe verstehen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+снимать неоднозначность в запросах	mehrdeutige Anfragen disambiguieren	unklare Bedeutung präzisieren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+сохранять терминологию последовательной	die Terminologie konsistent halten	Fachwörter gleich verwenden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+чётко сообщать границу знаний	eine Wissensgrenze sauber kommunizieren	offen sagen was unklar bleibt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+создать интеграцию API для инструментов	eine API-Integration für Tools aufbauen	Werkzeuge technisch anbinden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::chunk domain::ki
+Качество данных для обучения пока недостаточно хорошее.	Die Datenqualität ist für das Training noch nicht gut genug.	Bestand ist noch zu schwach fürs Lernen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::daten
+Модель показывает в этой задаче удивительно высокую точность.	Das Modell zeigt in dieser Aufgabe eine überraschend hohe Genauigkeit.	Ergebnis ist besser als erwartet	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Валидационные данные показывают заметное падение качества.	Die Validierungsdaten zeigen einen deutlichen Leistungsabfall.	auf Kontrollsatz wird es klar schlechter	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::daten
+Более низкая скорость обучения делает обучение стабильнее.	Eine niedrigere Lernrate macht das Training stabiler.	kleinere Schritte beruhigen den Lernprozess	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Функция потерь падает, но обобщение почти не улучшается.	Die Verlustfunktion sinkt, aber die Generalisierung verbessert sich kaum.	Training wird besser, Neues aber kaum	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Набор данных содержит несколько систематических искажений.	Der Datensatz enthält mehrere systematische Verzerrungen.	Bestand ist nicht ausgewogen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::daten
+Эмбеддинги довольно хорошо отражают семантическое сходство.	Die Einbettungen erfassen semantische Ähnlichkeiten recht gut.	nahe Bedeutungen liegen dicht beieinander	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Контекстного окна не хватает для всего документа.	Das Kontextfenster reicht für das gesamte Dokument nicht aus.	zu wenig Platz für den ganzen Text	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Хороший промпт точен, но не перегружен.	Ein gutes Prompt ist präzise, aber nicht überladen.	Eingabe soll klar und knapp sein	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Языковая модель галлюцинирует при нехватке контекста.	Das Sprachmodell halluziniert bei fehlendem Kontext.	ohne Basis werden Inhalte erfunden	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Выравнивание системы остаётся открытым вопросом.	Die Ausrichtung des Systems bleibt eine offene Frage.	Ziele und Verhalten sind noch nicht gelöst	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Объяснимость особенно важна в регулируемых сферах.	Die Erklärbarkeit ist in regulierten Bereichen besonders wichtig.	man muss Entscheidungen besser begründen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Нам нужны понятные критерии для оценки модели.	Wir brauchen nachvollziehbare Kriterien für die Modellbewertung.	ohne klare Maßstäbe bleibt Urteil schwach	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Бенчмарк без ясной точки сравнения мало помогает.	Eine Benchmark ohne klaren Vergleichswert hilft wenig.	Referenz fehlt für sinnvolles Urteil	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Точность растёт, а полнота слегка падает.	Die Präzision steigt, während die Trefferquote leicht sinkt.	ein Wert steigt, der andere fällt	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Система ИИ не должна раскрывать конфиденциальные данные.	Das KI-System darf vertrauliche Daten nicht offenlegen.	geheime Informationen müssen geschützt bleiben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Злоупотребление никогда нельзя исключить полностью.	Missbrauch lässt sich nie vollständig ausschließen.	es bleibt immer ein Restrisiko	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Модерация контента должна охватывать несколько языков.	Die Inhaltsmoderation muss mehrere Sprachen abdecken.	Filter sollen mehrsprachig funktionieren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Управление затрагивает и технику, и организацию.	Die Governance ist technisch und organisatorisch zugleich.	nicht nur Modell, auch Prozesse zählen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Модели с открытым исходным кодом ускоряют эксперименты, но увеличивают объём проверок.	Open-Source-Modelle beschleunigen Experimente, erhöhen aber den Prüfaufwand.	Offenheit spart Zeit und kostet Kontrolle	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Поставщик ограничивает использование в минуту.	Der Anbieter begrenzt die Nutzung pro Minute.	es gibt eine Mengenbegrenzung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Структура затрат заметно меняется с объёмом запросов.	Die Kostenstruktur ändert sich mit dem Anfragevolumen deutlich.	mehr Nutzung verändert die Ausgaben	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Для этого варианта использования вполне хватает меньшей модели.	Für diesen Anwendungsfall reicht ein kleineres Modell völlig aus.	große Systeme sind nicht immer nötig	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Сначала стоит понять проблему, а потом выбирать модель.	Wir sollten erst das Problem verstehen und dann das Modell wählen.	zuerst Aufgabe, dann Technik	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Не каждая автоматизация улучшает рабочий процесс.	Nicht jede Automatisierung verbessert den Arbeitsablauf.	mehr Technik ist nicht immer besser	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Надёжной системе ИИ нужны чёткие зоны ответственности.	Ein zuverlässiges KI-System braucht klare Zuständigkeiten.	Verantwortung muss klar verteilt sein	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+Требование к продукту пока слишком расплывчато для честной оценки.	Die Produktanforderung ist noch zu vage für eine faire Evaluierung.	Ziel ist noch nicht scharf genug	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Без эталонных ответов измерение качества остаётся размытым.	Ohne Referenzantworten bleibt die Qualitätsmessung unscharf.	ohne Vergleich fehlt Klarheit	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Использование инструментов улучшает ответ только при чистой оркестрации.	Die Tool-Nutzung verbessert die Antwort nur bei sauberer Orchestrierung.	Werkzeuge helfen nur mit guter Steuerung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Больше контекста помогает только тогда, когда он релевантен и надёжен.	Mehr Kontext hilft nur, wenn er relevant und vertrauenswürdig ist.	nicht jede Zusatzinfo ist nützlich	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Неопределённость должна быть видимой, а не скрытой.	Die Unsicherheit sollte sichtbar werden, statt versteckt zu bleiben.	Zweifel lieber offen markieren	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Хорошая рубрика оценивания уменьшает субъективность.	Eine gute Evaluierungsrubrik reduziert subjektive Bewertungen.	klare Kriterien machen Urteile stabiler	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ml
+Концептуальный дрейф часто замечают только в продакшене.	Konzeptdrift fällt oft erst im Produktivbetrieb auf.	Veränderung zeigt sich meist spät	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::ki
+Допуск по безопасности зависит от контекста применения.	Die Sicherheitsfreigabe hängt vom Einsatzkontext ab.	Risiko wird je nach Nutzung anders bewertet	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::satz domain::sicherheit
+оценка промпта	die Promptbewertung	beurteilt Qualität der Eingabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+связность ответа	die Antwortkohärenz	bleibt gedanklich stimmig	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+отбор контекста	die Kontextselektion	wählt passende Zusatzinfos	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+покрытие источников	die Quellenabdeckung	wie vollständig Belege sind	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+цепочка доказательств	die Evidenzkette	verbundene Belege für Aussage	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+декомпозиция задачи	die Aufgabenzerlegung	teilt Problem in Schritte	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+решение о выборе инструмента	die Tool-Entscheidung	legt passendes Werkzeug fest	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+согласованность ответа	die Antwortkonsistenz	bleibt über Verlauf gleich	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+граница модели	die Modellgrenze	Punkt jenseits sicherer Leistung	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::ki
+оценка безопасности	die Sicherheitsbewertung	beurteilt Risiken systematisch	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+тестирование методом red teaming	das Red-Teaming	angreifender Test der Schwächen	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+адверсариальный пример на входе	die Adversarial-Eingabe	gezielt störende Eingabe	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit
+стратегия безопасного отката	die Rückfallstrategie	Plan für sicheren Ausweg	form::vokabel func::produktion level::c1_c2 topic::ai_ml source::raw::vocabulary::ai_ml card::wort domain::sicherheit

@@ -1,0 +1,400 @@
+das Tennis
+der Tennissport
+der Tennisplatz
+der Center Court
+der Hartplatz
+der Sandplatz
+der Rasenplatz
+der Hallenplatz
+der Belag
+das Netz
+die Grundlinie
+die Seitenlinie
+die Aufschlaglinie
+die Mittellinie
+das Einzelfeld
+das Doppelfeld
+das T-Feld
+die Auslinie
+der Korridor
+der Platzbelag
+der Tennisball
+die Filzoberfläche
+der Schläger
+der Rahmen
+die Besaitung
+die Saitenspannung
+der Griff
+das Griffband
+die Schlagfläche
+der Sweet Spot
+der Ballwurf
+der Aufschlag
+der erste Aufschlag
+der zweite Aufschlag
+der Kickaufschlag
+der Slice-Aufschlag
+der Aufschlag mit viel Tempo
+der Doppelfehler
+das Ass
+der Service Winner
+der Return
+der Rückschlag
+die Vorhand
+die Rückhand
+die beidhändige Rückhand
+die einhändige Rückhand
+der Topspin
+der Slice
+der flache Schlag
+der Schmetterball
+der Volley
+der Halbvolley
+der Stoppball
+der Lob
+der Passierschlag
+der Konter
+der Schlagwechsel
+die Rallye
+das Tempo
+die Ballbeschleunigung
+die Ballkontrolle
+die Schlagtechnik
+das Timing
+der Treffpunkt
+die Fußarbeit
+die Beinarbeit
+die Stellung zum Ball
+die Ausholbewegung
+die Ausschwungphase
+die Schlägerkopfgeschwindigkeit
+die Gewichtsverlagerung
+die Platzierung
+die Länge
+die Tiefe
+die Winkelverkürzung
+die Präzision
+die Fehlerquote
+der unerzwungene Fehler
+der erzwungene Fehler
+der Netzangriff
+der Übergang ans Netz
+das Grundlinienspiel
+das Serve-and-Volley-Spiel
+das Angriffsspiel
+das Defensivspiel
+das Konterspiel
+die Spielintelligenz
+das Matchmanagement
+die Punktkonstruktion
+das Stellungsspiel
+die Antizipation
+die Geduld im Ballwechsel
+der Rhythmuswechsel
+die Tempoverschärfung
+die Spielvarianz
+die mentale Stärke
+die Nervenstärke
+die Konzentration
+die Matchpraxis
+die Wettkampfhärte
+die Aufwärmphase
+die Regeneration
+die Schulterstabilität
+die Rumpfstabilität
+die Beweglichkeit
+die Explosivität
+die Ausdauer
+die Koordination
+das Einzel
+das Doppel
+das Mixed
+der Partner
+das Break
+die Breakchance
+der Spielgewinn
+der Satzgewinn
+der Matchball
+der Satzball
+der Spielball
+der Einstand
+der Vorteil
+das Tie-Break
+der Seitenwechsel
+der Aufschläger
+der Rückschläger
+die Setzliste
+die Wildcard
+die Qualifikation
+das Hauptfeld
+der Schiedsrichter
+der Linienrichter
+der Balljunge
+das Hawkeye-System
+die Challenge
+die Verwarnung
+die Zeitüberschreitung
+den Aufschlag sicher nach außen spielen
+den zweiten Aufschlag hoch absichern
+den Return früh nehmen
+den Ball hoch auf die Rückhand spielen
+den Gegner weit aus dem Platz treiben
+den Ball mit viel Topspin abspringen lassen
+die Linie konsequent entlangspielen
+den Ball cross spielen
+den Ball longline beschleunigen
+den Punkt geduldig aufbauen
+das Tempo aus dem Ballwechsel nehmen
+das Spiel über die Rückhand des Gegners aufziehen
+den Ballwechsel variieren
+den Rhythmus des Gegners brechen
+mit dem ersten Schlag Druck machen
+den Gegner mit einem Stoppball nach vorn locken
+den Lob sauber vorbereiten
+einen schwierigen Halbvolley kontrollieren
+am Netz konsequent abschließen
+den Passierschlag antizipieren
+den Ball tief in die Mitte zurückspielen
+den Winkel gut öffnen
+den Platz breit machen
+die Grundlinie verteidigen
+nach dem Aufschlag nachrücken
+unter Druck den Ball hoch und sicher spielen
+den Ball spät treffen
+den Treffpunkt vor den Körper verlagern
+die Beine aktiv einsetzen
+die Schultern früh eindrehen
+den Griff leicht anpassen
+mit lockerer Hand beschleunigen
+die Fehlerquote niedrig halten
+den Ball mit mehr Länge spielen
+die Rückhand stabilisieren
+die Vorhand umlaufen
+einen Doppelfehler vermeiden
+eine Breakchance abwehren
+den Satz konzentriert ausservieren
+im Tie-Break mutig bleiben
+den Seitenwechsel für eine kurze mentale Neuordnung nutzen
+den Schläger neu besaiten lassen
+die Spannung der Saiten erhöhen
+den Platzbelag richtig lesen
+auf Sand geduldiger konstruieren
+auf Rasen flacher spielen
+auf Hartplatz früh attackieren
+im Doppel die Mitte schließen
+dem Partner ein klares Zeichen geben
+am Netz die Hände ruhig halten
+den Return im Doppel auf die Füße spielen
+Der erste Aufschlag bringt ihm viele freie Punkte.
+Der zweite Aufschlag springt hoch auf die Rückhand des Gegners.
+Auf Sandplatz muss man den Punkt oft geduldiger aufbauen.
+Seine Vorhand ist druckvoll, aber nicht immer stabil.
+Ihre Rückhand die Linie entlang ist heute besonders präzise.
+Der Ball bleibt wegen des Slice sehr flach.
+Nach dem Stoppball kam der Gegner zu spät nach vorn.
+Sie hat den Lob perfekt gegen die Laufrichtung gespielt.
+Im langen Ballwechsel behielt er die bessere Balance.
+Die Fußarbeit entscheidet oft über die Qualität des Treffpunkts.
+Unter Druck wurde seine Ausholbewegung etwas zu groß.
+Mit mehr Länge kann man den Gegner hinter die Grundlinie drängen.
+Er variiert das Tempo sehr geschickt.
+Sie öffnet den Platz mit einem starken Crossball.
+Den entscheidenden Punkt hat er mutig am Netz abgeschlossen.
+Im Tie-Break darf man sich keinen Konzentrationsabfall leisten.
+Nach dem Seitenwechsel wirkte sie wieder deutlich ruhiger.
+Die Breakchance hat er mit einem Ass abgewehrt.
+Zu viele unerzwungene Fehler kosten auf diesem Niveau sofort Spiele.
+Der Return kam tief und zentral zurück.
+Mit dem Kickaufschlag verschafft sie sich sofort eine bessere Position.
+Er liest den Aufschlag früh und reagiert schnell.
+Ihr Passierschlag war technisch anspruchsvoll und genau platziert.
+Das Matchmanagement war in den wichtigen Momenten überzeugend.
+Im Doppel ist die Abstimmung zwischen den Partnern entscheidend.
+Sie geht nach einem kurzen Return sofort nach vorn.
+Sein Stellungsspiel an der Grundlinie ist sehr effizient.
+Auf Rasen bleibt für die Vorbereitung deutlich weniger Zeit.
+Die Challenge bestätigte, dass der Ball noch die Linie berührt hatte.
+Nach einem langen Match ist gute Regeneration besonders wichtig.
+das Turnier
+das Grand-Slam-Turnier
+das Masters-Turnier
+das ATP-Turnier
+das WTA-Turnier
+das Challenger-Turnier
+das ITF-Turnier
+die Turnierwoche
+der Turnierplan
+der Spielplan
+die Auslosung
+das Tableau
+der obere Ast des Tableaus
+der untere Ast des Tableaus
+die Auftaktrunde
+die erste Runde
+die zweite Runde
+das Achtelfinale
+das Viertelfinale
+das Halbfinale
+das Finale
+der Titel
+die Titelverteidigung
+der Matchplan
+die Spielanalyse
+die Videoanalyse
+die Leistungsdiagnostik
+die Trainingssteuerung
+die Belastungssteuerung
+der Trainingsblock
+die Wettkampfvorbereitung
+die Matchvorbereitung
+die Nachbereitung
+die Erholungsphase
+der Turnierkalender
+die Weltrangliste
+die Ranglistenposition
+die Nummer eins der Welt
+die gesetzte Spielerin
+der gesetzte Spieler
+die Topgesetzte
+die Formkurve
+das Selbstvertrauen
+die Tagesform
+die Siegesserie
+die Niederlagenserie
+das Comeback
+die Aufholjagd
+der Momentumwechsel
+der Knackpunkt
+die Schlüsselszene
+die Körpersprache
+die Routine vor dem Aufschlag
+die Zwischenbilanz
+die Quote beim ersten Aufschlag
+die Punktgewinnquote
+die Winner-Quote
+die Fehlerstatistik
+die Netzquote
+die Breakbilanz
+das Re-Break
+das frühe Break
+das entscheidende Break
+der Aufschlagverlust
+das Marathonmatch
+der klare Zweisatzsieg
+der Dreisatzsieg
+der Fünfsatzsieg
+die Regenunterbrechung
+die Spielverzögerung
+die medizinische Auszeit
+die Behandlungspause
+die Muskelverhärtung
+die Zerrung
+die Überlastung
+die Schulterbeschwerde
+die Handgelenksproblematik
+die Kniebeschwerde
+die Blase an der Hand
+die Krampfneigung
+das Tape
+die Bandage
+die Reha
+das Belastungsmanagement
+der Coach
+die Trainerin
+die technische Korrektur
+die taktische Vorgabe
+die mentale Vorbereitung
+die Matchroutine
+der Trainingsreiz
+die Wiederholungszahl
+der Bewegungslauf
+das Schatten-Tennis
+das Korbtraining
+der Aufschlagrhythmus
+das Returntraining
+die Beinarbeitsübung
+der Koordinationslauf
+die Sprintserie
+der Ausfallschritt
+der Split Step
+die offene Stellung
+die geschlossene Stellung
+die neutrale Stellung
+die Schlagvorbereitung
+die Schlägerführung
+der Handgelenkeinsatz
+die Schulterrotation
+die Hüftrotation
+die Rotation durch den Rumpf
+die Stabilität im Oberkörper
+die Balance im offenen Stand
+die defensive Höhe
+die offensive Platzposition
+die tiefe Mitte
+die kurze Ecke
+der freie Raum
+die Lücke im Feld
+das Muster im Ballwechsel
+die Angriffslinie
+der Sicherheitsabstand zum Netz
+die Margin über dem Netz
+die Winkelkontrolle
+die Rückhandseite
+die Vorhandseite
+die offene Fläche
+der hohe Absprung
+der niedrige Absprung
+die schwere Platzbedingungen
+die schnellen Bedingungen
+die langsamen Bedingungen
+die schwere Bälle
+die leichten Bälle
+der Wind von vorn
+der Wind von der Seite
+die Sonne im Gesicht
+das Flutlicht
+der Lärmpegel
+das Publikum
+der Heimvorteil
+der Außenseiter
+der Favorit
+die Favoritenrolle
+die Überraschung
+die Sensation
+die enge Partie
+das einseitige Match
+das Niveau des Matches
+die Spielqualität
+die Variabilität im Spiel
+die Absicherung nach vorn
+die Rückwärtsbewegung
+die Seitwärtsbewegung
+das Gleiten auf Sand
+die Griffigkeit des Belags
+der Ballabdruck
+der Rahmenball
+der Netzroller
+der Misshit
+die Notwehraktion
+die Rettung aus der Defensive
+der tiefe Rückhand-Slice
+die Inside-out-Vorhand
+die Inside-in-Vorhand
+die Rückhand cross
+die Vorhand cross
+die kurze cross gespielte Rückhand
+den Matchplan diszipliniert umsetzen
+die Quote beim ersten Aufschlag erhöhen
+den zweiten Aufschlag des Gegners attackieren
+den Return blockiert zurückspielen
+den Ball früh aus der Luft nehmen
+die Rückhand cross stabil halten
+mit der Vorhand die offene Fläche anspielen
+den Gegner immer wieder tief halten
+den Ballwechsel mit Höhe neutralisieren
+die Rallye mit einem Tempowechsel öffnen
+den Rhythmus mit einem Slice unterbrechen
+die Linie erst im richtigen Moment öffnen
+die Schlagrichtung spät verbergen
+den Ball gegen den Lauf spielen
+aus der Defensive einen hohen Lob setzen

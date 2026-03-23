@@ -1,0 +1,600 @@
+информатика	die Informatik	Wissenschaft vom Rechnen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+компьютерная наука	die Computerwissenschaft	akademisches Fach über Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+информационные технологии	die Informationstechnologie	Praxisfeld digitaler Systeme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+архитектура компьютера	die Rechnerarchitektur	Aufbau von Rechensystemen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+программная инженерия	die Softwaretechnik	Entwicklung verlässlicher Programme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+системная техника	die Systemtechnik	Entwurf technischer Gesamtsysteme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+техника автоматизации	die Automatisierungstechnik	Steuerung ohne Handarbeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+бизнес-информатика	die Wirtschaftsinformatik	IT im Unternehmenskontext	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+техническая информатика	die technische Informatik	naher an Hardware	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+практическая информатика	die praktische Informatik	angewandte Softwarethemen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+теоретическая информатика	die theoretische Informatik	formale Grundlagen des Fachs	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+медиаинформатика	die Medieninformatik	IT mit Medienbezug	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+биоинформатика	die Bioinformatik	Datenanalyse in Biologie	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+взаимодействие человека с компьютером	die Human-Computer-Interaction	Nutzung zwischen Mensch und Maschine	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+цифровизация	die Digitalisierung	Umstellung auf digitale Abläufe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+цифровая инфраструктура	die digitale Infrastruktur	technische Basis digitaler Dienste	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+компьютер	der Computer	allgemeines Rechengerät	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+вычислительная машина	der Rechner	Maschine zum Verarbeiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+настольный ПК	der Desktop-PC	fester Rechner am Arbeitsplatz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+ноутбук	der Laptop	tragbarer Computer	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+ноутбук	das Notebook	mobiler Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+планшет	das Tablet	flaches mobiles Gerät	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+смартфон	das Smartphone	Mobiltelefon mit Apps	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+сервер	der Server	liefert Dienste im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+клиент	der Client	nutzt entfernten Dienst	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+хост	der Host	System mit Adresse im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+узел	der Knoten	Punkt in einer Struktur	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+рабочая станция	der Arbeitsplatzrechner	Rechner für tägliche Arbeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+конечное устройство	das Endgerät	Gerät des Nutzers	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+периферийное устройство	das Peripheriegerät	Zusatzgerät am Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+аппаратное обеспечение	die Hardware	physische Teile eines Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+программное обеспечение	die Software	Programme und Logik	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+микропрограммное обеспечение	die Firmware	nahe Software im Gerät	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+промежуточное ПО	die Middleware	vermittelt zwischen Komponenten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+операционная система	das Betriebssystem	basale Schicht des Rechners	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+дистрибутив	die Distribution	ausgelieferte Systemvariante	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+ядро	der Kernel	innerster Teil des Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+драйвер	der Treiber	steuert ein Gerät	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+оболочка	die Shell	Textschicht zur Bedienung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+командная строка	die Kommandozeile	Eingabe per Textbefehlen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+терминал	das Terminal	Fenster für Befehle	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+графический интерфейс	die grafische Benutzeroberfläche	Bedienung mit Fenstern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+пользовательский интерфейс	die Benutzeroberfläche	Sichtschicht für Nutzer	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+пользовательский опыт	die Benutzererfahrung	Erlebnis bei Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+удобство использования	die Bedienbarkeit	leicht und klar nutzbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+доступность для всех	die Barrierefreiheit	Nutzung ohne Hürden	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+способ ввода	die Eingabemethode	Art der Dateneingabe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+устройство вывода	das Ausgabegerät	Gerät für Resultate	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+клавиатура	die Tastatur	Tasten zur Eingabe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+мышь	die Maus	Zeigegerät am Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+тачпад	das Touchpad	berührungsempfindliche Zeigefläche	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+монитор	der Monitor	Anzeigegerät am Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+экран	der Bildschirm	Fläche für Anzeige	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+принтер	der Drucker	Gerät für Ausdrucke	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+сканер	der Scanner	liest Vorlagen digital ein	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+микрофон	das Mikrofon	nimmt Sprache auf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+веб-камера	die Webcam	Kamera am Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+динамик	der Lautsprecher	gibt Ton aus	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+процессор	der Prozessor	zentrale Recheneinheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+центральный процессор	die CPU	Hauptchip für Berechnung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+графический процессор	die GPU	spezialisiert für Grafik	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+видеокарта	die Grafikkarte	Grafikmodul im Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+оперативная память	der Arbeitsspeicher	flüchtiger Speicher im Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+основная память	der Hauptspeicher	zentrale Speicherstelle	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+кэш-память	der Zwischenspeicher	schneller Pufferbereich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+кэш	der Cache	merkt häufig benötigte Daten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+жёсткий диск	die Festplatte	dauerhafter magnetischer Speicher	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+SSD	die SSD	schneller Speicher ohne Scheiben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+накопитель	der Massenspeicher	Speicher für große Mengen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+USB-накопитель	der USB-Stick	kleiner externer Speicher	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+карта памяти	die Speicherkarte	kleines mobiles Speichermedium	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+материнская плата	das Mainboard	zentrale Platine im Gerät	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+системная плата	die Hauptplatine	trägt zentrale Komponenten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+блок питания	das Netzteil	liefert elektrische Energie	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+вентилятор	der Lüfter	sorgt für Luftstrom	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+охлаждение	die Kühlung	hält Temperatur niedrig	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+слот	der Steckplatz	Aufnahme für Modul	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+разъём	der Anschluss	Punkt zum Verbinden	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+порт	der Port	technischer Verbindungszugang	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+разъём Ethernet	der Ethernet-Anschluss	kabelgebundener Netzwerkzugang	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+USB-разъём	der USB-Anschluss	Standardanschluss für Geräte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+HDMI-разъём	der HDMI-Anschluss	Schnittstelle für Bild und Ton	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+интерфейс	die Schnittstelle	verbindet zwei Systeme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+программный интерфейс	die Programmierschnittstelle	Zugang für andere Programme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+последовательный интерфейс	die serielle Schnittstelle	überträgt nacheinander Signale	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+параллельный интерфейс	die parallele Schnittstelle	mehrere Leitungen zugleich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+BIOS	das BIOS	startnahe Firmware des PCs	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+UEFI	das UEFI	modernes Startsystem	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+файловая система	das Dateisystem	ordnet Dateien auf Speicher	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+файл	die Datei	einzelnes digitales Objekt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+папка	der Ordner	Container für Dateien	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+каталог	das Verzeichnis	hierarchischer Ablageort	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+путь	der Pfad	Adresse im Dateibaum	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+расширение файла	die Dateiendung	Teil nach dem Punkt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+формат файла	das Dateiformat	Struktur einer Datei	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конфигурация	die Konfiguration	gesetzte technische Optionen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+настройка	die Einstellung	einzelne Option im System	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+системная переменная	die Systemvariable	globaler Wert im System	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+переменная окружения	die Umgebungsvariable	Wert aus Laufumfeld	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+протокол	das Protokoll	Regelsatz für Austausch	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+запись журнала	der Log-Eintrag	einzelne Meldung im Journal	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+ведение журналов	die Protokollierung	systematisches Mitschreiben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+трассировка	die Ablaufverfolgung	Nachverfolgung von Schritten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+мониторинг	das Monitoring	fortlaufende Systembeobachtung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+наблюдаемость	die Beobachtbarkeit	Zustand aus Signalen erkennen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+метрика	die Metrik	messbarer technischer Wert	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+оповещение	der Alarm	schlägt bei Problem an	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+инцидент	der Vorfall	bemerkenswertes Betriebsereignis	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+сбой	die Störung	stört normalen Ablauf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+отказ	der Ausfall	System funktioniert nicht	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+время простоя	die Ausfallzeit	Zeit ohne Dienst	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+доступность	die Verfügbarkeit	Dienst ist erreichbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+надёжность	die Zuverlässigkeit	arbeitet dauerhaft korrekt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+устойчивость к ошибкам	die Fehlertoleranz	bleibt trotz Fehlern nutzbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+робастность	die Robustheit	verträgt Störungen gut	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сопровождаемость	die Wartbarkeit	leicht zu pflegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+читаемость	die Lesbarkeit	leicht zu verstehen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+масштабируемость	die Skalierbarkeit	wächst mit der Last	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+расширяемость	die Erweiterbarkeit	leicht um Neues ergänzt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+повторное использование	die Wiederverwendbarkeit	auch anderswo erneut nutzbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тестируемость	die Testbarkeit	lässt sich gut prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+стабильность	die Stabilität	bleibt ruhig im Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+безопасность	die Sicherheit	Schutz vor Schäden	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+защита данных	die Datensicherheit	Schutz gespeicherter Informationen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+защита персональных данных	der Datenschutz	Umgang mit Personendaten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+шифрование	die Verschlüsselung	macht Inhalt unlesbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+расшифровка	die Entschlüsselung	macht Geheimtext wieder lesbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+контроль доступа	die Zugriffskontrolle	regelt erlaubte Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+аутентификация	die Authentifizierung	prüft die Identität	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+авторизация	die Autorisierung	gibt bestimmte Rechte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+пароль	das Passwort	geheimes Kennzeichen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+кодовое слово	das Kennwort	anderes Wort für Passwort	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+парольная фраза	die Passphrase	längeres geheimes Wortgefüge	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+двухфакторная аутентификация	die Zwei-Faktor-Authentifizierung	zweiter Nachweis beim Login	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+сертификат	das Zertifikat	digitaler Vertrauensnachweis	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+закрытый ключ	der private Schlüssel	geheimer Teil des Paars	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+открытый ключ	der öffentliche Schlüssel	öffentlicher Teil des Paars	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+подпись	die Signatur	belegt Echtheit digital	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+политика безопасности	die Sicherheitsrichtlinie	Regeln für sicheren Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+уязвимость безопасности	die Sicherheitslücke	öffentliche Schwäche im Schutz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+уязвимость	die Schwachstelle	technischer Angriffspunkt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+атака	der Angriff	feindlicher Zugriffversuch	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+защита	die Abwehr	wehrt Bedrohung ab	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+межсетевой экран	die Firewall	filtert unerlaubten Verkehr	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+VPN	das VPN	geschützter Tunnel im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+сегментация сети	die Netzwerksegmentierung	teilt Netz in Bereiche	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+безопасность сети	die Netzwerksicherheit	Schutz des Datenverkehrs	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+сеть	das Netzwerk	verbundene Geräte und Wege	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+компьютерная сеть	das Rechnernetz	Netz aus Rechnern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+внутренняя сеть	das Intranet	unternehmensinternes Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+интернет	das Internet	weltweites öffentliches Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+локальная сеть	das lokale Netzwerk	Netz in kleinem Bereich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+глобальная сеть	das Weitverkehrsnetz	Netz über große Distanzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+беспроводная сеть	das drahtlose Netzwerk	Netz ohne Kabel	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+проводная сеть	das kabelgebundene Netzwerk	Netz mit physischen Leitungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+маршрутизатор	der Router	leitet Pakete weiter	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+коммутатор	der Switch	verteilt Verkehr im LAN	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+концентратор	der Hub	einfache Verteilung im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+модем	das Modem	wandelt Übertragungssignale um	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+точка доступа	der Access Point	bietet Funkzugang an	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+сетевая карта	die Netzwerkkarte	Hardware für Netzanschluss	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+IP-адрес	die IP-Adresse	numerische Adresse im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+MAC-адрес	die MAC-Adresse	eindeutige Geräteadresse	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+маска подсети	die Subnetzmaske	grenzt Netzbereich ein	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+шлюз	das Gateway	Übergang zu anderem Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+имя хоста	der Hostname	Name eines Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+DNS-сервер	der DNS-Server	übersetzt Namen in Adressen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+разрешение имён	die Namensauflösung	macht Adressen aus Namen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+пропускная способность	die Bandbreite	Menge pro Zeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+задержка	die Latenz	Zeit bis zur Reaktion	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+сетевая задержка	die Netzwerklatenz	Reisezeit im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+пропускная способность	der Durchsatz	verarbeitete Menge pro Zeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+пакет	das Paket	einzelne Transporteinheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+потеря пакетов	der Paketverlust	nicht angekommene Einheiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+соединение	die Verbindung	aktive technische Kopplung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+установление соединения	der Verbindungsaufbau	Start einer Kopplung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+разрыв соединения	der Verbindungsabbruch	Ende einer aktiven Kopplung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+протокол TCP/IP	das Protokoll TCP/IP	Grundlage des Internets	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+протокол HTTP	das HTTP-Protokoll	Webkommunikation ohne Schutz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+протокол HTTPS	das HTTPS-Protokoll	geschütztes Webprotokoll	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+протокол FTP	das FTP-Protokoll	überträgt Dateien im Netz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+протокол SSH	das SSH-Protokoll	sicherer Zugriff per Text	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+сокет-соединение	die Socket-Verbindung	direkte Verbindung zwischen Endpunkten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+соединение WebSocket	die WebSocket-Verbindung	dauerhafter Kanal im Web	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+REST API	die REST-API	Webschnittstelle im Ressourcenstil	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+API	die API	Schnittstelle für Programme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+запрос	die Anfrage	gesendete Bitte ans System	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+ответ	die Antwort	Reaktion des Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+время ответа на запрос	die Anfragezeit	Dauer bis zum Resultat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+сообщение о статусе	die Statusmeldung	Info über Zustand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+код состояния	der Statuscode	numerische Antwortklasse	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конечная точка API	der Endpunkt	konkrete Adresse eines Dienstes	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+полезная нагрузка	die Nutzlast	eigentliche Daten im Transport	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+заголовок	der Header	Metadaten vor dem Inhalt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сериализация	die Serialisierung	macht Daten übertragbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+десериализация	die Deserialisierung	macht Struktur wieder nutzbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+формат JSON	das JSON-Format	leichtgewichtiges Textformat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+формат XML	das XML-Format	strukturiertes Markupformat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+формат YAML	das YAML-Format	einrückungsbasiertes Textformat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+формат CSV	das CSV-Format	tabellarisches Textformat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+база данных	die Datenbank	speichert strukturierte Daten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+система управления базами данных	das Datenbanksystem	Software für Datenspeicher	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+реляционная база данных	die relationale Datenbank	arbeitet mit Tabellen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+NoSQL-база данных	die NoSQL-Datenbank	nicht relationaler Datenspeicher	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+база данных в памяти	die In-Memory-Datenbank	hält Daten im RAM	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+таблица	die Tabelle	ordnet Daten in Zeilen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+столбец	die Spalte	vertikale Kategorie im Raster	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+строка	die Zeile	horizontale Datenreihe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+запись данных	der Datensatz	eine vollständige Einheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+схема	das Schema	formaler Aufbau der Daten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+запрос к базе данных	die Datenbankabfrage	holt oder ändert Daten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+оптимизация запроса	die Abfrageoptimierung	macht Datenzugriff schneller	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+индекс	der Index	beschleunigt den Zugriff	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+индексирование	die Indexierung	Anlegen schneller Zugriffe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+первичный ключ	der Primärschlüssel	eindeutige Kennung pro Satz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+внешний ключ	der Fremdschlüssel	Verknüpfung zu anderer Tabelle	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+транзакция	die Transaktion	atomarer Vorgang mit Regeln	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+нормализация	die Normalisierung	zerlegt Daten gegen Redundanz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+денормализация	die Denormalisierung	fügt für Tempo zusammen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+репликация	die Replikation	hält Kopien synchron	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+резервная копия	die Sicherungskopie	gespeicherte Kopie für Notfall	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+бэкап	das Backup	Sicherung für Wiederherstellung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+восстановление	die Wiederherstellung	macht Zustand wieder nutzbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+миграция данных	die Datenmigration	Umzug gespeicherter Informationen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+целостность данных	die Datenintegrität	Daten bleiben unverändert korrekt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+согласованность данных	die Datenkonsistenz	kein Widerspruch im Bestand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+качество данных	die Datenqualität	Eignung für den Zweck	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+очистка данных	die Datenbereinigung	entfernt Fehler und Müll	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+обработка данных	die Datenverarbeitung	arbeitet Informationen technisch ab	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+анализ данных	die Datenanalyse	sucht Muster im Bestand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+конвейер данных	die Datenpipeline	mehrstufiger Datenfluss	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+ETL-процесс	die ETL-Strecke	holt wandelt und lädt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+пакетная обработка	die Batch-Verarbeitung	arbeitet viele Daten gesammelt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+обработка в реальном времени	die Echtzeitverarbeitung	reagiert ohne spürbare Verzögerung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+очередь	die Warteschlange	puffert Arbeitsschritte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+очередь сообщений	die Nachrichtenschlange	transportiert Meldungen asynchron	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+событие	das Ereignis	ein registrierter Vorgang	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+обработка событий	die Ereignisverarbeitung	reagiert auf eingehende Signale	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+стриминг	das Streaming	fortlaufende Datenübertragung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+слой персистентности	die Persistenzschicht	speichert Daten dauerhaft	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+слой доступа	die Zugriffsschicht	steuert Zugriff auf Ressourcen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+бизнес-логика	die Geschäftslogik	regelt fachliche Entscheidungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+приложение	die Anwendung	konkrete Software für Nutzer	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+веб-приложение	die Webanwendung	läuft im Browser	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+настольное приложение	die Desktop-Anwendung	läuft lokal am Rechner	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+мобильное приложение	die Mobilanwendung	App für mobile Geräte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+корпоративное приложение	die Unternehmensanwendung	Software für Firmenprozesse	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+предметное приложение	die Fachanwendung	spezielle Lösung fürs Fach	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+фронтенд	das Frontend	nutzernahe Oberfläche	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+бэкенд	das Backend	arbeitet hinter der Oberfläche	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+полнотекстовый поиск	die Volltextsuche	sucht im gesamten Inhalt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+поисковая система	die Suchmaschine	findet Inhalte über Anfragen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+поисковый индекс	der Suchindex	schneller Zugriff für Suche	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+поисковый запрос	die Suchabfrage	eingegebene Sucheingabe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+краулер	der Crawler	durchläuft Quellen automatisch	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+структура индекса	die Indexstruktur	Aufbau des Suchspeichers	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+репозиторий	das Repository	Ablage für Projektinhalt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+контроль версий	die Versionskontrolle	verfolgt Änderungen im Code	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+система контроля версий	das Versionsverwaltungssystem	verwaltet Stände und Historie	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+коммит	der Commit	gespeicherter Änderungssatz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+ветка	der Branch	getrennter Entwicklungszweig	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тег	das Tag	benannter Stand im Verlauf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+слияние	der Merge	führt Zweige zusammen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конфликт слияния	der Merge-Konflikt	zwei Änderungen stoßen zusammen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+pull request	der Pull Request	Bitte um Übernahme von Code	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+ревью кода	der Code-Review	gemeinsame Prüfung des Codes	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+релизное одобрение	die Freigabe	offizielle Erlaubnis zum Einsatz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+история	die Historie	gesamter frühere Verlauf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+изменение	die Änderung	abweichender neuer Stand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+кодовая база	die Codebasis	Gesamtbestand des Programms	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+исходный код	der Quellcode	menschlich lesbares Programm	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+качество кода	die Codequalität	Güte des Programmtexts	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+место в коде	die Codestelle	konkreter Abschnitt im Text	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+строка кода	die Codezeile	einzelne Zeile im Programm	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+зависимость	die Abhängigkeit	externe benötigte Komponente	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+библиотека	die Bibliothek	wiederverwendbarer Codebestand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+фреймворк	das Framework	gibt Struktur für Entwicklung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+модуль	das Modul	abgegrenzte Programmeinheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+формат пакета	das Paketformat	Art der Verpackung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+среда выполнения	die Laufzeitumgebung	Umfeld für Programmausführung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+интерпретатор	der Interpreter	führt direkt Schritt für Schritt aus	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+компилятор	der Compiler	übersetzt in maschinennahe Form	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+оптимизация компилятора	die Compiler-Optimierung	verbessert Code beim Übersetzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сборка	der Build	erstelltes lauffähiges Paket	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+процесс сборки	der Build-Prozess	Schritte zur Erstellung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конвейер сборки	die Build-Pipeline	automatisierte Baukette	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конвейер CI/CD	die CI/CD-Pipeline	automatisiert Test und Auslieferung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+развёртывание	die Bereitstellung	bringt Software in Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+деплой	das Deployment	Ausrollen einer neuen Version	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+продакшен-среда	die Produktionsumgebung	echter Live-Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+тестовая среда	die Testumgebung	Umfeld für Prüfungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+staging-среда	die Staging-Umgebung	nahe Vorstufe zur Produktion	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+среда разработки	die Entwicklungsumgebung	Werkzeuge fürs Programmieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+контейнеризация	die Containerisierung	packt Software mit Umfeld	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+контейнер	der Container	leichtgewichtige isolierte Einheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+образ	das Image	startfertige Paketvorlage	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+кластер	das Cluster	Gruppe zusammenarbeitender Knoten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+оркестрация	die Orchestrierung	koordiniert viele Einheiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+виртуальная машина	die virtuelle Maschine	emuliertes Computersystem	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+гипервизор	der Hypervisor	verwaltet virtuelle Maschinen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+облако	die Cloud	fern bereitgestellte IT-Ressourcen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+облачная инфраструктура	die Cloud-Infrastruktur	digitale Ressourcen beim Anbieter	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+локальная установка	die lokale Installation	läuft auf eigener Hardware	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+поставщик	der Anbieter	liefert Dienste oder Software	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+лимит использования	das Nutzungslimit	obere Grenze der Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+структура затрат	die Kostenstruktur	Aufbau der entstehenden Kosten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+потребление ресурсов	der Ressourcenverbrauch	nutzt Zeit Speicher und Rechenkraft	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+масштабирование	die Skalierung	passt Kapazität an	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+распределение нагрузки	die Lastverteilung	verteilt Arbeit auf mehrere	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+балансировка нагрузки	der Lastenausgleich	gibt Verkehr an mehrere Ziele	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+узкое место	der Engpass	begrenzt das Gesamttempo	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+производительность	die Performance	Tempo und Effizienz	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+время выполнения	die Laufzeit	Dauer der Ausführung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+потребление памяти	der Speicherverbrauch	genutzte Speichergröße	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+время отклика	die Antwortzeit	Zeit bis zur Antwort	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+оптимизация	die Optimierung	gezielte Verbesserung des Verhaltens	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+профилирование	das Profiling	sucht Kosten im Ablauf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+системная архитектура	die Systemarchitektur	Gesamtaufbau des Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+архитектура	die Architektur	grundlegender Strukturentwurf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+монолитная архитектура	die Monolith-Architektur	ein großer zusammenhängender Dienst	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+микросервисная архитектура	die Microservice-Architektur	viele kleine getrennte Dienste	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+подсистема	das Teilsystem	ein Bereich des Ganzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+служба	der Dienst	bietet klaren Systemnutzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+слабая связанность	die lose Kopplung	Teile bleiben unabhängig	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+связанность	die Kopplung	Abhängigkeit zwischen Teilen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+когезия	die Kohäsion	innere Geschlossenheit eines Moduls	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+проектирование	der Entwurf	geplante Ausgestaltung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+шаблон проектирования	das Entwurfsmuster	wiederkehrende Lösungsform	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+абстракция	die Abstraktion	blendet Details bewusst aus	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+инкапсуляция	die Kapselung	verbirgt innere Details	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+наследование	die Vererbung	übernimmt Eigenschaften aus Basis	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+полиморфизм	die Polymorphie	gleiches Interface anderes Verhalten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+класс	die Klasse	Schablone für Objekte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+объект	das Objekt	konkrete Instanz im Programm	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+экземпляр	die Instanz	ein erzeugtes Exemplar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+метод	die Methode	Funktion an einer Klasse	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+функция	die Funktion	benannte ausführbare Einheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+процедура	die Prozedur	Ablauf ohne Fokus auf Rückgabe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+переменная	die Variable	änderbarer gespeicherter Wert	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+константа	die Konstante	fester unveränderlicher Wert	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тип данных	der Datentyp	bestimmt Art des Werts	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+возвращаемое значение	der Rückgabewert	Resultat einer Funktion	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+параметр	der Parameter	vorgegebene Eingabegröße	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+аргумент	das Argument	tatsächlicher Wert beim Aufruf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+условие	die Bedingung	regelt Entscheidung im Ablauf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+ветвление	die Verzweigung	wählt einen Pfad	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+цикл	die Schleife	wiederholt denselben Block	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+итерация	die Iteration	ein Durchlauf einer Wiederholung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+рекурсия	die Rekursion	ruft sich selbst erneut	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+исключение	die Ausnahme	besonderer Fehlerzustand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+обработка ошибок	die Fehlerbehandlung	reagiert geordnet auf Probleme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сценарий ошибки	der Fehlerfall	spezielle problematische Situation	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+баг	der Bug	unerwünschter Programmfehler	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+поиск ошибки	die Fehlersuche	systematisches Finden des Problems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+исправление ошибки	die Fehlerbehebung	beseitigt den Defekt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+регрессия	die Regression	früher Gutes wird schlechter	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+регрессионная ошибка	der Regressionsfehler	neuer Defekt nach Änderung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+срочное исправление	der Hotfix	schneller Fix im Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+рефакторинг	das Refactoring	verbessert Struktur ohne neue Funktion	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+технический долг	die technische Schuld	später teurer Altballast	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+документация	die Dokumentation	schriftliche technische Erklärung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+спецификация	die Spezifikation	genaue fachliche Beschreibung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+требование	die Anforderung	erwartete Eigenschaft des Systems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сценарий использования	der Anwendungsfall	konkrete Nutzungssituation	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+техническое задание	das Pflichtenheft	Umsetzung aus Sicht des Anbieters	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+постановка требований	das Lastenheft	Bedarf aus Sicht des Auftraggebers	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+реализация	die Implementierung	tatsächliche technische Umsetzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+обеспечение качества	die Qualitätssicherung	sichert geforderte Güte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+покрытие тестами	die Testabdeckung	wie viel geprüft wird	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тестовый случай	der Testfall	ein konkretes Prüfszenario	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+модульный тест	der Unit-Test	prüft kleinste Einheit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+интеграционный тест	der Integrationstest	prüft Zusammenspiel mehrerer Teile	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+системный тест	der Systemtest	prüft das Ganze	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сквозной тест	der End-to-End-Test	prüft realen Gesamtfluss	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+нагрузочный тест	der Lasttest	testet Verhalten unter viel Last	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тест безопасности	der Sicherheitstest	prüft Schutz und Rechte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+регрессионный тест	der Regressionstest	sichert altes Verhalten ab	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+автоматизация тестов	die Testautomatisierung	lässt Prüfungen selbst laufen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тестовые данные	die Testdaten	Daten nur zum Prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+стратегия тестирования	die Teststrategie	Plan für passende Prüfungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+приёмка	die Abnahme	formale Bestätigung der Lieferung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+решение о релизе	die Freigabeentscheidung	Go oder kein Go	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сопровождение	die Wartung	hält System langfristig funktionsfähig	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+миграция	die Migration	Umzug auf neue Lösung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+совместимость	die Kompatibilität	kann zusammen funktionieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+обратная совместимость	die Abwärtskompatibilität	bleibt zu Altem passend	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+стандарт	der Standard	anerkanntes gemeinsames Vorgehen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+норма	die Norm	formell festgelegte Regel	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::technik
+лицензия	die Lizenz	regelt erlaubte Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+программное обеспечение с открытым исходным кодом	die Open-Source-Software	Code ist offen zugänglich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+проприетарное программное обеспечение	die proprietäre Software	Code bleibt geschlossen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+соответствие требованиям	die Compliance	Einhaltung externer Regeln	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+управление и регламенты	die Governance	Rahmen für Verantwortung und Regeln	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+зона ответственности	die Zuständigkeit	wer wofür verantwortlich ist	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+процесс	der Prozess	geordnete Folge von Schritten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+поток	der Thread	leichter Ausführungsstrang	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+параллелизм	die Nebenläufigkeit	mehrere Dinge zugleich aktiv	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+распараллеливание	die Parallelisierung	Arbeit auf mehrere verteilen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+синхронизация	die Synchronisierung	ordnet gleichzeitige Zugriffe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+блокировка	die Sperre	verhindert gleichzeitigen Zugriff	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+взаимная блокировка	der Deadlock	zwei warten endlos	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+состояние гонки	der Race Condition	Reihenfolge macht Unterschied	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+управление состоянием	die Zustandsverwaltung	behält aktuellen Wert im Blick	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+смена состояния	der Zustandswechsel	Übergang in neuen Modus	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+инициализация	die Initialisierung	erste Vorbereitung beim Start	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+связность	die Konnektivität	Grad der Verbindung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::netzwerk
+управление пакетами	die Paketverwaltung	verwaltet installierte Abhängigkeiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+менеджер пакетов	der Paketmanager	Tool für Bibliotheken	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+установка	die Installation	macht Software verfügbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+деинсталляция	die Deinstallation	entfernt Software sauber	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+обновление	das Update	kleinere neue Fassung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+апгрейд	das Upgrade	größerer Versionssprung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+откат	der Rollback	Rückkehr zur alten Version	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+конфигурационный файл	die Konfigurationsdatei	Datei mit Einstellungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+пробел в документации	die Dokumentationslücke	wichtige Erklärung fehlt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+пробел в знаниях	die Wissenslücke	notwendiges Wissen fehlt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+учебный материал	die Schulungsunterlage	Material zum Einarbeiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+служба поддержки	der Helpdesk	erste Stelle für Hilfe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+система тикетов	das Ticketsystem	erfasst und verfolgt Anfragen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+приоритет	die Priorität	Wichtigkeit im Vergleich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+эскалационный случай	der Eskalationsfall	Fall für höhere Stufe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+запрос на изменение	der Änderungsantrag	formaler Wunsch nach Anpassung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+цепочка согласований	die Freigabekette	Reihe nötiger Zustimmungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+пользовательская роль	die Benutzerrolle	definiert erlaubte Aufgaben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+ролевая модель	das Rollenmodell	ordnet Rechte nach Rollen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+разрешение	die Berechtigung	erlaubter Zugriff auf etwas	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+доступ	der Zugriff	Nutzung einer Ressource	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+доступ на чтение	der Lesezugriff	darf nur ansehen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+доступ на запись	der Schreibzugriff	darf Inhalte ändern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+право на удаление	die Löschberechtigung	darf Inhalte entfernen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+прослеживаемость	die Nachvollziehbarkeit	Schritte bleiben erklärbar	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+воспроизводимость	die Reproduzierbarkeit	ergibt wieder dasselbe Resultat	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+инвентаризация	die Inventarisierung	Bestand systematisch erfassen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+стандартизация	die Standardisierung	macht Dinge einheitlich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+автоматизация процессов	die Prozessautomatisierung	lässt Routine selbst laufen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+структура организации	die Ordnungsstruktur	ordnet Inhalte systematisch	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+соглашение об именовании	die Benennungskonvention	feste Regeln für Namen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+метод разработки	die Entwicklungsmethode	organisiert Teamarbeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+доска Scrum	das Scrum-Board	sichtbare Aufgabenübersicht	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+итерация в проекте	die Iteration im Projekt	kurzer Entwicklungszyklus	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+спринт	der Sprint	zeitlich begrenzte Arbeitsphase	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+беклог	das Backlog	Liste offener Arbeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+оценка трудозатрат	die Aufwandsschätzung	schätzt nötige Arbeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+риск	das Risiko	möglicher negativer Ausgang	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+зависимость в проекте	die Abhängigkeit im Projekt	anderes Arbeitspaket blockiert	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+поставка	die Auslieferung	Übergabe an Nutzer	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+качество сервиса	die Servicequalität	Güte eines bereitgestellten Dienstes	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+соглашение об уровне сервиса	das Service Level Agreement	Vereinbarung über Dienstgüte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+операционная документация	die Betriebsdokumentation	Unterlagen für laufenden Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+ландшафт систем	die Systemlandschaft	Gesamtheit verbundener Systeme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+целевая система	das Zielsystem	System, das angebunden wird	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+исходная система	das Quellsystem	Herkunft der Daten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+описание интерфейса	die Schnittstellenbeschreibung	erklärt Aufbau und Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+поток данных	der Datenfluss	Bewegung der Informationen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+концепция разграничения прав	das Berechtigungskonzept	ordnet Rechte systematisch	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+срок хранения	die Aufbewahrungsfrist	Zeit bis zur Löschung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+оценка влияния на защиту данных	die Datenschutzfolgeabschätzung	prüft Risiken für Personendaten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+запрос на доступ	die Zugriffsanfrage	Bitte um Berechtigung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::sicherheit
+интеграционный слой	die Integrationsschicht	verbindet getrennte Systeme	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+сервисный интерфейс	die Service-Schnittstelle	Zugang zu einem Dienst	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+мультитенантность	die Mandantenfähigkeit	ein System für viele Parteien	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+высокая доступность	die Hochverfügbarkeit	kaum Unterbrechung im Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+резервирование	die Redundanz	mehrfach vorhandene Elemente	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+резервная среда	die Ausweichumgebung	Ersatzumfeld im Notfall	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+процедура восстановления работы	das Wiederanlaufverfahren	ordnet Neustart nach Ausfall	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+точка восстановления	der Wiederherstellungspunkt	letzter sicherer Datenstand	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+целевой показатель восстановления	das Wiederherstellungsziel	gewünschte Erholungszeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+аварийное планирование	die Notfallplanung	Vorbereitung auf Krisen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+планирование ёмкости	die Kapazitätsplanung	bestimmt künftigen Bedarf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+планирование ресурсов	die Ressourcenplanung	ordnet Mittel und Zeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+пользователь	der Benutzer	Person mit Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+пользовательница	die Benutzerin	weibliche Person mit Nutzung	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+администратор	der Administrator	verwaltet Systeme und Rechte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+администратор (жен.)	die Administratorin	verwaltet technisch den Betrieb	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+разработчик	der Entwickler	erstellt technische Lösungen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+разработчица	die Entwicklerin	entwickelt Software professionell	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+системный архитектор	der Systemarchitekt	plant den Gesamtaufbau	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+системный архитектор (жен.)	die Systemarchitektin	entwirft komplexe Strukturen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+администратор базы данных	der Datenbankadministrator	verwaltet Datenspeicher professionell	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::daten
+запрос в поддержку	die Supportanfrage	Bitte um technische Hilfe	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+сообщение об ошибке	die Fehlermeldung	Anzeige eines Problems	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::software
+тикет	das Ticket	ein erfasster Supportfall	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::wort domain::infrastruktur
+скомпилировать код	den Code kompilieren	Programm in Zielcode übersetzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+запустить код	den Code ausführen	Programm tatsächlich laufen lassen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+читать исходный код	den Quellcode lesen	Programmtext analysierend ansehen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+разрабатывать приложение	eine Anwendung entwickeln	Software funktional umsetzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+развернуть приложение	eine Anwendung bereitstellen	Software in Betrieb bringen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+документировать интерфейс	eine Schnittstelle dokumentieren	Nutzung und Grenzen erklären	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+спроектировать API	eine API entwerfen	Zugang für andere Systeme planen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+обработать запрос	eine Anfrage verarbeiten	Eingang technisch bearbeiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+вернуть ответ	eine Antwort zurückgeben	Ergebnis an Aufrufer senden	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+установить соединение	eine Verbindung herstellen	Kanal technisch öffnen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::netzwerk
+разорвать соединение	die Verbindung trennen	Kanal sauber schließen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::netzwerk
+сохранить файл	eine Datei speichern	Inhalt dauerhaft ablegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+удалить файл	eine Datei löschen	Inhalt endgültig entfernen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+создать каталог	ein Verzeichnis anlegen	neuen Ablageort erzeugen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+разрешить путь к файлу	einen Pfad auflösen	genauen Speicherort bestimmen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+изменить конфигурацию	eine Konfiguration anpassen	Optionen gezielt verändern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+сбросить настройки	die Einstellungen zurücksetzen	auf Standard zurückgehen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+установить пакет	ein Paket installieren	externe Komponente hinzufügen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+обновить пакет	ein Paket aktualisieren	auf neueren Stand bringen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+подключить библиотеку	eine Bibliothek einbinden	externen Code nutzbar machen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+обновить зависимость	eine Abhängigkeit aktualisieren	benötigte Komponente erneuern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+создать ветку	einen Branch anlegen	neuen Arbeitszweig eröffnen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+сделать коммит	Änderungen committen	Änderung fest in Verlauf schreiben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+разрешить конфликт слияния	einen Merge-Konflikt auflösen	widersprüchliche Änderungen vereinigen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+открыть pull request	einen Pull Request öffnen	Code zur Prüfung einreichen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+проверить код	den Code überprüfen	Qualität und Fehler prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+воспроизвести баг	einen Bug reproduzieren	Fehler erneut hervorrufen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+сузить область поиска ошибки	einen Fehler eingrenzen	Problem systematisch lokalisieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+изолировать причину	die Ursache isolieren	Quelle des Problems abtrennen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+выкатить hotfix	einen Hotfix ausrollen	schnelle Korrektur live bringen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+рефакторить код	den Code refaktorieren	Struktur ohne Funktionsänderung verbessern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+сокращать технический долг	technische Schulden abbauen	Altlasten gezielt reduzieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+упростить архитектуру	die Architektur vereinfachen	Struktur klarer und kleiner machen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+развязать сервисы	einen Dienst entkoppeln	Abhängigkeit zwischen Diensten verringern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+мигрировать базу данных	eine Datenbank migrieren	Datenspeicher auf neues Ziel bringen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+извлечь данные из базы	Daten aus der Datenbank abrufen	gespeicherte Werte holen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+записать данные в базу	Daten in die Datenbank schreiben	neue Werte persistent speichern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+оптимизировать запрос	eine Abfrage optimieren	Zugriff effizienter machen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+создать индекс	einen Index anlegen	schnelleren Zugriff vorbereiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+создать резервную копию	ein Backup erstellen	Sicherung für später ablegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+восстановить систему	ein System wiederherstellen	nach Ausfall erneut nutzbar machen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+зашифровать данные	die Daten verschlüsseln	Inhalte unlesbar machen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+защитить доступы	Zugriffe absichern	Nutzung technisch schützen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+грамотно назначить права	Rechte sauber vergeben	Zugriffe passend zuteilen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+валидировать ввод	eine Eingabe validieren	Eingang auf Korrektheit prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+просматривать логи	Protokolle durchsuchen	Meldungen nach Spuren prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+анализировать метрики	Metriken auswerten	Messwerte gezielt interpretieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+мониторить систему	das System überwachen	Zustand fortlaufend beobachten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+вызвать оповещение	einen Alarm auslösen	Warnung aktiv erzeugen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+оставаться стабильным под высокой нагрузкой	unter hoher Last stabil bleiben	trotz Druck verlässlich laufen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+распределить нагрузку	die Last verteilen	Arbeit auf mehrere Ziele geben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+устранить узкое место	einen Engpass beseitigen	begrenzenden Faktor entfernen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+снизить потребление памяти	den Speicherverbrauch senken	weniger RAM benötigen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+сократить время выполнения	die Laufzeit verringern	Ablauf deutlich beschleunigen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+улучшить время отклика	die Antwortzeit verbessern	schneller auf Anfragen reagieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+увеличить покрытие тестами	die Testabdeckung erhöhen	mehr Fälle automatisiert prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+запускать тесты локально	Tests lokal ausführen	Prüfungen auf eigenem Rechner starten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+предотвратить регрессию	eine Regression verhindern	bisher Gutes absichern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+подготовить релиз	eine Freigabe vorbereiten	letzte Schritte vor Go	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+спланировать миграцию	eine Migration planen	Umzug strukturiert vorbereiten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+проверить совместимость	die Kompatibilität prüfen	Passung zu anderem sicherstellen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+подготовить откат	einen Rollback vorbereiten	Rückkehrweg im Voraus sichern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+запустить виртуальную машину	eine virtuelle Maschine starten	emuliertes System hochfahren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+собрать контейнер	einen Container bauen	lauffähige isolierte Einheit erstellen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+опубликовать образ	ein Image veröffentlichen	startfähige Vorlage bereitstellen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+автоматизировать конвейер	eine Pipeline automatisieren	Schritte ohne Handarbeit ausführen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+обрабатывать события асинхронно	Ereignisse asynchron verarbeiten	nicht blockierend reagieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+очистить очередь сообщений	eine Nachrichtenschlange leeren	gepufferte Meldungen abbauen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+инвалидировать кэш	einen Cache invalidieren	gespeicherte Kopie verwerfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+автоматизировать развёртывание	die Bereitstellung automatisieren	Release ohne manuelle Schritte	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+усилить защиту сервера	einen Server härten	Angriffsfläche gezielt verkleinern	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+закрыть уязвимость	eine Sicherheitslücke schließen	bekannte Schwäche beseitigen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+сбросить пароль	das Passwort zurücksetzen	geheimes Kennwort neu setzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+назначить пользовательскую роль	eine Benutzerrolle zuweisen	Rechte nach Rolle geben	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+поддерживать ролевую модель	das Rollenmodell pflegen	Rechtekonzept aktuell halten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::sicherheit
+закрыть пробел в документации	eine Dokumentationslücke schließen	fehlende Erklärung ergänzen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+обновить эксплуатационную документацию	die Betriebsdokumentation aktualisieren	Unterlagen auf neuen Stand bringen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+проанализировать инцидент	einen Vorfall analysieren	Ursache und Folgen prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+исследовать отказ	einen Ausfall untersuchen	Grund für Stillstand klären	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+реагировать на сбой	auf eine Störung reagieren	schnell und passend handeln	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+документировать причину прозрачно	die Ursache nachvollziehbar dokumentieren	Grund klar schriftlich festhalten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+ввести стандарт	einen Standard einführen	einheitliche Regel etablieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+унифицировать соглашение об именовании	die Benennungskonvention vereinheitlichen	Namen nach einer Regel ordnen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+вести систему тикетов	ein Ticketsystem pflegen	Supportfälle sauber verwalten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+приоритизировать запрос в поддержку	eine Supportanfrage priorisieren	Wichtigkeit rasch festlegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+уточнить зону ответственности	die Zuständigkeit klären	wer zuständig ist festlegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+версионировать интерфейс	eine Schnittstelle versionieren	mehrere Stände sauber führen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+подключить предметное приложение	eine Fachanwendung anbinden	Spezialsoftware integrieren	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::software
+визуализировать поток данных	den Datenfluss visualisieren	Bewegung grafisch darstellen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+подключить целевую систему	ein Zielsystem anbinden	System technisch verbinden	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+заменить исходную систему	ein Quellsystem ersetzen	alte Datenquelle austauschen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+определить срок хранения	eine Aufbewahrungsfrist definieren	Zeit bis zur Entfernung festlegen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::daten
+измерять качество сервиса	die Servicequalität messen	Güte mit Kennzahlen prüfen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+перепланировать ёмкость	die Kapazität neu planen	Bedarf anpassen und rechnen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::chunk domain::infrastruktur
+Приложение стабильно отвечает даже под высокой нагрузкой.	Die Anwendung antwortet auch unter hoher Last stabil.	bleibt trotz viel Verkehr verlässlich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::infrastruktur
+Сервер сейчас обрабатывает слишком много одновременных запросов.	Der Server verarbeitet derzeit zu viele gleichzeitige Anfragen.	System ist momentan überlastet	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::infrastruktur
+Запрос к базе данных корректен, но заметно слишком медленный.	Die Datenbankabfrage ist korrekt, aber deutlich zu langsam.	funktioniert, aber kostet zu viel Zeit	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::daten
+Нам нужно яснее документировать интерфейс.	Wir müssen die Schnittstelle klarer dokumentieren.	Beschreibung ist noch zu ungenau	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Время выполнения сократилось после рефакторинга.	Die Laufzeit hat sich nach dem Refactoring verkürzt.	Code wurde schneller ohne neue Funktion	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Без надёжных тестов риск регрессии возрастает.	Ohne saubere Tests steigt das Risiko einer Regression.	Fehler kommen leichter zurück	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Мониторинг обнаруживает отказ в течение нескольких секунд.	Das Monitoring erkennt den Ausfall innerhalb weniger Sekunden.	Störung wird sehr schnell bemerkt	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::infrastruktur
+Логи показывают ошибку в аутентификации.	Die Protokolle zeigen einen Fehler in der Authentifizierung.	Meldungen weisen auf Loginproblem	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::sicherheit
+После hotfix пропускная способность снова нормализуется.	Nach dem Hotfix normalisiert sich der Durchsatz wieder.	nach schneller Korrektur läuft es normal	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::infrastruktur
+Приложение масштабируется горизонтально лучше, чем ожидалось.	Die Anwendung skaliert horizontal besser als erwartet.	mehr Instanzen helfen stärker als gedacht	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::infrastruktur
+Небольшая ошибка конфигурации может иметь большие последствия.	Ein kleiner Konfigurationsfehler kann große Folgen haben.	schon kleine Option kann viel stören	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Сопровождаемость страдает из-за слишком большого числа особых случаев.	Die Wartbarkeit leidet unter zu vielen Sonderfällen.	zu viele Ausnahmen erschweren Pflege	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Пользовательский интерфейс кажется быстрым и аккуратным.	Die Benutzeroberfläche wirkt schnell und aufgeräumt.	Sichtschicht fühlt sich klar an	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Код читается легко, но архитектурно не совсем последователен.	Der Code ist lesbar, aber architektonisch nicht ganz konsistent.	Text ist klar, Struktur noch uneinheitlich	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Технический долг долго недооценивали.	Die technische Schuld wurde lange unterschätzt.	Altlasten wurden zu spät ernst genommen	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Без чёткой спецификации возникают лишние вопросы.	Ohne klare Spezifikation entstehen unnötige Rückfragen.	Anforderungen sind noch nicht scharf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Конфликт слияния затрагивает один и тот же файл в двух ветках.	Der Merge-Konflikt betrifft dieselbe Datei in zwei Branches.	zwei Zweige ändern denselben Ort	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Конвейер сборки падает на последнем шаге.	Die Build-Pipeline bricht im letzten Schritt ab.	Automatisierung scheitert ganz am Ende	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Нам стоит регулярно обновлять зависимости.	Wir sollten die Abhängigkeiten regelmäßig aktualisieren.	externe Pakete dürfen nicht veralten	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Модульный тест покрывает только самый простой сценарий ошибки.	Der Unit-Test deckt nur den einfachsten Fehlerfall ab.	Prüfung ist noch zu schmal	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Интеграционный тест лучше отражает реальный процесс.	Der Integrationstest bildet den realen Ablauf besser ab.	Zusammenspiel wird praxisnäher geprüft	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Отдел качества сообщает о критической ошибке перед релизом.	Die Qualitätssicherung meldet einen kritischen Fehler vor der Freigabe.	kurz vor Go taucht Schweres auf	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Очередь сообщений аккуратно развязывает участвующие сервисы.	Die Nachrichtenschlange entkoppelt die beteiligten Dienste sauber.	Meldungen trennen Systeme voneinander	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::software
+Обработка в реальном времени требует другой архитектуры, чем пакетная обработка.	Echtzeitverarbeitung erfordert eine andere Architektur als Batch-Verarbeitung.	zwei Verarbeitungsarten brauchen anderes Design	form::vokabel func::produktion level::c1_c2 topic::general_cs_it source::raw::vocabulary::general_cs_it card::satz domain::daten

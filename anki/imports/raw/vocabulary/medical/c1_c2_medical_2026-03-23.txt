@@ -1,0 +1,320 @@
+die Arztpraxis
+die Zahnarztpraxis
+die Hausarztpraxis
+die Facharztpraxis
+die Sprechstunde
+der Termin
+die Terminvereinbarung
+die Anmeldung
+der Empfang
+das Wartezimmer
+die Wartezeit
+der Patient
+die Patientin
+die Krankenakte
+die Anamnese
+die Vorgeschichte
+die Beschwerden
+das Symptom
+die Diagnose
+die Verdachtsdiagnose
+die Untersuchung
+die Nachuntersuchung
+die Vorsorgeuntersuchung
+die Verlaufskontrolle
+die Behandlung
+die Therapie
+die Medikation
+das Medikament
+das Rezept
+das Privatrezept
+das Kassenrezept
+die Überweisung
+die Krankschreibung
+die Arbeitsunfähigkeitsbescheinigung
+die Überprüfung
+die Aufklärung
+die Einwilligung
+die Nebenwirkung
+die Wechselwirkung
+die Dosierung
+die Einnahme
+die Tablette
+die Kapsel
+der Saft
+die Salbe
+die Tropfen
+die Injektion
+die Spritze
+die Infusion
+die Blutentnahme
+die Blutprobe
+der Blutdruck
+der Puls
+die Temperatur
+das Fieber
+der Husten
+der Schnupfen
+die Halsschmerzen
+die Heiserkeit
+die Atemnot
+die Übelkeit
+das Erbrechen
+der Durchfall
+die Verstopfung
+die Bauchschmerzen
+die Rückenschmerzen
+die Kopfschmerzen
+die Migräne
+die Schwindelgefühle
+die Erschöpfung
+die Müdigkeit
+der Ausschlag
+die Entzündung
+die Infektion
+die Verletzung
+die Verstauchung
+der Bruch
+die Wunde
+die Schwellung
+die Blutung
+die Allergie
+die Unverträglichkeit
+das Immunsystem
+die Impfung
+die Auffrischungsimpfung
+der Impfpass
+die Laboruntersuchung
+der Befund
+der Laborwert
+der Ultraschall
+das Röntgenbild
+die Magnetresonanztomografie
+die Computertomografie
+die Überwachung
+die Besserung
+die Verschlechterung
+die Genesung
+die Nachsorge
+die Rehabilitation
+die Krankenkasse
+die Versicherungskarte
+die Zuzahlung
+die Praxisgebühr
+die Notaufnahme
+der Notfall
+der Bereitschaftsdienst
+der Facharzt
+die Fachärztin
+der Hausarzt
+die Hausärztin
+der Internist
+die Internistin
+der Kinderarzt
+die Kinderärztin
+der HNO-Arzt
+der Dermatologe
+die Dermatologin
+der Orthopäde
+die Orthopädin
+der Gynäkologe
+die Gynäkologin
+der Zahnarzt
+die Zahnärztin
+die Zahnmedizin
+die Zahnheilkunde
+die Mundhygiene
+die Zahnpflege
+die Zahnbürste
+die elektrische Zahnbürste
+die Zahnpasta
+die Zahnseide
+die Mundspülung
+der Zahn
+der Milchzahn
+der Backenzahn
+der Schneidezahn
+der Eckzahn
+der Weisheitszahn
+der Zahnwechsel
+der Kiefer
+der Oberkiefer
+der Unterkiefer
+das Zahnfleisch
+die Zahnwurzel
+der Zahnschmelz
+das Dentin
+der Speichel
+die Zunge
+der Mundgeruch
+die Karies
+das Loch im Zahn
+die Zahnfüllung
+die Krone
+die Brücke
+das Implantat
+die Prothese
+die Teilprothese
+die Zahnspange
+die feste Zahnspange
+die lose Zahnspange
+die Schiene
+die Knirscherschiene
+die Wurzelbehandlung
+die Betäubung
+die Lokalanästhesie
+die Zahnreinigung
+die professionelle Zahnreinigung
+der Zahnbelag
+der Zahnstein
+die Parodontitis
+die Gingivitis
+die Zahnfleischentzündung
+die empfindlichen Zähne
+die Zahnlücke
+der Biss
+die Fehlstellung
+die Kieferorthopädie
+der Kieferorthopäde
+die Kieferorthopädin
+die Bohrung
+der Bohrer
+das Röntgen beim Zahnarzt
+der Speichelsauger
+der Abdruck
+die Krone auf dem Zahn
+das Provisorium
+die Nachkontrolle beim Zahnarzt
+die Zahnextraktion
+die Weisheitszahnentfernung
+die Wunde im Mund
+das Zahnfleischbluten
+die Schmerzempfindlichkeit
+der Aufbissschmerz
+das Kältegefühl am Zahn
+das Ziehen im Zahn
+die Schmerzlinderung
+die Entlastung
+die Heilung
+der Heilungsverlauf
+die Kostenschätzung
+der Heil- und Kostenplan
+die Zusatzversicherung
+das Bonusheft
+die Zahnzusatzversicherung
+die Füllungstherapie
+die Kroneversorgung
+die Brückenversorgung
+die Implantatversorgung
+der Zahnersatz
+der Kontrolltermin
+einen Termin vereinbaren
+einen Termin verschieben
+einen Termin absagen
+in der Praxis anrufen
+an der Anmeldung warten
+die Versicherungskarte vorzeigen
+die Beschwerden schildern
+die Symptome beschreiben
+die Vorgeschichte erklären
+eine Überweisung bekommen
+krankgeschrieben werden
+ein Rezept ausstellen
+ein Medikament verschreiben
+die Dosis anpassen
+das Medikament regelmäßig einnehmen
+auf Nebenwirkungen achten
+den Blutdruck messen
+Blut abnehmen
+eine Probe ins Labor schicken
+den Befund besprechen
+zur Kontrolle wiederkommen
+eine Zweitmeinung einholen
+die Behandlung fortsetzen
+die Therapie abbrechen
+sich körperlich schonen
+sich ausreichend ausruhen
+viel Flüssigkeit trinken
+nüchtern zur Untersuchung kommen
+die Zähne gründlich putzen
+Zahnseide benutzen
+den Mund ausspülen
+eine professionelle Zahnreinigung machen lassen
+den Zahn betäuben
+ein Röntgenbild anfertigen
+Karies behandeln
+eine Füllung legen
+eine Krone einsetzen
+eine Brücke anpassen
+ein Implantat setzen
+einen Zahn ziehen
+die Wunde kühlen
+das Zahnfleisch entzündet sich
+auf der linken Seite kauen
+den Biss überprüfen
+eine Schiene tragen
+nachts mit den Zähnen knirschen
+den Heilungsverlauf beobachten
+den Heil- und Kostenplan prüfen
+das Bonusheft mitbringen
+einen Kontrolltermin ausmachen
+ich habe seit gestern Schmerzen
+mir ist seit dem Morgen übel
+ich bekomme schlecht Luft
+ich habe Fieber bekommen
+die Schmerzen strahlen in den Kiefer aus
+der Zahn reagiert auf Kälte
+beim Kauen tut es weh
+das Zahnfleisch blutet beim Putzen
+ich vertrage dieses Medikament nicht
+ich bin gegen Penicillin allergisch
+Ich habe seit drei Tagen starke Halsschmerzen.
+Mir ist seit gestern schwindelig.
+Der Husten ist nachts besonders schlimm.
+Ich habe hohes Fieber und fühle mich sehr schwach.
+Die Schmerzen wurden in den letzten Stunden stärker.
+Die Tabletten haben kaum geholfen.
+Die Ärztin hat mir eine Blutuntersuchung empfohlen.
+Der Befund liegt wahrscheinlich morgen vor.
+Bitte kommen Sie nüchtern zur Untersuchung.
+Sie sollten sich in den nächsten Tagen schonen.
+Ich brauche eine Krankschreibung für meinen Arbeitgeber.
+Können Sie mir ein Rezept ausstellen?
+Die Nebenwirkungen sind zum Glück mild geblieben.
+Wir müssen die Dosierung etwas reduzieren.
+Wenn sich Ihr Zustand verschlechtert, kommen Sie sofort wieder.
+Ich habe große Angst vor Spritzen.
+Der Zahn tut besonders beim Kauen weh.
+Mein Zahnfleisch blutet seit einigen Tagen.
+Der Backenzahn reagiert stark auf kalte Getränke.
+Die Zahnärztin hat eine Karies entdeckt.
+Die Betäubung wirkt noch nicht vollständig.
+Wir müssen wahrscheinlich eine Wurzelbehandlung machen.
+Der Weisheitszahn sollte besser entfernt werden.
+Nach der Behandlung dürfen Sie heute nichts Hartes essen.
+Die Wunde im Mund heilt langsam ab.
+Bitte kühlen Sie die betroffene Stelle von außen.
+Die professionelle Zahnreinigung war gründlicher als erwartet.
+Ich trage nachts eine Schiene gegen das Zähneknirschen.
+Der Heil- und Kostenplan muss noch genehmigt werden.
+Meine Zusatzversicherung übernimmt einen Teil der Kosten.
+Ich habe den Kontrolltermin schon für nächste Woche vereinbart.
+Der Arzt wollte meine Lunge noch einmal abhören.
+Beim Aufstehen wurde mir schwarz vor Augen.
+Die Entzündung ist noch nicht vollständig abgeklungen.
+Sie sollten das Antibiotikum bis zum Ende einnehmen.
+Die Schmerzen sind dumpf und kommen in Wellen.
+Der Zahn ist druckempfindlich und fühlt sich locker an.
+Nach der Extraktion hatte ich eine deutliche Schwellung.
+Die Füllung fühlt sich beim Zubeißen noch etwas zu hoch an.
+Der Kieferorthopäde hat eine neue Schiene angepasst.
+Ich verschiebe den Termin, weil ich heute nicht kommen kann.
+Bitte bringen Sie alle bisherigen Befunde mit.
+Der Hausarzt hat mich an einen Facharzt überwiesen.
+Das Röntgenbild zeigt keine Auffälligkeiten.
+Die Laborwerte sind insgesamt unauffällig.
+Ich habe das Medikament nach dem Essen eingenommen.
+Seit der Zahnreinigung fühlt sich mein Mund viel frischer an.
+Die Krone sitzt fest und sieht natürlich aus.
+Wenn die Blutung nicht aufhört, melden Sie sich bitte sofort.
+Ich möchte heute gern eine Zweitmeinung einholen.

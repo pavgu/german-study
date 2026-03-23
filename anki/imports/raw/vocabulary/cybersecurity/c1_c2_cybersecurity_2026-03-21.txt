@@ -1,0 +1,440 @@
+die Cybersicherheit
+die IT-Sicherheit
+die Informationssicherheit
+die Netzwerksicherheit
+die Anwendungssicherheit
+die Systemsicherheit
+die Cloud-Sicherheit
+die Endpunktsicherheit
+die Betriebssicherheit
+die Sicherheitsarchitektur
+die Sicherheitsstrategie
+die Sicherheitsrichtlinie
+das Sicherheitskonzept
+die Sicherheitsmaßnahme
+der Schutzmechanismus
+die Bedrohung
+die Bedrohungslage
+die Bedrohungsanalyse
+die Risikobewertung
+die Risikominderung
+das Risiko
+der Angriffsvektor
+die Angriffsfläche
+der Angriff
+die Abwehr
+die Verteidigung
+die Härtung
+die Überwachung
+das Monitoring
+die Protokollierung
+die Ablaufverfolgung
+die Alarmierung
+der Vorfall
+der Sicherheitsvorfall
+die Störung
+der Ausfall
+die Ausfallzeit
+die Wiederherstellung
+das Wiederanlaufverfahren
+die Notfallplanung
+die Business Continuity
+der Wiederherstellungspunkt
+das Wiederherstellungsziel
+die Resilienz
+die Hochverfügbarkeit
+die Redundanz
+die Zugriffskontrolle
+die Authentifizierung
+die Autorisierung
+die Identitätsprüfung
+die Zugriffsbeschränkung
+die Berechtigung
+die Rollenvergabe
+das Rollenmodell
+das Passwort
+die Passphrase
+die Zwei-Faktor-Authentifizierung
+die Multifaktor-Authentifizierung
+das Einmalpasswort
+das Zertifikat
+der Schlüssel
+der private Schlüssel
+der öffentliche Schlüssel
+das Schlüsselpaar
+die Signatur
+die Zertifikatskette
+die Verschlüsselung
+die Entschlüsselung
+die Ende-zu-Ende-Verschlüsselung
+die Transportverschlüsselung
+die Festplattenverschlüsselung
+die Datenintegrität
+die Vertraulichkeit
+die Verfügbarkeit
+die Nachvollziehbarkeit
+die Nichtabstreitbarkeit
+der Datenschutz
+die Datensicherheit
+die Datenklassifizierung
+die Datenminimierung
+die Datenaufbewahrung
+die Löschfrist
+die Zugriffsprotokollierung
+die Richtlinienkonformität
+die Governance
+die Compliance
+die Regulierung
+die Auditierbarkeit
+das Audit
+die Revision
+die Sicherheitsprüfung
+der Kontrollmechanismus
+die Härtungsrichtlinie
+die Patch-Strategie
+das Sicherheitsupdate
+der Patch
+die Schwachstelle
+die Sicherheitslücke
+der Exploit
+die Ausnutzung
+der Zero-Day-Exploit
+die Fehlkonfiguration
+die Konfigurationsabweichung
+der Standardbenutzer
+das Administratorkonto
+die Privilegieneskalation
+das Least-Privilege-Prinzip
+die Netzwerksegmentierung
+das Segment
+das Subnetz
+die Demilitarisierte Zone
+die Firewall
+die Web Application Firewall
+das Intrusion-Detection-System
+das Intrusion-Prevention-System
+das SIEM-System
+das SOAR-System
+der Security Operation Center
+das Ticketsystem
+die Warnmeldung
+der Alarm
+der Indikator
+der Kompromittierungsindikator
+der Fehlalarm
+die Ereigniskorrelation
+die Telemetrie
+der Sensor
+der Agent
+der Endpunkt
+das Endgerät
+der Server
+der Client
+das Netzwerk
+der Router
+der Switch
+der Access Point
+das VPN
+der Proxy
+der Reverse Proxy
+das Gateway
+die Schnittstelle
+die API
+die API-Sicherheit
+die Anwendung
+die Webanwendung
+die Mobilanwendung
+das Betriebssystem
+der Kernel
+der Treiber
+die Firmware
+die Containerisierung
+der Container
+die virtuelle Maschine
+die Cloud
+die Cloud-Infrastruktur
+die Zugriffsschicht
+die Sicherheitszone
+die Angriffsanalyse
+die Malware
+der Schadcode
+der Trojaner
+der Wurm
+der Virus
+die Ransomware
+die Spyware
+die Adware
+der Keylogger
+das Botnetz
+die Hintertür
+die Persistenz
+die Tarnung
+die Umgehung
+die Umgehungstechnik
+die Signaturerkennung
+die Verhaltensanalyse
+die Sandbox
+die Quarantäne
+die Isolierung
+die Eindämmung
+die Bereinigung
+die forensische Analyse
+die forensische Sicherung
+der Speicherabzug
+das Artefakt
+die Beweiskette
+die Ursachenanalyse
+die Angriffskampagne
+der Akteur
+der Bedrohungsakteur
+der Insider
+der Angreifer
+die Tätergruppe
+die Phishing-Mail
+das Phishing
+das Spear-Phishing
+das Whaling
+der Betrugsversuch
+die Social-Engineering-Attacke
+die Identitätsübernahme
+der Kontodiebstahl
+der Sitzungsdiebstahl
+die Kontoübernahme
+das Credential Stuffing
+der Passwort-Spray-Angriff
+der Brute-Force-Angriff
+die Wörterbuchattacke
+das Captcha
+die Anmeldung
+der Login-Versuch
+die Sperrung
+die Sitzung
+das Sitzungs-Token
+das Cookie
+die Sitzungsverwaltung
+der CSRF-Angriff
+die Cross-Site-Scripting-Lücke
+die SQL-Injection
+die Kommandoinjektion
+die Prompt-Injektion
+die Directory-Traversal-Lücke
+die Remote-Code-Ausführung
+die lokale Dateieinbindung
+die Server-Side-Request-Forgery
+die XML-External-Entity-Lücke
+die Deserialisierungslücke
+die Fehlervalidierung
+die Eingabevalidierung
+die Ausgabecodierung
+die Geheimnisverwaltung
+das Geheimnis
+das Zugriffstoken
+der API-Schlüssel
+die Schlüsselrotation
+das Konfigurationsgeheimnis
+die Backup-Datei
+die Schattenkopie
+die Protokolldatei
+die Spurenlage
+die Angriffssignatur
+die Angriffskette
+die Kill Chain
+die laterale Bewegung
+die Aufklärung
+die Erkundung
+die Initialzugriffstechnik
+die Ausführung
+die Persistenz im System
+die Umgehung von Abwehrmechanismen
+der Credential Dump
+die Exfiltration
+der Datenabfluss
+die Datenabschöpfung
+die Kommando-und-Kontroll-Verbindung
+der Beacon
+die Tarnkommunikation
+der DNS-Tunnel
+die Anomalieerkennung
+die Baseline
+die Abweichung
+die Signaturanalyse
+die Heuristik
+die Erkennungsrate
+die Fehlerrate
+die Blockierungsregel
+die Erkennungsregel
+die Korrelation
+die Indikatorensuche
+die Bedrohungsjagd
+die Threat Intelligence
+der Lagebericht
+die Taktik
+die Technik
+das Verfahren
+das Angreiferprofil
+die Kampagnenzuordnung
+der IOC-Abgleich
+die Schwachstellenbewertung
+der Schwachstellenscan
+der Konfigurationsscan
+der Penetrationstest
+das Red Teaming
+das Purple Teaming
+das Blue Teaming
+die Angriffssimulation
+die Sicherheitsübung
+die Tabletop-Übung
+die Abwehrfähigkeit
+die Einsatzbereitschaft
+die Reaktionszeit
+die Eskalation
+die Meldekette
+die Kommunikationskette
+die Vorfallsreaktion
+die Erstbewertung
+die Priorisierung
+die Eindämmungsstrategie
+der Wiederanlauf
+die Nachbereitung
+der Lessons-Learned-Bericht
+die Kontrollverbesserung
+die Sicherheitskultur
+das Sicherheitsbewusstsein
+die Schulung
+die Awareness-Kampagne
+die Meldepflicht
+die Meldefrist
+das Asset
+das Inventar
+die Asset-Klassifizierung
+die Schutzbedarfsanalyse
+der Kronjuwel-Ansatz
+der Geschäftswert
+die Lieferkette
+die Lieferketten-Sicherheit
+der Drittanbieter
+die Drittparteirisikoanalyse
+die Abhängigkeit
+das Open-Source-Paket
+die Paketintegrität
+die Signaturprüfung
+die Build-Pipeline
+die CI/CD-Pipeline
+die Artefaktprüfung
+die Codeintegrität
+die Quellcodeanalyse
+die statische Analyse
+die dynamische Analyse
+die Softwarezusammensetzung
+die Sorgfaltspflicht
+die Freigabekontrolle
+die Cloud-Konfiguration
+die Identitätsföderation
+die Mandantenisolation
+die Mandantenfähigkeit
+die Zugriffspolicy
+die Bucket-Policy
+der öffentliche Zugriff
+die Fehlfreigabe
+die Ressourcenrichtlinie
+die Schlüsselverwaltung
+das Hardware-Sicherheitsmodul
+die Tokenisierung
+die Pseudonymisierung
+die Maskierung
+die Datenleckage
+die Offenlegung
+die Behebung
+die Risikokommunikation
+die Management-Zusammenfassung
+der Prüfpfad
+die Abnahme
+die Kontrollwirksamkeit
+die Dokumentation
+den Zugriff absichern
+eine Sicherheitslücke schließen
+einen Patch einspielen
+ein System härten
+eine Firewall-Regel anpassen
+eine Schwachstelle bewerten
+einen Schwachstellenscan durchführen
+einen Penetrationstest beauftragen
+einen Vorfall melden
+einen Alarm auslösen
+einen Fehlalarm verwerfen
+einen Endpunkt isolieren
+eine Maschine aus dem Netzwerk nehmen
+eine Phishing-Mail melden
+Anhänge in der Sandbox analysieren
+Protokolle forensisch auswerten
+einen Speicherabzug sichern
+Beweise sauber dokumentieren
+die Ursache des Vorfalls eingrenzen
+laterale Bewegung früh erkennen
+einen Datenabfluss verhindern
+ein Konto vorübergehend sperren
+die Zugangsdaten zurücksetzen
+Passwörter regelmäßig rotieren
+Geheimnisse sicher verwalten
+die Schlüsselrotation automatisieren
+Rechte nach dem Least-Privilege-Prinzip vergeben
+eine Sitzung invalidieren
+eine API gegen Missbrauch absichern
+Eingaben streng validieren
+Ausgaben korrekt kodieren
+eine SQL-Injection verhindern
+eine CSRF-Schutzmaßnahme aktivieren
+eine Cross-Site-Scripting-Lücke beheben
+eine Fehlkonfiguration korrigieren
+öffentlichen Zugriff auf Ressourcen verhindern
+eine Cloud-Konfiguration überprüfen
+einen Drittanbieter neu bewerten
+die Lieferkette absichern
+die Paketintegrität prüfen
+die Build-Pipeline absichern
+Codeartefakte signieren
+die Erkennungsregeln verfeinern
+Indikatoren mit dem SIEM abgleichen
+eine Bedrohungsjagd durchführen
+eine Angriffssimulation vorbereiten
+ein Tabletop-Szenario moderieren
+die Reaktionszeit verkürzen
+die Meldekette klar definieren
+die Sicherheitskultur stärken
+Mitarbeitende für Phishing sensibilisieren
+einen Lessons-Learned-Bericht erstellen
+die Kontrollwirksamkeit nachweisen
+eine Audit-Anfrage beantworten
+die Compliance-Anforderungen dokumentieren
+Schutzbedarfe realistisch einstufen
+Kronjuwelen besonders absichern
+Die Sicherheitslücke wurde bereits aktiv ausgenutzt.
+Der Angriff begann mit einer überzeugend formulierten Phishing-Mail.
+Die Protokolle zeigen verdächtige Anmeldeversuche aus mehreren Ländern.
+Nach dem Patch sinkt das Risiko deutlich.
+Die Fehlkonfiguration öffnete unbeabsichtigt einen sensiblen Dienst nach außen.
+Das SIEM korreliert mehrere Warnsignale zu einem Vorfall.
+Die Telemetrie reicht für eine belastbare forensische Analyse nicht aus.
+Der Endpunkt wurde vorsorglich isoliert.
+Die Wiederherstellung aus dem Backup war erfolgreich.
+Ohne klare Meldekette geht im Vorfall wertvolle Zeit verloren.
+Die Alarmierung war technisch korrekt, aber operativ zu spät.
+Das Rollenmodell ist zu komplex und führt zu überhöhten Berechtigungen.
+Die Multifaktor-Authentifizierung verhindert nicht jeden Angriff, erhöht aber die Hürde.
+Der Penetrationstest deckte mehrere kritische Schwachstellen auf.
+Die Lieferkette ist oft schwächer abgesichert als der eigene Kernbetrieb.
+Ein fehlender Patch kann große Folgen haben.
+Der Datenabfluss ließ sich frühzeitig eindämmen.
+Die Angriffssimulation zeigte deutliche Lücken in der Reaktionsfähigkeit.
+Das Sicherheitsbewusstsein im Team hat sich verbessert.
+Eine gute Sicherheitsarchitektur reduziert nicht nur Schäden, sondern auch Unsicherheit.
+Nicht jeder Alarm ist ein echter Sicherheitsvorfall.
+Die Bedrohungsjagd ergänzt klassische Erkennungsregeln sinnvoll.
+Die API war funktional korrekt, aber sicherheitstechnisch unzureichend geschützt.
+Die Cloud-Konfiguration muss regelmäßig überprüft werden.
+Ein Audit prüft nicht nur Dokumente, sondern auch gelebte Prozesse.
+Die Beweiskette muss lückenlos dokumentiert werden.
+Die laterale Bewegung blieb zunächst unentdeckt.
+Ohne Segmentierung breitet sich ein Angreifer schneller aus.
+Die Schutzmaßnahme war wirksam, aber schwer zu warten.
+Ein reifer Prozess verbindet Technik, Kommunikation und Verantwortung.

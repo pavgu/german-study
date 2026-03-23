@@ -1,0 +1,600 @@
+die Informatik
+die Computerwissenschaft
+die Informationstechnologie
+die Rechnerarchitektur
+die Softwaretechnik
+die Systemtechnik
+die Automatisierungstechnik
+die Wirtschaftsinformatik
+die technische Informatik
+die praktische Informatik
+die theoretische Informatik
+die Medieninformatik
+die Bioinformatik
+die Human-Computer-Interaction
+die Digitalisierung
+die digitale Infrastruktur
+der Computer
+der Rechner
+der Desktop-PC
+der Laptop
+das Notebook
+das Tablet
+das Smartphone
+der Server
+der Client
+der Host
+der Knoten
+der Arbeitsplatzrechner
+das Endgerät
+das Peripheriegerät
+die Hardware
+die Software
+die Firmware
+die Middleware
+das Betriebssystem
+die Distribution
+der Kernel
+der Treiber
+die Shell
+die Kommandozeile
+das Terminal
+die grafische Benutzeroberfläche
+die Benutzeroberfläche
+die Benutzererfahrung
+die Bedienbarkeit
+die Barrierefreiheit
+die Eingabemethode
+das Ausgabegerät
+die Tastatur
+die Maus
+das Touchpad
+der Monitor
+der Bildschirm
+der Drucker
+der Scanner
+das Mikrofon
+die Webcam
+der Lautsprecher
+der Prozessor
+die CPU
+die GPU
+die Grafikkarte
+der Arbeitsspeicher
+der Hauptspeicher
+der Zwischenspeicher
+der Cache
+die Festplatte
+die SSD
+der Massenspeicher
+der USB-Stick
+die Speicherkarte
+das Mainboard
+die Hauptplatine
+das Netzteil
+der Lüfter
+die Kühlung
+der Steckplatz
+der Anschluss
+der Port
+der Ethernet-Anschluss
+der USB-Anschluss
+der HDMI-Anschluss
+die Schnittstelle
+die Programmierschnittstelle
+die serielle Schnittstelle
+die parallele Schnittstelle
+das BIOS
+das UEFI
+das Dateisystem
+die Datei
+der Ordner
+das Verzeichnis
+der Pfad
+die Dateiendung
+das Dateiformat
+die Konfiguration
+die Einstellung
+die Systemvariable
+die Umgebungsvariable
+das Protokoll
+der Log-Eintrag
+die Protokollierung
+die Ablaufverfolgung
+das Monitoring
+die Beobachtbarkeit
+die Metrik
+der Alarm
+der Vorfall
+die Störung
+der Ausfall
+die Ausfallzeit
+die Verfügbarkeit
+die Zuverlässigkeit
+die Fehlertoleranz
+die Robustheit
+die Wartbarkeit
+die Lesbarkeit
+die Skalierbarkeit
+die Erweiterbarkeit
+die Wiederverwendbarkeit
+die Testbarkeit
+die Stabilität
+die Sicherheit
+die Datensicherheit
+der Datenschutz
+die Verschlüsselung
+die Entschlüsselung
+die Zugriffskontrolle
+die Authentifizierung
+die Autorisierung
+das Passwort
+das Kennwort
+die Passphrase
+die Zwei-Faktor-Authentifizierung
+das Zertifikat
+der private Schlüssel
+der öffentliche Schlüssel
+die Signatur
+die Sicherheitsrichtlinie
+die Sicherheitslücke
+die Schwachstelle
+der Angriff
+die Abwehr
+die Firewall
+das VPN
+die Netzwerksegmentierung
+die Netzwerksicherheit
+das Netzwerk
+das Rechnernetz
+das Intranet
+das Internet
+das lokale Netzwerk
+das Weitverkehrsnetz
+das drahtlose Netzwerk
+das kabelgebundene Netzwerk
+der Router
+der Switch
+der Hub
+das Modem
+der Access Point
+die Netzwerkkarte
+die IP-Adresse
+die MAC-Adresse
+die Subnetzmaske
+das Gateway
+der Hostname
+der DNS-Server
+die Namensauflösung
+die Bandbreite
+die Latenz
+die Netzwerklatenz
+der Durchsatz
+das Paket
+der Paketverlust
+die Verbindung
+der Verbindungsaufbau
+der Verbindungsabbruch
+das Protokoll TCP/IP
+das HTTP-Protokoll
+das HTTPS-Protokoll
+das FTP-Protokoll
+das SSH-Protokoll
+die Socket-Verbindung
+die WebSocket-Verbindung
+die REST-API
+die API
+die Anfrage
+die Antwort
+die Anfragezeit
+die Statusmeldung
+der Statuscode
+der Endpunkt
+die Nutzlast
+der Header
+die Serialisierung
+die Deserialisierung
+das JSON-Format
+das XML-Format
+das YAML-Format
+das CSV-Format
+die Datenbank
+das Datenbanksystem
+die relationale Datenbank
+die NoSQL-Datenbank
+die In-Memory-Datenbank
+die Tabelle
+die Spalte
+die Zeile
+der Datensatz
+das Schema
+die Datenbankabfrage
+die Abfrageoptimierung
+der Index
+die Indexierung
+der Primärschlüssel
+der Fremdschlüssel
+die Transaktion
+die Normalisierung
+die Denormalisierung
+die Replikation
+die Sicherungskopie
+das Backup
+die Wiederherstellung
+die Datenmigration
+die Datenintegrität
+die Datenkonsistenz
+die Datenqualität
+die Datenbereinigung
+die Datenverarbeitung
+die Datenanalyse
+die Datenpipeline
+die ETL-Strecke
+die Batch-Verarbeitung
+die Echtzeitverarbeitung
+die Warteschlange
+die Nachrichtenschlange
+das Ereignis
+die Ereignisverarbeitung
+das Streaming
+die Persistenzschicht
+die Zugriffsschicht
+die Geschäftslogik
+die Anwendung
+die Webanwendung
+die Desktop-Anwendung
+die Mobilanwendung
+die Unternehmensanwendung
+die Fachanwendung
+das Frontend
+das Backend
+die Volltextsuche
+die Suchmaschine
+der Suchindex
+die Suchabfrage
+der Crawler
+die Indexstruktur
+das Repository
+die Versionskontrolle
+das Versionsverwaltungssystem
+der Commit
+der Branch
+das Tag
+der Merge
+der Merge-Konflikt
+der Pull Request
+der Code-Review
+die Freigabe
+die Historie
+die Änderung
+die Codebasis
+der Quellcode
+die Codequalität
+die Codestelle
+die Codezeile
+die Abhängigkeit
+die Bibliothek
+das Framework
+das Modul
+das Paketformat
+die Laufzeitumgebung
+der Interpreter
+der Compiler
+die Compiler-Optimierung
+der Build
+der Build-Prozess
+die Build-Pipeline
+die CI/CD-Pipeline
+die Bereitstellung
+das Deployment
+die Produktionsumgebung
+die Testumgebung
+die Staging-Umgebung
+die Entwicklungsumgebung
+die Containerisierung
+der Container
+das Image
+das Cluster
+die Orchestrierung
+die virtuelle Maschine
+der Hypervisor
+die Cloud
+die Cloud-Infrastruktur
+die lokale Installation
+der Anbieter
+das Nutzungslimit
+die Kostenstruktur
+der Ressourcenverbrauch
+die Skalierung
+die Lastverteilung
+der Lastenausgleich
+der Engpass
+die Performance
+die Laufzeit
+der Speicherverbrauch
+die Antwortzeit
+die Optimierung
+das Profiling
+die Systemarchitektur
+die Architektur
+die Monolith-Architektur
+die Microservice-Architektur
+das Teilsystem
+der Dienst
+die lose Kopplung
+die Kopplung
+die Kohäsion
+der Entwurf
+das Entwurfsmuster
+die Abstraktion
+die Kapselung
+die Vererbung
+die Polymorphie
+die Klasse
+das Objekt
+die Instanz
+die Methode
+die Funktion
+die Prozedur
+die Variable
+die Konstante
+der Datentyp
+der Rückgabewert
+der Parameter
+das Argument
+die Bedingung
+die Verzweigung
+die Schleife
+die Iteration
+die Rekursion
+die Ausnahme
+die Fehlerbehandlung
+der Fehlerfall
+der Bug
+die Fehlersuche
+die Fehlerbehebung
+die Regression
+der Regressionsfehler
+der Hotfix
+das Refactoring
+die technische Schuld
+die Dokumentation
+die Spezifikation
+die Anforderung
+der Anwendungsfall
+das Pflichtenheft
+das Lastenheft
+die Implementierung
+die Qualitätssicherung
+die Testabdeckung
+der Testfall
+der Unit-Test
+der Integrationstest
+der Systemtest
+der End-to-End-Test
+der Lasttest
+der Sicherheitstest
+der Regressionstest
+die Testautomatisierung
+die Testdaten
+die Teststrategie
+die Abnahme
+die Freigabeentscheidung
+die Wartung
+die Migration
+die Kompatibilität
+die Abwärtskompatibilität
+der Standard
+die Norm
+die Lizenz
+die Open-Source-Software
+die proprietäre Software
+die Compliance
+die Governance
+die Zuständigkeit
+der Prozess
+der Thread
+die Nebenläufigkeit
+die Parallelisierung
+die Synchronisierung
+die Sperre
+der Deadlock
+der Race Condition
+die Zustandsverwaltung
+der Zustandswechsel
+die Initialisierung
+die Konnektivität
+die Paketverwaltung
+der Paketmanager
+die Installation
+die Deinstallation
+das Update
+das Upgrade
+der Rollback
+die Konfigurationsdatei
+die Dokumentationslücke
+die Wissenslücke
+die Schulungsunterlage
+der Helpdesk
+das Ticketsystem
+die Priorität
+der Eskalationsfall
+der Änderungsantrag
+die Freigabekette
+die Benutzerrolle
+das Rollenmodell
+die Berechtigung
+der Zugriff
+der Lesezugriff
+der Schreibzugriff
+die Löschberechtigung
+die Nachvollziehbarkeit
+die Reproduzierbarkeit
+die Inventarisierung
+die Standardisierung
+die Prozessautomatisierung
+die Ordnungsstruktur
+die Benennungskonvention
+die Entwicklungsmethode
+das Scrum-Board
+die Iteration im Projekt
+der Sprint
+das Backlog
+die Aufwandsschätzung
+das Risiko
+die Abhängigkeit im Projekt
+die Auslieferung
+die Servicequalität
+das Service Level Agreement
+die Betriebsdokumentation
+die Systemlandschaft
+das Zielsystem
+das Quellsystem
+die Schnittstellenbeschreibung
+der Datenfluss
+das Berechtigungskonzept
+die Aufbewahrungsfrist
+die Datenschutzfolgeabschätzung
+die Zugriffsanfrage
+die Integrationsschicht
+die Service-Schnittstelle
+die Mandantenfähigkeit
+die Hochverfügbarkeit
+die Redundanz
+die Ausweichumgebung
+das Wiederanlaufverfahren
+der Wiederherstellungspunkt
+das Wiederherstellungsziel
+die Notfallplanung
+die Kapazitätsplanung
+die Ressourcenplanung
+der Benutzer
+die Benutzerin
+der Administrator
+die Administratorin
+der Entwickler
+die Entwicklerin
+der Systemarchitekt
+die Systemarchitektin
+der Datenbankadministrator
+die Supportanfrage
+die Fehlermeldung
+das Ticket
+den Code kompilieren
+den Code ausführen
+den Quellcode lesen
+eine Anwendung entwickeln
+eine Anwendung bereitstellen
+eine Schnittstelle dokumentieren
+eine API entwerfen
+eine Anfrage verarbeiten
+eine Antwort zurückgeben
+eine Verbindung herstellen
+die Verbindung trennen
+eine Datei speichern
+eine Datei löschen
+ein Verzeichnis anlegen
+einen Pfad auflösen
+eine Konfiguration anpassen
+die Einstellungen zurücksetzen
+ein Paket installieren
+ein Paket aktualisieren
+eine Bibliothek einbinden
+eine Abhängigkeit aktualisieren
+einen Branch anlegen
+Änderungen committen
+einen Merge-Konflikt auflösen
+einen Pull Request öffnen
+den Code überprüfen
+einen Bug reproduzieren
+einen Fehler eingrenzen
+die Ursache isolieren
+einen Hotfix ausrollen
+den Code refaktorieren
+technische Schulden abbauen
+die Architektur vereinfachen
+einen Dienst entkoppeln
+eine Datenbank migrieren
+Daten aus der Datenbank abrufen
+Daten in die Datenbank schreiben
+eine Abfrage optimieren
+einen Index anlegen
+ein Backup erstellen
+ein System wiederherstellen
+die Daten verschlüsseln
+Zugriffe absichern
+Rechte sauber vergeben
+eine Eingabe validieren
+Protokolle durchsuchen
+Metriken auswerten
+das System überwachen
+einen Alarm auslösen
+unter hoher Last stabil bleiben
+die Last verteilen
+einen Engpass beseitigen
+den Speicherverbrauch senken
+die Laufzeit verringern
+die Antwortzeit verbessern
+die Testabdeckung erhöhen
+Tests lokal ausführen
+eine Regression verhindern
+eine Freigabe vorbereiten
+eine Migration planen
+die Kompatibilität prüfen
+einen Rollback vorbereiten
+eine virtuelle Maschine starten
+einen Container bauen
+ein Image veröffentlichen
+eine Pipeline automatisieren
+Ereignisse asynchron verarbeiten
+eine Nachrichtenschlange leeren
+einen Cache invalidieren
+die Bereitstellung automatisieren
+einen Server härten
+eine Sicherheitslücke schließen
+das Passwort zurücksetzen
+eine Benutzerrolle zuweisen
+das Rollenmodell pflegen
+eine Dokumentationslücke schließen
+die Betriebsdokumentation aktualisieren
+einen Vorfall analysieren
+einen Ausfall untersuchen
+auf eine Störung reagieren
+die Ursache nachvollziehbar dokumentieren
+einen Standard einführen
+die Benennungskonvention vereinheitlichen
+ein Ticketsystem pflegen
+eine Supportanfrage priorisieren
+die Zuständigkeit klären
+eine Schnittstelle versionieren
+eine Fachanwendung anbinden
+den Datenfluss visualisieren
+ein Zielsystem anbinden
+ein Quellsystem ersetzen
+eine Aufbewahrungsfrist definieren
+die Servicequalität messen
+die Kapazität neu planen
+Die Anwendung antwortet auch unter hoher Last stabil.
+Der Server verarbeitet derzeit zu viele gleichzeitige Anfragen.
+Die Datenbankabfrage ist korrekt, aber deutlich zu langsam.
+Wir müssen die Schnittstelle klarer dokumentieren.
+Die Laufzeit hat sich nach dem Refactoring verkürzt.
+Ohne saubere Tests steigt das Risiko einer Regression.
+Das Monitoring erkennt den Ausfall innerhalb weniger Sekunden.
+Die Protokolle zeigen einen Fehler in der Authentifizierung.
+Nach dem Hotfix normalisiert sich der Durchsatz wieder.
+Die Anwendung skaliert horizontal besser als erwartet.
+Ein kleiner Konfigurationsfehler kann große Folgen haben.
+Die Wartbarkeit leidet unter zu vielen Sonderfällen.
+Die Benutzeroberfläche wirkt schnell und aufgeräumt.
+Der Code ist lesbar, aber architektonisch nicht ganz konsistent.
+Die technische Schuld wurde lange unterschätzt.
+Ohne klare Spezifikation entstehen unnötige Rückfragen.
+Der Merge-Konflikt betrifft dieselbe Datei in zwei Branches.
+Die Build-Pipeline bricht im letzten Schritt ab.
+Wir sollten die Abhängigkeiten regelmäßig aktualisieren.
+Der Unit-Test deckt nur den einfachsten Fehlerfall ab.
+Der Integrationstest bildet den realen Ablauf besser ab.
+Die Qualitätssicherung meldet einen kritischen Fehler vor der Freigabe.
+Die Nachrichtenschlange entkoppelt die beteiligten Dienste sauber.
+Echtzeitverarbeitung erfordert eine andere Architektur als Batch-Verarbeitung.

@@ -1,0 +1,400 @@
+die künstliche Intelligenz
+die generative KI
+das maschinelle Lernen
+das überwachte Lernen
+das unüberwachte Lernen
+das bestärkende Lernen
+das Deep Learning
+das neuronale Netz
+das künstliche neuronale Netz
+das Sprachmodell
+das Basismodell
+das KI-System
+das Expertensystem
+das Modell
+die Modellarchitektur
+die Modellgröße
+die Modellfamilie
+die Parameterzahl
+das Training
+das Vortraining
+die Feinabstimmung
+die Trainingsschleife
+die Trainingsiteration
+die Trainingsdaten
+die Validierungsdaten
+die Testdaten
+der Datensatz
+die Datenkurierung
+die Datenannotation
+die Datenbereinigung
+die Datenqualität
+die Datenerhebung
+die Datenverteilung
+die Datenrepräsentation
+das Merkmal
+die Merkmalsextraktion
+die Merkmalsauswahl
+der Vektor
+der Merkmalsvektor
+die Einbettung
+der Einbettungsraum
+der Token
+die Tokenisierung
+die Sequenz
+der Kontext
+das Kontextfenster
+die Eingabe
+die Ausgabe
+die Inferenz
+die Vorhersage
+die Generierung
+die Stichprobe
+die Dekodierung
+die Wahrscheinlichkeitsverteilung
+der Logit
+der Attention-Mechanismus
+die Selbstaufmerksamkeit
+der Encoder
+der Decoder
+der Transformer
+die Schicht
+die Aktivierungsfunktion
+die Verlustfunktion
+der Gradient
+der Gradientenabstieg
+der Optimierer
+die Lernrate
+die Gewichtung
+die Initialisierung
+die Regularisierung
+die Normalisierung
+die Stapelgröße
+die Epoche
+die Konvergenz
+die Generalisierung
+die Überanpassung
+die Unteranpassung
+der Bias
+die Verzerrung
+die Varianz
+die Robustheit
+die Reproduzierbarkeit
+die Nachvollziehbarkeit
+die Erklärbarkeit
+die Interpretierbarkeit
+die Modellbewertung
+die Evaluierung
+die Benchmark
+die Metrik
+die Genauigkeit
+die Präzision
+die Trefferquote
+der Recall
+der F1-Wert
+die Fehlklassifikation
+die Konfusionsmatrix
+die Kalibrierung
+die Unsicherheitsschätzung
+die Klassifikation
+die Regression
+die Clusteranalyse
+die Dimensionsreduktion
+die Anomalieerkennung
+die Empfehlung
+das Empfehlungssystem
+die Zeitreihenanalyse
+die Vorverarbeitung
+die Nachbearbeitung
+die Prompting-Strategie
+das Prompt Engineering
+die Systemanweisung
+die Benutzereingabe
+die Modellausgabe
+die Tool-Nutzung
+die Funktionsaufruflogik
+der Agent
+das agentische System
+die Werkzeugkette
+die Retrieval-Pipeline
+die Wissensbasis
+die semantische Suche
+die Vektordatenbank
+die Ähnlichkeitssuche
+die Rangfolge
+die Relevanz
+die Kontextanreicherung
+die Quellenangabe
+die Grounding-Strategie
+die Halluzination
+die Faktentreue
+die Antwortqualität
+die Inhaltsmoderation
+die Sicherheitseinschränkung
+die Schutzmaßnahme
+der Missbrauchsfall
+die Jailbreak-Attacke
+die Prompt-Injektion
+die Datensicherheit
+der Datenschutz
+die Modellgovernance
+die Compliance
+die Ausrichtung
+die Belohnungsfunktion
+die Präferenzdaten
+die menschliche Rückmeldung
+die Richtlinienkonformität
+die Risikobewertung
+das Sicherheitsverhalten
+die Fairness
+die Schadensvermeidung
+die Verzerrungsanalyse
+die Domänenanpassung
+der Einsatzkontext
+der Anwendungsfall
+die Produktionsreife
+die Bereitstellung
+die Modellversion
+die Versionierung
+die Überwachung
+das Drift-Monitoring
+die Datenverschiebung
+die Konzeptdrift
+die Qualitätskontrolle
+die Kostenkontrolle
+die Skalierung
+die Anfragekosten
+der Ressourcenverbrauch
+die Latenz
+der Durchsatz
+die Batch-Inferenz
+die Echtzeit-Inferenz
+die Multimodalität
+das Sprachverständnis
+die Textklassifikation
+die Sentimentanalyse
+die Zusammenfassung
+die Übersetzung
+die Informationsextraktion
+die Fragebeantwortung
+die Codegenerierung
+die Bildklassifikation
+die Objekterkennung
+die Segmentierung
+die Spracherkennung
+die Sprachsynthese
+die Dokumentenanalyse
+die Tabellenextraktion
+die Diagrammerkennung
+die Wissensextraktion
+die Ontologie
+die Regelbasis
+die symbolische KI
+die hybride KI
+die probabilistische Modellierung
+das Bayes-Modell
+der Entscheidungsbaum
+der Zufallswald
+das Gradientenboosting
+die lineare Regression
+die logistische Regression
+die Support-Vector-Machine
+das K-Means-Verfahren
+die Hauptkomponentenanalyse
+der Autoencoder
+das Diffusionsmodell
+das Sequenzmodell
+das Ranking-Modell
+das Re-Ranking
+das Scoring
+die Datenpipeline
+die Trainingsinfrastruktur
+die Modellkarte
+die Evaluierungsrubrik
+der Goldstandard
+die Referenzantwort
+die Annotationseinheit
+die Label-Qualität
+die Fehlerrate
+der Ausreißer
+die Randbedingung
+die Abbruchbedingung
+die Optimierungsstrategie
+die Hyperparameter
+die Hyperparametersuche
+die Rastersuche
+die Zufallssuche
+die Bayes-Optimierung
+die Rechenkapazität
+die GPU-Ressource
+der Trainingslauf
+der Evaluierungslauf
+die Vergleichbarkeit
+die Kontrollgruppe
+die Ablationsstudie
+die Fehlertaxonomie
+die Versuchsreihe
+die Produktionsüberwachung
+die Rückkopplungsschleife
+die Nutzerbewertung
+die Antwortnützlichkeit
+die Antwortkürze
+die Antwortpräzision
+die Aufgabenleistung
+die Domänenkenntnis
+die Wissensgrenze
+die Kontexttreue
+die Prompt-Vorlage
+die Kettenaufforderung
+die Schritt-für-Schritt-Strategie
+die Selbstkorrektur
+die Unsicherheitsmarkierung
+die Quellenprüfung
+die Evidenz
+die Verifikation
+die Validierung
+die Gegenprobe
+die Ablehnung riskanter Anfragen
+die Richtlinienprüfung
+die Tool-Auswahl
+die Werkzeugorchestrierung
+die API-Integration
+die Sitzungsverwaltung
+die Speicherstrategie
+die Kurzzeiterinnerung
+die Langzeiterinnerung
+die Konversationshistorie
+die Nutzerabsicht
+die Ambiguität
+die Disambiguierung
+die Kontexterhaltung
+die Sprachvariation
+die Mehrsprachigkeit
+die Terminologietreue
+die Domänenspezifik
+die Ausfallstrategie
+die Fallback-Antwort
+die Qualitätsgrenze
+die Produktanforderung
+das Freigabekriterium
+die Bewertungsmatrix
+die Risikoklasse
+die Angriffserkennung
+die Sicherheitsfreigabe
+die Modellprüfung
+die Auditierbarkeit
+die Transparenz
+die Lizenz
+die Open-Weights-Strategie
+die proprietäre Modellfamilie
+der Anbieter
+die Kostenstruktur
+das Nutzungslimit
+ein Modell trainieren
+ein Modell feinabstimmen
+ein Modell evaluieren
+ein Modell bereitstellen
+ein Modell versionieren
+eine Inferenz ausführen
+eine Eingabe tokenisieren
+Einbettungen berechnen
+eine semantische Suche durchführen
+Kontext aus einer Wissensbasis abrufen
+eine Antwort mit Quellen absichern
+die Eingabeaufforderung präzisieren
+das Kontextfenster sinnvoll füllen
+Token effizient nutzen
+Halluzinationen im Modellverhalten reduzieren
+die Verzerrung im Datensatz erkennen
+Trainingsdaten kuratieren
+Präferenzdaten sammeln
+die Lernrate anpassen
+die Hyperparameter abstimmen
+eine Benchmark fair interpretieren
+die Modellleistung unter Last messen
+Kosten pro Anfrage kalkulieren
+ein Sprachmodell in eine Anwendung integrieren
+eine Tool-Nutzung sicher orchestrieren
+Nutzereingaben moderieren
+Missbrauch früh erkennen
+ein KI-System absichern
+die Ergebnisse nachvollziehbar dokumentieren
+eine Modellkarte erstellen
+eine Rubrik für die Bewertung definieren
+eine Fehlertaxonomie aufbauen
+eine Ablationsstudie durchführen
+ein Drift-Monitoring einrichten
+die Datenverschiebung beobachten
+auf Konzeptdrift reagieren
+eine Fallback-Antwort bereitstellen
+eine riskante Anfrage ablehnen
+die Richtlinienkonformität prüfen
+die Antwortqualität bewerten
+die Faktentreue verbessern
+die Relevanz erhöhen
+die Antwort prägnanter formulieren
+die Unsicherheit offen kennzeichnen
+eine Gegenprobe durchführen
+eine Quellenprüfung verlangen
+das Sicherheitsverhalten testen
+die Fairness des Systems bewerten
+die Produktanforderung schärfen
+den Einsatzkontext eingrenzen
+die Produktionsreife beurteilen
+die Latenz in Echtzeit senken
+Batch-Inferenz für große Mengen nutzen
+eine Prompt-Vorlage standardisieren
+eine Kettenaufforderung sparsam einsetzen
+Selbstkorrektur nur gezielt verwenden
+die Nutzerabsicht besser erkennen
+mehrdeutige Anfragen disambiguieren
+die Terminologie konsistent halten
+eine Wissensgrenze sauber kommunizieren
+eine API-Integration für Tools aufbauen
+Die Datenqualität ist für das Training noch nicht gut genug.
+Das Modell zeigt in dieser Aufgabe eine überraschend hohe Genauigkeit.
+Die Validierungsdaten zeigen einen deutlichen Leistungsabfall.
+Eine niedrigere Lernrate macht das Training stabiler.
+Die Verlustfunktion sinkt, aber die Generalisierung verbessert sich kaum.
+Der Datensatz enthält mehrere systematische Verzerrungen.
+Die Einbettungen erfassen semantische Ähnlichkeiten recht gut.
+Das Kontextfenster reicht für das gesamte Dokument nicht aus.
+Ein gutes Prompt ist präzise, aber nicht überladen.
+Das Sprachmodell halluziniert bei fehlendem Kontext.
+Die Ausrichtung des Systems bleibt eine offene Frage.
+Die Erklärbarkeit ist in regulierten Bereichen besonders wichtig.
+Wir brauchen nachvollziehbare Kriterien für die Modellbewertung.
+Eine Benchmark ohne klaren Vergleichswert hilft wenig.
+Die Präzision steigt, während die Trefferquote leicht sinkt.
+Das KI-System darf vertrauliche Daten nicht offenlegen.
+Missbrauch lässt sich nie vollständig ausschließen.
+Die Inhaltsmoderation muss mehrere Sprachen abdecken.
+Die Governance ist technisch und organisatorisch zugleich.
+Open-Source-Modelle beschleunigen Experimente, erhöhen aber den Prüfaufwand.
+Der Anbieter begrenzt die Nutzung pro Minute.
+Die Kostenstruktur ändert sich mit dem Anfragevolumen deutlich.
+Für diesen Anwendungsfall reicht ein kleineres Modell völlig aus.
+Wir sollten erst das Problem verstehen und dann das Modell wählen.
+Nicht jede Automatisierung verbessert den Arbeitsablauf.
+Ein zuverlässiges KI-System braucht klare Zuständigkeiten.
+Die Produktanforderung ist noch zu vage für eine faire Evaluierung.
+Ohne Referenzantworten bleibt die Qualitätsmessung unscharf.
+Die Tool-Nutzung verbessert die Antwort nur bei sauberer Orchestrierung.
+Mehr Kontext hilft nur, wenn er relevant und vertrauenswürdig ist.
+Die Unsicherheit sollte sichtbar werden, statt versteckt zu bleiben.
+Eine gute Evaluierungsrubrik reduziert subjektive Bewertungen.
+Konzeptdrift fällt oft erst im Produktivbetrieb auf.
+Die Sicherheitsfreigabe hängt vom Einsatzkontext ab.
+die Promptbewertung
+die Antwortkohärenz
+die Kontextselektion
+die Quellenabdeckung
+die Evidenzkette
+die Aufgabenzerlegung
+die Tool-Entscheidung
+die Antwortkonsistenz
+die Modellgrenze
+die Sicherheitsbewertung
+das Red-Teaming
+die Adversarial-Eingabe
+die Rückfallstrategie
