@@ -1,0 +1,56 @@
+В своем комментарии он делает особый упор на вопрос ответственности.	In seinem Kommentar hebt er besonders auf die Frage der Verantwortung ab.	abheben auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Ей удалось отвратить разговор от личных обвинений.	Es gelang ihr, das Gespräch von persönlichen Vorwürfen abzuwenden.	abwenden von	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он уже собирался начать свою речь, когда в зале погас свет.	Er setzte schon zu seiner Rede an, als im Saal das Licht ausging.	ansetzen zu	form::grammar func::produktion topic::verbs_prepositions level::c2
+В своем обращении президент апеллировал к чувству ответственности граждан.	In seiner Ansprache appellierte der Präsident an das Verantwortungsgefühl der Bürger.	appellieren an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Очевидно, что компания нацелена только на краткосрочную прибыль.	Offenbar ist das Unternehmen nur auf kurzfristigen Gewinn aus.	aus sein auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Его аргументация зиждется на ложной предпосылке.	Seine Argumentation beruht auf einer falschen Voraussetzung.	beruhen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Эта новость побудила многих людей к активным действиям.	Diese Nachricht bewegte viele Menschen zu aktivem Handeln.	bewegen zu	form::grammar func::produktion topic::verbs_prepositions level::c2
+Жесткие правила привязывают нас к устаревшей системе.	Starre Regeln binden uns an ein veraltetes System.	binden an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Нужно четко различать между юридической и моральной ответственностью.	Man muss klar zwischen juristischer und moralischer Verantwortung differenzieren.	differenzieren zwischen	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он снова настойчиво требует немедленного ответа.	Er drängt erneut auf eine sofortige Antwort.	drängen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Такие реформы часто сопровождаются серьезными конфликтами.	Solche Reformen gehen oft mit schweren Konflikten einher.	einhergehen mit	form::grammar func::produktion topic::verbs_prepositions level::c2
+Политические решения непосредственно воздействуют на повседневную жизнь людей.	Politische Entscheidungen wirken unmittelbar auf den Alltag der Menschen ein.	einwirken auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Его наконец освободили от этой обязанности.	Er wurde schließlich von dieser Pflicht entbunden.	entbinden von	form::grammar func::produktion topic::verbs_prepositions level::c2
+На этот регион приходится почти треть всех инвестиций.	Auf diese Region entfällt fast ein Drittel aller Investitionen.	entfallen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Масштаб ущерба трудно измерить по одной лишь статистике.	Das Ausmaß des Schadens ist an der bloßen Statistik kaum zu ermessen.	ermessen an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Из сопоставления нескольких источников можно вывести хронологию события.	Aus dem Vergleich mehrerer Quellen lässt sich die Chronologie des Ereignisses erschließen.	erschließen aus	form::grammar func::produktion topic::verbs_prepositions level::c2
+Из этих наблюдений можно сделать далеко идущие выводы.	Aus diesen Beobachtungen lassen sich weitreichende Schlüsse folgern.	folgern aus	form::grammar func::produktion topic::verbs_prepositions level::c2
+Многое зависит именно от правильного выбора момента.	Vieles ist gerade an der richtigen Wahl des Zeitpunkts gelegen.	gelegen sein an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Разговор постепенно перешел в болезненное молчание.	Das Gespräch glitt allmählich in ein schmerzhaftes Schweigen.	gleiten in	form::grammar func::produktion topic::verbs_prepositions level::c2
+Все в конечном счете сводится к вопросу доверия.	Alles läuft letztlich auf eine Frage des Vertrauens hinaus.	hinauslaufen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Мы должны целенаправленно добиваться устойчивого решения.	Wir müssen gezielt auf eine tragfähige Lösung hinwirken.	hinwirken auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Эксперты вновь призвали правительство к осторожности.	Die Fachleute mahnten die Regierung erneut zu Vorsicht.	mahnen zu	form::grammar func::produktion topic::verbs_prepositions level::c2
+Этот локальный конфликт легко может вылиться в более широкий кризис.	Dieser lokale Konflikt kann leicht in eine größere Krise münden.	münden in	form::grammar func::produktion topic::verbs_prepositions level::c2
+Сомнение продолжало подтачивать его уверенность.	Der Zweifel nagte weiter an seiner Zuversicht.	nagen an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Автор снова ссылается на давно устаревшую модель.	Der Autor rekurriert erneut auf ein längst veraltetes Modell.	rekurrieren auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Перед лицом таких потерь многие в конце концов капитулируют перед обстоятельствами.	Angesichts solcher Verluste kapitulieren viele schließlich vor den Umständen.	kapitulieren vor	form::grammar func::produktion topic::verbs_prepositions level::c2
+Из этого решения неизбежно следуют новые обязательства.	Aus dieser Entscheidung resultieren zwangsläufig neue Verpflichtungen.	resultieren aus	form::grammar func::produktion topic::verbs_prepositions level::c2
+Такие высказывания расшатывают основы доверия.	Solche Äußerungen rütteln an den Grundlagen des Vertrauens.	rütteln an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Дискуссия постоянно колебалась между надеждой и разочарованием.	Die Debatte schwankte ständig zwischen Hoffnung und Enttäuschung.	schwanken zwischen	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он по-прежнему твердо верит в действенность своего старого метода.	Er schwört noch immer auf seine alte Methode.	schwören auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+В конце концов комитет отказался от дальнейшего обсуждения.	Am Ende sah der Ausschuss von einer weiteren Debatte ab.	sehen ab von	form::grammar func::produktion topic::verbs_prepositions level::c2
+Вся дискуссия вращается вокруг вопроса власти.	Die ganze Debatte dreht sich um die Frage der Macht.	sich drehen um	form::grammar func::produktion topic::verbs_prepositions level::c2
+В кризисные моменты общество снова обращается к своим основным ценностям.	In Krisenzeiten besinnt sich die Gesellschaft wieder auf ihre Grundwerte.	sich besinnen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Вместо сути он пускается в абстрактные рассуждения.	Statt auf die Sache einzugehen, ergeht er sich in abstrakten Überlegungen.	sich ergehen in	form::grammar func::produktion topic::verbs_prepositions level::c2
+Истинный смысл этого образа раскрывается только из последнего абзаца.	Der eigentliche Sinn dieses Bildes erschließt sich erst aus dem letzten Absatz.	sich erschließen aus	form::grammar func::produktion topic::verbs_prepositions level::c2
+Его авторитет по-прежнему основывается на прежних заслугах.	Seine Autorität gründet sich noch immer auf frühere Verdienste.	sich gründen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+В такие времена следует остерегаться поспешных выводов.	In solchen Zeiten sollte man sich vor vorschnellen Schlüssen hüten.	sich hüten vor	form::grammar func::produktion topic::verbs_prepositions level::c2
+Его стиль снова вошел в явное противоречие с ожиданиями критиков.	Sein Stil rieb sich erneut an den Erwartungen der Kritiker.	sich reiben an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Многих слушателей коробит такой тон.	Viele Zuhörer stoßen sich an einem solchen Ton.	sich stoßen an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он слишком зациклился на одной формулировке.	Er hat sich zu sehr in eine einzige Formulierung verbissen.	sich verbeißen in	form::grammar func::produktion topic::verbs_prepositions level::c2
+В своих объяснениях он все больше запутывается в противоречиях.	In seinen Erklärungen verstrickt er sich immer tiefer in Widersprüche.	sich verstricken in	form::grammar func::produktion topic::verbs_prepositions level::c2
+В деталях этой истории легко потеряться.	In den Details dieser Geschichte verliert man sich leicht.	sich verlieren in	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он упрямо стоит на буквальном толковании текста.	Er versteift sich hartnäckig auf eine wörtliche Auslegung des Textes.	sich versteifen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Уже давно он замышляет месть.	Seit Langem sinnt er auf Rache.	sinnen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Некоторые инвесторы явно рассчитывают на быстрый рост курса.	Einige Investoren spekulieren offenbar auf einen raschen Kursanstieg.	spekulieren auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+В фельетоне автор насмехается над культурными клише.	Im Feuilleton spottet der Autor über kulturelle Klischees.	spotten über	form::grammar func::produktion topic::verbs_prepositions level::c2
+Все развитие указывает на скорый перелом ситуации.	Die gesamte Entwicklung steuert auf einen baldigen Wendepunkt zu.	steuern auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Толпа внезапно бросилась к выходу.	Die Menge stürmte plötzlich auf den Ausgang zu.	zustürmen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Эксперты оценили ущерб примерно в два миллиона евро.	Die Fachleute taxierten den Schaden auf rund zwei Millionen Euro.	taxieren auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Теперь я хотел бы перейти к следующему вопросу.	Nun möchte ich zu der nächsten Frage übergehen.	übergehen zu	form::grammar func::produktion topic::verbs_prepositions level::c2
+Даже после скандала он продолжал пребывать в полной уверенности в своей правоте.	Selbst nach dem Skandal verharrte er in voller Gewissheit seiner eigenen Rechtmäßigkeit.	verharren in	form::grammar func::produktion topic::verbs_prepositions level::c2
+Сложную проблему нельзя сводить к одному фактору.	Man darf ein komplexes Problem nicht auf einen einzigen Faktor verkürzen.	verkürzen auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Компания переносит производство на другой континент.	Das Unternehmen verlagert die Produktion auf einen anderen Kontinent.	verlagern auf	form::grammar func::produktion topic::verbs_prepositions level::c2
+Он направил заявителя в другой отдел.	Er verwies den Antragsteller an eine andere Abteilung.	verweisen an	form::grammar func::produktion topic::verbs_prepositions level::c2
+Министр поспешил выступить с собственным предложением.	Der Minister preschte mit einem eigenen Vorschlag vor.	vorpreschen mit	form::grammar func::produktion topic::verbs_prepositions level::c2
+Вся стратегия нацелена на долгосрочную стабильность.	Die gesamte Strategie zielt auf langfristige Stabilität.	zielen auf	form::grammar func::produktion topic::verbs_prepositions level::c2

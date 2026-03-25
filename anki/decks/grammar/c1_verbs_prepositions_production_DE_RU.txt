@@ -1,0 +1,99 @@
+Нам удалось отговорить его от поспешного решения.	Es gelang uns, ihn von einer vorschnellen Entscheidung abzubringen.	abbringen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+В этой ситуации нам придется отказаться от первоначального плана.	In dieser Situation müssen wir von dem ursprünglichen Plan absehen.	absehen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Вся кампания нацелена на молодую аудиторию.	Die ganze Kampagne zielt auf ein junges Publikum ab.	abzielen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+В своей речи он связал новый проект с прежними успехами компании.	In seiner Rede knüpfte er das neue Projekt an die früheren Erfolge des Unternehmens an.	anknüpfen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он явно намекнул на недавний скандал.	Er spielte deutlich auf den jüngsten Skandal an.	anspielen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Многие исследователи выступают за более осторожный подход.	Viele Forschende argumentieren für einen vorsichtigeren Ansatz.	argumentieren für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эксперты выступают против слишком быстрого внедрения этой меры.	Die Fachleute argumentieren gegen eine zu schnelle Einführung dieser Maßnahme.	argumentieren gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+Новый проект строится на многолетнем опыте команды.	Das neue Projekt baut auf der langjährigen Erfahrung des Teams auf.	aufbauen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Министр призвал граждан к терпению.	Der Minister forderte die Bürger zu Geduld auf.	auffordern zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Врач подробно проинформировал пациентов о возможных рисках.	Der Arzt klärte die Patientinnen und Patienten ausführlich über die möglichen Risiken auf.	aufklären über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Кто будет оплачивать ремонт?	Wer kommt für die Reparatur auf?	aufkommen für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы исходим из предположения, что отчет будет готов вовремя.	Wir gehen von der Annahme aus, dass der Bericht rechtzeitig fertig wird.	ausgehen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этот проект существенно способствует развитию региона.	Dieses Projekt trägt wesentlich zur Entwicklung der Region bei.	beitragen zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Журнал регулярно сообщает о последних открытиях.	Die Zeitschrift berichtet regelmäßig über die neuesten Entdeckungen.	berichten über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Это решение основывается на достоверных данных.	Diese Entscheidung beruht auf verlässlichen Daten.	beruhen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он продолжает настаивать на немедленных изменениях.	Er besteht weiterhin auf sofortigen Veränderungen.	bestehen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Проблема заключается не в деньгах, а во времени.	Das Problem besteht nicht im Geld, sondern in der Zeit.	bestehen in	form::grammar func::produktion topic::verbs_prepositions level::c1
+Она упорно настаивает на своей версии событий.	Sie beharrt hartnäckig auf ihrer Darstellung der Ereignisse.	beharren auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Хорошее образование дает человеку возможность действовать самостоятельно.	Eine gute Ausbildung befähigt einen Menschen zu selbstständigem Handeln.	befähigen zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Не следует относить отдельные ошибки ко всей системе.	Man sollte einzelne Fehler nicht auf das ganze System beziehen.	beziehen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эти цифры указывают на явное улучшение ситуации.	Diese Zahlen deuten auf eine deutliche Verbesserung der Lage hin.	deuten auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+На конференции участники оживленно обсуждали вопрос ответственности.	Auf der Konferenz diskutierten die Teilnehmenden lebhaft über die Frage der Verantwortung.	diskutieren über	form::grammar func::produktion topic::verbs_prepositions level::c1
+В старых текстах правитель изображается как человек, который безраздельно властвует над огромной территорией.	In älteren Texten wird der Herrscher als jemand dargestellt, der über ein riesiges Gebiet gebietet.	gebieten über	form::grammar func::produktion topic::verbs_prepositions level::c1
+В своем ответе он подробно остановился на этом возражении.	In seiner Antwort ging er ausführlich auf diesen Einwand ein.	eingehen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эти СМИ оказывают большое влияние на общественное мнение.	Diese Medien nehmen großen Einfluss auf die öffentliche Meinung.	Einfluss nehmen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Комитет завтра решит вопрос о дальнейшем финансировании.	Der Ausschuss entscheidet morgen über die weitere Finanzierung.	entscheiden über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы дополнили отчет новыми примерами.	Wir haben den Bericht um neue Beispiele ergänzt.	ergänzen um	form::grammar func::produktion topic::verbs_prepositions level::c1
+Я сразу узнал его по голосу.	Ich erkannte ihn sofort an seiner Stimme.	erkennen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+В этой аргументации не хватает ясности.	Dieser Argumentation fehlt es an Klarheit.	fehlen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Несмотря на критику, она придерживается своей позиции.	Trotz der Kritik hält sie an ihrer Position fest.	festhalten an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Из этих данных следует однозначный вывод.	Aus diesen Daten folgt ein eindeutiger Schluss.	folgen aus	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы не можем требовать от сотрудников полной доступности в выходные.	Wir können von den Mitarbeitenden am Wochenende keine ständige Erreichbarkeit fordern.	fordern von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Я не могу ручаться за результат.	Ich kann für das Ergebnis nicht garantieren.	garantieren für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этот вопрос относится к моей компетенции.	Diese Frage gehört zu meinem Zuständigkeitsbereich.	gehören zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этот участок граничит с заповедной зоной.	Dieses Gebiet grenzt an ein Naturschutzgebiet.	grenzen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Роман повествует о человеческом одиночестве.	Der Roman handelt von menschlicher Einsamkeit.	handeln von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Ничто не должно мешать нам двигаться дальше.	Nichts darf uns an dem weiteren Vorgehen hindern.	hindern an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы уже целенаправленно идем к практическому решению.	Wir arbeiten bereits gezielt auf eine praktische Lösung hin.	hinarbeiten auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Доклад ясно указывает на структурные проблемы.	Der Bericht weist klar auf strukturelle Probleme hin.	hinweisen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Нас вовремя проинформировали о переносе встречи.	Wir wurden rechtzeitig über die Verlegung des Treffens informiert.	informieren über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Город собирается инвестировать в общественный транспорт.	Die Stadt will in den öffentlichen Nahverkehr investieren.	investieren in	form::grammar func::produktion topic::verbs_prepositions level::c1
+Многие активисты борются за равные права.	Viele Aktivistinnen und Aktivisten kämpfen für gleiche Rechte.	kämpfen für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Гражданское общество борется против коррупции.	Die Zivilgesellschaft kämpft gegen Korruption.	kämpfen gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+После долгого обсуждения мы пришли к единому выводу.	Nach langer Diskussion kamen wir zu einem gemeinsamen Schluss.	kommen zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Задержка связана с технической неисправностью.	Die Verzögerung liegt an einer technischen Störung.	liegen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этому тексту недостает внутренней логики.	Diesem Text mangelt es an innerer Logik.	mangeln an	form::grammar func::produktion topic::verbs_prepositions level::c1
+В разработке концепции участвовали специалисты из разных областей.	An der Entwicklung des Konzepts wirkten Fachleute aus verschiedenen Bereichen mit.	mitwirken an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Я часто размышляю о последствиях таких решений.	Ich denke oft über die Folgen solcher Entscheidungen nach.	nachdenken über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он склонен к чрезмерному оптимизму.	Er neigt zu übertriebenem Optimismus.	neigen zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Многие ученые выступают за более открытый обмен данными.	Viele Wissenschaftlerinnen und Wissenschaftler plädieren für einen offeneren Datenaustausch.	plädieren für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Профсоюз выступает против сокращения рабочих мест.	Die Gewerkschaft plädiert gegen den Abbau von Arbeitsplätzen.	plädieren gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он по-прежнему твердо настаивает на своем праве.	Er pocht weiterhin auf sein Recht.	pochen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+В своем эссе она размышляет о личной ответственности.	In ihrem Essay reflektiert sie über persönliche Verantwortung.	reflektieren über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Больше всего я ценю в ней ее спокойствие.	Am meisten schätze ich an ihr ihre Ruhe.	schätzen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+План провалился из-за нехватки времени.	Der Plan scheiterte an Zeitmangel.	scheitern an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Из его молчания нельзя сделать однозначный вывод.	Aus seinem Schweigen sollte man nichts Eindeutiges schließen.	schließen aus	form::grammar func::produktion topic::verbs_prepositions level::c1
+Она давно в восторге от современной архитектуры.	Sie schwärmt seit Langem für moderne Architektur.	schwärmen für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Государство должно заботиться о базовой инфраструктуре.	Der Staat muss für die grundlegende Infrastruktur sorgen.	sorgen für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он последовательно стремится к большей независимости.	Er strebt konsequent nach größerer Unabhängigkeit.	streben nach	form::grammar func::produktion topic::verbs_prepositions level::c1
+Они обменяли старое оборудование на новое.	Sie tauschten die alte Ausrüstung gegen eine neue aus.	tauschen gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+Ты не убедишь его в необходимости этих перемен.	Du wirst ihn von der Notwendigkeit dieser Veränderungen nicht überzeugen.	überzeugen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Не стоит судить о человеке по одному поступку.	Über einen Menschen sollte man nicht aufgrund einer einzigen Handlung urteilen.	urteilen über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Университет располагает современной лабораторией.	Die Universität verfügt über ein modernes Labor.	verfügen über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Стороны все еще ведут переговоры о новом соглашении.	Die Parteien verhandeln noch immer über ein neues Abkommen.	verhandeln über	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эта мера нарушает международное право.	Diese Maßnahme verstößt gegen das Völkerrecht.	verstoßen gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+В примечании автор ссылается на более раннее исследование.	In der Anmerkung verweist der Autor auf eine frühere Studie.	verweisen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эксперты предупреждают об опасности поспешных выводов.	Die Fachleute warnen vor der Gefahr vorschneller Schlussfolgerungen.	warnen vor	form::grammar func::produktion topic::verbs_prepositions level::c1
+Партия активно агитирует за эту реформу.	Die Partei wirbt aktiv für diese Reform.	werben für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Я ничего не знаю об этом деле.	Ich weiß nichts von dieser Angelegenheit.	wissen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Никто не должен принуждать тебя к молчанию.	Niemand darf dich zum Schweigen zwingen.	zwingen zu	form::grammar func::produktion topic::verbs_prepositions level::c1
+Со временем ему пришлось смириться с новой реальностью.	Mit der Zeit musste er sich mit der neuen Realität abfinden.	sich abfinden mit	form::grammar func::produktion topic::verbs_prepositions level::c1
+Перед публикацией нам нужно согласовать текст с редакцией.	Vor der Veröffentlichung müssen wir uns mit der Redaktion über den Text abstimmen.	sich abstimmen mit	form::grammar func::produktion topic::verbs_prepositions level::c1
+В своей книге автор подробно разбирается с темой памяти.	Der Autor setzt sich in seinem Buch ausführlich mit dem Thema Erinnerung auseinander.	sich auseinandersetzen mit	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы давно занимаемся этой проблемой.	Wir befassen uns schon lange mit diesem Problem.	sich befassen mit	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он постоянно ссылается на свой многолетний опыт.	Er beruft sich ständig auf seine langjährige Erfahrung.	sich berufen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Мы не должны ограничиваться только одной точкой зрения.	Wir dürfen uns nicht auf nur eine Perspektive beschränken.	sich beschränken auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+В проекте могут участвовать и внешние эксперты.	Auch externe Fachleute können sich an dem Projekt beteiligen.	sich beteiligen an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Это замечание относится к предыдущему абзацу.	Diese Bemerkung bezieht sich auf den vorherigen Absatz.	sich beziehen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Она явно дистанцируется от радикальных позиций.	Sie distanziert sich deutlich von radikalen Positionen.	sich distanzieren von	form::grammar func::produktion topic::verbs_prepositions level::c1
+После долгих переговоров стороны договорились о компромиссе.	Nach langen Verhandlungen einigten sich die Parteien auf einen Kompromiss.	sich einigen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+В итоге он все же решил выбрать академическую карьеру.	Am Ende entschied er sich doch für eine akademische Laufbahn.	sich entscheiden für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этот метод хорошо подходит для небольших групп.	Diese Methode eignet sich gut für kleine Gruppen.	sich eignen für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Она давно активно выступает за сохранение исторического центра.	Sie engagiert sich seit Langem für den Erhalt der Altstadt.	sich engagieren für	form::grammar func::produktion topic::verbs_prepositions level::c1
+Из этих наблюдений вытекает важный вывод.	Aus diesen Beobachtungen ergibt sich ein wichtiger Schluss.	sich ergeben aus	form::grammar func::produktion topic::verbs_prepositions level::c1
+После операции он быстро оправился от стресса.	Nach der Operation hat er sich schnell von dem Stress erholt.	sich erholen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Даже в сложной ситуации он придерживается своих принципов.	Selbst in einer schwierigen Lage hält er sich an seine Prinzipien.	sich halten an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Многие компании ориентируются на международные стандарты.	Viele Unternehmen orientieren sich an internationalen Standards.	sich orientieren an	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эта критика направлена против всей системы.	Diese Kritik richtet sich gegen das ganze System.	sich richten gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+При принятии решения он ориентируется на факты.	Bei seiner Entscheidung richtet er sich nach den Fakten.	sich richten nach	form::grammar func::produktion topic::verbs_prepositions level::c1
+После отъезда друзей она тосковала по прежней жизни.	Nach dem Weggang ihrer Freunde sehnte sie sich nach ihrem früheren Leben.	sich sehnen nach	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он хочет специализироваться на нейролингвистике.	Er möchte sich auf Neurolinguistik spezialisieren.	sich spezialisieren auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+В своем докладе она опирается на недавние исследования.	In ihrem Vortrag stützt sie sich auf neuere Studien.	sich stützen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Я ошибся в его намерениях.	Ich habe mich in seinen Absichten getäuscht.	sich täuschen in	form::grammar func::produktion topic::verbs_prepositions level::c1
+Постепенно он убедился в пользе этой меры.	Allmählich überzeugte er sich von dem Nutzen dieser Maßnahme.	sich überzeugen von	form::grammar func::produktion topic::verbs_prepositions level::c1
+Эти две версии различаются по структуре.	Diese beiden Versionen unterscheiden sich in ihrer Struktur.	sich unterscheiden in	form::grammar func::produktion topic::verbs_prepositions level::c1
+Этот подход существенно отличается от прежнего.	Dieser Ansatz unterscheidet sich deutlich von dem früheren.	sich unterscheiden von	form::grammar func::produktion topic::verbs_prepositions level::c1
+В такой ситуации нельзя полагаться только на интуицию.	In einer solchen Lage darf man sich nicht nur auf die Intuition verlassen.	sich verlassen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
+Он уверенно защищался от всех обвинений.	Er verteidigte sich entschieden gegen alle Vorwürfe.	sich verteidigen gegen	form::grammar func::produktion topic::verbs_prepositions level::c1
+С годами этот район превратился в культурный центр.	Im Laufe der Jahre hat sich dieses Viertel in ein kulturelles Zentrum verwandelt.	sich verwandeln in	form::grammar func::produktion topic::verbs_prepositions level::c1

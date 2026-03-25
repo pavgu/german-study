@@ -1,0 +1,86 @@
+Успех часто зависит от правильной подготовки.	Der Erfolg hängt oft von der richtigen Vorbereitung ab.	abhängen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Обрати внимание на последнее предложение в тексте.	Achte auf den letzten Satz im Text.	achten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Давай начнем с самого простого примера.	Lass uns mit dem einfachsten Beispiel anfangen.	anfangen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Сейчас все зависит от твоего решения.	Jetzt kommt alles auf deine Entscheidung an.	ankommen auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Пожалуйста, ответьте на мой вопрос.	Bitte antworten Sie auf meine Frage.	antworten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы все еще работаем над этим проектом.	Wir arbeiten noch an diesem Projekt.	arbeiten an	form::grammar func::produktion topic::verbs_prepositions level::b2
+После десяти вечера магазин прекращает продажу алкоголя.	Nach zehn Uhr hört das Geschäft mit dem Verkauf von Alkohol auf.	aufhören mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Не забудь присмотреть за детьми.	Vergiss nicht, auf die Kinder aufzupassen.	aufpassen auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+В этом месяце я потратил слишком много денег на книги.	Ich habe in diesem Monat zu viel Geld für Bücher ausgegeben.	ausgeben für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы начнем с короткого обзора.	Wir beginnen mit einem kurzen Überblick.	beginnen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Команда состоит из пяти человек.	Das Team besteht aus fünf Personen.	bestehen aus	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я хочу попросить вас о небольшой услуге.	Ich möchte Sie um einen kleinen Gefallen bitten.	bitten um	form::grammar func::produktion topic::verbs_prepositions level::b2
+Можно я одолжу у тебя ручку?	Kann ich mir einen Stift von dir leihen?	leihen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Спасибо тебе за быструю помощь.	Ich danke dir für die schnelle Hilfe.	danken für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я часто думаю о нашем разговоре.	Ich denke oft an unser Gespräch.	denken an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Они долго обсуждали этот вопрос.	Sie haben lange über diese Frage diskutiert.	diskutieren über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы хотим пригласить вас на ужин.	Wir möchten Sie zu einem Abendessen einladen.	einladen zu	form::grammar func::produktion topic::verbs_prepositions level::b2
+В конце концов он решил выбрать именно этот вариант.	Am Ende entschied er sich für genau diese Lösung.	sich entscheiden für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я не могу извинить его за такое поведение.	Ich kann ihn für ein solches Verhalten nicht entschuldigen.	entschuldigen für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Эта фотография напоминает мне о детстве.	Dieses Foto erinnert mich an meine Kindheit.	erinnern an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она с удовольствием рассказывала о своей поездке.	Sie erzählte gern von ihrer Reise.	erzählen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он спросил о новом коллеге.	Er fragte nach dem neuen Kollegen.	fragen nach	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я сердечно поздравляю тебя с успехом.	Ich gratuliere dir herzlich zu deinem Erfolg.	gratulieren zu	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я уже слышал об этом фильме.	Ich habe schon von diesem Film gehört.	hören von	form::grammar func::produktion topic::verbs_prepositions level::b2
+На этой встрече речь идет о бюджете на следующий год.	In dieser Sitzung geht es um das Budget für das nächste Jahr.	gehen um	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она твердо верит в свои способности.	Sie glaubt fest an ihre Fähigkeiten.	glauben an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Многие считают его отличным учителем.	Viele halten ihn für einen hervorragenden Lehrer.	halten für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Спасибо, что помог мне с переездом.	Danke, dass du mir beim Umzug geholfen hast.	helfen bei	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я надеюсь на положительный ответ.	Ich hoffe auf eine positive Antwort.	hoffen auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Пожалуйста, проинформируйте нас об изменениях вовремя.	Bitte informieren Sie uns rechtzeitig über die Änderungen.	informieren über	form::grammar func::produktion topic::verbs_prepositions level::b2
+В статье автор говорит о новых исследованиях.	In dem Artikel spricht der Autor von neuen Studien.	sprechen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он постоянно жалуется на шум по ночам.	Er klagt ständig über den Lärm in der Nacht.	klagen über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Этот роман относится к современной литературе.	Dieser Roman gehört zur modernen Literatur.	gehören zu	form::grammar func::produktion topic::verbs_prepositions level::b2
+Газета подробно сообщила о происшествии.	Die Zeitung berichtete ausführlich über den Vorfall.	berichten über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Все смеялись над его шуткой.	Alle lachten über seinen Witz.	lachen über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он страдает от редкой болезни.	Er leidet an einer seltenen Krankheit.	leiden an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Многие семьи страдают от высоких цен.	Viele Familien leiden unter den hohen Preisen.	leiden unter	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я часто размышляю о будущем.	Ich denke oft über die Zukunft nach.	nachdenken über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Эта сумка очень подходит к твоему пальто.	Diese Tasche passt gut zu deinem Mantel.	passen zu	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мне нужно поговорить с тобой после урока.	Ich muss nach dem Unterricht mit dir reden.	reden mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы еще поговорим об этой проблеме.	Wir reden später noch über dieses Problem.	reden über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Как ты отреагировал на его письмо?	Wie hast du auf seinen Brief reagiert?	reagieren auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы не рассчитывали на такую задержку.	Wir haben mit einer solchen Verspätung nicht gerechnet.	rechnen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+На кухне пахнет свежим хлебом.	In der Küche riecht es nach frischem Brot.	riechen nach	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она снова ругалась из-за беспорядка в комнате.	Sie schimpfte wieder über die Unordnung im Zimmer.	schimpfen über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я завтра напишу письмо своему преподавателю.	Ich schreibe morgen einen Brief an meinen Dozenten.	schreiben an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он сейчас пишет статью о языках.	Er schreibt gerade einen Artikel über Sprachen.	schreiben über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Эти очки защищают глаза от солнца.	Diese Brille schützt die Augen vor der Sonne.	schützen vor	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она всегда заботится о своих родителях.	Sie sorgt immer für ihre Eltern.	sorgen für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мне нужно поговорить с директором лично.	Ich muss persönlich mit dem Direktor sprechen.	sprechen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+На уроке мы говорили о климате.	Im Unterricht haben wir über das Klima gesprochen.	sprechen über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он умер от тяжелой болезни.	Er ist an einer schweren Krankheit gestorben.	sterben an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я не хочу спорить с тобой из-за этого.	Ich will mich darüber nicht mit dir streiten.	streiten mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Они снова спорят о деньгах.	Sie streiten wieder über Geld.	streiten über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы все еще ищем новую квартиру.	Wir suchen noch nach einer neuen Wohnung.	suchen nach	form::grammar func::produktion topic::verbs_prepositions level::b2
+В конференции приняли участие более ста человек.	An der Konferenz nahmen mehr als hundert Personen teil.	teilnehmen an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я вечером поговорю с ней по телефону.	Ich telefoniere heute Abend mit ihr.	telefonieren mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Многие люди мечтают о доме у моря.	Viele Menschen träumen von einem Haus am Meer.	träumen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Ты не убедишь меня в этой идее так легко.	Du wirst mich von dieser Idee nicht so leicht überzeugen.	überzeugen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Не сравнивай себя с другими.	Vergleiche dich nicht mit anderen.	vergleichen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она влюбилась в своего коллегу.	Sie hat sich in ihren Kollegen verliebt.	verlieben in	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он действительно разбирается в старых компьютерах.	Er versteht wirklich viel von alten Computern.	verstehen von	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы готовим студентов к экзамену.	Wir bereiten die Studierenden auf die Prüfung vor.	vorbereiten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я жду тебя перед входом.	Ich warte vor dem Eingang auf dich.	warten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Врач предупредил его об опасности.	Der Arzt warnte ihn vor der Gefahr.	warnen vor	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я начинаю сомневаться в его истории.	Ich beginne an seiner Geschichte zu zweifeln.	zweifeln an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она злится на постоянные опоздания коллеги.	Sie ärgert sich über die ständigen Verspätungen ihres Kollegen.	sich ärgern über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я хочу поблагодарить тебя за поддержку.	Ich möchte mich für deine Unterstützung bedanken.	sich bedanken für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Поторопись с домашним заданием, уже поздно.	Beeil dich mit den Hausaufgaben, es ist schon spät.	sich beeilen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она быстро подружилась с новыми соседями.	Sie hat sich schnell mit den neuen Nachbarn befreundet.	sich befreunden mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он хочет подать заявку на эту должность.	Er möchte sich um diese Stelle bewerben.	sich bewerben um	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я хочу извиниться за свое опоздание.	Ich möchte mich für meine Verspätung entschuldigen.	sich entschuldigen für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я хорошо помню наш первый урок.	Ich erinnere mich gut an unsere erste Stunde.	sich erinnern an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы уже радуемся предстоящим каникулам.	Wir freuen uns schon auf die kommenden Ferien.	sich freuen auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она очень обрадовалась хорошей новости.	Sie hat sich sehr über die gute Nachricht gefreut.	sich freuen über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Со временем он привык к новой жизни в городе.	Mit der Zeit hat er sich an das neue Leben in der Stadt gewöhnt.	sich gewöhnen an	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она давно интересуется немецкой историей.	Sie interessiert sich schon lange für deutsche Geschichte.	sich interessieren für	form::grammar func::produktion topic::verbs_prepositions level::b2
+Пожалуйста, сосредоточься на последнем задании.	Bitte konzentriere dich auf die letzte Aufgabe.	sich konzentrieren auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Кто сегодня позаботится о гостях?	Wer kümmert sich heute um die Gäste?	sich kümmern um	form::grammar func::produktion topic::verbs_prepositions level::b2
+Она слишком сильно беспокоится о сыне.	Sie sorgt sich zu sehr um ihren Sohn.	sich sorgen um	form::grammar func::produktion topic::verbs_prepositions level::b2
+После встречи я еще немного побеседую с тобой.	Nach dem Treffen unterhalte ich mich noch ein bisschen mit dir.	sich unterhalten mit	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы долго беседовали о работе и семье.	Wir haben uns lange über Arbeit und Familie unterhalten.	sich unterhalten über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы тщательно готовимся к экзамену.	Wir bereiten uns gründlich auf die Prüfung vor.	sich vorbereiten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Я удивился его спокойной реакции.	Ich habe mich über seine ruhige Reaktion gewundert.	sich wundern über	form::grammar func::produktion topic::verbs_prepositions level::b2
+Мы не можем отказаться от этой возможности.	Wir können auf diese Möglichkeit nicht verzichten.	verzichten auf	form::grammar func::produktion topic::verbs_prepositions level::b2
+Он хорошо умеет обращаться с трудными клиентами.	Er kann gut mit schwierigen Kunden umgehen.	umgehen mit	form::grammar func::produktion topic::verbs_prepositions level::b2
