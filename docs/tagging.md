@@ -115,16 +115,16 @@ Use tags like:
 
 - `antonym::pair`
 - `level::c1`
-- `pair::<item1>_<item2>`
 - optional `domain::...`
 
 Example:
 
 ```text
-antonym::pair level::c1 pair::explizit_implizit domain::abstract domain::argumentation
+antonym::pair level::c1 domain::abstract domain::argumentation
 ```
 
 For antonyms, avoid `card::...` tags if one note generates multiple card directions automatically.
+For antonyms, also avoid `pair::...` tags when they are too specific to support useful filtering.
 
 ## Pair Tag Normalization
 

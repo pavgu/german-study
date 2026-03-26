@@ -8,6 +8,8 @@ Recommended fields:
 
 - `Antonym1DE`
 - `Antonym2DE`
+- `DefinitionAntonym1DE`
+- `DefinitionAntonym2DE`
 - `PromptAntonym1RU`
 - `PromptAntonym2RU`
 - `AnswerAntonym1DE`
@@ -19,6 +21,7 @@ Recommended fields:
 This layout combines two useful study modes in one note:
 
 - abstract antonym recall: `Antonym1DE` <-> `Antonym2DE`
+- compact German-definition recall for each side
 - active production: short Russian prompts that force a full German sentence with the right word
 
 Using `Antonym1` and `Antonym2` keeps both sides of the pair equal. That works better than `Target` and `Antonym` because either word can be tested first.
@@ -29,18 +32,22 @@ Recommended TSV column order:
 
 1. `Antonym1DE`
 2. `Antonym2DE`
-3. `PromptAntonym1RU`
-4. `PromptAntonym2RU`
-5. `AnswerAntonym1DE`
-6. `AnswerAntonym2DE`
-7. Anki tags
+3. `DefinitionAntonym1DE`
+4. `DefinitionAntonym2DE`
+5. `PromptAntonym1RU`
+6. `PromptAntonym2RU`
+7. `AnswerAntonym1DE`
+8. `AnswerAntonym2DE`
+9. Anki tags
 
 ## Recommended Card Types
 
 1. `Antonym1 -> Antonym2`
 2. `Antonym2 -> Antonym1`
-3. `RU Prompt -> Antonym1 Sentence`
-4. `RU Prompt -> Antonym2 Sentence`
+3. `DE Definition -> Antonym1`
+4. `DE Definition -> Antonym2`
+5. `RU Prompt -> Antonym1 Sentence`
+6. `RU Prompt -> Antonym2 Sentence`
 
 ## Card Type 1: Antonym1 -> Antonym2
 
@@ -82,7 +89,55 @@ Recommended TSV column order:
 <div class="sentence">{{Antonym1DE}}</div>
 ```
 
-## Card Type 3: RU Prompt -> Antonym1 Sentence
+## Card Type 3: DE Definition -> Antonym1
+
+### Front Template
+
+```html
+<div class="label">German Definition</div>
+<div class="sentence">{{DefinitionAntonym1DE}}</div>
+```
+
+### Back Template
+
+```html
+<div class="label">German Definition</div>
+<div class="help">{{DefinitionAntonym1DE}}</div>
+
+<hr>
+<div class="label">Target Word</div>
+<div class="sentence">{{Antonym1DE}}</div>
+
+<hr>
+<div class="label">Pair</div>
+<div class="value">{{Antonym1DE}} <span class="sep">↔</span> {{Antonym2DE}}</div>
+```
+
+## Card Type 4: DE Definition -> Antonym2
+
+### Front Template
+
+```html
+<div class="label">German Definition</div>
+<div class="sentence">{{DefinitionAntonym2DE}}</div>
+```
+
+### Back Template
+
+```html
+<div class="label">German Definition</div>
+<div class="help">{{DefinitionAntonym2DE}}</div>
+
+<hr>
+<div class="label">Target Word</div>
+<div class="sentence">{{Antonym2DE}}</div>
+
+<hr>
+<div class="label">Pair</div>
+<div class="value">{{Antonym1DE}} <span class="sep">↔</span> {{Antonym2DE}}</div>
+```
+
+## Card Type 5: RU Prompt -> Antonym1 Sentence
 
 ### Front Template
 
@@ -106,7 +161,7 @@ Recommended TSV column order:
 <div class="value">{{Antonym1DE}} <span class="sep">↔</span> {{Antonym2DE}}</div>
 ```
 
-## Card Type 4: RU Prompt -> Antonym2 Sentence
+## Card Type 6: RU Prompt -> Antonym2 Sentence
 
 ### Front Template
 
@@ -180,6 +235,8 @@ hr {
 
 ## Notes
 
+- The German-definition cards help test each word individually instead of only the pair contrast.
+- The definition should describe meaning, not just negate the opposite word.
 - Keep Russian prompts short but specific enough that only one of the pair fits naturally.
 - The answer fields should contain full German sentences, not isolated words.
 - The pair section on the production card backs helps reinforce the contrast after recall.
