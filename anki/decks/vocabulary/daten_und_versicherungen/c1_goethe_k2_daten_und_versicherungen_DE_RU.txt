@@ -1,0 +1,260 @@
+der Datenschutz (Sg.)	защита данных	Der Datenschutz wird in Deutschland sehr ernst genommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Einfluss, Einflüsse	влияние	Ich finde, wir haben nicht genug Einfluss auf unsere Daten im Internet.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+zufriedenstellend	удовлетворительный	Der Datenschutz ist meiner Meinung nach in vielen Bereichen noch nicht zufriedenstellend.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+jdm. etw. zuschreiben	придавать чему-л. значение; приписывать	Die Hälfte der Deutschen schreiben dem Datenschutz eine hohe Bedeutung zu.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+preisgeben	раскрывать; выдавать	Die Deutschen geben im weltweiten Vergleich eher wenige Daten preis.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+hinterlegen	указывать; оставлять данные	Beim Online-Shopping muss man eine Vielzahl von Daten hinterlegen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Amt, Ämter	ведомство; учреждение	Bei Ämtern und staatlichen Einrichtungen ist der Datenschutz besonders streng.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Bedenken (Pl.)	опасения; сомнения	Die Lücken im Datenschutz machen mir große Bedenken.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+freigeben	разрешать; открывать доступ	Er hat keine Bedenken, seine Daten auch in sozialen Netzwerken freizugeben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Privatsphäre, -n	частная жизнь; приватность	Es ist berechtigt, sich um seine Privatsphäre zu sorgen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Entfaltung (Sg.)	развитие; свободное раскрытие	Die freie Entfaltung der Persönlichkeit ist zentral für die seelische Gesundheit.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Cookies (Pl.)	куки; файлы cookie	Cookies speichern Nutzervorlieben und identifizieren die User bei der Rückkehr auf eine Website.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Verbraucherschutz (Sg.)	защита прав потребителей	Konsumenten können sich bei Fragen an den Verbraucherschutz wenden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Überwachung (Sg.)	наблюдение; слежка	Durch Datenspeicherung ist theoretisch eine umfassende Überwachung möglich.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+gläsern	прозрачный; полностью открытый для контроля	Der "gläserne Mensch" steht für die ungeschützte Offenlegung persönlicher Daten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sich etablieren	утверждаться; закрепляться	Der Begriff "gläserner Mensch" hat sich vor ein paar Jahren unter Datenschützern etabliert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Konnotation, -en	коннотация	Die Transparenz im Begriff "gläserner Mensch" hat eine negative Konnotation.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Kontrollinstrument, -e	инструмент контроля	Die Kamera im Rechner kann als Kontrollinstrument missbraucht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+etw. Dat. entkommen	ускользнуть от	Dem Datensammeln im Internet können wir als Nutzer und Nutzerinnen kaum entkommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+akzeptieren	принимать; соглашаться	Cookies muss man fast immer akzeptieren, wenn man eine Website nutzen will.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+anklicken	кликать; нажимать	Die Cookies speichern genau, was wir auf der Website anklicken.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Werbezweck, -e	рекламная цель	Die Nutzerdaten werden meist für Werbezwecke weiterverkauft.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Datenhaufen, -	масса данных	Es entsteht ein riesiger Datenhaufen, wenn wir Inhalte auf Webseiten anklicken.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+personifiziert	персонализированный	Aus unseren Daten können personifizierte Kaufvorschläge generiert werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erstellen	создавать	Ein paar hundert Klicks reichen, um ein umfassendes Profil einer Person zu erstellen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+legal	легальный; законный	Manche Übrwachungsmethoden sind sogar legal.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Suchmaschine, -n	поисковая система	Jeder und jede weiß, dass Suchmaschinen die Daten unserer Suchen speichern und nutzen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+anderweitig	иначе; иным образом	Daten können auch anderweitig verwendet werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Server, -	сервер	Wenn Server nicht in Deutschland stehen, gelten auch nicht die deutschen Datenschutzstandards.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Sicherheitslücke, -n	уязвимость; брешь в безопасности	Es tauchen immer wieder Sicherheitslücken in Systemen auf.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Hacker, - / Hackerin, -nen	хакер	Hacker und Hackerinnen können mit nur einer geglückten Aktion an unendlich viele Daten kommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ausnutzen	использовать; эксплуатировать	Sicherheitslücken werden unter anderem zum Datendiebstahl ausgenutzt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Verordnung, -en	постановление; регламент	Dank der EU-Datenschutzverordnung DSGVO kann man seine Daten löschen lassen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+mit etw. konfrontiert sein	сталкиваться с чем-л.	Bei der Nutzung des Internets ist man immer mit Datenschutzfragen konfrontiert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Floskel, -n	пустая фраза; клише	Sie kann leere Floskeln wie „Das wird schon wieder!“ nicht leiden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Metapher, -n	метафора	Die Metapher des "gläsernen Menschen" vermittelt die Ungeschütztheit des Users im Netz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Symbol, -e	символ	Das rote Herz ist immer noch das bekannteste Symbol für die Liebe.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sich erschließen	становиться понятным	Die Antworten erschließen sich beim Lesen des Texts.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ermessen	оценивать; измерять	Wir können den Schaden, der durch den Ausfall entstanden ist, nicht ermessen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erfassen	охватывать; фиксировать	Durch den Fragebogen erfassen wir die notwendigen Informationen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erahnen	предчувствовать; угадывать	Die weitere Entwicklung des Datenhandels lässt sich schon jetzt erahnen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+anlässlich + Gen.	по случаю	Anlässlich des neuen Datenschutzgesetzes sind viele Info-Broschüren entstanden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+angesichts + Gen.	ввиду; перед лицом	Angesichts des neuen Hackerangriffs müssen wir die Sicherheitsstandards erhöhen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vonseiten + Gen.	со стороны	Vonseiten der Unternehmen gibt es kaum Unterstützung für den Datenschutz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+mittels + Gen.	посредством	Die persönlichen Informationen werden mittels Cookies gespeichert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ehe	прежде чем	Ehe ich soziale Netzwerke nutze, geht ein Kamel durchs Nadelöhr!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sobald	как только	Sobald du eine Suchmaschine nutzt, werden deine Daten gespeichert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+schrumpfen	сокращаться	Die Zahl der User auf unserer Seite ist in den letzten Jahren eher geschrumpft als gestiegen. Das ist eine beunruhigende Tendenz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+lockern	смягчать	Andere Länder haben den Datenschutz noch weiter gelockert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+besänftigen	успокаивать	Das neue Datenschutzgesetz hat viele vehemente Kritiker und Kritikerinnen besänftigt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+aufweisen	обнаруживать; иметь	Das Sicherheitssystem weist signifikante Lücken auf.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+anzeigen	сообщать; заявлять о	Einen Datenmissbrauch sollte man unbedingt dem Verbraucherschutz anzeigen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Bestimmung, -en	положение; предписание	Ohne klare Bestimmungen bleibt der Missbrauch von Daten eine große Gefahr.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+abrufen	получать; вызывать	Über sein Profil kann man später auch die Prüfungsergebnisse abrufen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Interaktion, -en	взаимодействие	Über den Chat kann man mit anderen Spieler*innen in Interaktion treten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die User, - / Userin, -nen	пользователь	Die User*innen müssen vor dem Zugriff auf die Inhalte der Verwendung von Cookies zustimmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Plattform, -en	платформа	Die Plattform gilt als eine der datensichersten in Deutschland.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+in Anspruch nehmen	пользоваться; задействовать	Um das gesamte Angebot in Anspruch zu nehmen, muss man ein Profil anlegen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sich das Recht vorbehalten	оставлять за собой право	Anbieter behalten sich das Recht vor, Werbung auf der Seite zu platzieren.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Nutzerkonto, Nutzerkonten	учетная запись пользователя	In seinem Nutzerkonto hat man die Option, Cookies zu Werbezwecken zu verweigern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+hinterlegen	указывать; оставлять данные	Name und Geburtsdatum sind Daten, die fast überall hinterlegt werden müssen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+verbergen	скрывать	Du kannst einstellen, dass deine Aktivitäten den anderen verborgen bleiben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Verknüpfung, -en	связь; привязка	Es kann ganz praktisch sein, wenn eine Verknüpfung alter und neuer Datensätze möglich ist.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erfolgen	происходить; осуществляться	Die Löschung der Daten erfolgt auf Anfrage.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Pflichtangabe, -n	обязательное поле; обязательное указание	Pflichtangaben sind meist Name, Adresse, Geburtsdatum und ein E-Mail-Kontakt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+im Rahmen (von)	в рамках	Im Rahmen der Kontoerstellung müssen Pflichtangaben gemacht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+zwingend	обязательный; необходимый	Manche Daten werden für die Durchführung von Angeboten zwingend benötigt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+etwaig	возможный; потенциальный	Bei etwaigen Problemen helfen wir ihnen gerne weiter.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Vertragsverhältnis, -se	договорные отношения	Das Vertragsverhältnis muss schriftlich aufgelöst werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erheben	собирать; взимать	Das Portal muss die Daten erheben, um ein Konto einrichten zu können.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Vertragsabwicklung, -en	исполнение договора; оформление договора	Für die Vertragsabwicklung wird die Verifizierung der Person vorausgesetzt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Nutzungsvertrag, Nutzungsverträge	пользовательское соглашение	Ohne Nutzungsvertrag kann das Konto nicht aktiviert werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Antrag, Anträge	заявление; заявка	Es muss zunächst ein Antrag auf Erstellung eines Kontos gestellt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Forum, Foren	форум	Im Forum können die Teilnehmenden ihre Meinung posten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Community, Communitys	сообщество	Die Lern-Community tauscht sich konkret über die Übungsthemen aus.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Erfüllung (Sg.)	выполнение	Im Vertrag werden auch die Pflichten der Anbieter geregelt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Bereitstellung (Sg.)	предоставление	Die Bereitstellung der Onlinekurse und Lehrmaterialien ist kostenlos.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Ausleihe, -n	выдача; прокат	Die Ausleihe von Medien erfolgt über die Bibliothek.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vornehmen	вносить; осуществлять	Sie können weitere Änderungen in Ihrem Nutzungsprofil vornehmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der User generated content	контент, созданный пользователями	User generated content sind die von den Nutzer*innen erstellten Inhalte wie Blog-Beiträge.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+verpflichtend	обязательный	Die Angaben sind verpflichtend, ohne sie kann der Zugang nicht erstellt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+freiwillig	добровольный	Freiwillige Angaben zu Ihrer Person können Ihr Profil interessanter machen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ersichtlich	очевидный; ясно видный	Die Nutzungsbedingungen sind aus dem Formular ersichtlich.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+überwiegend	преимущественно	Die überwiegende Zahl der Nutzer und Nutzerinnen sind Deutschlernende aus Europa.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+wahren	сохранять; блюсти	Wir werten Ihre persönlichen Daten aus, um unser Interesse an Vielfalt und Austausch zu wahren.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+auf jdn./etw. zuschneiden	подгонять; адаптировать под	Die Daten werden genutzt, um das Angebot auf die User zuzuschneiden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Profilbereich, -e	раздел профиля	Im Profilbereich können Sie sich sowie Ihre Hobbys und Interessen vorstellen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Vermarktung (Sg.)	маркетинг; коммерциализация	Natürlich haben wir ein Interesse an der optimalen Vermarktung unseres Produkts.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sofern	если; при условии что	Sofern Sie den Nutzungsvertrag akzeptieren, haben Sie zu allen Angeboten Zugang .	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+in etw. einwilligen	соглашаться на	Wenn Sie in die Nutzung Ihrer Daten einwilligen, ist Ihr Profil online auch für andere sichtbar.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Geschlecht, -er	пол	Das Geschlecht ist inzwischen keine Pflichtangabe mehr.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Gästebucheintrag, Gästebucheinträge	запись в гостевой книге	Die Gästebucheinträge werden auf diskriminierende Äußerungen hin überprüft.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Datenzusammenführung, -en	объединение данных	Es wird eine Datenzusammenführung aus alten und neuen Konten vorgenommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+komfortabel	удобно; комфортно	Sie können diesen Dienst komfortabel ohne Neuanmeldung nutzen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+entsprechend	соответственно; в соответствии с этим	Ihr Konto wird den Erläuterungen entsprechend erstellt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vorgesehen	предусмотренный; специально отведенный	Sie erreichen uns unter der dafür vorgesehenen Kontaktfunktion.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+aufrichtig	искренне	Ich bin aufrichtig besorgt darüber, was mit meinen Daten passiert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+nachvollziehen	проследить; понять	Ich möchte gerne nachvollziehen können, wer meine Daten wofür nutzt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+missbrauchen	злоупотреблять; использовать во вред	Viele haben Angst davor, dass ihre Daten missbraucht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Bürger, - / Bürgerin, -nen	гражданин	Die Bürger*innen haben ein Recht auf den Schutz ihrer Daten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vermeiden	избегать	Datenklau kann man nur vermeiden, wenn man das Internet gar nicht nutzt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Spur, -en	след	Mit jedem Klick hinterlassen wir eine Spur im Netz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+abhören	прослушивать	Beim Telefonieren vertraue ich darauf, nicht abgehört zu werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die App, -s	приложение	Bei dieser App bin ich nicht so sicher, was mit meinen Daten angestellt wird.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Bequemlichkeit (Sg.)	удобство	Es ist reine Bequemlichkeit, alles im Internet zu bestellen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Personalausweisnummer, -n	номер удостоверения личности	Du solltest deine Personalausweisnummer niemals auf einer Website eingeben!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Verzeichnis, -se	реестр; перечень	Die meisten Unternehmen führen ein genaues Verzeichnis darüber, wofür welche Daten erhoben werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+aufwendig/aufwändig	затратный; трудоемкий	Es ist wirklich aufwendig, sich alle Verordnungen durchzulesen, deswegen akzeptieren die meisten die Nutzungsbedingungen einfach so.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sich etw. Dat. entziehen	уклоняться от; избегать	Man kann sich dem Internet heute kaum noch entziehen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+hin- und hergerissen sein	быть в сомнениях; разрываться	Ich bin immer hin- und hergerissen zwischen dem Nutzen und den Gefahren der neuen Medien.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+jenseits + Gen.	по ту сторону; за пределами	Ich wüsste gern, was mit meinen Daten noch jenseits der Werbung passiert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+Schaden anstellen	натворить; причинить	Mit Kreditkartendaten lässt sich ganz schön viel Schaden anstellen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Spracherkennung, -en	распознавание речи	Softwares zur Spracherkennung sind mir etwas suspekt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+belauschen	подслушивать	Theoretisch könnte man über die Spracherkennungsfunktion auch belauscht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Zugriff, -e	доступ	Natürlich haben nur wenige Mitarbeitende Zugriff auf Ihre Daten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+überprüfen	проверять	Wir überprüfen jeden Hinweis auf Datenmissbrauch.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ausspionieren	шпионить; выслеживать	Meinst du, man kann uns wirklich über die Webcam ausspionieren?	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+auslesen	считывать	Es braucht ein geeignetes Programm, um die Daten einer Kreditkarte auszulesen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+bespitzeln	шпионить	In der Nachbarschaft hat man sich hier jahrelang gegenseitig bespitzelt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+beschatten	вести наружное наблюдение	Die Polizei hat den Hacker schon seit Wochen beschatten lassen und jetzt endlich gefasst.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Unterlassung, -en	прекращение; воздержание	Ich habe Ihnen meine Bitte um Unterlassung der Datennutzung schon zugeschickt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+bezüglich + Gen.	относительно; касательно	Ich schreibe Ihnen bezüglich der Löschung meiner Daten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+gemäß + Dat.	согласно	Gemäß § 6 der Datenschutzverordnung ist das nicht erlaubt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+jdn. zu etw. auffordern	требовать; призывать	Ich fordere Sie auf, meinem Anliegen sofort nachzukommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+unverzüglich	незамедлительно	Eine unverzügliche Löschung Ihrer Daten ist nicht möglich, deswegen müssen wir Sie leider um etwas Geduld bitten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Drittanbieter, - / Drittanbieterin, -nen	сторонний поставщик	Ich erhalte auf Ihrer Website unerwünschte Werbung von Drittanbietern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+übermitteln	передавать	Nur Sie können meine Daten an Dritte übermittelt haben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+rechtmäßig	законный	Die Weitergabe der Daten war laut unseres Nutzungsvertrages nicht rechtmäßig.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+umfänglich	полный; всеобъемлющий	Bitte bestätigen Sie mir die umfängliche Bearbeitung meiner Anfrage.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vollziehen	осуществлять; завершать	Die angefragte Löschung Ihrer Daten konnte vollzogen werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+tätigen	совершать	Ich habe die Zahlung über mein Onlinekonto getätigt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+abbuchen	списывать	Der überwiesene Betrag wurde zweimal abgebucht. Bitte machen Sie die zweite Abbuchung rückgängig.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+stichpunktartig	пунктами; тезисно	Bitte notieren Sie die Inhalte stichpunktartig und schreiben Sie keine langen Sätze.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Beschwerde, -n	жалоба	Eine Beschwerde muss in der Regel in Briefform eingereicht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+einfordern	требовать; добиваться	Ich werde hier mein Recht auf Kündigung einfordern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Puls (Sg.)	пульс	Den Puls misst man am besten an der Halsschlagader, nicht am Handgelenk.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Kalorienverbrauch (Sg.)	расход калорий	Mit Apps kann man den täglichen Kalorienverbrauch ganz einfach errechnen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+jdm. zu etw. verhelfen	помогать прийти к чему-л.; способствовать	Fitness-Armbänder können zu einem gesunden Lebensstil verhelfen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Self-Tracking (Sg.)	селф-трекинг; самоконтроль показателей	Self-Tracking bedeutet, dass man sein Verhalten oder seinen Verbrauch verfolgt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Krankenkasse, -n	медицинская страховая касса; страховка	Die Krankenkassen unterstützen den Kauf von Self-Tracking-Armbändern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Voraussage, -n	прогноз	Anhand der Daten können Voraussagen über die gesundheitliche Entwicklung gemacht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Beitrag, Beiträge	взнос	Gesunde Menschen zahlen geringere Beiträge für die Krankenkasse.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+etw. für sich entdecken	открыть для себя	Viele Menschen haben inzwischen Gesundheits-Apps für sich entdeckt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+jdm. schaden	вредить	Kann der digitale Fortschritt den Versicherten auch schaden?	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Anwendung, -en	приложение; применение	20% der Deutschen nutzen eine digitale Fitness-Anwendung.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Herzfrequenz, -en	частота сердцебиения	Das Fitness-Armband misst meine Herzfrequenz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Bewegungsmuster, -	паттерн движений	Die App nimmt eine Analyse des Bewegungsmusters vor und kann nach der Auswertung Tipps für das weitere Training geben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+in Angriff nehmen	взяться за	Im neuen Jahr muss ich endlich meine Ausdauer in Angriff nehmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Helferlein, -	полезный помощник; гаджет-помощник	Digitale Helferlein wie das Fitness-Armband erinnern die Nutzer an regelmäßige Fitness-Einheiten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+kalkulierbar	просчитываемый	Die Risiken gesunder und fitter Versicherter sind für Krankenkassen kalkulierbarer.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Wunschkunde, -n / Wunschkundin, -nen	идеальный клиент	Der Wunschkunde einer Krankenversicherung treibt regelmäßig Sport.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erheblich	значительно	Die Krankenkasse kann hier ganz erheblich Unterstützung leisten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Prognose, -n	прогноз	Es können Prognosen über die weitere gesundheitliche Entwicklung gestellt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Zuckerkrankheit (Sg.)	сахарный диабет	Diabetes nennt man auf Deutsch auch Zuckerkrankheit.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+gezielt	целенаправленно	Risikopatient*innen bekommen Vorschläge für gezielte Gesundheitsmaßnahmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sensibel	чувствительный	Daten zum Gesundheitszustand einer Person sind besonders sensibel.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Gesundheitszustand (Sg.)	состояние здоровья	Ihr Gesundheitszustand hat sich im letzten Jahr radikal verschlechtert.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Versicherte, -n	застрахованное лицо	Die Versicherten erhalten regelmäßig Angebote zu Vorsorgemaßnahmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erpressen	шантажировать	Hat jemand Zugang zu Ihren Gesundheitsdaten, kann er Sie damit auch erpressen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+knacken (ugs.)	взломать	Wenn ich dein Passwort so leicht knacken kann, solltest du ein komplexeres erstellen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Gegenteilige (Sg.)	противоположное	Die Studie zeigt klar: Das Gegenteilige ist der Fall!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+entschieden	решительно	Datenerfassung durch Tracking? Da hätte ich entschieden etwas dagegen!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+in falsche Hände geraten	попасть не в те руки	Ich möchte nicht, dass meine Daten in falsche Hände geraten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Vergünstigung, -en	льгота; скидка	Manche Versicherte geben ihre Daten gegen Vergünstigungen weiter.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Knackpunkt, -e	ключевая проблема	Hier liegt der Knackpunkt: Bessere Tarife im Austausch gegen Daten sind nicht akzeptabel.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+abtreten	уступать; отдавать	Auf keinen Fall! Ich trete meine Daten doch nicht für kleine Geschenke ab!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Behandlung, -en	лечение	Ich frage mich, wer die Kosten für die Behandlung übernimmt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Maßnahme, -en	мера	Die Maßnahmen des Verbraucherschutzes sind für die Konsument*innen sehr wichtig.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Güter (Pl.)	товары	Der Verkauf von Gütern unterliegt strengen Regeln und Vorgaben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Dienstleistung, -en	услуга	Im Gesundheits- und Fitness-Bereich werden zahllose Dienstleistungen angeboten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Tarif, -e	тариф	Für jede Versicherungsleistung gibt es einen festgesetzten Tarif.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Prämie, -n	премия; бонус	Sachprämien werden besonders gern für eine Datenbereitstellung angeboten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+bezuschussen	субсидировать	Die Krankenkasse bezuschusst den Vereinsbeitrag bei Sporttreibenden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+nachweislich	доказуемо; подтвержденно	Menschen, die nachweislich gesund leben, bekommen Beiträge zurückerstattet.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Weitergabe, -n	передача	Die Weitergabe von Daten muss zuerst autorisiert werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+versichern	страховать	Manche Krankenkassen versichern keine Menschen über 50.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+riskieren	рисковать	Ich möchte keine Verschlechterung meiner Gesundheit riskieren.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+anwenden	применять	Man kann die Vorgaben nicht auf diesen Fall anwenden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+belohnen	вознаграждать	Die Versicherten werden für einen gesunden Lebensstil belohnt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+bevorzugen	предпочитать; ставить в преимущество	Junge, aktive Versicherte werden bei diesem Rückerstattungsprinzip klar bevorzugt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+es besteht ...	существует; имеется	Es besteht die Gefahr, dass die Krankenkasse chronisch Kranke ablehnt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Lebensgewohnheit, -en	жизненная привычка	Für eine Gesundheit bis ins hohe Alter musst du deine Lebensgewohnheiten ändern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Zwang, Zwänge	принуждение	Sportliche Betätigung sollte natürlich Spaß machen und kein Zwang sein.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Selbstoptimierung, -en	самооптимизация	Das Streben nach Selbstoptimierung bringt für viele enormen Stress mit sich.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+verursachen	вызывать	Ein gesunder Lebensstil verursacht bedeutend weniger Kosten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+auf Dauer	в долгосрочной перспективе	Auf Dauer macht ein stressiger Alltag die meisten Menschen krank.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Auffassung, -en	мнение; точка зрения	Ich bin der Auffassung, der Datenschutz geht der Selbstoptimierung vor.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vertreten	придерживаться; представлять	Er vertritt da eine andere Ansicht als ich, aber das ist für unsere Beziehung kein Problem.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Gesundheitscheck, -s	медицинский чек-ап	Der Gesundheitscheck wird von den meisten Krankenkassen gezahlt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+etw. Dat. vorbeugen	предотвращать; предупреждать	Mit gesundem Essen kann man Übergewicht vorbeugen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+frühzeitig	на ранней стадии	Wenn man Krankheiten frühzeitig erkennt, gibt es oft gute Heilungschancen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+abschließen	оформлять; заключать договор	Ich habe vor kurzem endlich eine Unfallversicherung abgeschlossen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+beantragen	подавать заявление на	Sie hat letzten Monat eine Mutter-Kind-Kur beantragt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Übernahme, -n	покрытие расходов; принятие на себя	Die Übernahme der Kosten durch die Krankenkasse ist nicht vorgesehen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Zuzahlung, -en	доплата	Der Patient muss eine Zuzahlung von 25% leisten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+erstatten	возмещать	Bei erfolgreicher Therapie wird die Kostenbeteiligung erstattet.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+bewilligen	одобрять	Der Antrag auf Kostenübernahme wurde bewilligt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+dauerhaft	постоянно; на постоянной основе	Wer dauerhaft in Deutschland lebt, muss eine Krankenversicherung haben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Einkommen, -	доход	Mein Einkommen ist zu niedrig für eine private Krankenversicherung.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+festlegen	устанавливать	Die Einkommensgrenze für eine private Versicherung ist auf eine bestimmte Summe festgelegt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+sich krankenversichern	оформить медстраховку	Du bist seit 4 Monaten in Deutschland, du musst dich unbedingt krankenversichern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Vorsorgeuntersuchung, -en	профилактический осмотр	Ich habe noch keine der Vorsorgeuntersuchungen in Anspruch genommen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+brutto	брутто; до вычетов	"Brutto" ist dein Gehalt, bevor Steuern und andere Beiträge abgezogen wurden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Familienangehörige, -n	член семьи	Ihre Familienangehörigen können bei uns problemlos mitversichert werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Beamte, -n	госслужащий	Beamte und Beamtinnen haben häufig auch bei der Krankenversicherung Sonderkonditionen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der/die Selbstständige, -n	самозанятый; предприниматель	Selbstständige zahlen besonders hohe Beiträge.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Gehalt, Gehälter	зарплата	Ich muss beim Antrag auch mein Gehalt nachweisen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+einer Kasse beitreten	вступать; присоединяться	Sie ist jetzt einer privaten Krankenkasse beigetreten, das ist vorteilhafter für sie.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Vorgabe, -n	предписание; норматив	Gesetzliche Krankenkassen sind an klare Beitragsvorgaben gebunden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Beitragssatz, Beitragssätze	ставка взноса	Der Beitragssatz macht über 10% des Bruttoeinkommens aus.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+impfen	вакцинировать	Man kann sich hier nur von der Hausärztin impfen lassen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Kur, -en	курс лечения; санаторное лечение	Die Kur hat ihm wirklich gut getan!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Rehabilitationsmaßnahme, -n	реабилитационная мера	Rehabilitationsmaßnahmen oder -kuren werden meistens kurz "Reha" genannt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+veröffentlichen	публиковать	Viele Krankenkassen veröffentlichen nützliche Ratgeber für Ihre Mitglieder.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+im Wesentlichen	по существу; в основном	Private Versicherer legen ihren Leistungsumfang im Wesentlichen selbst fest.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Bedürfnis, -se	потребность	Die Versicherten erhalten die Leistungen, die ihren Bedürfnissen entsprechen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+mit jdm. abrechnen	рассчитываться напрямую с	Ärzt*innen und Krankenhäuser rechnen direkt mit den Krankenkassen ab.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Reichskanzler, -	рейхсканцлер	Reichskanzler Otto von Bismarck führte 1883 die erste Krankenversicherung ein.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Einkommensschicht, -en	слой по уровню дохода	Die Krankenversicherung war anfangs auf die untere Einkommensschicht beschränkt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+im Laufe der Zeit	со временем	Im Laufe der Zeit verbesserte sich somit der Gesundheitszustand der Arbeiterklasse.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Bevölkerung, -en	население	Die Gesundheitsdaten der gesamten Bevölkerung wurden somit erfasst.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ausweiten	расширять	Später wurde die Krankenversicherung auf alle Bevölkerungsschichten ausgeweitet.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Krankheitsfall, Krankheitsfälle	случай болезни	Im Krankheitsfall kann man sich auch auf Auslandsreisen behandeln lassen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+versetzt werden	быть переведенным	Sie ist in die neue Filiale nach Potsdam versetzt worden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das/die Au-pair, - / -s	ау-пэр	Als Au-Pair betreut man Kinder gegen Kost, Logis und ein kleines Gehalt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+röntgen	делать рентген	Um einen Bruch auszuschließen, musste der Arm geröntgt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+entlassen	выписывать; увольнять	Nach drei Tagen konnte er aus dem Krankenhaus entlassen werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+pflegen	ухаживать; восстанавливать здоровье	Im Rahmen der Reha wurde sie weiter gesund gepflegt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Widerspruch, Widersprüche	возражение; обжалование	Bei Ablehnung des Antrags kann Widerspruch eingelegt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+genehmigen	утверждать; разрешать	Die Kur muss unbedingt genehmigt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+antreten	начинать; отправляться на	Die Versicherung teilte ihm mit, er könne die Reha nächsten Monat antreten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Notwendigkeit, -en	необходимость	Die medizinische Notwendigkeit einer Reha muss vom Arzt bestätigt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Befund, -e	медицинское заключение	Der Befund wird von der Hausärztin vorgelegt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Ablehnung, -en	отказ	Eine Ablehnung muss nicht definitiv sein.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+empfehlen	рекомендовать	Der Arzt empfiehlt eine ganze Reihe therapeutischer Maßnahmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+Widerspruch einlegen	подать возражение	Gegen diesen Bescheid lege ich hiermit Widerspruch ein.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ambulant	амбулаторный	Bei einer ambulanten Maßnahme geht man zur Behandlung in die Praxis.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+vor Ort	на месте	Diese Therapie kann auch vor Ort durchgeführt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+stationär	стационарный	Ein stationärer Aufenthalt in der Reha-Klinik ist bei schweren Fällen unumgänglich.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+gegeben sein	иметься; присутствовать	Für eine weitere Behandlung ist keine Notwendigkeit gegeben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Stellungnahme, -n	заключение; официальный отзыв	Aus der Stellungnahme geht hervor, dass alle Maßnahmen für die Behandlung angewiesen wurden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Gutachten, -	экспертное заключение	Das Gutachten befürwortet eine stationäre Therapie.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+im Zuge + Gen.	в ходе	Im Zuge der Antragsstellung sind neue Befunde erstellt worden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+einreichen	подавать; предоставлять	Für die Genehmigung Ihres Antrags müssen eine ganze Reihe von Dokumenten eingereicht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Therapiemethode, -n	метод терапии	Diese Therapiemethode hat sich nicht zwingend bewährt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ausschöpfen	исчерпать	Alle ambulanten Behandlungsmaßnahmen wurden bereits ausgeschöpft.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Leistungsfähigkeit (Sg.)	работоспособность; функциональная способность	Es benötigt Zeit, um nach dem Unfall wieder volle Leistungsfähigkeit zu erlangen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+wiederherstellen	восстанавливать	Der Datensatz konnte nach der Löschung wiederhergestellt werden, sie müssen Ihre Unterlagen also nicht erneut einreichen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Berücksichtigung, -en	учет; рассмотрение	Bitte prüfen Sie Ihre Entscheidung nach erneuter Berücksichtigung aller Dokumente.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ärztlich	врачебный; медицинский	Die ärztlichen Befunde liegen uns noch nicht vor.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Schlaflosigkeit (Sg.)	бессонница	Viele Menschen leiden unter Schlaflosigkeit und Unruhe.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Abwehrkraft, Abwehrkräfte	защитные силы организма	Auch die Abwehrkräfte leiden, wenn man nicht zur Ruhe kommt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Burn-Out-Syndrom	синдром выгорания	Die Diagnose Burn-Out-Syndrom wird immer häufiger gestellt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+diagnostizieren	диагностировать	Viele Schlafstörungen lassen sich nicht eindeutig diagnostizieren.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+psychosomatisch	психосоматический	Rückenschmerzen sind auch oft psychosomatischer Natur.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+ausreichend	достаточный	Es gibt vor Ort nicht ausreichend Möglichkeiten, um einen Burn-Out zu behandeln. Wir würden Sie daher in eine spezielle Klinik überweisen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Abstand, Abstände	дистанция; расстояние	Manchmal braucht es Abstand zur Familie, um richtig zu heilen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+der Leistungsdruck (Sg.)	давление результативности	Der Umgang mit Leistungsdruck muss von vielen erst erlernt werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+kontinuierlich	непрерывный; постоянный	Die kontinuierliche Betreuung in der stationären Reha hat sich bewährt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Gelassenheit (Sg.)	спокойствие; невозмутимость	Die Patienten kehren mit neuer Gelassenheit in ihren Alltag zurück.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
