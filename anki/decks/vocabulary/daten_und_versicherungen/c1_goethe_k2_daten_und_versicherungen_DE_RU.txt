@@ -137,7 +137,7 @@ der Puls (Sg.)	пульс	Den Puls misst man am besten an der Halsschlagader, ni
 der Kalorienverbrauch (Sg.)	расход калорий	Mit Apps kann man den täglichen Kalorienverbrauch ganz einfach errechnen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 jdm. zu etw. verhelfen	помогать прийти к чему-л.; способствовать	Fitness-Armbänder können zu einem gesunden Lebensstil verhelfen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 das Self-Tracking (Sg.)	селф-трекинг; самоконтроль показателей	Self-Tracking bedeutet, dass man sein Verhalten oder seinen Verbrauch verfolgt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
-die Krankenkasse, -n	медицинская страховая касса; страховка	Die Krankenkassen unterstützen den Kauf von Self-Tracking-Armbändern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Krankenkasse, -n	больничная касса; медицинская страховка	Die Krankenkassen unterstützen den Kauf von Self-Tracking-Armbändern.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 die Voraussage, -n	прогноз	Anhand der Daten können Voraussagen über die gesundheitliche Entwicklung gemacht werden.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 der Beitrag, Beiträge	взнос	Gesunde Menschen zahlen geringere Beiträge für die Krankenkasse.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 etw. für sich entdecken	открыть для себя	Viele Menschen haben inzwischen Gesundheits-Apps für sich entdeckt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
@@ -146,7 +146,7 @@ die Anwendung, -en	приложение; применение	20% der Deutschen 
 die Herzfrequenz, -en	частота сердцебиения	Das Fitness-Armband misst meine Herzfrequenz.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 das Bewegungsmuster, -	паттерн движений	Die App nimmt eine Analyse des Bewegungsmusters vor und kann nach der Auswertung Tipps für das weitere Training geben.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 in Angriff nehmen	взяться за	Im neuen Jahr muss ich endlich meine Ausdauer in Angriff nehmen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
-das Helferlein, -	полезный помощник; гаджет-помощник	Digitale Helferlein wie das Fitness-Armband erinnern die Nutzer an regelmäßige Fitness-Einheiten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+das Helferlein, -	маленький помощник; гаджет-помощник	Digitale Helferlein wie das Fitness-Armband erinnern die Nutzer an regelmäßige Fitness-Einheiten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 kalkulierbar	просчитываемый	Die Risiken gesunder und fitter Versicherter sind für Krankenkassen kalkulierbarer.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 der Wunschkunde, -n / Wunschkundin, -nen	идеальный клиент	Der Wunschkunde einer Krankenversicherung treibt regelmäßig Sport.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 erheblich	значительно	Die Krankenkasse kann hier ganz erheblich Unterstützung leisten.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
@@ -210,7 +210,7 @@ die Vorgabe, -n	предписание; норматив	Gesetzliche Krankenkass
 der Beitragssatz, Beitragssätze	ставка взноса	Der Beitragssatz macht über 10% des Bruttoeinkommens aus.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 impfen	вакцинировать	Man kann sich hier nur von der Hausärztin impfen lassen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 die Kur, -en	курс лечения; санаторное лечение	Die Kur hat ihm wirklich gut getan!	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
-die Rehabilitationsmaßnahme, -n	реабилитационная мера	Rehabilitationsmaßnahmen oder -kuren werden meistens kurz "Reha" genannt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
+die Rehabilitationsmaßnahme, -n	реабилитационная мера; курс реабилитации	Rehabilitationsmaßnahmen oder -kuren werden meistens kurz "Reha" genannt.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 veröffentlichen	публиковать	Viele Krankenkassen veröffentlichen nützliche Ratgeber für Ihre Mitglieder.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 im Wesentlichen	по существу; в основном	Private Versicherer legen ihren Leistungsumfang im Wesentlichen selbst fest.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2
 das Bedürfnis, -se	потребность	Die Versicherten erhalten die Leistungen, die ihren Bedürfnissen entsprechen.	form::vokabel topic::daten_und_versicherungen level::c1 source::goethe::c1::k2

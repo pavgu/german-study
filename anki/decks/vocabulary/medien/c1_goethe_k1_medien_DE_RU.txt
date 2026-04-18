@@ -37,7 +37,7 @@ einfach (Modalpartikel)	просто; просто-таки	Das ist einfach unh�
 wohl (Modalpartikel)	пожалуй; видимо	Mit dieser Meinung stehe ich wohl alleine da, denke ich.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 unbedingt	обязательно	Ich muss heute unbedingt diese Aufgabe erledigen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Etikette (Sg.)	этикет	Beim Date mit anderen zu telefonieren verstößt gegen die Etikette der Höflichkeit.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Umgang (Sg.)	обращение; обхождение	Der vernüftige Umgang mit den sozialen Netzwerken muss gelernt werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Umgang (Sg.)	обращение; умелое обращение	Der vernüftige Umgang mit den sozialen Netzwerken muss gelernt werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Höflichkeitsregel, -n	правило вежливости	Man sollte auch im Internet die üblichen Höflichkeitsregeln einhalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 beachten	соблюдать; учитывать	Beachten Sie bitte das Rauchverbot im Gebäude.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 lautstark	громко; во весь голос	Sie hat lautstark gegen die Arbeitsbedingungen protestiert.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
@@ -164,7 +164,7 @@ ausgehend von + Dat.	исходя из	Ausgehend von den aktuellen Zahlen kann m
 die Medienbildung (Sg.)	медиаобразование	Medienbildung sollte mehr Raum in der Schule einnehmen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Kooperation, -en	сотрудничество	Die Kooperation zwischen den beiden Unternehmen hat sich bewährt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Qualifikation, -en	квалификация	Pädagogische Qualifikationen sind eine Voraussetzung für den Lehrberuf.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-jdm. etw. zuschreiben	приписывать	Man schreibt Frauen häufig mehr pädagogisches Gespür zu.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+jdm. etw. zuschreiben	приписывать; считать присущим	Man schreibt Frauen häufig mehr pädagogisches Gespür zu.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 einschätzen	оценивать	Ich kann seine Fähigkeiten auch nach dem Gespräch nicht einschätzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Suchmaschine, -n	поисковая система	Viele wissen gar nicht, dass es verschiedene Suchmaschinen gibt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 eingeben	вводить	Hier musst du das Passwort eingeben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
@@ -176,7 +176,7 @@ nach wie vor	по-прежнему	Es ist nach wie vor schwierig, den Bedürfnis
 berücksichtigen	учитывать	Wir können leider nicht alle Wünsche der Arbeitnehmer und Arbeitnehmerinnen berücksichtigen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 angehend	будущий	Angehende Lehrer und Lehrerinnen müssen in der Vermittlung von Medienkritik geschult werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 sich verpflichten zu + Dat.	обязываться; быть обязанным	Wir sind zur Einhaltung des Datenschutzes verpflichtet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich auseinandersetzen mit + Dat.	разбираться с; критически осмыслять	Ich muss mich in Ruhe mit der neuen Software auseinandersetzen!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich auseinandersetzen mit + Dat.	разбираться с; серьезно заниматься	Ich muss mich in Ruhe mit der neuen Software auseinandersetzen!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 stattfinden	происходить; состояться	Die Veranstaltung kann wie geplant stattfinden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 die Gemeinde, -n	община; муниципалитет	Viele Gemeinden investieren in den Ausbau von Glasfasernetzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
 das Unternehmen, -	предприятие	In meinem Unternehmen fehlt es an Teamwork und Kommunikation.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
