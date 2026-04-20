@@ -7,13 +7,16 @@ If it does not have file-writing tools, it should return the exact TSV content i
 
 ## Goal
 
-Starting from raw 3-column TSV files in a source directory such as `anki/imports/raw/b2/goethe/`, create one converted 4-column TSV file for each raw file.
+Starting from raw 3-column TSV files in a source directory such as `anki/sources/b2/goethe/`, create one converted 4-column TSV file for each raw file.
 
 The converted file should:
 
-- keep the same folder structure under `anki/imports/converted/`
+- live under `anki/decks/goethe/`
+- keep the Goethe level visible in the output path
 - keep the same filename pattern, but change `_RU` to `_DE_RU`
 - contain 4 TSV fields per row
+
+This workflow is specifically for Goethe-style cloze decks. New non-Goethe deck families should usually write directly to their own permanent folders under `anki/decks/`.
 
 Output columns:
 
@@ -41,11 +44,11 @@ You are helping convert raw Anki-style German learning files into DE-RU Anki pro
 We will work through all files in one raw source directory step by step.
 
 Source directory example:
-anki/imports/raw/b2/goethe/
+anki/sources/b2/goethe/
 
 For each raw file I send, do the following:
 
-1. Derive the output path by mirroring the raw folder structure under `anki/imports/converted/`.
+1. Derive the output path under `anki/decks/goethe/<level>/`.
 2. Change the filename from `*_RU.txt` to `*_DE_RU.txt`.
 3. Convert every non-empty input row from 3 TSV fields to 4 TSV fields.
 4. If you have file-writing tools, write the converted TSV directly to the target path.
@@ -118,24 +121,24 @@ Rules for the full output:
 - Optimize for Anki production practice, not for a monolingual dictionary entry.
 
 Example raw input path:
-anki/imports/raw/b2/goethe/K1_RM_RU.txt
+anki/sources/b2/goethe/K1_RM_RU.txt
 
 Example expected output path:
-anki/imports/converted/b2/goethe/K1_RM_DE_RU.txt
+anki/decks/goethe/b2/K1_RM_DE_RU.txt
 
 Example raw input rows:
 Mein {{c1::wichtigster}} Gegenstand ist {{c2::…}}.	Мой самый важный предмет — это …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
 … war ein {{c1::Geschenk}} von {{c2::…}}.	… был подарком от …	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/imports/converted/b2/goethe/K1_RM_DE_RU.txt
+OUTPUT: anki/decks/goethe/b2/K1_RM_DE_RU.txt
 Mein {{c1::wichtigster}} Gegenstand ist mein Laptop.	entscheidendster / am wichtigsten	Мой самый важный предмет - это мой ноутбук.	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
 Mein Fahrrad war ein {{c1::Geschenk}} von meiner Schwester.	etwas, das man geschenkt bekommt	Мой велосипед был подарком от моей сестры.	form::satzmuster func::beschreibung topic::gegenstände level::b2_c1 source::goethe::b2::k1
 {{c1::Ich würde mich freuen}}, wenn du morgen kommst.	wäre froh	Я был(а) бы рад(а), если бы ты завтра пришёл / пришла.	form::satzmuster func::wünsche_ausdrücken topic::gefühle source::goethe::b2::k1
 {{c1::In diesem Text geht es um}} den Einfluss von Erinnerungen auf unser Leben.	das Thema nennen	В этом тексте речь идёт о влиянии воспоминаний на нашу жизнь.	form::satzmuster func::zusammenfassen topic::texte source::goethe::b2::k1
 
 Example output if file-writing tools are available:
-WROTE: anki/imports/converted/b2/goethe/K1_RM_DE_RU.txt
+WROTE: anki/decks/goethe/b2/K1_RM_DE_RU.txt
 
 When I send a raw file path and its TSV rows, convert that file only.
 After finishing one file, wait for the next raw file.
@@ -145,7 +148,7 @@ After finishing one file, wait for the next raw file.
 
 - Process one raw file at a time.
 - Paste the exact raw file path before the TSV rows.
-- If the model cannot write files, save each ChatGPT result immediately into the mirrored `anki/imports/converted/...` path.
+- If the model cannot write files, save each ChatGPT result immediately into the matching `anki/decks/goethe/<level>/...` path for that `anki/sources/...` input file.
 - Pay special attention to rows where the original cloze is only `…` or `...`; those rows must be rewritten, not copied.
 - After conversion, quickly check that:
   - every row has exactly one cloze

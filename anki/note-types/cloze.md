@@ -10,7 +10,7 @@ Recommended fields:
 - `Cue`
 - `Translation`
 
-Import mapping for the merged TSV:
+Import mapping for a 4-column cloze TSV:
 
 - column 1 -> `Text`
 - column 2 -> `Cue`
@@ -105,4 +105,5 @@ hr {
 
 - `Cue` and `Translation` use Anki conditional blocks, so they only show when the field is not empty.
 - `Translation` is shown on both the front and the back by design.
-- This note type is intended for merged imports such as `anki/imports/converted/b2/goethe/K1-K12_RM_DE_RU.txt`.
+- This note type is intended for merged imports such as `anki/decks/goethe/b2/K1-K12_RM_DE_RU.txt`, typically produced from `anki/sources/b2/goethe/`.
+- It can also be used for other cloze-style decks, but Goethe batch outputs now live under `anki/decks/goethe/` rather than under a format-based top-level folder.

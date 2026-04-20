@@ -4,12 +4,18 @@ from pathlib import Path
 from validate_tsv import validate_tsv
 
 
+VALID_SUFFIXES = (".txt", ".tsv")
+
+
 def validate_all(input_dir: str) -> int:
     base_path = Path(input_dir)
-    files = sorted(path for path in base_path.glob("*.txt") if path.is_file())
+    files = sorted(
+        path for path in base_path.iterdir() if path.is_file() and path.suffix.lower() in VALID_SUFFIXES
+    )
 
     if not files:
-        raise ValueError(f"No .txt files found in {base_path}")
+        supported = ", ".join(VALID_SUFFIXES)
+        raise ValueError(f"No supported TSV files ({supported}) found in {base_path}")
 
     files_with_issues = 0
 
@@ -35,9 +41,9 @@ def validate_all(input_dir: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Validate all headerless Anki-style TSV source files in a directory."
+        description="Validate all headerless Anki-style TSV files in a directory."
     )
-    parser.add_argument("input_dir", help="Directory containing source .txt files.")
+    parser.add_argument("input_dir", help="Directory containing source .txt or .tsv files.")
     return parser.parse_args()
 
 

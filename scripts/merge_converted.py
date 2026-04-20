@@ -5,9 +5,9 @@ import re
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Merge converted DE-RU TSV files into one import file."
+        description="Merge Goethe DE-RU TSV files into one import file."
     )
-    parser.add_argument("input_dir", help="Directory containing converted TSV files")
+    parser.add_argument("input_dir", help="Directory containing per-chapter Goethe TSV files")
     parser.add_argument("output_file", help="Merged output TSV file")
     return parser.parse_args()
 

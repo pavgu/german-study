@@ -64,7 +64,7 @@ def validate_tsv(path: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Validate headerless Anki-style TSV input for Goethe B2 source files."
+        description="Validate headerless Anki-style TSV source files."
     )
     parser.add_argument("input_tsv", help="Path to the TSV file to validate.")
     return parser.parse_args()

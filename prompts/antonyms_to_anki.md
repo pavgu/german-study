@@ -4,11 +4,13 @@ Use this prompt to turn a raw TSV file of German antonym pairs into an Anki-read
 
 For tagging, follow the repository conventions documented in [tagging.md](/mnt/data/german-study/docs/tagging.md).
 
-The raw source file should live under `anki/imports/raw/antonyms/`.
+The raw source file should live under `anki/sources/antonyms/`.
 
 Recommended source file:
 
-- `anki/imports/raw/antonyms/c1_antonyms_2026-03-20.txt`
+- `anki/sources/antonyms/c1_antonyms_2026-03-20.txt`
+
+New files may use `.tsv` instead; existing `.txt` files remain valid.
 
 ## Goal
 
@@ -68,8 +70,8 @@ If tool access is available, write the output file under:
 
 Suggested filename pattern:
 
-- raw: `anki/imports/raw/antonyms/c1_antonyms_2026-03-20.txt`
-- output: `anki/decks/antonyms/c1_antonyms_production_DE_RU.txt`
+- raw: `anki/sources/antonyms/c1_antonyms_2026-03-20.txt`
+- output: `anki/decks/antonyms/c1_antonyms_production_DE_RU.tsv`
 
 If tool access is not available, return the exact TSV content and target path.
 

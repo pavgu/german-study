@@ -2,6 +2,11 @@
 
 This repository already uses a consistent tag style in generated Anki material. This file makes that approach explicit so future decks can follow the same pattern.
 
+The current repository layout is:
+
+- `anki/sources/` for raw study material
+- `anki/decks/` for finished import-ready decks
+
 ## Core Style
 
 Use space-separated Anki tags with namespace-style segments:
@@ -45,6 +50,8 @@ These tags describe:
 - the level
 - the source
 
+This older pattern is still valid for Goethe deck batches under `anki/decks/goethe/`.
+
 ### Confusables Decks
 
 The confusables materials use distinction-oriented tags such as:
@@ -60,6 +67,30 @@ These tags describe:
 - the deck type
 - the card role
 - the specific lexical pair
+
+These tags are typically used for finished decks under `anki/decks/confusables/`.
+
+### Topic Vocabulary Decks
+
+Many topic vocabulary decks use tags such as:
+
+- `form::vokabel`
+- `func::produktion`
+- `level::c1_c2`
+- `topic::ice_hockey`
+- `source::raw::vocabulary::ice_hockey`
+- `card::wort`
+- `domain::taktik`
+
+These tags describe:
+
+- the exercise shape
+- the intended review mode
+- the level band
+- the topic folder
+- the source family
+- the card shape
+- an optional domain refinement
 
 ## Recommended Tag Layers
 
@@ -146,6 +177,8 @@ Examples:
 - Prefer tags you will actually search or build filtered decks from.
 - If a tag family is only used once, it probably does not need to exist.
 - Keep new deck tags compatible with the existing namespace style instead of inventing a separate system.
+- Keep the same namespace meaning across decks. For example, `topic::...` should remain a content topic, not a workflow stage or file origin.
+- When a deck already lives in a highly specific folder, add only the tags that still help with filtering across folders.
 
 ## Recommendation
 

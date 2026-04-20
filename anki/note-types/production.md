@@ -10,7 +10,7 @@ Recommended fields:
 - `Answer`
 - `Hint`
 
-Import mapping for `anki/decks/grammar/hin-und-her_production_DE_RU.txt`:
+Import mapping for a 4-column production TSV such as `anki/decks/grammar/hin-und-her_production_DE_RU.txt`:
 
 - column 1 -> `Prompt`
 - column 2 -> `Answer`
@@ -93,3 +93,4 @@ hr {
 
 - This note type is meant for full-sentence production, not cloze recognition.
 - If the `Hint` field feels too helpful, leave it unmapped during import or hide it on the front.
+- This layout is used by several finished deck families under `anki/decks/`, especially grammar and topic vocabulary production decks.

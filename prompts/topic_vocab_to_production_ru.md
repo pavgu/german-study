@@ -6,11 +6,13 @@ For tagging, follow the repository conventions documented in [tagging.md](/mnt/d
 
 Recommended raw source pattern:
 
-- `anki/imports/raw/vocabulary/<topic>/<filename>.txt`
+- `anki/sources/vocabulary/<topic>/<filename>.txt`
 
 Current example:
 
-- `anki/imports/raw/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt`
+- `anki/sources/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt`
+
+New source files may use `.tsv`; the current `.txt` files remain valid.
 
 ## Goal
 
@@ -37,8 +39,8 @@ If tool access is available, write the output file under:
 
 Suggested example output:
 
-- raw: `anki/imports/raw/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt`
-- output: `anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.txt`
+- raw: `anki/sources/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt`
+- output: `anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv`
 
 If tool access is not available, return the target path and the exact TSV rows.
 
@@ -164,7 +166,7 @@ Output behavior:
   - then return the TSV rows only
 
 Example input path:
-anki/imports/raw/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt
+anki/sources/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt
 
 Example input lines:
 die Kufe
@@ -172,7 +174,7 @@ die Landung stabil ausfahren
 Die Kür war technisch stark und künstlerisch klar.
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.txt
+OUTPUT: anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv
 лезвие конька	die Kufe	Metallteil am Schuh	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::wort domain::eissport
 уверенно выйти из приземления	die Landung stabil ausfahren	nach dem Sprung sicher weitergleiten	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::chunk domain::technik
 Программа была технически сильной и художественно ясной.	Die Kür war technisch stark und künstlerisch klar.	Programm wirkt sportlich und gestalterisch überzeugend	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::satz domain::wettkampf
@@ -230,7 +232,7 @@ Ambiguity notes:
 
 Use this add-on for files such as:
 
-- `anki/imports/raw/vocabulary/general_cs_it/...`
+- `anki/sources/vocabulary/general_cs_it/...`
 
 ```text
 Domain add-on for: general_cs_it
@@ -268,7 +270,7 @@ Ambiguity notes:
 
 Use this add-on for files such as:
 
-- `anki/imports/raw/vocabulary/ai_ml/...`
+- `anki/sources/vocabulary/ai_ml/...`
 
 ```text
 Domain add-on for: ai_ml
@@ -307,7 +309,7 @@ Ambiguity notes:
 
 Use this add-on for files such as:
 
-- `anki/imports/raw/vocabulary/tennis/...`
+- `anki/sources/vocabulary/tennis/...`
 
 ```text
 Domain add-on for: tennis
@@ -347,7 +349,7 @@ Ambiguity notes:
 
 Use this add-on for files such as:
 
-- `anki/imports/raw/vocabulary/medical/...`
+- `anki/sources/vocabulary/medical/...`
 
 ```text
 Domain add-on for: medical
@@ -386,7 +388,7 @@ Ambiguity notes:
 ### Additional Example For Ice Hockey
 
 Example input path:
-anki/imports/raw/vocabulary/ice_hockey/c1_c2_ice_hockey_2026-03-20.txt
+anki/sources/vocabulary/ice_hockey/c1_c2_ice_hockey_2026-03-20.txt
 
 Example input lines:
 das Powerplay
@@ -394,7 +396,7 @@ die Passwege konsequent zustellen
 Der Torwart hält den Winkel konsequent klein.
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/decks/vocabulary/ice_hockey/c1_c2_ice_hockey_production_DE_RU.txt
+OUTPUT: anki/decks/vocabulary/ice_hockey/c1_c2_ice_hockey_production_DE_RU.tsv
 игра в большинстве	das Powerplay	Angriff mit einem Spieler mehr	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::wort domain::taktik
 последовательно перекрывать линии передач	die Passwege konsequent zustellen	Zuspielmöglichkeiten systematisch schließen	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::chunk domain::taktik
 Вратарь последовательно сокращает угол обстрела.	Der Torwart hält den Winkel konsequent klein.	nimmt dem Gegner gezielt freien Raum	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::satz domain::technik

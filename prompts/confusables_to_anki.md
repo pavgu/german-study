@@ -8,11 +8,13 @@ This workflow is for cases like:
 - `meiden` vs `vermeiden`
 - `erinnern` vs `sich erinnern`
 
-The raw source file should live under `anki/imports/raw/confusables/`.
+The raw source file should live under `anki/sources/confusables/`.
 
 The simplest setup is to keep one master raw file for everything:
 
-- `anki/imports/raw/confusables/confusables.txt`
+- `anki/sources/confusables/confusables.txt`
+
+New source files may use `.tsv` if you want to follow the repo's preferred extension.
 
 ## Goal
 
@@ -55,12 +57,12 @@ The model should infer the meaning contrast from the pair itself.
 
 If tool access is available, write the output file under:
 
-- `anki/imports/converted/confusables/`
+- `anki/decks/confusables/`
 
 Suggested filename pattern:
 
-- raw: `anki/imports/raw/confusables/confusables.txt`
-- output: `anki/imports/converted/confusables/confusables_cloze.txt`
+- raw: `anki/sources/confusables/confusables.txt`
+- output: `anki/decks/confusables/confusables_cloze.tsv`
 
 If tool access is not available, return the exact TSV content and target path.
 
@@ -161,7 +163,7 @@ followed by the TSV rows only.
 
 ## Recommended Use
 
-- A single master file such as `anki/imports/raw/confusables/confusables.txt` is recommended unless you later want to split by topic.
+- A single master file such as `anki/sources/confusables/confusables.txt` is recommended unless you later want to split by topic.
 - Start small and review quality before generating very large batches.
 - If a row contains more than 2 confusable items, split it into multiple pair rows.
 - Prefer pairs that you genuinely confuse in production or reading.

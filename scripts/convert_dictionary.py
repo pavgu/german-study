@@ -10,13 +10,23 @@ def default_output_path(input_path: str) -> str:
     output_name = path.stem.replace("_RU", "_DE_RU", 1) + path.suffix
 
     path_parts = list(path.parts)
-    try:
+    if "sources" in path_parts:
+        sources_index = path_parts.index("sources")
+        relative_parts = path_parts[sources_index + 1 : -1]
+        if len(relative_parts) >= 2:
+            level, source = relative_parts[0], relative_parts[1]
+            trailing_parts = relative_parts[2:]
+            deck_parts = path_parts[:sources_index] + ["decks", source, level] + trailing_parts
+        else:
+            deck_parts = path_parts[:sources_index] + ["decks"] + relative_parts
+        mirrored_dir = Path(*deck_parts)
+    elif "raw" in path_parts:
         raw_index = path_parts.index("raw")
-    except ValueError as exc:
-        raise ValueError("Input path must contain '/raw/' so the converted path can mirror it.") from exc
-
-    path_parts[raw_index] = "converted"
-    mirrored_dir = Path(*path_parts[:-1])
+        mirrored_dir = Path(*path_parts[:raw_index], "decks", *path_parts[raw_index + 1 : -1])
+    else:
+        raise ValueError(
+            "Input path must contain '/sources/' or legacy '/raw/' so the deck path can be derived."
+        )
     return str(mirrored_dir / output_name)
 
 
@@ -49,13 +59,13 @@ def convert_dictionary(input_path: str, output_path: str) -> int:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Convert a raw Goethe source file into a 4-column DE-RU TSV."
+        description="Convert a raw Goethe source file into a 4-column Goethe deck TSV."
     )
     parser.add_argument("input_tsv", help="Path to the source TSV file.")
     parser.add_argument(
         "output_tsv",
         nargs="?",
-        help="Optional output path. Defaults to the mirrored converted path with '_DE' inserted before '_RU'.",
+        help="Optional output path. Defaults to the derived Goethe deck path with '_DE' inserted before '_RU'.",
     )
     return parser.parse_args()
 

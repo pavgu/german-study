@@ -4,12 +4,14 @@ Use this prompt to turn a raw TSV file of German confusable pairs into productio
 
 Recommended raw source:
 
-- `anki/imports/raw/confusables/confusables_curated.txt`
+- `anki/sources/confusables/confusables_curated.txt`
+
+New source files may use `.tsv`; existing `.txt` files remain valid.
 
 Recommended default workflow:
 
-- keep your broad capture list in `anki/imports/raw/confusables/confusables.txt`
-- move stronger pairs into `anki/imports/raw/confusables/confusables_curated.txt`
+- keep your broad capture list in `anki/sources/confusables/confusables.txt`
+- move stronger pairs into `anki/sources/confusables/confusables_curated.txt`
 - generate cards from the curated file by default
 
 Recommended note type:
@@ -62,7 +64,7 @@ If tool access is available, write output under:
 
 Suggested filename:
 
-- `anki/decks/confusables/confusables_production_DE_RU.txt`
+- `anki/decks/confusables/confusables_production_DE_RU.tsv`
 
 If tool access is not available, return the target path and the exact TSV rows.
 

@@ -6,13 +6,15 @@ For tagging, follow the repository conventions documented in [tagging.md](/mnt/d
 
 Recommended raw source pattern:
 
-- `anki/imports/raw/grammar/<level>_verbs_prepositions_<date>.txt`
+- `anki/sources/grammar/<level>_verbs_prepositions_<date>.txt`
 
 Current examples:
 
-- `anki/imports/raw/grammar/b2_verbs_prepositions_2026-03-25.txt`
-- `anki/imports/raw/grammar/c1_verbs_prepositions_2026-03-25.txt`
-- `anki/imports/raw/grammar/c2_verbs_prepositions_2026-03-25.txt`
+- `anki/sources/grammar/b2_verbs_prepositions_2026-03-25.txt`
+- `anki/sources/grammar/c1_verbs_prepositions_2026-03-25.txt`
+- `anki/sources/grammar/c2_verbs_prepositions_2026-03-25.txt`
+
+New source files may use `.tsv`; the existing `.txt` examples remain valid.
 
 ## Goal
 
@@ -35,8 +37,8 @@ If tool access is available, write the output file under:
 
 Suggested filename pattern:
 
-- raw: `anki/imports/raw/grammar/c1_verbs_prepositions_2026-03-25.txt`
-- output: `anki/decks/grammar/c1_verbs_prepositions_production_DE_RU.txt`
+- raw: `anki/sources/grammar/c1_verbs_prepositions_2026-03-25.txt`
+- output: `anki/decks/grammar/c1_verbs_prepositions_production_DE_RU.tsv`
 
 If tool access is not available, return the target path and the exact TSV rows.
 
@@ -189,7 +191,7 @@ Output behavior:
   - then return the TSV rows only
 
 Example input path:
-anki/imports/raw/grammar/c1_verbs_prepositions_2026-03-25.txt
+anki/sources/grammar/c1_verbs_prepositions_2026-03-25.txt
 
 Example input lines:
 bestehen auf
@@ -197,7 +199,7 @@ sich interessieren für
 absehen von
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/decks/grammar/c1_verbs_prepositions_production_DE_RU.txt
+OUTPUT: anki/decks/grammar/c1_verbs_prepositions_production_DE_RU.tsv
 Он настаивает на немедленном решении.	Er besteht auf einer sofortigen Entscheidung.	bestehen auf	form::grammar func::produktion topic::verbs_prepositions level::c1
 Она давно интересуется современной немецкой литературой.	Sie interessiert sich seit Langem für moderne deutsche Literatur.	sich interessieren für	form::grammar func::produktion topic::verbs_prepositions level::c1
 В этой ситуации нам придется отказаться от первоначального плана.	In dieser Situation müssen wir von dem ursprünglichen Plan absehen.	absehen von	form::grammar func::produktion topic::verbs_prepositions level::c1

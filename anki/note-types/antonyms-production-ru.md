@@ -241,3 +241,4 @@ hr {
 - The answer fields should contain full German sentences, not isolated words.
 - The pair section on the production card backs helps reinforce the contrast after recall.
 - `Tags` can be mapped on import even though it is not shown on the card.
+- This layout works best for finished antonym decks under `anki/decks/antonyms/`, not for intermediate conversion output.

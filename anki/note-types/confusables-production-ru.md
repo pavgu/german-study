@@ -10,7 +10,7 @@ Recommended fields:
 - `AnswerDE`
 - `HintDE`
 
-Import mapping for generated TSV:
+Import mapping for a generated 4-column TSV:
 
 - column 1 -> `PromptRU`
 - column 2 -> `AnswerDE`
@@ -115,3 +115,4 @@ hr {
 - Keep `PromptRU` precise enough that only one of the pair should fit naturally.
 - Avoid vague one-word Russian prompts whenever a short sentence gives cleaner disambiguation.
 - Keep `HintDE` short enough to guide recall without simply naming the answer.
+- This note type pairs naturally with finished decks under `anki/decks/confusables/`.
