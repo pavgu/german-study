@@ -1,267 +1,267 @@
-das Smartphone, -s	смартфон	Mein neues Smartphone hat mehr Funktionen als mein Computer!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Begleiter, - / die Begleiterin, -nen	спутник; спутница	Ihr Smartphone ist ihr ständiger Begleiter, sie hat es wirklich immer dabei.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Erreichbarkeit (Sg.)	доступность; возможность быть на связи	Erreichbarkeit ist vor allem für Eltern sehr wichtig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ständig	постоянно	Mein Freund ist ständig mit seinem Smartphone beschäftigt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Öffentlichkeit (Sg.)	публичное пространство; общественность	Das möchte ich nicht in der Öffentlichkeit besprechen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Besprechung, -en	совещание	Wir haben jeden Montag um 12:00 Uhr eine Besprechung im Team.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Ablenkung (Sg.)	отвлечение	Sie kann nicht im Großraumbüro arbeiten, dort herrscht zu viel Ablenkung.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Beschäftigung, -en	занятие; деятельность	Ich denke, Lesen ist meine liebste Beschäftigung.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-erwarten	ожидать	Sie erwartet um 15 Uhr einen Anruf von ihrem Geschäftspartner.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sorgen für + Akk.	заботиться о; обеспечивать	Meine Chefin sorgt für eine wirklich angenehme Arbeitsatmosphäre.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abschalten	отключаться; отвлекаться от работы	Nach der stressigen Woche muss ich am Wochenende wirklich mal abschalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Mailbox, -en	голосовая почта	Du hast acht neue Nachrichten in deiner Mailbox.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-grundsätzlich	в принципе; как правило	Nachts schalte ich mein Smartphone grundsätzlich aus, da möchte ich nicht gestört werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-genießen	наслаждаться	Im Urlaub will ich die Ruhe und Natur genießen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-traumhaft	сказочный; великолепный	Das Wochenende in den Bergen war wirklich traumhaft!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-zwischendurch	между делом; время от времени	Ich mache keine Mittagspause, ich esse zwischendurch nur einen kleinen Snack.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-übrigens	кстати	Ich fand deine Präsentation übrigens wirklich klasse!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eigentlich	вообще-то	Eigentlich habe ich heute keine Zeit mehr, aber ich versuche, vorbeizukommen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sowieso	все равно	Du brauchst dich nicht zu beeilen, für den Film ist es jetzt sowieso zu spät.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich erledigen	уладиться; отпасть	Es hat sich erledigt, danke.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-irgendwas	что-нибудь	Falls irgendwas ist, kannst du mich anrufen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-irgendein/e/r	какой-нибудь	Bei uns im Büro ist eigentlich immer irgendeiner krank.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Kleinigkeit, -en	мелочь	Wegen dieser Kleinigkeit musst du nicht ins Büro kommen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich begeistern für + Akk.	увлекаться; быть в восторге от	Für Bergurlaub kann ich mich gar nicht begeistern.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-heutzutage	в наши дни	Heutzutage ist die ständige Erreichbarkeit für viele normal.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-rund um die Uhr	круглосуточно	Sein Smartphone ist rund um die Uhr angeschaltet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-zur Verfügung stehen	быть в распоряжении	Für weitere Fragen stehe ich Ihnen gerne zur Verfügung.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gedanklich	мысленно	Mein Freund ist gedanklich noch den ganzen Abend mit seiner Arbeit beschäftigt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-nee (ugs.)	не-а; нет	Nee, das mache ich nicht mit.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-neulich	недавно	Neulich habe ich gelesen, dass sich der Arbeitsmarkt wieder entspannt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Server, -	сервер	Als der Server ausfiel, hatten wir zwei Tage kein Internet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich einloggen	входить в систему	Du musst dich erst einloggen, bevor du das Programm nutzen kannst.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-echt? (ugs.)	правда?; серьезно?	Echt? Das hast du wirklich gemacht? Das ist ja unglaublich!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ja (Modalpartikel)	ведь; же	Viele Leute finden das ja normal, ihren Standort in Apps freizugeben, aber ich bin da kritisch.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-echt (Modalpartikel)	реально; правда	Deine Unterbrechung hat mich echt gestört!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-einfach (Modalpartikel)	просто; просто-таки	Das ist einfach unhöflich, da braucht man gar nicht weiter zu diskutieren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-wohl (Modalpartikel)	пожалуй; видимо	Mit dieser Meinung stehe ich wohl alleine da, denke ich.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-unbedingt	обязательно	Ich muss heute unbedingt diese Aufgabe erledigen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Etikette (Sg.)	этикет	Beim Date mit anderen zu telefonieren verstößt gegen die Etikette der Höflichkeit.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Umgang (Sg.)	обращение; умелое обращение	Der vernüftige Umgang mit den sozialen Netzwerken muss gelernt werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Höflichkeitsregel, -n	правило вежливости	Man sollte auch im Internet die üblichen Höflichkeitsregeln einhalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-beachten	соблюдать; учитывать	Beachten Sie bitte das Rauchverbot im Gebäude.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-lautstark	громко; во весь голос	Sie hat lautstark gegen die Arbeitsbedingungen protestiert.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-wirken auf + Akk.	производить впечатление на	Er wirkt auf mich ziemlich unzufrieden, etwas scheint nicht in Ordnung zu sein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-störend	мешающий; раздражающий	Es ist wirklich störend, dass du immer zu spät kommst.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Respekt (Sg.)	уважение	Gegenseitiger Respekt ist auch unter Kollegen und Kolleginnen wichtig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-annehmen	принимать	Ich muss diesen Anruf annehmen, das ist wichtig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich befinden	находиться	Sie befindet sich gerade an einem entscheidenden Punkt ihrer Karriere.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Gesellschaft, -en	общество; компания	Ich vermeide es, in Gesellschaft zu telefonieren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich einbürgern	укореняться; входить в обычай	Es hat sich eingebürgert, sich am Telefon mit "Hallo" zu melden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-knapp	ограниченный; в обрез	Wir müssen uns schnell entscheiden, die Zeit bis zur Deadline ist ziemlich knapp.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-endlos	бесконечный	Diese endlosen Diskussionen über Handys am Arbeitsplatz nerven mich.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Klingeln (Sg.)	звонок; звон	Hörst du das Klingeln? Ich glaube, das ist dein Handy!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Projekt, -e	проект	Lass uns das Projekt nochmal durchsprechen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abschließen	завершать	Wir wollen die erste Phase des Projekts diese Woche abschließen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Regeneration, -en	восстановление; регенерация	Nach intensiven Arbeitsphasen braucht es dringend eine Zeit der Regeneration.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Balance (Sg.)	баланс	Es ist nicht leicht, eine gesunde Balance zwischen Arbeit und Freizeit zu finden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der/die Vorgesetzte, -n	начальник; руководитель	Mein Vorgesetzter ist für drei Abteilungen gleichzeitig verantwortlich.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ab und zu	время от времени	Ich gehe ab und zu mit den Kolleginnen zusammen Mittag essen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-einen Blick werfen auf + Akk.	взглянуть на	Kannst du mal einen Blick auf meine Präsentation werfen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Bericht, -e	отчет	Ich sitze heute sicher noch den ganzen Tag an diesem Bericht.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abgeben	сдавать	Wir müssen morgen den Kostenplan abgeben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eben (Modalpartikel)	как раз; ведь	Da wir ein Firmenhandy haben, sind wir eben auch alle immer erreichbar.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-unverbindlich	необязывающий	Ich bitte Sie um ein unverbindliches Angebot.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-noch schnell (ugs.)	быстренько	Können wir das noch schnell vor dem Feierabend erledigen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-auf den Markt kommen	выходить на рынок	Heute kommt das neue Smartphone auf den Markt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich verbreiten	распространяться	Da sich Handys so verbreitet haben, ist die Kommunikation heute viel schneller.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-checken (ugs.)	проверять	Sie checkt ihre E-Mails meistens schon von unterwegs.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-komplex	сложный	Das Thema Soziale Medien ist sehr vielschichtig und komplex.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-lauten	звучать; формулироваться	Der Titel meines Vortrags lautet "Neue Medien - Fluch und Segen".	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-üblich	обычный; принятый	Heutzutage ist es üblich, dass schon Kinder ein Smartphone haben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-beobachten	наблюдать	Man kann beobachten, dass Kinder heute viel Zeit am Smartphone verbringen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-verdeutlichen	наглядно показывать	Das Beispiel verdeutlicht, wie dramtisch die Auswirkungen sein können.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hervorheben	подчеркивать	Ich möchte hervorheben, dass ich die Meinung des Autors nicht teile.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-betonen	акцентировать; подчеркивать	Sie betont die Notwendigkeit klarer Regeln für die Handynutzung.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Medienkompetenz, -en	медиакомпетентность	Nicht nur für Kinder ist es wichtig, Medienkompetenz zu erwerben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Umfrage, -n	опрос	Einer Umfrage zufolge haben heute 90% der Haushalte mehr als einen Computer.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ausdrucken	распечатывать	Kann ich meinen Lebenslauf bei dir ausdrucken?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ewig	целую вечность; ужасно долго	Oh Mann, das Öffnen der Internetseite dauert wieder ewig!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hochfahren	загружать; включать компьютер	Bevor ich dir antworte, muss ich erst einmal meinen Computer hochfahren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abspeichern	сохранять	Hast du die Präsentation wirklich abgespeichert?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Datei, -en	файл	Kannst du mir die Datei heute schicken?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eindeutig	однозначный	Der Titel der Datei sollte eindeutig sein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Bezeichnung, -en	обозначение; название	PDF und JPEG sind Bezeichnungen für verschiedene Dateiformate.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-umbenennen	переименовывать	Kannst du die korrigierte Datei bitte umbenennen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hochladen	загружать	Ich muss noch die neuen Fotos auf meinen Blog hochladen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Link, -s	ссылка	Unter diesem Link findest du alle nötigen Informationen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-kopieren	копировать	Würdest du das Dokument bitte für mich kopieren?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-markieren	выделять	Du musst die Textstelle erst markieren, bevor du sie ausschneiden kannst.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-einfügen	вставлять	Er kann den Inhalt der Mail doch einfach kopieren und dort einfügen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-formatieren	форматировать	Der Text muss vor dem Drucken noch formatiert werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-löschen	удалять	Ich fürchte, ich habe deine E-Mail gelöscht.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-verantwortungsbewusst	ответственный	Man sollte verantwortungsbewusst mit den Daten anderer umgehen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Daten (Pl.)	данные	Gib hier deine persönlichen Daten ein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-umgehen mit + Dat.	обращаться с	Er kann noch nicht mit dem neuen Programm umgehen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich einstellen auf + Akk.	настраиваться на; приспосабливаться к	Wir müssen uns auf einige Veränderungen in der Firma einstellen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Entwicklung, -en	развитие	Er kann mit den technologischen Entwicklungen nicht mithalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-bemerken	замечать	Ich habe nicht bemerkt, dass sie schon wieder krank war.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich zurechtfinden	ориентироваться	Man muss sich in sozialen Medien zurechtfinden können und Informationen auch mal hinterfragen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Netzwerk, -e	сеть	Soziale Netzwerke bieten viel Spaß, bergen aber auch viele Gefahren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Online-Zeit, -en	время онлайн	Mit Kindern sollte man klare Online-Zeiten festlegen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-begrenzen	ограничивать	Können wir die Besprechungszeit bitte auf eine Stunde begrenzen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-recherchieren	искать информацию; изучать	Ich muss die neue Verordnung erst recherchieren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Begriff, -e	понятие; термин	Medienkompetenz ist ein wichtiger Begriff im digitalen Alltag.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich umhören	наводить справки	Wir haben uns mal bei Schülern und Schülerinnen umgehört, wie sie die neuen Regeln finden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-aufkommen	возникать; появляться	Ständig kommen neue Technologien auf.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-permanent	постоянно	Permanent wird etwas Neues entwickelt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gerade, hier: insbesondere	особенно	Gerade im Berufsleben muss man flexibel auf Neuerungen reagieren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Programm, -e	программа	Das Programm ist besonders anwenderfreundlich, die Funktionen sind einfach zu verstehen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-usw. (= und so weiter)	и так далее	In dem Kurs lernt man, mit neuen Programmen umzugehen, seine Daten zu schützen usw.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-einigermaßen	более-менее	Er hat seine Online-Zeit jetzt einigermaßen unter Kontrolle.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich halten an + Akk.	придерживаться	Sie hält sich normalerweise an die Regeln.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-(k)ein Ende finden	не находить конца	Beim Spielen können viele Jugendliche oft kein Ende finden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-enthalten	содержать	Viele Videos im Internet enthalten Produktplatzierungen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich äußern	высказываться	Indirekt werden auch in Nachrichten persönliche Meinungen geäußert.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-fundiert	обоснованный	Nicht alle Informationen stammen aus fundierten Quellen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Quelle, -n	источник	In wissenschaftlichen Arbeiten müssen immer Quellen angegeben werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-werben für + Akk.	рекламировать; агитировать за	Viele Internet-Anbieter werben für sich mit attraktiven Verträgen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-auf den ersten Blick	на первый взгляд	Auf den ersten Blick sind fake news nicht unbedingt erkenntlich.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Kontext, -e	контекст	Der Kontext ist für das Verständnis einer Aussage entscheidend.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das A und O (Redewendung)	самое главное; альфа и омега	Ein vorsichtiger Umgang mit den Medien ist heute das A und O.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich bewusst machen	осознавать	Man muss sich bewusst machen, dass man kaum mehr ohne Handy auskommt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-preisgeben	раскрывать; выдавать	Man sollte nicht zu viele persönliche Informationen von sich preisgeben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hinterlassen	оставлять	Man muss wissen, dass man immer Spuren im Netz hinterlässt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-verfügen über + Akk.	располагать; иметь	Jungendliche verfügen meist über mehr Medienkompetenz als ihre Eltern.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-bewerten	оценивать	Eltern müssen die Gefahren des Medienkosums realistisch bewerten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Aussage, -n	высказывание; утверждение	Ihrer Aussage zufolge müssen regelmäßige Medienpausen eingehalten werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-forschen	исследовать	Am Institut für Informatik wird auch zu Computerspielen geforscht.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-rechtfertigen	оправдывать	Man muss sich nicht für jede Entscheidung rechtfertigen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-besetzen	занимать; комплектовать	Wir möchten die Stelle mit einer Frau besetzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-so oder so	так или иначе	Das kann man so oder so sehen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-digital	цифровой	Digitale Besprechungen sind für dezentrale Unternehmen von Vorteil.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-notwendig	необходимый	Der Jugendschutz im Internet ist eine unbedingt notwendige Maßnahme.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Kompetenz, -en	компетенция	Ihre Kompetenzen im Informatikbereich haben uns überzeugt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-auf der einen/anderen Seite	с одной / с другой стороны	Ständige Erreichbarkeit ist auf der einen Seite praktisch, nervt aber auf der anderen Seite auch.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Einfluss, Einflüsse	влияние	Der Einfluss, den soziale Netzwerke heute haben, ist nicht zu unterschätzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eigenständig	самостоятельный	Die Fähigkeit zum eigenständigen Arbeiten ist in unserer Abteilung sehr wichtig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-differenziert	дифференцированно; взвешенно	Das Thema Social Media muss man differenziert betrachten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-was ... angeht	что касается ...	Was die Technologie angeht, sind wir auf dem neusten Stand.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-bedienen	пользоваться; обслуживать	Er kann den Drucker noch immer nicht bedienen, wir sollten ihm eine Anleitung schicken.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-selbstverständlich	само собой разумеется	Selbstverständlich helfe ich dir bei diesem Projekt!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Funktion, -en	функция	Jede Smartphone-Generation hat unzählige neue Funktionen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-empirisch	эмпирически	Es ist empirisch belegt, dass Jugendliche mehr Zeit in sozialen Medien verbringen als Erwachsene.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sichern	сохранять; обезопасивать	Vergiss nicht, die Daten zu sichern, bevor du den Rechner herunterfährst.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Untersuchung, -en	исследование	Untersuchungen haben ergeben, dass übermäßige Smartphone-Nutzung zu Kurzsichtigkeit führt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-Digital Natives / Immigrants	цифровые аборигены / иммигранты	Während Jugendliche als Digital Natives gelten, bezeichnet man Erwachsene als Digital Immigrants.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-im Vorteil / Nachteil sein	быть в выигрыше / проигрыше	Junge Bewerber*innen sind hier klar im Vorteil.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-erwerben	приобретать	Medienkompetenz muss schon in der Schule erworben werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich aneignen	усваивать; осваивать	Diese Fähigkeiten kann man sich nicht so einfach aneignen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ebenso	так же	Soft Skills sind heute ebenso wichtig wie Fachwissen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Aufklärung (Sg.)	просвещение; разъяснение	Es wird mehr Aufklärung zum Thema Cyberkriminalität benötigt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Bundesbildungsministerium	федеральное министерство образования	Das Bundesbildungsministerium warnt vor Gewaltspielen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Expertenkommission, -en	экспертная комиссия	Eine Expertenkommission hat auf die Brisanz der Lage hingewiesen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gründen	основывать	Wir haben vor zwei Jahren die Arbeitsgruppe "Jugendschutz" gegründet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Klärung, -en	прояснение; выяснение	Die jüngesten Vorfälle erfordern umfassende Klärung.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-zu einem Ergebnis kommen	прийти к результату	Die Berater*innen sind zu keinem klaren Ergebnis gekommen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich beklagen über + Akk.	жаловаться на	Er beklagt sich über zu lange Arbeitszeiten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Gerät, -e	устройство; прибор	Das Gerät muss 10 Minuten vor Inbetriebnahme angeschaltet werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-Möglichkeiten schaffen	создавать возможности	Die Unternehmen müssen mehr Möglichkeiten für junge Familien schaffen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gestaltend	созидательно; формирующе	Arbeitnehmer*innen möchten nicht nur ausführend, sondern gestaltend tätig sein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Teilhabe (Sg.)	участие; вовлеченность	Kulturelle Teilhabe muss auch für Familien mit geringem Einkommen möglich sein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-definieren	определять	Kultur ist kein eindeutiger Begriff, er muss immer neu definiert werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ausgehend von + Dat.	исходя из	Ausgehend von den aktuellen Zahlen kann man sagen: Das Unternehmen floriert!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Medienbildung (Sg.)	медиаобразование	Medienbildung sollte mehr Raum in der Schule einnehmen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Kooperation, -en	сотрудничество	Die Kooperation zwischen den beiden Unternehmen hat sich bewährt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Qualifikation, -en	квалификация	Pädagogische Qualifikationen sind eine Voraussetzung für den Lehrberuf.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-jdm. etw. zuschreiben	приписывать; считать присущим	Man schreibt Frauen häufig mehr pädagogisches Gespür zu.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-einschätzen	оценивать	Ich kann seine Fähigkeiten auch nach dem Gespräch nicht einschätzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Suchmaschine, -n	поисковая система	Viele wissen gar nicht, dass es verschiedene Suchmaschinen gibt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eingeben	вводить	Hier musst du das Passwort eingeben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Wissensproduktion (Sg.)	производство знаний	Die Sozialwissenschaften beschäftigen sich mit neuen Formen der Wissensproduktion.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich stützen auf + Akk.	опираться на	Die Studienergebnisse stützen sich auf 400 Interviews mit jungen Erwachsenen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Wissenserwerb (Sg.)	приобретение знаний	Tradtionelle findet Wissenserwerb auf der Grundlage von Büchern statt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-geschult	обученный	In der Lehrerausbildung werden Lehrer nicht in Medienkompetenz geschult.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-nach wie vor	по-прежнему	Es ist nach wie vor schwierig, den Bedürfnissen aller Schüler gerecht zu werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-berücksichtigen	учитывать	Wir können leider nicht alle Wünsche der Arbeitnehmer und Arbeitnehmerinnen berücksichtigen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-angehend	будущий	Angehende Lehrer und Lehrerinnen müssen in der Vermittlung von Medienkritik geschult werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich verpflichten zu + Dat.	обязываться; быть обязанным	Wir sind zur Einhaltung des Datenschutzes verpflichtet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich auseinandersetzen mit + Dat.	разбираться с; серьезно заниматься	Ich muss mich in Ruhe mit der neuen Software auseinandersetzen!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-stattfinden	происходить; состояться	Die Veranstaltung kann wie geplant stattfinden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Gemeinde, -n	община; муниципалитет	Viele Gemeinden investieren in den Ausbau von Glasfasernetzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Unternehmen, -	предприятие	In meinem Unternehmen fehlt es an Teamwork und Kommunikation.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-seinen Teil beitragen	вносить свой вклад	Sie hat einen entscheidenden Teil zum Projekt beigetragen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Patenschaft, -en	наставничество; патронат	In unserer Firma übernehmen wir Patenschaften für neue Mitarbeitende.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-erfahren	опытный	Als erfahrene Mitarbeiterin ist sie Ansprechpartnerin für den Praktikanten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-nachteilig	неблагоприятный	Die nachteilige Entwicklung der Wirtschaft ist auch in unserer Firma spürbar.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich auswirken auf + Akk.	сказываться на	Werbemaßnahmen wirken sich immer positiv auf die Unternehmenszahlen aus.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich lösen	решаться	Dieses Problem lässt sich nur im Gespräch lösen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Neuerung, -en	нововведение	Es gibt zahlreiche Neuerungen in der Unternehmensstruktur.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-beurteilen	оценивать; судить	Wir können die Gefahren eines exzessiven Internetkonsums noch nicht beurteilen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-klagen über + Akk.	жаловаться на	Viele Arbeitnehmende klagen über zu viele Überstunden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-mangelnd	недостаточный	Viele Experten und Expertinnen weisen auf mangelnden Datenschutz im Internet hin.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Anstoß, Anstöße	импульс; толчок	Sie hat in ihrem Vortrag einige Anstöße für Neuerungen geben können.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-relevant	релевантный	Es gibt keine relevanten Forschungsergebnisse zum Thema Cybermobbing.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-neben + Dat.	помимо; наряду с	Neben dem Arbeitsschutz muss auch der Datenschutz eingehalten werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich einsetzen für + Akk.	выступать за; посвящать себя	Er setzt sich intensiv für die kulturelle Teilhabe aller Jugendlichen ein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Abhängigkeit, -en	зависимость	Bei exzessivem Internetkonsum muss man von einer  Abhängigkeit sprechen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Beliebtheit (Sg.)	популярность	Lernapps erfreuen sich im Moment großer Beliebtheit.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-ausführlich	подробно	Dieses Thema muss ausführlich diskutiert werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Modell, -e	модель	In der nächsten Woche erscheint das neue Smartphone-Modell.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-eine Entscheidung treffen	принять решение	Diese Entscheidung muss das Team gemeinsam treffen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-spontan	спонтанно	Hast du spontan am Freitag Zeit?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Teilnahme, -n	участие	Die Teilnahme an der Weiterbildung ist freiwillig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Rede von etw. sein	идти речь о	Von hoher Motivation kann leider keine Rede sein!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Aufgeschlossenheit (Sg.)	открытость новому	Neuerungen im Betrieb erfordern eine gewisse Aufgeschlossenheit.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Bedürfnis, -se	потребность	Die neuen Geräte versuchen den Bedürfnissen aller Nutzer*innen zu begegnen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Bereitschaft (Sg.)	готовность	Sie hat ihre Bereitschaft signalisiert, das Projekt zu übernehmen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-profitieren von + Dat.	извлекать пользу из	Viele Nutzer und Nutzerinnen profitieren von Sonderangeboten der Internetanbieter.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-warnen vor + Dat.	предупреждать о	Experten und Expertinnen warnen vor unkontrolliertem Medienkonsum.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Lernprozess, -e	процесс обучения	Es ist ein langer Lernprozess, bis man soziale Medien effektiv einsetzen kann.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abhalten von + Dat.	удерживать от	Auch die hohen Kosten halten ihn nicht von einem hohen Verbrauch ab.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-schädlich	вредный	Zu viel Computerlicht ist schädlich für die Augen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-brutal	жестокий	Brutale Spiele hinterlassen früher oder später einen Effekt bei den Spielenden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Verhalten (Sg.)	поведение	Ich finde ihr Verhalten in der Angelegenheit nicht korrekt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hinweisen auf + Akk.	указывать на	Darf ich dich nochmal auf dieses nützliche Programm hinweisen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Cyberbullying (Sg.)	кибербуллинг	Es ist schwierig, Cyberbullying gesetzlich zu verfolgen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sich wehren gegen + Akk.	защищаться от	Man sollte sich unbedingt gegen Angriffe in sozialen Netzwerken wehren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Schutz (Sg.)	защита	Zum Schutz der Jüngeren kann man Apps mithilfe eines Timers abschalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-jugendgefährdend	вредный для молодежи	Trotz Kontrollen sickern immer wieder jugendgefährdende Inhalte durch.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-hindern an + Dat.	мешать	Ich kann dich offenbar nicht an deiner Entscheidung hindern.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gelangen auf + Akk. / zu + Dat.	попадать на / к	Man kann leider sehr einfach auf Internetseiten mit zweifelhaften Inhalten gelangen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der/die Minderjährige, -n	несовершеннолетний	Minderjährige sollten nicht zu allen Inhalten im Netz Zugang haben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-surfen	сидеть в интернете; серфить	Er surft bis zu zwei Stunden täglich im Internet.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gespannt sein auf + Akk.	ждать с интересом	Ich bin sehr auf Ihren Vortrag gespannt!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Tablet, -s	планшет	Mit einem Tablet kann man auch elektronische Bücher lesen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Workshop, -s	воркшоп; семинар	Der Workshop ist besonders für die Marketing-Abteilung interessant.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-zuständig sein für + Akk.	отвечать за	Für das Projektmanagment ist meine Kollegin zuständig.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-prüfen	проверять	Die Texte müssen vor dem Hochladen erst geprüft werden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Altersgruppe, -n	возрастная группа	Streaming-Dienste bieten spannendes Programm für alle Altersgruppen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Website, -s	веб-сайт	Die Website wird von der Kommunikationsabteilung betreut.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Lautsprecher, -	динамик	Der Lautsprecher ist nicht angeschlossen, ich kann nichts hören.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Maustaste, -n	кнопка мыши	Dafür musst du die rechte Maustaste klicken.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Passwort, Passwörter	пароль	Das Passwort sollte Buchstaben, Zahlen und Zeichen enthalten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-aufladen	заряжать	Kann ich mein Handy bei dir aufladen?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-empfangen	принимать; получать	Ich kann hier keine E-Mails empfangen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-tippen	печатать; вводить	Du musst dein Passwort hier eintippen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-chatten	чатиться	Beim Chatten schätzt man die Stimmung der Anderen nicht immer richtig ein.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-Kontakte pflegen	поддерживать контакты	Soziale Netzwerke erlauben uns, alte Kontakte auch nach einem Umzug zu pflegen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-posten	постить	Man sollte vielleicht nicht jedes Party-Foto im Internet posten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Blog, -s	блог	Sie schreibt einen Blog über ihre ersten Schritte als Studentin.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-vorliegen	иметься; быть в наличии	Mir liegt leider kein Nachweis über Ihr Alter vor.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-verzichten auf + Akk.	обходиться без	Könntest du eine Woche auf dein Smartphone verzichten?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-an erster Stelle stehen	стоять на первом месте	An erster Stelle steht für mich die Sicherheit meiner Familie.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der/die Befragte, -n	опрошенный	Die Hälfte der Befragten ist mit dem Service unzufrieden.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-dicht gefolgt von + Dat.	сразу за; следом за	Erwachsene Deutsche könnten am einfachsten auf Hörbücher verzichten, dicht gefolgt von Musik-CDs und DVDs.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Schallplatte, -n	пластинка	Nur noch 10 Prozent der Befragten kaufen Schallplatten.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Handel (Sg.)	торговля	Der Handel mit CDs ist in den letzten zehn Jahren stark zurückgegangen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-rund	около; примерно	Wir haben rund zwei Jahre für die Gestaltung der Website gebraucht.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-gelten für + Akk.	действовать для	Die Regeln zum Datenschutz gelten für alle gleichermaßen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Ausgleich, -e	отдушина; баланс	Im Internet surfen ist für mich kein Ausgleich zur Arbeit, ich mache lieber Sport.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-streamen	стримить	Meine Lieblingsserie läuft nicht im Fernsehen, die kann ich nur streamen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-dauerhaft	надолго; постоянно	Ich möchte meine Zeit im Netz dauerhaft reduzieren.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-Wert legen auf + Akk.	придавать большое значение	Sie legt großen Wert auf Qualität.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-darstellen	изображать; представлять	Die Grafik stellt den jährlichen Datenverbrauch der einzelnen Abteilungen dar.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-es geht um + Akk.	речь идет о	In der Grafik geht es um die populärsten Webseiten in Deutschland.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-angeben	указывать; сообщать	Die Hälfte der Befragten gibt an, Streaming-Dienste zu nutzen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-der Anteil, -e	доля	Der Anteil an Fernsehzuschauern hat abgenommen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-anführen	приводить	Für diese These muss er aber noch ein paar überzeugende Argumente anführen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Fazit, -e / -s	вывод	Fazit aus der Besprechung ist, dass die IT-Anlage neu eingerichtet werden muss.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-sprechen für / gegen + Akk.	говорить в пользу / против	Dafür/ Dagegen spricht die Tatsache, dass alle mit der Situation sehr zufrieden sind.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-entscheidend	решающий	Ein entscheidender Vorteil der Schule ist ihr medienkritischer Ansatz.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-feststellen	констатировать; устанавливать	Ich habe festgestellt, dass diese Tätigkeit mehr Zeit als erwartet in Anspruch nimmt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-abschließend	в заключение	Abschließend kann man festhalten, dass Medienkompetenz heute das A und O ist.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-die Ware, -n	товар	Die bestellte Ware wird nächste Woche zugestellt.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-das Videotelefonat, -e	видеозвонок	Das Videotelefonat ist eine Möglichkeit, mit Freunden in Kontakt zu bleiben.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-auffallend	бросающийся в глаза	Es gibt auffallend wenige Experten im Bereich digitaler Wissenstransfer.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
-belegen	подтверждать; доказывать	Diese Vermutungen lassen sich nur durch weitere Studien belegen.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Smartphone, -s	смартфон	Mein neues Smartphone hat mehr Funktionen als mein Computer!	Мой новый смартфон имеет больше функций, чем мой компьютер!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Begleiter, - / die Begleiterin, -nen	спутник; спутница	Ihr Smartphone ist ihr ständiger Begleiter, sie hat es wirklich immer dabei.	Ее смартфон - ее постоянный спутник, он у нее действительно всегда с собой.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Erreichbarkeit (Sg.)	доступность; возможность быть на связи	Erreichbarkeit ist vor allem für Eltern sehr wichtig.	Быть на связи особенно важно для родителей.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ständig	постоянно	Mein Freund ist ständig mit seinem Smartphone beschäftigt.	Мой друг постоянно занят своим смартфоном.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Öffentlichkeit (Sg.)	публичное пространство; общественность	Das möchte ich nicht in der Öffentlichkeit besprechen.	Я не хочу обсуждать это на публике.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Besprechung, -en	совещание	Wir haben jeden Montag um 12:00 Uhr eine Besprechung im Team.	У нас каждый понедельник в 12:00 совещание в команде.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Ablenkung (Sg.)	отвлечение	Sie kann nicht im Großraumbüro arbeiten, dort herrscht zu viel Ablenkung.	Она не может работать в офисе open space, там слишком много отвлекающих факторов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Beschäftigung, -en	занятие; деятельность	Ich denke, Lesen ist meine liebste Beschäftigung.	Думаю, чтение - мое любимое занятие.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+erwarten	ожидать	Sie erwartet um 15 Uhr einen Anruf von ihrem Geschäftspartner.	Она ждет звонка от своего делового партнера в 15:00.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sorgen für + Akk.	заботиться о; обеспечивать	Meine Chefin sorgt für eine wirklich angenehme Arbeitsatmosphäre.	Моя начальница создает действительно приятную рабочую атмосферу.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abschalten	отключаться; отвлекаться от работы	Nach der stressigen Woche muss ich am Wochenende wirklich mal abschalten.	После напряженной недели мне на выходных правда нужно отключиться.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Mailbox, -en	голосовая почта	Du hast acht neue Nachrichten in deiner Mailbox.	У тебя восемь новых сообщений на голосовой почте.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+grundsätzlich	в принципе; как правило	Nachts schalte ich mein Smartphone grundsätzlich aus, da möchte ich nicht gestört werden.	Ночью я принципиально выключаю свой смартфон, не хочу, чтобы меня беспокоили.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+genießen	наслаждаться	Im Urlaub will ich die Ruhe und Natur genießen.	В отпуске я хочу наслаждаться тишиной и природой.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+traumhaft	сказочный; великолепный	Das Wochenende in den Bergen war wirklich traumhaft!	Выходные в горах были просто сказочными!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+zwischendurch	между делом; время от времени	Ich mache keine Mittagspause, ich esse zwischendurch nur einen kleinen Snack.	Я не делаю обеденный перерыв, а просто между делом перекусываю.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+übrigens	кстати	Ich fand deine Präsentation übrigens wirklich klasse!	Твоя презентация, кстати, мне правда очень понравилась!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eigentlich	вообще-то	Eigentlich habe ich heute keine Zeit mehr, aber ich versuche, vorbeizukommen.	Вообще-то сегодня у меня уже нет времени, но я постараюсь зайти.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sowieso	все равно	Du brauchst dich nicht zu beeilen, für den Film ist es jetzt sowieso zu spät.	Тебе не нужно спешить, на фильм все равно уже поздно.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich erledigen	уладиться; отпасть	Es hat sich erledigt, danke.	Все уладилось, спасибо.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+irgendwas	что-нибудь	Falls irgendwas ist, kannst du mich anrufen.	Если что-то будет, можешь мне позвонить.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+irgendein/e/r	какой-нибудь	Bei uns im Büro ist eigentlich immer irgendeiner krank.	У нас в офисе вообще-то всегда кто-нибудь болеет.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Kleinigkeit, -en	мелочь	Wegen dieser Kleinigkeit musst du nicht ins Büro kommen.	Из-за этой мелочи тебе не нужно приходить в офис.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich begeistern für + Akk.	увлекаться; быть в восторге от	Für Bergurlaub kann ich mich gar nicht begeistern.	Я совсем не в восторге от отдыха в горах.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+heutzutage	в наши дни	Heutzutage ist die ständige Erreichbarkeit für viele normal.	В наши дни для многих постоянная доступность - это норма.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+rund um die Uhr	круглосуточно	Sein Smartphone ist rund um die Uhr angeschaltet.	Его смартфон включен круглосуточно.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+zur Verfügung stehen	быть в распоряжении	Für weitere Fragen stehe ich Ihnen gerne zur Verfügung.	По всем дальнейшим вопросам я с удовольствием к вашим услугам.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gedanklich	мысленно	Mein Freund ist gedanklich noch den ganzen Abend mit seiner Arbeit beschäftigt.	Мой друг мысленно еще весь вечер занят своей работой.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+nee (ugs.)	не-а; нет	Nee, das mache ich nicht mit.	Не-а, я в этом не участвую.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+neulich	недавно	Neulich habe ich gelesen, dass sich der Arbeitsmarkt wieder entspannt.	Недавно я прочитал, что ситуация на рынке труда снова улучшается.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Server, -	сервер	Als der Server ausfiel, hatten wir zwei Tage kein Internet.	Когда сервер вышел из строя, у нас два дня не было интернета.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich einloggen	входить в систему	Du musst dich erst einloggen, bevor du das Programm nutzen kannst.	Сначала тебе нужно войти в систему, прежде чем ты сможешь пользоваться программой.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+echt? (ugs.)	правда?; серьезно?	Echt? Das hast du wirklich gemacht? Das ist ja unglaublich!	Правда? Ты правда это сделал? Невероятно!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ja (Modalpartikel)	ведь; же	Viele Leute finden das ja normal, ihren Standort in Apps freizugeben, aber ich bin da kritisch.	Многие ведь считают нормальным делиться своим местоположением в приложениях, но я к этому отношусь критически.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+echt (Modalpartikel)	реально; правда	Deine Unterbrechung hat mich echt gestört!	Твое вмешательство меня реально раздражало!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+einfach (Modalpartikel)	просто; просто-таки	Das ist einfach unhöflich, da braucht man gar nicht weiter zu diskutieren.	Это просто невежливо, тут и обсуждать нечего.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+wohl (Modalpartikel)	пожалуй; видимо	Mit dieser Meinung stehe ich wohl alleine da, denke ich.	С такой точкой зрения я, пожалуй, стою одна, мне кажется.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+unbedingt	обязательно	Ich muss heute unbedingt diese Aufgabe erledigen.	Мне сегодня обязательно нужно закончить это задание.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Etikette (Sg.)	этикет	Beim Date mit anderen zu telefonieren verstößt gegen die Etikette der Höflichkeit.	Разговаривать по телефону во время свидания с другими людьми - нарушение правил вежливости.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Umgang (Sg.)	обращение; умелое обращение	Der vernüftige Umgang mit den sozialen Netzwerken muss gelernt werden.	Разумному обращению с социальными сетями нужно учиться.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Höflichkeitsregel, -n	правило вежливости	Man sollte auch im Internet die üblichen Höflichkeitsregeln einhalten.	И в интернете следует соблюдать обычные правила вежливости.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+beachten	соблюдать; учитывать	Beachten Sie bitte das Rauchverbot im Gebäude.	Пожалуйста, соблюдайте запрет на курение в здании.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+lautstark	громко; во весь голос	Sie hat lautstark gegen die Arbeitsbedingungen protestiert.	Она громко протестовала против условий труда.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+wirken auf + Akk.	производить впечатление на	Er wirkt auf mich ziemlich unzufrieden, etwas scheint nicht in Ordnung zu sein.	Он кажется мне довольно недовольным, похоже, что-то не в порядке.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+störend	мешающий; раздражающий	Es ist wirklich störend, dass du immer zu spät kommst.	Действительно раздражает, что ты всегда опаздываешь.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Respekt (Sg.)	уважение	Gegenseitiger Respekt ist auch unter Kollegen und Kolleginnen wichtig.	Взаимное уважение важно и среди коллег.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+annehmen	принимать	Ich muss diesen Anruf annehmen, das ist wichtig.	Я должен принять этот звонок, это важно.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich befinden	находиться	Sie befindet sich gerade an einem entscheidenden Punkt ihrer Karriere.	Сейчас она находится в решающем моменте своей карьеры.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Gesellschaft, -en	общество; компания	Ich vermeide es, in Gesellschaft zu telefonieren.	Я стараюсь не разговаривать по телефону в компании.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich einbürgern	укореняться; входить в обычай	"Es hat sich eingebürgert, sich am Telefon mit ""Hallo"" zu melden."	"Уже вошло в привычку отвечать по телефону словом ""Hallo""."	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+knapp	ограниченный; в обрез	Wir müssen uns schnell entscheiden, die Zeit bis zur Deadline ist ziemlich knapp.	Нам нужно быстро решить, времени до дедлайна довольно мало.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+endlos	бесконечный	Diese endlosen Diskussionen über Handys am Arbeitsplatz nerven mich.	Эти бесконечные дискуссии о мобильных телефонах на рабочем месте меня раздражают.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Klingeln (Sg.)	звонок; звон	Hörst du das Klingeln? Ich glaube, das ist dein Handy!	Слышишь звонок? По-моему, это твой телефон!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Projekt, -e	проект	Lass uns das Projekt nochmal durchsprechen.	Давай еще раз обсудим проект.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abschließen	завершать	Wir wollen die erste Phase des Projekts diese Woche abschließen.	Мы хотим завершить первый этап проекта на этой неделе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Regeneration, -en	восстановление; регенерация	Nach intensiven Arbeitsphasen braucht es dringend eine Zeit der Regeneration.	После интенсивных рабочих фаз срочно нужно время на восстановление.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Balance (Sg.)	баланс	Es ist nicht leicht, eine gesunde Balance zwischen Arbeit und Freizeit zu finden.	Нелегко найти здоровый баланс между работой и свободным временем.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der/die Vorgesetzte, -n	начальник; руководитель	Mein Vorgesetzter ist für drei Abteilungen gleichzeitig verantwortlich.	Мой начальник одновременно отвечает за три отдела.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ab und zu	время от времени	Ich gehe ab und zu mit den Kolleginnen zusammen Mittag essen.	Я время от времени хожу обедать вместе с коллегами.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+einen Blick werfen auf + Akk.	взглянуть на	Kannst du mal einen Blick auf meine Präsentation werfen?	Можешь взглянуть на мою презентацию?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Bericht, -e	отчет	Ich sitze heute sicher noch den ganzen Tag an diesem Bericht.	Похоже, я сегодня еще весь день просижу над этим отчетом.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abgeben	сдавать	Wir müssen morgen den Kostenplan abgeben.	Завтра нам нужно сдать финансовый план.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eben (Modalpartikel)	как раз; ведь	Da wir ein Firmenhandy haben, sind wir eben auch alle immer erreichbar.	Раз уж у нас есть служебный телефон, мы, конечно, все всегда на связи.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+unverbindlich	необязывающий	Ich bitte Sie um ein unverbindliches Angebot.	Прошу вас сделать мне необязывающее предложение.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+noch schnell (ugs.)	быстренько	Können wir das noch schnell vor dem Feierabend erledigen?	Мы можем быстренько сделать это до конца рабочего дня?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+auf den Markt kommen	выходить на рынок	Heute kommt das neue Smartphone auf den Markt.	Сегодня на рынок выходит новый смартфон.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich verbreiten	распространяться	Da sich Handys so verbreitet haben, ist die Kommunikation heute viel schneller.	Поскольку мобильные телефоны так распространились, общение сегодня стало гораздо быстрее.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+checken (ugs.)	проверять	Sie checkt ihre E-Mails meistens schon von unterwegs.	Она обычно проверяет электронную почту уже по дороге.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+komplex	сложный	Das Thema Soziale Medien ist sehr vielschichtig und komplex.	Тема социальных сетей очень многослойна и сложна.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+lauten	звучать; формулироваться	"Der Titel meines Vortrags lautet ""Neue Medien - Fluch und Segen""."	"Заголовок моего доклада звучит так: ""Neue Medien - Fluch und Segen""."	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+üblich	обычный; принятый	Heutzutage ist es üblich, dass schon Kinder ein Smartphone haben.	В наши дни считается обычным, что уже у детей есть смартфон.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+beobachten	наблюдать	Man kann beobachten, dass Kinder heute viel Zeit am Smartphone verbringen.	Можно наблюдать, что сегодня дети проводят много времени со смартфоном.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+verdeutlichen	наглядно показывать	Das Beispiel verdeutlicht, wie dramtisch die Auswirkungen sein können.	Этот пример наглядно показывает, насколько драматичными могут быть последствия.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hervorheben	подчеркивать	Ich möchte hervorheben, dass ich die Meinung des Autors nicht teile.	Я хотел бы подчеркнуть, что не разделяю мнение автора.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+betonen	акцентировать; подчеркивать	Sie betont die Notwendigkeit klarer Regeln für die Handynutzung.	Она подчеркивает необходимость четких правил использования мобильных телефонов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Medienkompetenz, -en	медиакомпетентность	Nicht nur für Kinder ist es wichtig, Medienkompetenz zu erwerben.	Не только детям важно приобретать медиакомпетентность.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Umfrage, -n	опрос	Einer Umfrage zufolge haben heute 90% der Haushalte mehr als einen Computer.	Согласно одному опросу, сегодня у 90% домохозяйств больше одного компьютера.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ausdrucken	распечатывать	Kann ich meinen Lebenslauf bei dir ausdrucken?	Можно мне у тебя распечатать резюме?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ewig	целую вечность; ужасно долго	Oh Mann, das Öffnen der Internetseite dauert wieder ewig!	Ох, снова эта страница в интернете открывается целую вечность!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hochfahren	загружать; включать компьютер	Bevor ich dir antworte, muss ich erst einmal meinen Computer hochfahren.	Прежде чем я тебе отвечу, мне сначала нужно загрузить компьютер.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abspeichern	сохранять	Hast du die Präsentation wirklich abgespeichert?	Ты правда сохранил презентацию?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Datei, -en	файл	Kannst du mir die Datei heute schicken?	Можешь сегодня прислать мне файл?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eindeutig	однозначный	Der Titel der Datei sollte eindeutig sein.	Название файла должно быть однозначным.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Bezeichnung, -en	обозначение; название	PDF und JPEG sind Bezeichnungen für verschiedene Dateiformate.	PDF и JPEG - названия разных форматов файлов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+umbenennen	переименовывать	Kannst du die korrigierte Datei bitte umbenennen?	Можешь, пожалуйста, переименовать исправленный файл?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hochladen	загружать	Ich muss noch die neuen Fotos auf meinen Blog hochladen.	Мне еще нужно загрузить новые фотографии в свой блог.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Link, -s	ссылка	Unter diesem Link findest du alle nötigen Informationen.	По этой ссылке ты найдешь всю нужную информацию.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+kopieren	копировать	Würdest du das Dokument bitte für mich kopieren?	Не мог бы ты скопировать для меня этот документ?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+markieren	выделять	Du musst die Textstelle erst markieren, bevor du sie ausschneiden kannst.	Сначала тебе нужно выделить фрагмент текста, прежде чем ты сможешь его вырезать.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+einfügen	вставлять	Er kann den Inhalt der Mail doch einfach kopieren und dort einfügen.	Он же может просто скопировать содержимое письма и вставить его туда.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+formatieren	форматировать	Der Text muss vor dem Drucken noch formatiert werden.	Текст нужно еще отформатировать перед печатью.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+löschen	удалять	Ich fürchte, ich habe deine E-Mail gelöscht.	Боюсь, я удалил твое письмо.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+verantwortungsbewusst	ответственный	Man sollte verantwortungsbewusst mit den Daten anderer umgehen.	С данными других людей нужно обращаться ответственно.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Daten (Pl.)	данные	Gib hier deine persönlichen Daten ein.	Введи сюда свои личные данные.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+umgehen mit + Dat.	обращаться с	Er kann noch nicht mit dem neuen Programm umgehen.	Он пока еще не умеет обращаться с новой программой.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich einstellen auf + Akk.	настраиваться на; приспосабливаться к	Wir müssen uns auf einige Veränderungen in der Firma einstellen.	Нам нужно настроиться на некоторые изменения в компании.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Entwicklung, -en	развитие	Er kann mit den technologischen Entwicklungen nicht mithalten.	Он не успевает за технологическими изменениями.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+bemerken	замечать	Ich habe nicht bemerkt, dass sie schon wieder krank war.	Я не заметил, что она опять заболела.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich zurechtfinden	ориентироваться	Man muss sich in sozialen Medien zurechtfinden können und Informationen auch mal hinterfragen.	Нужно уметь ориентироваться в социальных сетях и иногда ставить информацию под сомнение.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Netzwerk, -e	сеть	Soziale Netzwerke bieten viel Spaß, bergen aber auch viele Gefahren.	Социальные сети приносят много удовольствия, но таят и немало опасностей.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Online-Zeit, -en	время онлайн	Mit Kindern sollte man klare Online-Zeiten festlegen.	С детьми нужно устанавливать четкие рамки времени онлайн.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+begrenzen	ограничивать	Können wir die Besprechungszeit bitte auf eine Stunde begrenzen?	Можем мы, пожалуйста, ограничить время совещания одним часом?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+recherchieren	искать информацию; изучать	Ich muss die neue Verordnung erst recherchieren.	Мне нужно сначала изучить новое постановление.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Begriff, -e	понятие; термин	Medienkompetenz ist ein wichtiger Begriff im digitalen Alltag.	Медиакомпетентность - важное понятие в цифровой повседневности.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich umhören	наводить справки	Wir haben uns mal bei Schülern und Schülerinnen umgehört, wie sie die neuen Regeln finden.	Мы поспрашивали школьников, как они относятся к новым правилам.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+aufkommen	возникать; появляться	Ständig kommen neue Technologien auf.	Постоянно появляются новые технологии.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+permanent	постоянно	Permanent wird etwas Neues entwickelt.	Постоянно разрабатывается что-то новое.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gerade, hier: insbesondere	особенно	Gerade im Berufsleben muss man flexibel auf Neuerungen reagieren.	Особенно в профессиональной жизни нужно гибко реагировать на новшества.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Programm, -e	программа	Das Programm ist besonders anwenderfreundlich, die Funktionen sind einfach zu verstehen.	Программа особенно удобна для пользователя, ее функции легко понять.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+usw. (= und so weiter)	и так далее	In dem Kurs lernt man, mit neuen Programmen umzugehen, seine Daten zu schützen usw.	На этом курсе учатся работать с новыми программами, защищать свои данные и так далее.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+einigermaßen	более-менее	Er hat seine Online-Zeit jetzt einigermaßen unter Kontrolle.	Теперь он более-менее контролирует свое время онлайн.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich halten an + Akk.	придерживаться	Sie hält sich normalerweise an die Regeln.	Обычно она придерживается правил.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+(k)ein Ende finden	не находить конца	Beim Spielen können viele Jugendliche oft kein Ende finden.	Во время игры многие подростки часто не могут остановиться.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+enthalten	содержать	Viele Videos im Internet enthalten Produktplatzierungen.	Многие видео в интернете содержат продакт-плейсмент.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich äußern	высказываться	Indirekt werden auch in Nachrichten persönliche Meinungen geäußert.	Косвенно и в новостях высказываются личные мнения.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+fundiert	обоснованный	Nicht alle Informationen stammen aus fundierten Quellen.	Не вся информация происходит из надежных источников.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Quelle, -n	источник	In wissenschaftlichen Arbeiten müssen immer Quellen angegeben werden.	В научных работах всегда нужно указывать источники.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+werben für + Akk.	рекламировать; агитировать за	Viele Internet-Anbieter werben für sich mit attraktiven Verträgen.	Многие интернет-провайдеры рекламируют себя привлекательными тарифами.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+auf den ersten Blick	на первый взгляд	Auf den ersten Blick sind fake news nicht unbedingt erkenntlich.	На первый взгляд фейковые новости не всегда распознаются.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Kontext, -e	контекст	Der Kontext ist für das Verständnis einer Aussage entscheidend.	Контекст имеет решающее значение для понимания высказывания.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das A und O (Redewendung)	самое главное; альфа и омега	Ein vorsichtiger Umgang mit den Medien ist heute das A und O.	Осторожное обращение с медиа сегодня - самое главное.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich bewusst machen	осознавать	Man muss sich bewusst machen, dass man kaum mehr ohne Handy auskommt.	Нужно осознавать, что без телефона теперь едва ли можно обойтись.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+preisgeben	раскрывать; выдавать	Man sollte nicht zu viele persönliche Informationen von sich preisgeben.	Не стоит раскрывать о себе слишком много личной информации.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hinterlassen	оставлять	Man muss wissen, dass man immer Spuren im Netz hinterlässt.	Нужно знать, что в сети мы всегда оставляем следы.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+verfügen über + Akk.	располагать; иметь	Jungendliche verfügen meist über mehr Medienkompetenz als ihre Eltern.	Подростки обычно обладают большей медиакомпетентностью, чем их родители.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+bewerten	оценивать	Eltern müssen die Gefahren des Medienkosums realistisch bewerten.	Родители должны реалистично оценивать опасности медиапотребления.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Aussage, -n	высказывание; утверждение	Ihrer Aussage zufolge müssen regelmäßige Medienpausen eingehalten werden.	Согласно ее словам, необходимо регулярно делать паузы от медиа.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+forschen	исследовать	Am Institut für Informatik wird auch zu Computerspielen geforscht.	В Институте информатики также исследуют компьютерные игры.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+rechtfertigen	оправдывать	Man muss sich nicht für jede Entscheidung rechtfertigen.	Не нужно оправдываться за каждое решение.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+besetzen	занимать; комплектовать	Wir möchten die Stelle mit einer Frau besetzen.	Мы хотим укомплектовать эту должность женщиной.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+so oder so	так или иначе	Das kann man so oder so sehen.	На это можно смотреть и так и этак.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+digital	цифровой	Digitale Besprechungen sind für dezentrale Unternehmen von Vorteil.	Цифровые совещания выгодны для децентрализованных компаний.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+notwendig	необходимый	Der Jugendschutz im Internet ist eine unbedingt notwendige Maßnahme.	Защита молодежи в интернете - абсолютно необходимая мера.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Kompetenz, -en	компетенция	Ihre Kompetenzen im Informatikbereich haben uns überzeugt.	Нас убедили ваши компетенции в области информатики.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+auf der einen/anderen Seite	с одной / с другой стороны	Ständige Erreichbarkeit ist auf der einen Seite praktisch, nervt aber auf der anderen Seite auch.	Постоянная доступность, с одной стороны, удобна, но с другой - тоже раздражает.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Einfluss, Einflüsse	влияние	Der Einfluss, den soziale Netzwerke heute haben, ist nicht zu unterschätzen.	Влияние, которое сегодня имеют социальные сети, не стоит недооценивать.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eigenständig	самостоятельный	Die Fähigkeit zum eigenständigen Arbeiten ist in unserer Abteilung sehr wichtig.	Умение самостоятельно работать очень важно в нашем отделе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+differenziert	дифференцированно; взвешенно	Das Thema Social Media muss man differenziert betrachten.	Тему социальных сетей нужно рассматривать дифференцированно.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+was ... angeht	что касается ...	Was die Technologie angeht, sind wir auf dem neusten Stand.	Что касается технологий, у нас все на самом современном уровне.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+bedienen	пользоваться; обслуживать	Er kann den Drucker noch immer nicht bedienen, wir sollten ihm eine Anleitung schicken.	Он до сих пор не умеет пользоваться принтером, нам стоит отправить ему инструкцию.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+selbstverständlich	само собой разумеется	Selbstverständlich helfe ich dir bei diesem Projekt!	Само собой, я помогу тебе с этим проектом!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Funktion, -en	функция	Jede Smartphone-Generation hat unzählige neue Funktionen.	У каждого поколения смартфонов бесчисленное количество новых функций.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+empirisch	эмпирически	Es ist empirisch belegt, dass Jugendliche mehr Zeit in sozialen Medien verbringen als Erwachsene.	Эмпирически доказано, что молодежь проводит в социальных сетях больше времени, чем взрослые.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sichern	сохранять; обезопасивать	Vergiss nicht, die Daten zu sichern, bevor du den Rechner herunterfährst.	Не забудь сохранить данные, прежде чем выключать компьютер.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Untersuchung, -en	исследование	Untersuchungen haben ergeben, dass übermäßige Smartphone-Nutzung zu Kurzsichtigkeit führt.	Исследования показали, что чрезмерное использование смартфона приводит к близорукости.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+Digital Natives / Immigrants	цифровые аборигены / иммигранты	Während Jugendliche als Digital Natives gelten, bezeichnet man Erwachsene als Digital Immigrants.	В то время как молодежь считается digital natives, взрослых называют digital immigrants.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+im Vorteil / Nachteil sein	быть в выигрыше / проигрыше	Junge Bewerber*innen sind hier klar im Vorteil.	Молодые соискатели здесь явно в выигрыше.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+erwerben	приобретать	Medienkompetenz muss schon in der Schule erworben werden.	Медиакомпетентность нужно приобретать уже в школе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich aneignen	усваивать; осваивать	Diese Fähigkeiten kann man sich nicht so einfach aneignen.	Эти навыки не так-то просто себе освоить.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ebenso	так же	Soft Skills sind heute ebenso wichtig wie Fachwissen.	Soft Skills сегодня так же важны, как и профессиональные знания.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Aufklärung (Sg.)	просвещение; разъяснение	Es wird mehr Aufklärung zum Thema Cyberkriminalität benötigt.	Нужно больше просвещения по теме киберпреступности.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Bundesbildungsministerium	федеральное министерство образования	Das Bundesbildungsministerium warnt vor Gewaltspielen.	Федеральное министерство образования предупреждает об играх с насилием.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Expertenkommission, -en	экспертная комиссия	Eine Expertenkommission hat auf die Brisanz der Lage hingewiesen.	Экспертная комиссия указала на остроту ситуации.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gründen	основывать	"Wir haben vor zwei Jahren die Arbeitsgruppe ""Jugendschutz"" gegründet."	"Два года назад мы основали рабочую группу ""Jugendschutz""."	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Klärung, -en	прояснение; выяснение	Die jüngesten Vorfälle erfordern umfassende Klärung.	Последние инциденты требуют всестороннего прояснения.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+zu einem Ergebnis kommen	прийти к результату	Die Berater*innen sind zu keinem klaren Ergebnis gekommen.	Консультанты не пришли ни к какому ясному результату.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich beklagen über + Akk.	жаловаться на	Er beklagt sich über zu lange Arbeitszeiten.	Он жалуется на слишком длинный рабочий день.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Gerät, -e	устройство; прибор	Das Gerät muss 10 Minuten vor Inbetriebnahme angeschaltet werden.	Устройство нужно включить за 10 минут до ввода в эксплуатацию.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+Möglichkeiten schaffen	создавать возможности	Die Unternehmen müssen mehr Möglichkeiten für junge Familien schaffen.	Компаниям нужно создавать больше возможностей для молодых семей.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gestaltend	созидательно; формирующе	Arbeitnehmer*innen möchten nicht nur ausführend, sondern gestaltend tätig sein.	Сотрудники хотят работать не только как исполнители, но и творчески влиять на процесс.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Teilhabe (Sg.)	участие; вовлеченность	Kulturelle Teilhabe muss auch für Familien mit geringem Einkommen möglich sein.	Культурное участие должно быть возможно и для семей с низким доходом.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+definieren	определять	Kultur ist kein eindeutiger Begriff, er muss immer neu definiert werden.	Культура - не однозначное понятие, ее постоянно приходится определять заново.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ausgehend von + Dat.	исходя из	Ausgehend von den aktuellen Zahlen kann man sagen: Das Unternehmen floriert!	Исходя из текущих цифр, можно сказать: компания процветает!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Medienbildung (Sg.)	медиаобразование	Medienbildung sollte mehr Raum in der Schule einnehmen.	Медиаобразование должно занимать больше места в школе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Kooperation, -en	сотрудничество	Die Kooperation zwischen den beiden Unternehmen hat sich bewährt.	Сотрудничество между двумя компаниями себя оправдало.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Qualifikation, -en	квалификация	Pädagogische Qualifikationen sind eine Voraussetzung für den Lehrberuf.	Педагогические квалификации являются необходимым условием для профессии учителя.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+jdm. etw. zuschreiben	приписывать; считать присущим	Man schreibt Frauen häufig mehr pädagogisches Gespür zu.	Женщинам часто приписывают больше педагогического чутья.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+einschätzen	оценивать	Ich kann seine Fähigkeiten auch nach dem Gespräch nicht einschätzen.	Я не могу оценить его способности даже после разговора.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Suchmaschine, -n	поисковая система	Viele wissen gar nicht, dass es verschiedene Suchmaschinen gibt.	Многие даже не знают, что существуют разные поисковые системы.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eingeben	вводить	Hier musst du das Passwort eingeben.	Здесь нужно ввести пароль.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Wissensproduktion (Sg.)	производство знаний	Die Sozialwissenschaften beschäftigen sich mit neuen Formen der Wissensproduktion.	Социальные науки занимаются новыми формами производства знаний.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich stützen auf + Akk.	опираться на	Die Studienergebnisse stützen sich auf 400 Interviews mit jungen Erwachsenen.	Результаты исследования опираются на 400 интервью с молодыми взрослыми.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Wissenserwerb (Sg.)	приобретение знаний	Tradtionelle findet Wissenserwerb auf der Grundlage von Büchern statt.	Традиционно получение знаний происходит на основе книг.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+geschult	обученный	In der Lehrerausbildung werden Lehrer nicht in Medienkompetenz geschult.	В педагогическом образовании учителей не обучают медиакомпетентности.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+nach wie vor	по-прежнему	Es ist nach wie vor schwierig, den Bedürfnissen aller Schüler gerecht zu werden.	По-прежнему трудно удовлетворить потребности всех учеников.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+berücksichtigen	учитывать	Wir können leider nicht alle Wünsche der Arbeitnehmer und Arbeitnehmerinnen berücksichtigen.	К сожалению, мы не можем учесть все пожелания работников.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+angehend	будущий	Angehende Lehrer und Lehrerinnen müssen in der Vermittlung von Medienkritik geschult werden.	Будущих учителей нужно обучать передаче медиакритики.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich verpflichten zu + Dat.	обязываться; быть обязанным	Wir sind zur Einhaltung des Datenschutzes verpflichtet.	Мы обязаны соблюдать защиту данных.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich auseinandersetzen mit + Dat.	разбираться с; серьезно заниматься	Ich muss mich in Ruhe mit der neuen Software auseinandersetzen!	Мне нужно спокойно разобраться с новой программой!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+stattfinden	происходить; состояться	Die Veranstaltung kann wie geplant stattfinden.	Мероприятие может состояться, как и запланировано.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Gemeinde, -n	община; муниципалитет	Viele Gemeinden investieren in den Ausbau von Glasfasernetzen.	Многие общины инвестируют в расширение сетей оптоволокна.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Unternehmen, -	предприятие	In meinem Unternehmen fehlt es an Teamwork und Kommunikation.	В моей компании не хватает командной работы и коммуникации.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+seinen Teil beitragen	вносить свой вклад	Sie hat einen entscheidenden Teil zum Projekt beigetragen.	Она внесла решающий вклад в проект.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Patenschaft, -en	наставничество; патронат	In unserer Firma übernehmen wir Patenschaften für neue Mitarbeitende.	В нашей фирме мы берем шефство над новыми сотрудниками.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+erfahren	опытный	Als erfahrene Mitarbeiterin ist sie Ansprechpartnerin für den Praktikanten.	Как опытная сотрудница, она является контактным лицом для стажера.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+nachteilig	неблагоприятный	Die nachteilige Entwicklung der Wirtschaft ist auch in unserer Firma spürbar.	Неблагоприятное развитие экономики ощущается и в нашей компании.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich auswirken auf + Akk.	сказываться на	Werbemaßnahmen wirken sich immer positiv auf die Unternehmenszahlen aus.	Рекламные меры всегда положительно сказываются на показателях компании.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich lösen	решаться	Dieses Problem lässt sich nur im Gespräch lösen.	Эту проблему можно решить только в разговоре.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Neuerung, -en	нововведение	Es gibt zahlreiche Neuerungen in der Unternehmensstruktur.	В структуре компании есть множество нововведений.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+beurteilen	оценивать; судить	Wir können die Gefahren eines exzessiven Internetkonsums noch nicht beurteilen.	Мы пока не можем оценить опасности чрезмерного потребления интернета.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+klagen über + Akk.	жаловаться на	Viele Arbeitnehmende klagen über zu viele Überstunden.	Многие сотрудники жалуются на слишком большое количество сверхурочных.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+mangelnd	недостаточный	Viele Experten und Expertinnen weisen auf mangelnden Datenschutz im Internet hin.	Многие эксперты указывают на недостаточную защиту данных в интернете.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Anstoß, Anstöße	импульс; толчок	Sie hat in ihrem Vortrag einige Anstöße für Neuerungen geben können.	В своем докладе она смогла дать несколько импульсов для нововведений.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+relevant	релевантный	Es gibt keine relevanten Forschungsergebnisse zum Thema Cybermobbing.	Нет релевантных результатов исследований по теме кибербуллинга.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+neben + Dat.	помимо; наряду с	Neben dem Arbeitsschutz muss auch der Datenschutz eingehalten werden.	Помимо охраны труда, необходимо соблюдать и защиту данных.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich einsetzen für + Akk.	выступать за; посвящать себя	Er setzt sich intensiv für die kulturelle Teilhabe aller Jugendlichen ein.	Он активно выступает за культурное участие всех подростков.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Abhängigkeit, -en	зависимость	Bei exzessivem Internetkonsum muss man von einer Abhängigkeit sprechen.	При чрезмерном потреблении интернета приходится говорить о зависимости.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Beliebtheit (Sg.)	популярность	Lernapps erfreuen sich im Moment großer Beliebtheit.	Учебные приложения сейчас пользуются большой популярностью.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+ausführlich	подробно	Dieses Thema muss ausführlich diskutiert werden.	Эту тему нужно подробно обсуждать.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Modell, -e	модель	In der nächsten Woche erscheint das neue Smartphone-Modell.	На следующей неделе выходит новая модель смартфона.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+eine Entscheidung treffen	принять решение	Diese Entscheidung muss das Team gemeinsam treffen.	Это решение команда должна принять вместе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+spontan	спонтанно	Hast du spontan am Freitag Zeit?	У тебя есть спонтанно время в пятницу?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Teilnahme, -n	участие	Die Teilnahme an der Weiterbildung ist freiwillig.	Участие в повышении квалификации добровольное.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Rede von etw. sein	идти речь о	Von hoher Motivation kann leider keine Rede sein!	О высокой мотивации, к сожалению, и речи быть не может!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Aufgeschlossenheit (Sg.)	открытость новому	Neuerungen im Betrieb erfordern eine gewisse Aufgeschlossenheit.	Нововведения на предприятии требуют определенной открытости новому.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Bedürfnis, -se	потребность	Die neuen Geräte versuchen den Bedürfnissen aller Nutzer*innen zu begegnen.	Новые устройства пытаются отвечать потребностям всех пользователей.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Bereitschaft (Sg.)	готовность	Sie hat ihre Bereitschaft signalisiert, das Projekt zu übernehmen.	Она дала понять, что готова взять на себя проект.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+profitieren von + Dat.	извлекать пользу из	Viele Nutzer und Nutzerinnen profitieren von Sonderangeboten der Internetanbieter.	Многие пользователи получают выгоду от специальных предложений интернет-провайдеров.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+warnen vor + Dat.	предупреждать о	Experten und Expertinnen warnen vor unkontrolliertem Medienkonsum.	Эксперты предупреждают о неконтролируемом потреблении медиа.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Lernprozess, -e	процесс обучения	Es ist ein langer Lernprozess, bis man soziale Medien effektiv einsetzen kann.	Это долгий процесс обучения, прежде чем научишься эффективно использовать социальные сети.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abhalten von + Dat.	удерживать от	Auch die hohen Kosten halten ihn nicht von einem hohen Verbrauch ab.	Даже высокие расходы не удерживают его от большого потребления.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+schädlich	вредный	Zu viel Computerlicht ist schädlich für die Augen.	Слишком яркий свет компьютера вреден для глаз.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+brutal	жестокий	Brutale Spiele hinterlassen früher oder später einen Effekt bei den Spielenden.	Жестокие игры рано или поздно оказывают влияние на играющих.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Verhalten (Sg.)	поведение	Ich finde ihr Verhalten in der Angelegenheit nicht korrekt.	Я считаю ее поведение в этой ситуации некорректным.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hinweisen auf + Akk.	указывать на	Darf ich dich nochmal auf dieses nützliche Programm hinweisen?	Можно я еще раз укажу тебе на эту полезную программу?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Cyberbullying (Sg.)	кибербуллинг	Es ist schwierig, Cyberbullying gesetzlich zu verfolgen.	Кибербуллинг трудно преследовать по закону.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sich wehren gegen + Akk.	защищаться от	Man sollte sich unbedingt gegen Angriffe in sozialen Netzwerken wehren.	Обязательно нужно защищаться от нападок в социальных сетях.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Schutz (Sg.)	защита	Zum Schutz der Jüngeren kann man Apps mithilfe eines Timers abschalten.	Для защиты младших приложения можно отключать с помощью таймера.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+jugendgefährdend	вредный для молодежи	Trotz Kontrollen sickern immer wieder jugendgefährdende Inhalte durch.	Несмотря на контроль, вредный для молодежи контент снова и снова просачивается.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+hindern an + Dat.	мешать	Ich kann dich offenbar nicht an deiner Entscheidung hindern.	Я, похоже, не могу помешать тебе в твоем решении.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gelangen auf + Akk. / zu + Dat.	попадать на / к	Man kann leider sehr einfach auf Internetseiten mit zweifelhaften Inhalten gelangen.	К сожалению, на сайты с сомнительным содержанием очень легко попасть.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der/die Minderjährige, -n	несовершеннолетний	Minderjährige sollten nicht zu allen Inhalten im Netz Zugang haben.	У несовершеннолетних не должно быть доступа ко всему контенту в сети.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+surfen	сидеть в интернете; серфить	Er surft bis zu zwei Stunden täglich im Internet.	Он ежедневно сидит в интернете до двух часов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gespannt sein auf + Akk.	ждать с интересом	Ich bin sehr auf Ihren Vortrag gespannt!	Я с большим интересом жду вашего доклада!	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Tablet, -s	планшет	Mit einem Tablet kann man auch elektronische Bücher lesen.	На планшете тоже можно читать электронные книги.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Workshop, -s	воркшоп; семинар	Der Workshop ist besonders für die Marketing-Abteilung interessant.	Этот воркшоп особенно интересен для отдела маркетинга.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+zuständig sein für + Akk.	отвечать за	Für das Projektmanagment ist meine Kollegin zuständig.	За управление проектом отвечает моя коллега.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+prüfen	проверять	Die Texte müssen vor dem Hochladen erst geprüft werden.	Перед загрузкой тексты нужно сначала проверить.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Altersgruppe, -n	возрастная группа	Streaming-Dienste bieten spannendes Programm für alle Altersgruppen.	Стриминговые сервисы предлагают интересный контент для всех возрастных групп.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Website, -s	веб-сайт	Die Website wird von der Kommunikationsabteilung betreut.	За этим сайтом следит отдел коммуникаций.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Lautsprecher, -	динамик	Der Lautsprecher ist nicht angeschlossen, ich kann nichts hören.	Динамик не подключен, я ничего не слышу.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Maustaste, -n	кнопка мыши	Dafür musst du die rechte Maustaste klicken.	Для этого тебе нужно нажать правую кнопку мыши.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Passwort, Passwörter	пароль	Das Passwort sollte Buchstaben, Zahlen und Zeichen enthalten.	Пароль должен содержать буквы, цифры и символы.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+aufladen	заряжать	Kann ich mein Handy bei dir aufladen?	Можно я у тебя заряжу телефон?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+empfangen	принимать; получать	Ich kann hier keine E-Mails empfangen.	Я не могу здесь получать электронные письма.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+tippen	печатать; вводить	Du musst dein Passwort hier eintippen.	Тебе нужно ввести здесь свой пароль.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+chatten	чатиться	Beim Chatten schätzt man die Stimmung der Anderen nicht immer richtig ein.	Во время переписки в чате не всегда правильно понимаешь настроение других.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+Kontakte pflegen	поддерживать контакты	Soziale Netzwerke erlauben uns, alte Kontakte auch nach einem Umzug zu pflegen.	Социальные сети позволяют нам поддерживать старые контакты даже после переезда.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+posten	постить	Man sollte vielleicht nicht jedes Party-Foto im Internet posten.	Возможно, не стоит выкладывать в интернет каждое фото с вечеринки.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Blog, -s	блог	Sie schreibt einen Blog über ihre ersten Schritte als Studentin.	Она пишет блог о своих первых шагах в роли студентки.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+vorliegen	иметься; быть в наличии	Mir liegt leider kein Nachweis über Ihr Alter vor.	У меня, к сожалению, нет подтверждения вашего возраста.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+verzichten auf + Akk.	обходиться без	Könntest du eine Woche auf dein Smartphone verzichten?	Ты смог бы неделю обойтись без своего смартфона?	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+an erster Stelle stehen	стоять на первом месте	An erster Stelle steht für mich die Sicherheit meiner Familie.	Для меня на первом месте безопасность моей семьи.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der/die Befragte, -n	опрошенный	Die Hälfte der Befragten ist mit dem Service unzufrieden.	Половина опрошенных недовольна сервисом.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+dicht gefolgt von + Dat.	сразу за; следом за	Erwachsene Deutsche könnten am einfachsten auf Hörbücher verzichten, dicht gefolgt von Musik-CDs und DVDs.	Немцы взрослее всего могли бы отказаться от аудиокниг, сразу за ними идут музыкальные CD и DVD.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Schallplatte, -n	пластинка	Nur noch 10 Prozent der Befragten kaufen Schallplatten.	Только 10 процентов опрошенных покупают виниловые пластинки.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Handel (Sg.)	торговля	Der Handel mit CDs ist in den letzten zehn Jahren stark zurückgegangen.	Торговля CD за последние десять лет сильно сократилась.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+rund	около; примерно	Wir haben rund zwei Jahre für die Gestaltung der Website gebraucht.	Нам понадобилось около двух лет на оформление сайта.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+gelten für + Akk.	действовать для	Die Regeln zum Datenschutz gelten für alle gleichermaßen.	Правила защиты данных одинаково действуют для всех.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Ausgleich, -e	отдушина; баланс	Im Internet surfen ist für mich kein Ausgleich zur Arbeit, ich mache lieber Sport.	Серфить в интернете для меня не отдых от работы, я лучше занимаюсь спортом.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+streamen	стримить	Meine Lieblingsserie läuft nicht im Fernsehen, die kann ich nur streamen.	Мой любимый сериал не идет по телевизору, его я могу смотреть только в стриме.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+dauerhaft	надолго; постоянно	Ich möchte meine Zeit im Netz dauerhaft reduzieren.	Я хочу надолго сократить свое время в сети.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+Wert legen auf + Akk.	придавать большое значение	Sie legt großen Wert auf Qualität.	Она придает большое значение качеству.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+darstellen	изображать; представлять	Die Grafik stellt den jährlichen Datenverbrauch der einzelnen Abteilungen dar.	Эта графика показывает ежегодное потребление данных отдельными отделами.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+es geht um + Akk.	речь идет о	In der Grafik geht es um die populärsten Webseiten in Deutschland.	На графике речь идет о самых популярных сайтах в Германии.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+angeben	указывать; сообщать	Die Hälfte der Befragten gibt an, Streaming-Dienste zu nutzen.	Половина опрошенных указывает, что пользуется стриминговыми сервисами.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+der Anteil, -e	доля	Der Anteil an Fernsehzuschauern hat abgenommen.	Доля телезрителей уменьшилась.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+anführen	приводить	Für diese These muss er aber noch ein paar überzeugende Argumente anführen.	Для этого тезиса ему нужно привести еще несколько убедительных аргументов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Fazit, -e / -s	вывод	Fazit aus der Besprechung ist, dass die IT-Anlage neu eingerichtet werden muss.	Вывод совещания таков: IT-систему нужно заново настроить.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+sprechen für / gegen + Akk.	говорить в пользу / против	Dafür/ Dagegen spricht die Tatsache, dass alle mit der Situation sehr zufrieden sind.	За это / против этого говорит тот факт, что все очень довольны ситуацией.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+entscheidend	решающий	Ein entscheidender Vorteil der Schule ist ihr medienkritischer Ansatz.	Решающее преимущество школы - ее медиакритический подход.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+feststellen	констатировать; устанавливать	Ich habe festgestellt, dass diese Tätigkeit mehr Zeit als erwartet in Anspruch nimmt.	Я установил, что эта деятельность отнимает больше времени, чем ожидалось.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+abschließend	в заключение	Abschließend kann man festhalten, dass Medienkompetenz heute das A und O ist.	В заключение можно сказать, что медиакомпетентность сегодня - это самое главное.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+die Ware, -n	товар	Die bestellte Ware wird nächste Woche zugestellt.	Заказанный товар будет доставлен на следующей неделе.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+das Videotelefonat, -e	видеозвонок	Das Videotelefonat ist eine Möglichkeit, mit Freunden in Kontakt zu bleiben.	Видеозвонок - это возможность оставаться на связи с друзьями.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+auffallend	бросающийся в глаза	Es gibt auffallend wenige Experten im Bereich digitaler Wissenstransfer.	В области цифрового трансфера знаний удивительно мало экспертов.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
+belegen	подтверждать; доказывать	Diese Vermutungen lassen sich nur durch weitere Studien belegen.	Эти предположения можно подтвердить только дальнейшими исследованиями.	form::vokabel topic::medien level::c1 source::goethe::c1::k1
