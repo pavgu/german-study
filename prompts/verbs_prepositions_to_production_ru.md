@@ -1,8 +1,8 @@
 # Verb + Preposition To Russian-Led Production Cards
 
-Use this prompt to turn a raw German file of `Verb + Präposition` combinations into an Anki-ready TSV import for the note type described in [production.md](/mnt/data/german-study/anki/note-types/production.md).
+Use this prompt to turn a raw German file of `Verb + Präposition` combinations into an Anki-ready TSV import for the note type described in [production.md](../anki/note-types/production.md).
 
-For tagging, follow the repository conventions documented in [tagging.md](/mnt/data/german-study/docs/tagging.md).
+For tagging, follow the repository conventions documented in [tagging.md](../docs/tagging.md).
 
 Recommended raw source pattern:
 

@@ -1,8 +1,8 @@
 # Antonyms To Anki Prompt
 
-Use this prompt to turn a raw TSV file of German antonym pairs into an Anki-ready TSV import for the note type described in [antonyms-production-ru.md](/mnt/data/german-study/anki/note-types/antonyms-production-ru.md).
+Use this prompt to turn a raw TSV file of German antonym pairs into an Anki-ready TSV import for the note type described in [antonyms-production-ru.md](../anki/note-types/antonyms-production-ru.md).
 
-For tagging, follow the repository conventions documented in [tagging.md](/mnt/data/german-study/docs/tagging.md).
+For tagging, follow the repository conventions documented in [tagging.md](../docs/tagging.md).
 
 The raw source file should live under `anki/sources/antonyms/`.
 
@@ -232,7 +232,7 @@ followed by the TSV rows only.
 
 ## Recommended Tag Approach
 
-Treat [tagging.md](/mnt/data/german-study/docs/tagging.md) as the source of truth for tag design.
+Treat [tagging.md](../docs/tagging.md) as the source of truth for tag design.
 
 For antonyms, prefer:
 

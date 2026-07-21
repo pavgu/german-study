@@ -16,7 +16,7 @@ Recommended default workflow:
 
 Recommended note type:
 
-- [confusables-production-ru.md](/mnt/data/german-study/anki/note-types/confusables-production-ru.md)
+- [confusables-production-ru.md](../anki/note-types/confusables-production-ru.md)
 
 ## Goal
 

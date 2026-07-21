@@ -1,8 +1,8 @@
 # Topic Vocabulary To Russian-Led Production Cards
 
-Use this prompt to turn a raw German-only topic vocabulary file into an Anki-ready TSV import for the note type described in [production.md](/mnt/data/german-study/anki/note-types/production.md).
+Use this prompt to turn a raw German-only topic vocabulary file into an Anki-ready TSV import for the note type described in [production.md](../anki/note-types/production.md).
 
-For tagging, follow the repository conventions documented in [tagging.md](/mnt/data/german-study/docs/tagging.md).
+For tagging, follow the repository conventions documented in [tagging.md](../docs/tagging.md).
 
 Recommended raw source pattern:
 
@@ -33,14 +33,16 @@ The output must have exactly 4 tab-separated columns:
 
 ## Recommended Output Path
 
-If tool access is available, write the output file under:
+If tool access is available, write the output file under the established domain folder. Use:
 
-- `anki/decks/vocabulary/<topic>/`
+- `anki/decks/vocabulary/<domain>/<topic>/` when the topic belongs to a grouped domain such as
+  `sports` or `it`
+- `anki/decks/vocabulary/<topic>/` when the topic itself is the top-level domain, such as `medical`
 
 Suggested example output:
 
 - raw: `anki/sources/vocabulary/ice_skating/c1_c2_ice_skating_2026-03-20.txt`
-- output: `anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv`
+- output: `anki/decks/vocabulary/sports/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv`
 
 If tool access is not available, return the target path and the exact TSV rows.
 
@@ -174,7 +176,7 @@ die Landung stabil ausfahren
 Die Kür war technisch stark und künstlerisch klar.
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/decks/vocabulary/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv
+OUTPUT: anki/decks/vocabulary/sports/ice_skating/c1_c2_ice_skating_production_DE_RU.tsv
 лезвие конька	die Kufe	Metallteil am Schuh	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::wort domain::eissport
 уверенно выйти из приземления	die Landung stabil ausfahren	nach dem Sprung sicher weitergleiten	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::chunk domain::technik
 Программа была технически сильной и художественно ясной.	Die Kür war technisch stark und künstlerisch klar.	Programm wirkt sportlich und gestalterisch überzeugend	form::vokabel func::produktion level::c1_c2 topic::ice_skating source::raw::vocabulary::ice_skating card::satz domain::wettkampf
@@ -396,7 +398,7 @@ die Passwege konsequent zustellen
 Der Torwart hält den Winkel konsequent klein.
 
 Example output if file-writing tools are not available:
-OUTPUT: anki/decks/vocabulary/ice_hockey/c1_c2_ice_hockey_production_DE_RU.tsv
+OUTPUT: anki/decks/vocabulary/sports/ice_hockey/c1_c2_ice_hockey_production_DE_RU.tsv
 игра в большинстве	das Powerplay	Angriff mit einem Spieler mehr	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::wort domain::taktik
 последовательно перекрывать линии передач	die Passwege konsequent zustellen	Zuspielmöglichkeiten systematisch schließen	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::chunk domain::taktik
 Вратарь последовательно сокращает угол обстрела.	Der Torwart hält den Winkel konsequent klein.	nimmt dem Gegner gezielt freien Raum	form::vokabel func::produktion level::c1_c2 topic::ice_hockey source::raw::vocabulary::ice_hockey card::satz domain::technik
