@@ -1,10 +1,10 @@
 die Bevölkerungsstruktur, -en Die Bevölkerungsstruktur wird sich in den nächsten 40 Jahren sehr verändern.
-die Überalterung (Singular) Die Überalterung der Gesellschaft stellt schon heute eine Herausforderung für das Sozialsystem dar.
+die Überalterung (Sg.) Die Überalterung der Gesellschaft stellt schon heute eine Herausforderung für das Sozialsystem dar.
 die Geburtenrate, -n In ganz Europa sind die Geburtenraten gesunken.
 die Lebenserwartung, -en Die Lebenserwartung in Deutschland lag 2020 bei ca. 80 Jahren.
 der Lösungsansatz, Lösungsansätze Die Politik sucht ständig nach neuen Lösungsansätzen.
 das Produktionsdefizit, -e Ohne junge Arbeitskräfte kann es zu einem Produktionsdefizit kommen.
-der Fachkräftemangel (Singular) Der Fachkräftemangel macht sich bereits in vielen Gewerben bemerkbar.
+der Fachkräftemangel (Sg.) Der Fachkräftemangel macht sich bereits in vielen Gewerben bemerkbar.
 die Zukunftsprognose, -n Die Zukunftsprognosen für die Wirtschaft sehen nicht gut aus.
 zur Welt kommen In Deutschland sind letztes Jahr wieder mehr Kinder zur Welt gekommen.
 das Betreuungsangebot, -e Die Familienpolitik muss endlich mehr in Betreuungsangebote investieren.
@@ -17,39 +17,39 @@ der Effekt, -e Die Effekte der Reform werden sich erst in 5 Jahren zeigen.
 uneinig Die Politik ist sich über die Auswirkung der Maßnahmen noch uneinig.
 die Wirtschaftsleistung, -en Ein Produktionsdefizit kann sich negativ auf die Wirtschaftsleistung auswirken.
 betreffen Jung und Alt sind gleichermaßen von den demografischen Entwicklungen betroffen.
-der Wandel (Singular) Der demografische Wandel lässt sich vermutlich nicht mehr aufhalten.
-sich auswirken auf Die Reformen wirken sich noch nicht unmittelbar auf die Wirtschaftszahlen aus, könnten aber langfristig das Wachstum wieder ankurbeln.
-einhergehen mit Manche Maßnahmen gehen mit negativen Nebeneffekten einher.
+der Wandel (Sg.) Der demografische Wandel lässt sich vermutlich nicht mehr aufhalten.
+sich auswirken auf + Akk. Die Reformen wirken sich noch nicht unmittelbar auf die Wirtschaftszahlen aus, könnten aber langfristig das Wachstum wieder ankurbeln.
+einhergehen mit + Dat. Manche Maßnahmen gehen mit negativen Nebeneffekten einher.
 die Tatsache, -n Tatsache ist, dass fast alle Länder vom demografischen Wandel betroffen sind.
 unbeliebt So manch unbeliebte Maßnahme hat sich in der Praxis dann doch bewehrt.
 der/die Erwerbstätige, -n Die sinkende Zahl der Erwerbstätigen ist bedenklich.
 die Wirtschaftskraft, Wirtschaftskräfte Die Wirtschaftskraft wird in den kommenden Jahren ganz klar abnehmen.
-aufgrund Die Situation hat sich aufgrund der sinkenden Geburtenrate noch weiter verschärft.
+aufgrund + Gen. Die Situation hat sich aufgrund der sinkenden Geburtenrate noch weiter verschärft.
 in die Tat umsetzen (Redewendung) Die Lösungsansätze müssen endlich in die Tat umgesetzt werden.
 zeitintensiv Viele Produktionsprozesse werden in Zukunft weniger zeitintensiv sein.
 erwerbsfähig Nicht alle erwerbstätigen Frauen haben Zugang zum Arbeitsmarkt.
-entgegenwirken Es erfordert umfassende Maßnahmen, um dem Problem entgegenzuwirken.
+entgegenwirken + Dat. Es erfordert umfassende Maßnahmen, um dem Problem entgegenzuwirken.
 die Betreuung, -en Die Betreuung älterer Mitmenschen findet in Deutschland meist in Heimen statt.
 der/die Angehörige, -n Viele sind nicht in der Lage, ihre Angehörigen zu betreuen.
 vermehrt Rentner und Rentnerinnen sollen sich in Zukunft vermehrt gegenseitig umeinander kümmern.
-das Pflegepersonal (Singular) Das Pflegepersonal wird nicht ausreichend für seine Arbeit vergütet.
+das Pflegepersonal (Sg.) Das Pflegepersonal wird nicht ausreichend für seine Arbeit vergütet.
 schrumpfen Die Einwohnerzahl Deutschlands wird auf 70 Millionen schrumpfen.
 vorstellbar Die Dimension dieser Entwicklung ist für die meisten schwer vorstellbar.
 zusammenbrechen Das Sozialsystem könnte hier zusammenbrechen, wenn die Politik nicht auf die gesellschaftlichen Veränderungen reagiert.
 vertreten sein Immer weniger junge Menschen sind auf dem Arbeitsmarkt vertreten.
-der Wohlstand (Singular) Wohlstand lässt sich nur durch Produktivität aufrechterhalten.
+der Wohlstand (Sg.) Wohlstand lässt sich nur durch Produktivität aufrechterhalten.
 übertrieben Kritiker halten die Prognosen für übertrieben.
 vernachlässigen Die Frage nach der Produktivität wird bei der Diskussion oft vernachlässigt.
 ausgleichen Das Defizit kann durch mehr Produktivität am Arbeitsplatz ausgeglichen werden.
-anstelle von Menschen arbeiten heute nur noch 700 anstelle von 1000 Stunden im Jahr.
-bedürfen Manche Stellen bedürfen aufgrund der Automatisierung keiner Arbeitnehmer*innen mehr.
+anstelle von + Dat. Menschen arbeiten heute nur noch 700 anstelle von 1000 Stunden im Jahr.
+bedürfen + Gen. Manche Stellen bedürfen aufgrund der Automatisierung keiner Arbeitnehmer*innen mehr.
 der Maßnahmenkatalog, -e Es muss ein Maßnahmenkatalog für mehr Arbeitskraft entwickelt werden.
 die Kinderbetreuungseinrichtung, -en Der Ausbau von Kinderbetreuungseinrichtungen muss erste Priorität erhalten.
 genießen Nur 69% der Frauen arbeiten, obwohl sie eine gute Ausbildung genossen haben.
 pflegebedürftig Die pflegebedürftige Bevölkerung wächst stetig an.
 erledigen Rentner und Rentnerinnen, die alles selbstständig erledigen können, können noch alleine leben.
 verringern Wenn Angehörige die Älteren pflegen, verringert sich die Arbeitskraft.
-angewiesen sein Viele Senior*innen sind auf Pflegeheime angewiesen.
+angewiesen sein auf + Akk. Viele Senior*innen sind auf Pflegeheime angewiesen.
 bremsen Der Mangel an Arbeitskräften wird das Wachstum bremsen.
 die Sozialabgabe, -n Die Sozialabgaben reichen derzeit nicht, um die Renten daraus zu finanzieren.
 die Gegenmaßnahme, -n Es müssen Gegenmaßnahmen getroffen werden, um den Trend aufzuhalten.
@@ -60,7 +60,7 @@ der Faktor, -en Der medizinische Fortschritt ist ein wichtiger Faktor in der Dis
 unterschätzen Die Probleme junger Paare bei der Familienplanung sind nicht zu unterschätzen.
 das Pflegemodell, -e Alle Staaten müssen über neue Pflegemodelle nachdenken.
 verhindern Die Veränderungen der Bevölkerungsstruktur sind nicht mehr zu verhindern.
-liegen an Die niedrige Geburtenrate liegt auch an den finanziellen Herausforderungen, die ein Kind für Paare darstellt.
+liegen an + Dat. Die niedrige Geburtenrate liegt auch an den finanziellen Herausforderungen, die ein Kind für Paare darstellt.
 meines Erachtens Meines Erachtens müssen die verschiedenen Generationen sozial besser zusammenarbeiten.
 gestalten Der Staat sollte versuchen, den Arbeitsmarkt fairer zu gestalten.
 der Wiedereinstieg, -e Für Eltern ist der Wiedereinstieg in den Job nicht immer einfach.
@@ -69,7 +69,7 @@ sich überlasten Natürlich sollen sich ältere Menschen nicht überlasten.
 (sich) verdienen Nach 40 Jahren Arbeit haben alle ihre Ruhe verdient und sollten ohne existenzielle Ängste leben können.
 die eigenen vier Wände (ugs.) Viele Senior*innen bleiben gern so lange wie möglich in den eigenen vier Wänden. Das möchten wir durch verschiedene Angebote ermöglichen.
 die Angelegenheit, -en Das ist meine Angelegenheit, darum kümmere ich mich selbst.
-das Bewusstsein (Singular) Das Gedächtnis ist Fantasie mit Bewusstsein.
+das Bewusstsein (Sg.) Das Gedächtnis ist Fantasie mit Bewusstsein.
 das Sieb, -e Er hat wirklich ein Gedächtnis wie ein Sieb.
 entfallen Ihre Telefonnummer ist mir leider entfallen. Hast du sie vielleicht aufgeschrieben?
 einfallen Jetzt ist mir wieder eingefallen, was ich machen wollte!
@@ -90,7 +90,7 @@ reflektieren Sie sollte ihr Verhalten mal gründlich reflektieren.
 der Beweis, -e Für diese Aussage gibt es keine Beweise.
 handfest Oft finden wir in unserer Erinnerung handfeste Beweise für unsere Heldentaten.
 die Überzeugung, -en Meiner Überzeugung nach sollten wir unsere Erinnerungen in Frage stellen.
-gelangen zu Sie ist zu der Überzeugung gelangt, dass ein Umzug die beste Entscheidung ist.
+gelangen zu + Dat. Sie ist zu der Überzeugung gelangt, dass ein Umzug die beste Entscheidung ist.
 schleichen Oftmals schleichen sich Bilder ins Gedächtnis, die wir für Erlebnisse halten, obwohl sie nie passiert sind.
 (sich) erschließen Wie sich Bruchstücke zu Erinnerungen formen, erschließt sich nicht gleich.
 verdrängen Negative Erfahrungen werden schneller verdrängt als positive.
@@ -99,8 +99,8 @@ die Wahrnehmung, -en Die Wahrnehmung einer Situation kann stark von der Realitä
 bruchstückhaft An Stresssituationen erinnern wir uns in der Regel nur bruchstückhaft.
 vollständig Oft können wir uns nicht an das vollständige Ereignis erinnern.
 ins Gedächtnis rufen Das vollständige Bild kann meist nicht wieder ins Gedächtnis gerufen werden.
-beharren auf Viele Menschen beharren auf Erinnerungen an ihre Babyzeit.
-das Säuglingsalter (Singular) Im Säuglingsalter kann man nicht zwischen wichtig und unwichtig unterscheiden.
+beharren auf + Dat. Viele Menschen beharren auf Erinnerungen an ihre Babyzeit.
+das Säuglingsalter (Sg.) Im Säuglingsalter kann man nicht zwischen wichtig und unwichtig unterscheiden.
 die Gehirnstruktur, -en Die Gehirnstruktur bildet sich erst in den ersten Jahren aus.
 die Verhaltensweise, -n Beim Vergleich mit unseren Mitmenschen verdrängen wir oft unsere positiven Verhaltensweisen.
 irreal Wir werden von irrealen Vorstellungen fehlgeleitet.
@@ -117,7 +117,7 @@ höchstwahrscheinlich Höchstwahrscheinlich erinnerst du dich mehr an deine Tate
 die Überlegenheitsillusion, -en Überlegenheitsillusionen lassen uns besser dastehen als andere.
 abschneiden In Logiktests schneidet sie immer besser ab als ihr Kommilitone.
 die Wahrnehmungsverschiebung, -en Sich zu überschätzen ist die häufigste Wahrnehmungsverschiebung.
-das Äußere (Singular) Unser Äußeres verändert sich ständig.
+das Äußere (Sg.) Unser Äußeres verändert sich ständig.
 kontinuierlich Es bedarf kontinuierlicher Gedächtnisübungen, um das Gehirn fit zu halten.
 (sich) bedingen Viele Faktoren bedingen unser Äußeres von einem Tag auf den anderen.
 der Schnappschuss, Schnappschüsse Auf dem Schnappschuss siehst du aber gut aus!
@@ -132,29 +132,29 @@ präzise In einem Gerichtsprozess können nur präzise Aussagen berücksichtigt 
 die Tiefe, -n Die Tiefen des Erinnerungsprozesses sind faszinierend.
 die Lücke, -n Die Lücken in unserer Erinnerung füllen wir durch fiktionale Bilder.
 die Mnemotechnik, -en Mnemotechniken helfen dabei, sich konkrete Informationen zu merken.
-Bezug nehmen auf Im Folgenden nehme ich Bezug auf den Radiobeitrag von letzter Woche.
+Bezug nehmen auf + Akk. Im Folgenden nehme ich Bezug auf den Radiobeitrag von letzter Woche.
 den Eindruck bekommen Ich habe den Eindruck bekommen, man könne sich auf Kindheitserinnerungen nicht verlassen.
 die Behauptung, -en Die Behauptung, sich an das Säuglingsalter erinnern zu können, habe ich auch schon gehört.
 die Erläuterung, -en Durch Ihre Erläuterungen bekommt man einen guten Eindruck von Erinnerungsprozessen.
 weitreichend Die Gedächtnisforschung ist ein sehr weitreichendes Thema.
 (sich) vorwerfen Ich werde jetzt niemandem mehr vorwerfen, er hätte etwas getan oder nicht!
 hundertprozentig Man kann sich eben nicht hundertprozentig auf sein Gedächtnis verlassen.
-sich befassen mit Der Text befasst sich mit dem Thema "Gedächtnis und Erinnerung".
+sich befassen mit + Dat. Der Text befasst sich mit dem Thema "Gedächtnis und Erinnerung".
 veranschaulichen Die Autorin veranschaulicht ihre These mit vielen Beispielen.
-das Unrecht (Singular) Vielleicht habe ich ihr das zu Unrecht vorgeworfen.
+das Unrecht (Sg.) Vielleicht habe ich ihr das zu Unrecht vorgeworfen.
 fehleranfällig Wir sehen, wie fehleranfällig unser Gedächtnis ist.
-das Erinnerungsvermögen (Singular) Durch Gedächtnistraining kann man sein Erinnerungsvermögen steigern.
+das Erinnerungsvermögen (Sg.) Durch Gedächtnistraining kann man sein Erinnerungsvermögen steigern.
 die Merkfähigkeit, -en Mnemotechniken helfen dabei, die Merkfähigkeit auszubauen.
 behalten Es gibt Tricks, um Namen, Zahlen und Listen besser zu behalten.
-das Gehirnjogging (Singular) Gehirnjogging bringt die verschiedenen Gehirnareale in den Austausch miteinander.
+das Gehirnjogging (Sg.) Gehirnjogging bringt die verschiedenen Gehirnareale in den Austausch miteinander.
 die Gehirnhälfte, -n Beide Gehirnhälften unterstützen sich bei kreativen und logischen Aufgaben.
-sich eignen Diese Übungen eignen sich für alle Alterstufen.
+sich eignen für + Akk. Diese Übungen eignen sich für alle Alterstufen.
 sich anbieten Es bietet sich an, viel mit Farben und bildhaften Darstellungen zu arbeiten.
 zusammenhängend Man erinnert sich leichter an eine zusammenhängende Handlung.
 erfinden Eine erfundene Geschichte kann helfen, sich Gegenstände zu merken.
 widerfahren Diese Geschichte ist mir tatsächlich widerfahren!
 gewiss Eine gewisse Ausdauer ist beim Gehirnjogging durchaus nötig.
-die Emotionalität (Singular) Was man mit Emotionalität erlebt, bleibt länger in der Erinnerung.
+die Emotionalität (Sg.) Was man mit Emotionalität erlebt, bleibt länger in der Erinnerung.
 einbetten Betten Sie die Wörter in eine zusammenhängende Geschichte ein.
 liiert sein Die beiden sind schon seit 2 Jahren liiert und wollen bald heiraten.
 bildlich Mit dieser visuellen Technik merken Sie sich die Dinge bildlich.
@@ -173,7 +173,7 @@ die Laufbahn, -en Schon in ihrer schulischen Laufbahn hat sie viele Mnemotechnik
 die Beharrlichkeit, -en Mit etwas Beharrlichkeit kann man die Merkfähigkeit in kurzer Zeit steigern.
 voraussagen Die Zukunft kann man nicht voraussagen, aber man kann sie gestalten.
 die Voraussetzung, -en Man muss die richtigen Voraussetzungen schaffen, um seine Ideen umsetzen zu können.
-das Unwahrscheinliche (Singular) Zur Wahrscheinlichkeit gehört auch, dass das Unwahrscheinliche eintreten kann.
+das Unwahrscheinliche (Sg.) Zur Wahrscheinlichkeit gehört auch, dass das Unwahrscheinliche eintreten kann.
 wahrgeworden Viele Zukunftsvisionen der letzten 30 Jahre sind tatsächlich auch wahrgeworden.
 die Weltausstellung, -en Zur Pariser Weltausstellung 1889 wurde der Eiffelturm errichtet.
 überbringen Man dachte, Briefträger würden die Post in Zukunft fliegend überbringen.
@@ -200,22 +200,22 @@ in den Sternen stehen (Redewendung) Wie die Welt 2100 aussehen wird, steht wiede
 die Galaxie, -n In unserer Galaxie ist die Sonne der Mittelpunkt.
 erkunden Ferne Galaxien sind aufgrund der großen Entfernungen schwer zu erkunden.
 erlangen Wir können über große Distanzen keine verlässlichen Daten erlangen.
-nahekommen Manche Sci-Fi-Filme kommen der Realität vielleicht schon sehr nahe.
+nahekommen + Dat. Manche Sci-Fi-Filme kommen der Realität vielleicht schon sehr nahe.
 abgeben Ich möchte keine weiteren Prognosen zur Weltraumforschung abgeben.
 die Sendereihe, -n Die Sendereihe beschäftigt sich mit Innovation und Zukunftsvisionen.
 der Superwolkenkratzer, - Viele stellen sich vor, in Zukunft in Superwolkenkratzern zu leben.
 die Kolonie, -n Vielleicht wird es auch Kolonien auf anderen Planeten geben.
 regieren Manche fürchten, dass Maschinen die Menschen regieren werden.
 sich bewahrheiten Wir werden sehen, ob sich unsere Vorstellungen bewahrheiten.
-das Bevölkerungswachstum (Singular) Unser Bevölkerungswachstum wird unsere Ressourcen sicher aufbrauchen.
+das Bevölkerungswachstum (Sg.) Unser Bevölkerungswachstum wird unsere Ressourcen sicher aufbrauchen.
 verwunderlich Es ist nicht verwunderlich, dass Forscher nach bewohnbaren Planeten suchen.
 unbemannt Unbemannte Sonden erkunden bereits den Planeten Mars.
 düster Stephen Hawking hat düstere Prognosen zur Zukunft der Menschheit abgegeben.
 die Epidemie, -n Epidemien machen uns schon heute das Leben schwer.
 abseits Vielleicht ist ja ein Leben abseits des Planeten Erde möglich.
 die Wartung, -en Die Wartung von Robotern muss von Menschen durchgeführt werden.
-die Sharing-Kultur (Singular) Eine neue Sharing-Kultur wird helfen, Autos und Verkehr zu reduzieren.
-(sich) durchsetzen Neue Energiegewinnungsmöglichkeiten werden sich durchsetzen müssen, wenn das Leben auf unserem Planeten weiter möglich sein soll.
+die Sharing-Kultur (Sg.) Eine neue Sharing-Kultur wird helfen, Autos und Verkehr zu reduzieren.
+sich durchsetzen Neue Energiegewinnungsmöglichkeiten werden sich durchsetzen müssen, wenn das Leben auf unserem Planeten weiter möglich sein soll.
 vollautomatisiert Vollautomatisierte Häuser werden von Drohnen organisiert.
 schweben Vielleicht wird es in Zukunft sogar schwebende Straßen geben!
 besiedeln Manche denken auch, wir werden andere Planeten besiedeln.
@@ -223,14 +223,14 @@ unterirdisch Vielleicht kann man sich irgendwann unterirdisch zwischen den Konti
 die Bauweise, -n Der Klimawandel wird die Menschen zu einer anderen Bauweise zwingen.
 das Hindernis, -se Dank Sprachsteuerung gibt es weniger Hindernisse bei der Bedienung von verschiedenen Geräten.
 existieren Es existieren bereits viele der vor 100 Jahren imaginierten Visionen.
-in Bezug auf Wie stellen Sie sich das Leben in Bezug auf Mobilität in Zukunft vor?
+in Bezug auf + Akk. Wie stellen Sie sich das Leben in Bezug auf Mobilität in Zukunft vor?
 den Teufel an die Wand malen (Redewendung) Ich will ja nicht den Teufel an die Wand malen, aber ich habe da große Angst!
 (sich) beherrschen Irgendwann werden uns Computer voll beherrschen.
 berechtigt Die Frage nach der Produktfertigung ist durchaus berechtigt!
 das Versagen, - Dank der Technik kommt es zu weniger menschlichem Versagen.
 die Einschätzung, -en Die Zuhörer und Zuhörerinnen teilten ihre spannenden Einschätzungen.
-der Mehrwert (Singular) Ich sehe eher den Mehrwert in der Automatisierung.
-das Zutun (Singular) Schön, wenn ein Roboter ohne mein Zutun kochen oder waschen kann!
+der Mehrwert (Sg.) Ich sehe eher den Mehrwert in der Automatisierung.
+das Zutun (Sg.) Schön, wenn ein Roboter ohne mein Zutun kochen oder waschen kann!
 vornehmen Medizinische Eingriffe werden in Zukunft sicher von Robotern vorgenommen.
 die Überlebensrate, -n Vielleicht erhöht sich dank der Roboter die Überlebensrate bei Operationen.
 das Labor, -e Nahrung wird vermutlich zunehmend im Labor hergestellt.
@@ -242,7 +242,7 @@ die Röhre, -n Vielleicht bewegen wir uns in Zukunft in unterirdischen Röhren f
 der Hyperloop, -s Hyperloops, also Transportröhren, sind im Moment noch Zukunftsmusik.
 der Katzensprung, Katzensprünge Berlin wird dank Hyperloops nur einen Katzensprung von Paris entfernt sein.
 verpflanzen Vielleicht bekommen wir irgendwann alle einen Datenchip verpflanzt.
-die Vitaldaten (Plural) Die Vitaldaten können durch Armbänder gespeichert und analysiert werden.
+die Vitaldaten (Pl.) Die Vitaldaten können durch Armbänder gespeichert und analysiert werden.
 die Auffälligkeit, -en Auffälligkeiten werden sofort der Krankenkasse gemeldet.
 zuständig Du musst einen Termin bei der zuständigen Ärztin machen.
 die Barriere, -n Sprache wird irgendwann keine Barriere mehr darstellen.
@@ -266,8 +266,8 @@ bestehen Es besteht die Gefahr, sich zu sehr um die Weltraumforschung, statt um 
 verlangsamen Der Klimawandel muss dringend verlangsamt werden.
 entscheidend Die Haltung der Regierung ist in der Klimafrage entscheidend.
 in gewissem Maße Ich stimme Ihnen in gewissem Maße zu, aber es spricht auch einiges gegen Ihre Aussage.
-das Umdenken (Singular) Die Klimapolitik erfordert dringend ein Umdenken auf allen politischen Ebenen.
-entgegenwirken Wir können dem Klimawandel nur mit vereinten Kräften entgegenwirken.
+das Umdenken (Sg.) Die Klimapolitik erfordert dringend ein Umdenken auf allen politischen Ebenen.
+entgegenwirken + Dat. Wir können dem Klimawandel nur mit vereinten Kräften entgegenwirken.
 verbrennungsfrei Es wird bald einen Durchbruch bei den verbrennungsfreien Motoren geben.
 der Zweifel, - Ich habe meine Zweifel an der aktuellen Klimapolitik.
 das Potential, -e Ich sehe da viele unausgeschöpfte Potenziale, die wir gewinnbringend nutzen können.

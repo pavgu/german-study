@@ -21,25 +21,25 @@ zum Punkt kommen (Redewendung) Manchmal gehen viele Mails hin und her, bevor man
 vergeuden Wer Zeit vergeudet, arbeitet oft in der Freizeit nach.
 vernachlässigen Durch Überarbeitung werden private Aufgaben vernachlässigt.
 der Zeitrhythmus, Zeitrhythmen In Seminaren wird der eigene Zeitrhythmus analysiert.
-der Persönlichkeitstyp, -en Die Effizienz des Zeitmanagments hängt vom Persönlichkeitstyp ab.
+der Persönlichkeitstyp, -en Die Effizienz des Zeitmanagements hängt vom Persönlichkeitstyp ab.
 die Zielformulierung, -en Nur eigene Zielformulierungen sind attraktiv und werden eingehalten.
 weiterführend In den weiterführenden Links findet man Tipps zur Zielformulierung.
 wirtschaften Gutes Zeitmanagement bedeutet, mit der eigenen Zeit wirtschaften zu können.
 bestmöglich Nur mit gutem Zeitmanagement können wir alle Aufgaben bestmöglich schaffen.
-unter Konktrolle haben Es ist wichtig, die Arbeitsabläufe unter Kontrolle zu haben.
+unter Kontrolle haben Es ist wichtig, die Arbeitsabläufe unter Kontrolle zu haben.
 scheinen Für die heutige Gesellschaft scheint ein gutes Zeitmanagement immer wichtiger zu sein.
 zielen Große Organisationen zielen auf ein gewisses Selbstmanagement ab.
 die Abgabefrist, -en Vorgesetzte rechnen mit der Aufgabenabwicklung innerhalb der Abgabefrist.
 das Zeitfenster, - Das Zeitfenster für diese Aufgabe ist zu eng gesteckt.
 (sich) etwas einteilen Es ist nicht leicht, sich die Zeit selbst einzuteilen und Meilensteine zu setzen.
 das Zwischenziel, -e Zwischenziele geben Orientierung und erleichtern das Zeitmanagement.
-die Schlüsselkompetenz, -en Gutes Zeitmanagment gilt inzwischen als wichtige Schlüsselkompetenz.
+die Schlüsselkompetenz, -en Gutes Zeitmanagement gilt inzwischen als wichtige Schlüsselkompetenz.
 zeitbezogen Auch im Privatleben muss man zeitbezogenen Ansprüchen gerecht werden.
 in aller Munde (Redewendung) Der Begriff "Work-Life-Balance" ist in aller Munde.
 hapern an (ugs.) Bei vielen hapert es an Effizienz in Organisation und Zeitmanagement.
 der Einklang, Einklänge Ich habe mein Arbeits- und Privatleben besser in Einklang miteinander gebracht.
 das Gleichgewicht, -e Es sollte ein ungefähres Gleichgewicht zwischen Job und Privatem geben.
-die Abweichung, -en Abweichungen von unserer Planung, unseren Zeitplan können wir aber trotzdem einhalten.
+die Abweichung, -en Abweichungen von unserer Planung gibt es, unseren Zeitplan können wir aber trotzdem einhalten.
 kürzen Am Ende werden immer die Erholungsphasen verschoben oder gekürzt.
 trödeln Wer beim Surfen trödelt, muss später nacharbeiten.
 das Schulungskonzept, -e Die Schulungskonzepte haben sich auf der Basis der Einflussfaktoren geändert.
@@ -53,7 +53,7 @@ verankern Es ist auch in der Persönlichkeit verankert, wie wir mit Zeit wirtsch
 aufwenden Manche Menschen wenden viel Zeit für unwichtige Aktivitäten auf.
 vorgeben Es ist ein Unterschied, ob uns ein Ziel vorgegeben wird oder wir es selbst wählen.
 die Facette, -n Wichtig ist, dass wir das Ziel in allen Facetten verstehen.
-vage "Heute will ich etwas schaffen" ist als Zielsetzung zu vage.
+vage „Heute will ich etwas schaffen“ ist als Zielsetzung zu vage.
 messbar Ziele sollten spezifisch, messbar, attraktiv, realisierbar und terminiert sein.
 der/die Mitarbeiter, - / Mitarbeiterin, -nen Mitarbeiter*innen müssen selbst entscheiden, wie sie ihr Ziel am besten erreichen.
 die Stolperfalle, -n Seminare machen auf Stolperfallen des Zeitmanagements aufmerksam.
@@ -61,9 +61,9 @@ bündeln Versuchen Sie, Ihre Konzentration zu bündeln.
 limitieren Limitieren Sie Störfaktoren wie Mails und Telefonate zumindest zeitweise.
 die Ablenkung, -en Auch Kolleg*innen können immer wieder für Ablenkung sorgen.
 (sich) widmen Widmen Sie sich jeder Aufgabe konzentriert und nacheinander.
-delegieren Delegieren Sie Aufgaben, die sie weniger gut als andere bewältigen können.
+delegieren Delegieren Sie Aufgaben, die Sie weniger gut als andere bewältigen können.
 ohnehin Für gute Ergebnisse ist Teamarbeit ohnehin wichtig.
-einbeziehen Auch ihre Kolleg*innen wollen in wichtige Prozesse einbezogen werden.
+einbeziehen Auch Ihre Kolleg*innen wollen in wichtige Prozesse einbezogen werden.
 sich lohnen Es lohnt sich, seine Arbeitszeit genau zu erfassen.
 radikal Manchmal ist eine radikale Umstrukturierung der Aufgaben nötig.
 schonen Sagen Sie ruhig mal "Nein" und schonen Sie Ihre Kapazitäten.
@@ -76,7 +76,7 @@ hemmen Große Ziele hemmen uns oft bei den ersten Schritten.
 die Darstellung, -en Nutzen Sie einen Tages- oder Wochenplaner zur Darstellung Ihrer Ziele.
 ratsam Diese Methode ist zur Bewältigung komplexer Aufgaben sehr ratsam.
 die Kleinigkeit, -en Ich esse schnell eine Kleinigkeit bei der Arbeit.
-(Redewendung)nicht wissen, wo einem der Kopf steht Das Projekt ist echt stressig, ich weiß nicht mehr, wo mir der Kopf steht.
+nicht wissen, wo einem der Kopf steht (Redewendung) Das Projekt ist echt stressig, ich weiß nicht mehr, wo mir der Kopf steht.
 die Überlastung, -en Diese ständige Überlastung hat doch keinen Sinn. Wir müssen schließlich auch auf die Qualität unserer Arbeit achten.
 konstruktiv Machen wir uns Notizen, sodass wir das konstruktiv mit dem Team besprechen können.
 zusätzlich Es kann nicht sein, dass immer etwas zusätzlich auf dem Schreibtisch landet.
@@ -101,14 +101,14 @@ die Immobilie, -n Mieten und Kaufpreise für Immobilien sind in Deutschland rela
 fließen Der Großteil des Gehalts fließt in die eigenen vier Wände.
 das Wohlbefinden (Singular) Viele sorgen sich um ihr Wohlbefinden und zahlen viel Geld für Wellness-Produkte.
 der Posten, - Der Posten Weiterbildung steht bei den Ausgaben an letzter Stelle.
--nen der/die Moderator, -en / Moderatorin, Die Moderatorin sagt, dass Deutsche nicht gern über Geld sprechen.
+der/die Moderator, -en / Moderatorin, -nen Die Moderatorin sagt, dass Deutsche nicht gern über Geld sprechen.
 das Finanzielle (Singular) Finanzielles wird mit viel Diskretion behandelt.
 investieren Wir müssen in unsere Altersvorsorge investieren.
 die Bildung (Singular) Die Bildung ist für viele Menschen ein wichtiger Faktor, in den sie auch bereit sind zu investieren.
 der Kostenfaktor, -en Der größte Kostenfaktor ist für alle die Wohnung oder das Haus.
 die Instandhaltung, -en Die Instandhaltung der eigenen Immobilie nimmt 40% des Einkommens in Anspruch.
 das Eigenheim, -e Mittdreißiger erwerben häufig ein Eigenheim.
-(Redewendung)einen Blick hinter die Kulissen werfen Wir werfen heute einen Blick hinter die Kulissen deutscher Familien.
+einen Blick hinter die Kulissen werfen (Redewendung) Wir werfen heute einen Blick hinter die Kulissen deutscher Familien.
 ausnahmsweise Ausnahmsweise sprechen wir dabei offen über Finanzielles.
 der Haushalt, -e Die meisten Haushalte führen ein gemeinsames Konto für die Fixkosten.
 der Lebensstandard, -s Was gehört für dich denn zu einem guten Lebensstandard?
@@ -129,7 +129,7 @@ das Passende Wir haben noch nicht das Passende für uns gefunden und suchen dahe
 pendeln Ich muss jetzt 200 km am Tag pendeln, das nervt ganz schön.
 abziehen Wenn ich die Fahrtkosten vom Gehalt abziehe, verdiene ich jetzt auch nicht mehr als bei meiner alten Firma.
 im Endeffekt Im Endeffekt ist der neue Job nicht besser als der Alte.
-der Familienbetrieb, -e Meine Frau und ich leiten einen Familienbetreib.
+der Familienbetrieb, -e Meine Frau und ich leiten einen Familienbetrieb.
 tendieren zu Wir tendieren dazu, zu viel Geld auszugeben.
 die Reklame, -n Sie machen viel Reklame für ihre Projekte.
 die Aktie, -n Wir haben für die Altersvorsorge in Aktien investiert.
@@ -137,7 +137,7 @@ die Erkrankung, -en Nach ihrer Erkrankung hat sie begonnen, ihr Leben umzustrukt
 (sich) etwas zumuten Ich möchte mir diese Anstrengungen nicht mehr zumuten.
 der Besitz (Singular) Sie haben einen Großteil ihres materiellen Besitzes verkauft.
 das Downshifting (Singular) Downshifting, also die Reduzierung auf Notwendiges, gewinnt an Bedeutung.
-Anklang finden Die Idee der freiweilligen Reduzierung hat bei ihren Freunden Anklang gefunden.
+Anklang finden Die Idee der freiwilligen Reduzierung hat bei ihren Freunden Anklang gefunden.
 etwas zur Seite legen (Redewendung) Ich versuche monatlich etwas Geld zur Seite zu legen, um mir später auch größere Ausgaben leisten zu können.
 sich verausgaben Wir arbeiten zwar viel, aber wir verausgaben uns nicht im Job.
 kratzen Unsere Arbeit kratzt nicht an unserer Gesundheit.
@@ -171,7 +171,7 @@ abwägen Das Maß an Verzicht muss beim Downshifting jeder für sich selbst abw�
 die Ausprägung, -en Downshifting gibt es inzwischen in allen möglichen Ausprägungen.
 steil Sie hat in den ersten Jahren eine steile Karriere hingelegt.
 die Variante, -n Bei der Wahl der Auszeit gibt es mehrere Varianten.
-absolvieren Im Rahmen des Downshiftings kann beispielsweise Teilzeit arbeiten und weniger Wochenstunden absolvieren.
+absolvieren Im Rahmen des Downshiftings kann man beispielsweise in Teilzeit arbeiten und weniger Wochenstunden absolvieren.
 kontrovers Das Thema bringt eine Menge kontroverser Meinungen hervor.
 verleiten Wenn man gut verdient, wird man zu mehr Konsum verleitet, wodurch dann wiederum die Ausgaben steigen.
 (sich) im Griff haben Ich denke, wir haben uns ganz gut im Griff und kaufen nicht zu viel unnützes Zeug.
@@ -180,7 +180,7 @@ verdanken Unseren Erfolg verdanken wir dem wirtschaftlichen Aufschwung.
 sich aufopfern für Ich bin nicht mehr bereit, mich und meine Familie für den Job aufzuopfern.
 zurückschrauben Wir haben unsere finanziellen Ansprüche für mehr Lebensqualität zurückgeschraubt.
 auf den Prüfstand stellen Wir haben unser Leben und unsere Wünsche auf den Prüfstand gestellt und sind zum Schluss gekommen, dass es so nicht weitergehen kann.
-kürzer treten (Redewendung) Auch ich bin/habe beruflich kürzer getreten und es tut mir sehr gut.
+kürzer treten (Redewendung) Auch ich bin beruflich kürzer getreten und es tut mir sehr gut.
 pausieren Ich arbeite viel zu gern, als dass ich pausieren wollen würde.
 (sich) vernachlässigen Ich möchte meine Familie nicht für den Job vernachlässigen.
 aufs Spiel setzen (Redewendung) Ich setze meine Gesundheit nicht mehr für die Arbeit aufs Spiel.
@@ -191,7 +191,7 @@ das Wesentliche Für mich ist das Wesentliche, mich auf mich und meine Lieben zu
 das Ansehen (Singular) Gesellschaftliches Ansehen hängt stark von der Karriere und Position ab.
 überwinden Viele dieser Schwierigkeiten kann man überwinden, wenn man sich Unterstützung holt.
 schaden Viele haben Angst, dass eine Auszeit ihrer Karriere schaden könnte.
-die Perspektive,- n Sie wollte das Sabbatjahr nutzen, um über ihre Perspektiven nachzudenken.
+die Perspektive, -n Sie wollte das Sabbatjahr nutzen, um über ihre Perspektiven nachzudenken.
 das Volunteering-Programm, -e Das Volunteering-Programm hat ihr erlaubt, die Auszeit zu finanzieren.
 vereinbar Die Auszeit sollte irgendwie mit dem Beruf vereinbar sein.
 die Gegend, -en Er war im Sabbatical in einsamen Gegenden Neuseelands unterwegs.
@@ -218,17 +218,17 @@ beziehen Ich bin in der glücklichen Lage, finanzielle Unterstützung beziehen z
 ansparen Wir konnten ein Jahr lang die Hälfte unseres Gehalts ansparen.
 ausbezahlen Während des Sabbatjahrs wurde ihm das angesparte Gehalt ausbezahlt.
 der Camper, - Ich war mit dem Camper in Australien unterwegs.
-der Trek, -s Ich war auf den australischen Trecks meist im Outback unterwegs - genial!
+der Trek, -s Ich war auf Treks in Australien meist im Outback unterwegs - genial!
 die Zivilisation, -en Weitab von jeder Zivilisation zu reisen, ist ein echtes Erlebnis.
-der/die Abteilungsleiter, - / Abteilungsleiterin, -nen - Für meinen Abteilungsleiter war meine Auszeit vollkommen in Ordnung.
+der/die Abteilungsleiter, - / Abteilungsleiterin, -nen Für meinen Abteilungsleiter war meine Auszeit vollkommen in Ordnung.
 beschließen Ich habe beschlossen, eine Weile zu reisen und meine Arbeit unterwegs zu erledigen.
 im Schnitt Im Schnitt möchte ich nur ca. 50% meiner üblichen Arbeitszeit arbeiten.
 auf Eis legen (Redewendung) Größere Projekte, die meine Präsenz erfordern, habe ich auf Eis gelegt.
 die Infrastruktur, -en Ich habe immer Orte gesucht, wo die Infrastruktur es mir erlaubt, noch nebenbei etwas zu arbeiten.
-das Coworking- Büro, -s Oft habe ich mich kurzweilig in Coworking-Büros eingemietet.
+das Coworking-Büro, -s Oft habe ich mich kurzweilig in Coworking-Büros eingemietet.
 die Deadline, -s Gerade vor den Deadlines habe ich mich dann voll auf die Arbeit konzentriert.
 klarkommen mit Auch mit den verschiedenen Zeitzonen bin ich gut klargekommen.
-jein (ugs.) Jein, also Ja und Nein, verwendet gern man, wenn man keine eindeutige Antwort geben kann.
+jein (ugs.) Jein, also Ja und Nein, verwendet man gern, wenn man keine eindeutige Antwort geben kann.
 der Anschluss, Anschlüsse Da ich auf Reisen arbeite, verliere ich auch den Anschluss zu den Kunden nicht.
 Voraussetzungen schaffen Für eine Auszeit muss man einige Voraussetzungen schaffen, beispielsweise muss die Finanzierung und die Versicherung geklärt werden.
 die Hemmung, -en Man sollte keine Hemmungen haben, mit Kolleg*innen über Auszeit-Modelle zu sprechen.
@@ -270,6 +270,6 @@ einschränken Solange man anspart, ist man finanziell eingeschränkt.
 die Lohnfortzahlung, -en Verzichtet man auf Lohnfortzahlungen, ist man während eines Sabbaticals nicht mehr versichert.
 das Angebot, -e Es gibt eine Reihe von Angeboten von Banken zur Finanzierung von Auszeiten.
 entnehmen Der Grafik ist zu entnehmen, wie viele Menschen während ihrer Auszeit jobben.
-ersehen Aus der Statistik ist zu ersehen, dass zwei Drittel aller Arbeitnehmenden gern eine Auszeit hätte.
+ersehen Aus der Statistik ist zu ersehen, dass zwei Drittel aller Arbeitnehmenden gern eine Auszeit hätten.
 überlassen Viele Frauen sind bereit, in der Auszeit ihre Wohnung unterzuvermieten.
 der Großteil, -e Ein Großteil der Menschen denkt über ein Sabbatjahr nach, viele gehen aber nicht den entscheidenden Schritt.
