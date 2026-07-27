@@ -89,6 +89,42 @@ Use stable chapter tags in this form:
 form::vokabel topic::<normalized_topic> level::c1 source::goethe::c1::k<chapter>
 ```
 
+### Erkundungen C2 Expressions
+
+The complete reference book is stored at
+`reference/erkundungen/c2/Erkundungen_C2.pdf`. Work chapter by chapter using its PDF bookmarks and
+printed page numbers. Current chapter boundaries are:
+
+- K1, `Sprache und Kommunikation`: printed pages 5-32, PDF pages 6-33;
+- K2, `Vergangenheit und Gegenwart`: printed pages 33-62, PDF pages 34-63.
+
+Normalized sources under `anki/sources/c2/erkundungen/` have four columns:
+
+1. exact or minimally normalized German target;
+2. printed book page;
+3. exercise or section identifier;
+4. content type: `redewendung` or `satz`.
+
+Finished files under `anki/decks/erkundungen/c2/` use the four-column Russian-led production schema:
+
+1. Russian prompt;
+2. German answer;
+3. German hint;
+4. Anki tags.
+
+Extract the shortest self-contained unit that preserves natural meaning and usage. Favor idioms,
+fixed expressions, useful collocations, and formal Redemittel. Keep a complete sentence only when its
+context is essential to its learning value. Do not create abstract `satzmuster` with placeholders.
+Follow `prompts/erkundungen_c2_to_production_ru.md` and `anki/note-types/production.md`.
+
+Use stable chapter tags in this form:
+
+```text
+form::redewendung func::produktion topic::<normalized_chapter_topic> level::c2 source::erkundungen::c2::k<chapter> card::chunk
+```
+
+For the occasional complete sentence, use `form::satz` and `card::satz` instead.
+
 ### Russian-Led Production
 
 General topic vocabulary, grammar, and confusable production decks normally use four columns:
