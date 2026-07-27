@@ -96,7 +96,8 @@ The complete reference book is stored at
 printed page numbers. Current chapter boundaries are:
 
 - K1, `Sprache und Kommunikation`: printed pages 5-32, PDF pages 6-33;
-- K2, `Vergangenheit und Gegenwart`: printed pages 33-62, PDF pages 34-63.
+- K2, `Vergangenheit und Gegenwart`: printed pages 33-62, PDF pages 34-63;
+- K3, `Stärken und Schwächen`: printed pages 63-88, PDF pages 64-89.
 
 Normalized sources under `anki/sources/c2/erkundungen/` have four columns:
 
