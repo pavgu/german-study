@@ -40,8 +40,11 @@ by content domain or source, not by temporary processing stage.
   row per non-empty source line, while confusables production creates three rows per source pair.
 - Preserve correct German source wording exactly. Correct only clear extraction, spelling, or grammar
   errors, and keep the source and finished deck consistent when doing so.
-- Name Goethe chapter PDFs `K<number>_<Chapter_Title_With_Underscores>.pdf`, preserving German
-  spelling such as `K7_Zeit_und_Lebensqualität.pdf`.
+- Name Goethe C1 chapter vocabulary PDFs `K<number>_<Chapter_Title_With_Underscores>.pdf`, preserving
+  German spelling such as `K7_Zeit_und_Lebensqualität.pdf`, and keep them under
+  `reference/goethe/c1/exam_vocabulary/`.
+- Keep the complete Goethe C1 course book at
+  `reference/goethe/c1/course/Goethe_C1_Course.pdf`.
 
 ## Active Deck Schemas
 
@@ -69,6 +72,10 @@ must not be treated as an independent source.
 
 ### Goethe C1 Vocabulary
 
+The chapter vocabulary reference PDFs are stored under
+`reference/goethe/c1/exam_vocabulary/`. They are the sources for the existing comprehensive
+glossary decks.
+
 Normalized sources under `anki/sources/c1/goethe/` contain one German vocabulary item and its German
 example per line. Finished files under `anki/decks/goethe/c1/` have five columns:
 
@@ -89,6 +96,33 @@ Use stable chapter tags in this form:
 form::vokabel topic::<normalized_topic> level::c1 source::goethe::c1::k<chapter>
 ```
 
+### Goethe C1 Course Expressions
+
+The complete 493-page, 14-chapter course book is stored at
+`reference/goethe/c1/course/Goethe_C1_Course.pdf`. Its chapter sequence and topics match the existing
+Goethe C1 vocabulary decks, so do not extract it as another comprehensive vocabulary list.
+
+Process the course book chapter by chapter as a complementary Russian-led production source. Select
+reusable Redemittel, idioms, fixed expressions, collocations, grammatically useful chunks, and only
+occasional complete sentences with sufficient independent learning value. Exclude exercise
+instructions, elementary standalone vocabulary, repetitive grammar examples, and long sentences
+whose incidental wording would dominate recall.
+
+Before accepting a target, compare it with the corresponding file under `anki/decks/goethe/c1/`:
+
+- skip an exact duplicate used in the same sense;
+- retain a larger chunk when it teaches a distinct collocation or construction;
+- retain a production item when it adds meaningful active-recall value beyond an existing glossary
+  note;
+- keep course-derived material in a separate source and deck family rather than merging it into the
+  five-column glossary files.
+
+Use the four-column Russian-led production schema documented in `anki/note-types/production.md`.
+Normalized sources should also retain the printed or PDF page, section or exercise identifier, and
+content type (`redewendung` or `satz`) so every selected item can be traced to the book. Define a
+dedicated conversion prompt and exact `source::` tag before generating finished course-expression
+decks; do not reuse `source::goethe::c1::k<chapter>`, which already identifies the glossary family.
+
 ### Erkundungen C2 Expressions
 
 The complete reference book is stored at
@@ -98,6 +132,9 @@ printed page numbers. Current chapter boundaries are:
 - K1, `Sprache und Kommunikation`: printed pages 5-32, PDF pages 6-33;
 - K2, `Vergangenheit und Gegenwart`: printed pages 33-62, PDF pages 34-63;
 - K3, `Stärken und Schwächen`: printed pages 63-88, PDF pages 64-89.
+- K4, `Erziehung und Ausbildung`: printed pages 89-114, PDF pages 90-115.
+- K5, `Forschung und Technik`: printed pages 115-144, PDF pages 116-145.
+- K6, `Besonderes und Gewöhnliches`: printed pages 145-172, PDF pages 146-173.
 
 Normalized sources under `anki/sources/c2/erkundungen/` have four columns:
 
@@ -125,6 +162,24 @@ form::redewendung func::produktion topic::<normalized_chapter_topic> level::c2 s
 ```
 
 For the occasional complete sentence, use `form::satz` and `card::satz` instead.
+
+Before declaring an Erkundungen chapter finished, perform a dedicated line-by-line language-polishing
+pass after the initial deck has been generated. Treat all initial Russian prompts and German hints as
+drafts until this pass is complete. During polishing:
+
+- review every Russian prompt for natural, idiomatic wording and precise active-recall value;
+- replace literal, awkward, overly explanatory, or ambiguous translations;
+- preserve the register and the exact sense of the German source, including colloquial, formal, and
+  technical usage;
+- distinguish potentially competing German answers with sufficiently specific Russian prompts;
+- review every German hint individually so it is short and useful without containing the answer, an
+  inflected or transparent derivative of a key answer word, or a disguised translation;
+- recheck any source target whose translation exposes missing context, an overgeneralized extraction,
+  or wording that is not exact or minimally normalized from the book;
+- remove elementary, weak, or duplicate items discovered during the polishing pass.
+
+Structural TSV validation does not count as language polishing. Report an Erkundungen deck as
+polished only after both the line-by-line language review and the structural validation are complete.
 
 ### Russian-Led Production
 
@@ -214,10 +269,11 @@ uv run python scripts/convert_dictionary.py <input> [output]
 uv run python scripts/merge_converted.py anki/decks/goethe/b2 anki/decks/goethe/b2/K1-K12_RM_DE_RU.txt
 ```
 
-For Goethe C1 PDFs, use `scripts/generate_goethe_c1.py` to produce the normalized German source.
-The script's optional `--machine-translate` output is a draft only. Review extraction joins, obvious
-German source errors, every Russian gloss, and every example translation before declaring the deck
-finished.
+For Goethe C1 chapter vocabulary PDFs under `reference/goethe/c1/exam_vocabulary/`, use
+`scripts/generate_goethe_c1.py` to produce the normalized German source. Do not run this
+glossary-specific script on the complete course PDF. The script's optional `--machine-translate`
+output is a draft only. Review extraction joins, obvious German source errors, every Russian gloss,
+and every example translation before declaring the deck finished.
 
 After editing Python, run the focused tests plus Ruff. After editing deck data, report the schema and
 row-count checks that were actually run; do not claim the generic validator passed a schema it does
