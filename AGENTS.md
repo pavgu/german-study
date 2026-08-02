@@ -135,6 +135,8 @@ printed page numbers. Current chapter boundaries are:
 - K4, `Erziehung und Ausbildung`: printed pages 89-114, PDF pages 90-115.
 - K5, `Forschung und Technik`: printed pages 115-144, PDF pages 116-145.
 - K6, `Besonderes und Gewöhnliches`: printed pages 145-172, PDF pages 146-173.
+- K7, `Kunst und Kultur`: printed pages 173-198, PDF pages 174-199.
+- K8, `Politisches und Amtliches`: printed pages 199-223, PDF pages 200-224.
 
 Normalized sources under `anki/sources/c2/erkundungen/` have four columns:
 
